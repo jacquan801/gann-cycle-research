@@ -147,7 +147,7 @@ PY
           echo "changed=$changed" >> "$GITHUB_OUTPUT"
 
       - name: Commit & push results (rebase-safe)
-        if: steps.ocr.outputs.changed == '1'
+        if: ${{ steps.ocr.outputs.changed == '1' }}
         run: |
           set -e
           git config user.name  "github-actions[bot]"
