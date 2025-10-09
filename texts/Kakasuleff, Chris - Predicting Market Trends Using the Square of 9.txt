@@ -1,0 +1,125 @@
+                 Predicting Market Trends
+                  Using the Square of 9
+                                   By Chris Kakasuleff
+
+
+
+T
+       he square of nine popularized by W. D. Gann is very reliable in determining market trends.
+       It is a useful market tool in almost all markets including stock indexes, stocks, commodities,
+       and options. The numbers in the square of nine can be used as price levels of support and
+resistance, and most importantly as time units. These numbers can be used to count minutes,
+hours, market days, calendar days, weeks, months, and years.
+     First let’s understand how the square of nine is constructed. In our illustration you see a
+spiral of numbers starting with one in the center, and then a commencement of numbers in a
+clockwise spiral that can go into innity. In a clockwise spiral that can go into innity. In addition
+overlaid on these numbers is a 360 degree circle. This circle is divided by 8. but can he divided
+by 16, 32, etc. When the circle is divided by 8. you have eight 45 degree angles. These angles
+are 0-45-90-135-I 80-225-270-315 degrees. Numbers from 2-1 1-26. etc. are on the 0 degree
+angle. Numbers from 3-13-31. etc. are on the 45 degree angle. Numbers 4-15-34. etc are
+on the 90 degree angle. Please study which numbers correspond to the balance of each 45
+degree angle on the 360 degree circle.
+     Now that you have a fair understanding of the construction of the square of nine, lets utilize
+its magical powers and turn its numbers into calendar days. To begin we must decide where
+we’re going to count calendar days from. For best results, it is important to count the days
+from major market bottoms, or you may count the days from the birth or commencement of
+trading on any stock or stock index. In the stock market you could count the days from the
+rst or commencement of trading on any stock or stock index. In the stock market you could
+count the days from the birth of the New York Stock Exchange on May 17th. 1972. Using this
+date could be tedious, hut rewarding. Another important date would be the all time modern
+low of the Dow Jones Industrials Average on July 8, 1932. You could experiment with the
+Dow low on December 6, 1974.
+     Probably the most useful low to count calendar days from, is the most recent major bear
+market low on August 12, 1982. Therefore in our example on how to utilize the square of nine,
+we are going to count calendar days from August 12, 1982.
+     First some rules and guide lines are in order here. Rule one is when the market has reached
+a high or low on a particular angle, then expect another high or low on the same angle in the next
+cycle. The next cycle is a continuation of the spiral of numbers around the circle, until they reach
+the same angle. As you can see in our illustration of the square of nine, the numbers 9, 25, 49,
+81, etc all are at the end of each spiral therefore ending each cycle. An example would be if the
+market made a low on the 28th day in cycle 3 on the 0 degree angle of the square of nine, you
+would look for another low at 53 days on the 0 degree angle in cycle 4.
+     Another rule to follow is that market action or trends in the current cycle between the
+angles will generally follow the market trends that occurred in the prior cycle, between the
+same angles. If you have a low in the market on the 28th day in cycle 3 on the 0 degree
+angle and a market high on the 40th day on the 180 degree angle also in cycle 3, you can
+expect similar market action in cycle 4.
+     Rule three is the fact that at times you will be what I call psychological inversions. You will
+be expecting a low, as predicted on a particular angle in the last cycle, but instead on the same
+angle in this cycle you get a high, what you do here is invert or reverse all the highs and lows
+from the last cycle. If you had a low often 28 days of cycle 3 and a high at 40 days on cycle
+3. but on the 0 degree angle of cycle 4 the market makes a high instead of a low then expect
+the market trend to be reversed. You should now expect a market low on the 180 degree angle
+in cycle 4, just the reverse of cycle 3 on the 180 degree angle where the market topped out.
+When the market reverses again, reverse the cycles back to their former pattern. In overcoming
+this aspect of the square of nine in trading its fairly simple to just watch the trend between
+the angles. IF the market action is the opposite from what it was doing in the prior cycle,
+the trend may be reversing.
+     The rst date we’ll be calculating is April 10th, 1987 which is 1702 days from August 2,
+1982. This date is on the 0 degree angle in cycle 211. To determine what may happen around
+April 10th, we need to refer back to the 0degree angle of cycle 20. By utilizing a hand calculator
+you will nd that in the last cycle 1541 days is on the 0 degree angle and this corresponds to
+October 31, 1986. Thus 5 days later the Dow peaked at 1899 on November 5th. Therefore
+in this cycle we should expect another high on the same either side of 5 days. And sure
+enough the magic of the square of nine produces results again, as on April 6th, 1987, 4 days
+before 1702 days on the 0 degree angle, the Dow reached an all time high that held for
+more than two months.
+      Lets move ahead to the 45 degree angle in cycle 21. We nd the number 1723 which
+equals May 1st 1987. In the last cycle 1561 days was on the 45 degree angle and the date was
+November 20th, 1986. Two days earlier the Dow bottomed on November 18th. In this cycle the
+market reached a low 4 days earlier on April 27, 1987. Another remarkable revelation.
+      Before we move on to a few more examples, its important to realize that as more and more
+time passes from a major bean market low, the number of days between each 45 degree angle
+grows farther apart. Therefore its important after several months from a major low to divide the
+circle by 16. This gives you 16 angles between calendar days at 22 1/2 degrees apart.
+      This begins us at the next example. On August 25, 1987 the Dow closed at its all time high
+at 2722. The number of days that passed from August 12, 1982 was 1839. which is precisely
+on the 292 1/2 angle. On March 10th 1987 in the last cycle at 1671 days the Dow made a short
+team top also exactly on the 292 1/2 degree angle.
+      Of course there were many major factors contributing to the top on August 25th. These
+areas follows, August 12, 1987 marked 60 months from the low on August 12, 1982. A
+geometrical angle gaining 32 points per month crossed 2700 in August 1987. Also 52x52
+equals 2704 the square of 52. A very important natural number. This all pointed to a major
+change of trend in price and time. However, I’m getting ahead of myself, as this is information
+for my readers in future articles.
+      Did the square of nine predict the great crash on October 19, 1987. We’ll as noted on April
+27th the Dow reached a low 4 days early on the 45 degree angle. In the next cycle on the 45
+degree angle, 1893 days equals October 18, 1987 which fell on a Sunday. The next day the Dow
+crashed 500 points. Of course we cannot discount the help of another major cycle at that point.
+As two trading days earlier on October 15th marked the end of 270 weeks, or three quarters of
+the cycle of 360 weeks from the low on August 12, 1982.
+      An interesting side line on the square on nine is to realize that all angles on the cardinal
+squares are in harmony. That would be the 0-90-180-270 angles, and also the xed squares
+45-135-225-3 15 angles are in harmony. Let’s see if this idea can produce anything of
+consequence. Well October 8, 1987 was 743 days from the September 25, 1985 lows. The
+number 743 is on the 0 degree angle. Also October 5, 1987 was 371 days from the September
+29, 1986 low. The number 371 is on the 0 degree angle. October 8th, 1987 was marked 281
+days from the December 31, 1986low.Thenumber28l is on the 270 degree angle. And nally
+October 5, 1987 marked 139 days from the May 19th low. The number 139 is on the 90 degree
+angle. Between October 15th and October 9th the Dow lost 158 points, the biggest losing
+streak in history up to that point.
+      One more example of our system using calendar days produced another bulls eye on
+November 10, 1987. This date falls one day after 1915 days which is on the 90 degree
+angle in the prior cycle the Dow closed at a low on May 20, 1987, two days earlier than
+1744 days.
+      This is all hindsight now, isn’t it dear reader. Therefore can the square of nine really look
+into the future to predict tops and bottoms? Let’s put the reputation of the square of nine on the
+line, by predicting a market trend in the Dow after this article has gone to print. As noted earlier
+on August 25, 1987 the Dow reached an all time high on the 292 1/2 degree at 1939 days. In
+the next cycle on the 292 1/2 degree we nd 2014 days have passed and the calendar date
+will be March 5, 1988. On this date we will expect the market to reach a high give or take a few
+days. Don’t forget, watch out for psychological inversions. They could be dangerous to your
+bank account, so March 5. 1988 may turn out to be a low.
+     In my next article I’m going to write excerpts from an unpublished book that I’m writing
+about the application of the natural cycles of 45-52-144, and 360, and translating these numbers
+into days, weeks, and months. This article will teach you the mechanics of the division of time,
+and the application of the information to stock market prediction.
+     I’ll touch on a pet theory of mine as to how these cycles are actually a time gauge for
+the manifestation al all events on the planet earth, thus giving us an understanding of the
+mechanisms of the Kharmic Wheel of Life. W. D. Gann proved the validity of this himself, by
+predicting in advance, World War II, the participants, when it would start, and when and how it
+would end, by using these very cycles. Until next time.
+
+
+Chris Kakasuleff is an author and can he reached at 5889 Sylvan Dr.Indianapolis, IN 46208
+

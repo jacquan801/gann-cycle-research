@@ -1,0 +1,133 @@
+                  Teoria poziomów wg Ganna a S&P 500
+                         Przyczynek do dyskusji.
+                                  Dominik Tomczyk
+
+William D. Gann (1878-1955) był traderem, który opracował wiele unikalnych technik
+analitycznych indeksów giełdowych.
+
+Wszystkich, którzy są zainteresowani jego metodą odsyłam do artykułu Krzysztofa
+Borowskiego, Wybrane zagadnienia teorii Ganna, w:
+http://bossa.pl/analizy/techniczna/elementarz/gann/
+gdzie autor prezentuje niektóre zagadnienia z jego teroii takie jak: wachlarz Ganna,
+kwadrat, koło, heksagon i trójkąt, cykle Ganna, kwadrat cenowo – czasowy, Gann i
+liczby Fibonacciego, Wykorzystanie technik Ganna na osi pionowej.
+
+Ja dzisiaj chciałbym podzielić się z Tobą moimi ostatnimi spostrzeżeniami, które
+zmroziły mnie aż do szpiku kości. Z jednej strony genialność, która się sprawdziła,
+zaś z drugiej obawa przed tym, co może nas czekać. Ale do rzeczy, szkoda czasu.
+
+
+
+
+       Wyk. 1: S&P 500, dane miesięczne, 31-03-2000, High = 1 552,87 pkt
+
+Powyższy wykres pokazuje nam wartości indeksu S&P 500 od marca 1998 roku do
+dnia dzisiejszego (08.08.2008). Poziomy, które obrazują czerwone linie, to pełne
+cykle wg teorii Ganna, czyli 360 stopni w trendzie spadkowym (Channel Type:
+Bearish). Zwracam uwagę, że od możemy zobaczyć niemal 6 cyklów spadkowych, w
+ramach których indeks z poziomu 1552.87 spadł do poziomu 768,63 punktów w dniu
+31-10-2002 (spadek o -50,50% !).
+
+
+
+
+Teoria poziomów wg Ganna a S&P 500                                              1/5
+Cykl 6, ostatni, nie został naruszony i od najniższego poziomu 768,63 indeks rósł od
+dnia 31-10-2002 do poziomu 1576,09 punktów w dniu 31-10-2007 (równe 5 lat i
++105.05% !!!), co obrazuje wykres nr 2.
+
+
+
+
+        Wyk. 2: S&P 500, dane miesięczne, 31-10-2002, Low = 768,63 pkt
+
+Pozostawiłem linie niebieskie (widoczne na kolejnym wykresie), które obrazują
+poziomy trendu spadkowego z wykresu nr 1. Zwracam uwagę, że indeks ponownie
+wykonał 6 pełnych cyklów po 360 stopni (!!!). 6-ty cykl Gann wyznaczył nam na
+poziomie 1578,01 punktów, gdy faktycznie S&P 500 osiągnął poziom 1576,09, czyli
+różnica wyniosła niecałe 2 punkty (1,92).
+
+Wykres nr 3 i nr 4 obrazuje poziomy Ganna od ostatniego szczytu. W chwili obecnej
+indeks spadł o pełne 2 cykle i czeka go w dalszym ciągu kierunek południowy.
+Poziom 1 135,69 punktów to kolejny proponowany przez Ganna przystanek (cykl 3)
+
+Zwracam ponadto uwagę na układ linii rysowanych w ramach kanałów z poziomów
+pełnych cykli. W trendzie wzrostowym jak i spadkowym linia łamana prowadzona od
+poziomu danego cyklu staje się albo oporem (trend spadkowy), albo wsparciem
+(trend wzrostowy). Wyznaczają one bardzo dobrze kanały wzrostowe lub spadkowe
+w ramach których kurs się porusza.
+
+
+
+
+Teoria poziomów wg Ganna a S&P 500                                             2/5
+      Wyk. 3: S&P 500, dane miesięczne, 31-10-2007, High = 1 552,87 pkt
+
+
+
+
+      Wyk. 4: S&P 500, dane miesięczne, 31-10-2007, High = 1 552,87 pkt
+
+
+
+Na koniec jeszcze dwa wykresy.
+
+
+
+
+Teoria poziomów wg Ganna a S&P 500                                        3/5
+       Wyk. 5: S&P 500, dane miesięczne, 30-10-1987, Low = 216,46 pkt
+
+
+
+
+       Wyk. 6: S&P 500, dane miesięczne, 31-10-1990, Low = 294,51 pkt
+
+Czy zauważyliście pewną zbieżność dat na powyższych wykresach?
+30-10-1987 Low
+31-10-1990 Low
+31-10-2002 Low
+31-10-2002 Low
+
+
+Teoria poziomów wg Ganna a S&P 500                                      4/5
+31-10-2007 High
+
+Wygląda na to, że październik jest zbyt kluczowym momentem zwrotnym, aby się
+jemu bliżej nie przyglądać!
+
+Nie jest moją intencją odpowiedź na pytanie: Co będzie dalej? Skoro historia się
+powtarza, również na giełdzie, i skoro właśnie na giełdzie mówimy o różnych
+cyklach, to pozostaje pytanie: ile cykli czeka nas w trendzie spadkowym, po
+którym wrócimy do wzrostów?
+
+Jeżeli wyjdziemy z założenia, że po spadku w miesiącu październiku 1987 roku
+indeks ruszył na podbój świata, to możemy naliczyć 13 pełnych cykli wg teorii
+Ganna, które zostały skorygowane przez 6 cykli (53,86%). Dalej rynek zrobił nowy
+szczyt w okresie 6 pełnych cykli. Przyjmując taki sam stopień korekty z 13 cykli (-
+53,86%), to powinna ona wystąpić na poziomie 2,77 cyklów Ganna, czyli blisko 3
+pełnych cykli. Są to okolice poziomu 1135,69 punktów.
+
+Jeżeli wyjdziemy z założenia, że po spadku w miesiącu październiku 1990 roku
+indeks ruszył na podbój świata, to możemy naliczyć 11 pełnych cykli wg teorii
+Ganna, które zostały skorygowane przez 6 cykli (45,45%). Dalej rynek zrobił nowy
+szczyt w okresie 6 pełnych cykli. Przyjmując taki sam stopień korekty z 11 cykli (-
+45,45%), to powinna ona wystąpić na poziomie 3,27 cyklów Ganna, czyli ponad 3
+pełne cykle. Są to okolice poniżej poziomu 1135,69 punktów.
+
+A zatem jeszcze mamy czas na przygotowanie się do kolejnej fali wzrostowej.
+
+Zachęcam wszystkich Elliotowców do spróbowania naszkicowania fal w ujęciu
+miesięcznym w celu znalezienia punktów spójnych w teorii Ganna oraz fal Elliota.
+Może uzyskamy nowy obraz tego, co rysuje nam rynek.
+
+Bez względu na to, co każdy z nas myśli, z trendem nie da się wygrać, zaś na
+giełdzie przyszłość zdeterminowana jest przez przeszłość.
+Sam jestem ciekaw, czy teoria Ganna się w jakiś sposób spełni w stosunku nie tylko
+do S&P 500. Czas pokaże…
+
+
+
+
+Teoria poziomów wg Ganna a S&P 500                                              5/5
+

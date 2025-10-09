@@ -1,0 +1,514 @@
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+                                  Gann Lines and Angles
+                                                      by Robert Pardo
+
+
+    "Integrated use of Gann Lines and Angles. . . appreciably
+   enhances the accuracy of the identification and verification of
+   potential turning points. "
+
+    INTRODUCTION
+   Gann Lines and Gann Angles are technical charting methods for the projection of Forward Support and
+   Resistance. This article will discuss these techniques, their applications, the concept of Forward Support
+   and Resistance, and the Principle of Coincidence.
+   The projection of potential future turning points is one of the more interesting and rewarding applications
+   of Forward Support and Resistance. This article will outline an integrated use of Gann Lines and Angles.
+   This integration appreciably enhances the accuracy of the identification and verification of potential
+   turning points. It is a good example of the "sum exceeding the parts." It is also an excellent illustration of
+   the Principle of Coincidence.
+
+    THE MARGIN OF ERROR
+   Experience indicates that many traders are unaware of the LIMITATIONS of technical indicators and
+   their applications. Most traders know the proper application of a particular method. However, most do
+   not know how to determine at what point a method is being used beyond its inherent capabilities. The
+   result of this is inaccurate and misleading trading information. Application of the Principle of
+   Coincidence is one method that helps to reduce this effect.
+   There is a great deal of interest in precision entry techniques as well as in methods for predicting market
+   turning points. Gann Lines and Angles can both be used individually or jointly towards both of these
+   ends. When techniques are employed for these purposes, it is mandatory to fully appreciate the allowable
+   margin of error inherent in such methods. Since even the most accurate analytic methods possess an error
+   margin, it is worthwhile to work towards minimizing its impact on forecasts and market entry
+   calculations. Employing a well-chosen selection of indicators and methods balanced in an integrated
+   model is one such method. It is also at the heart of the Principle of Coincidence.
+
+    THE JOINT APPLICATION OF MULTIPLE TECHNIQUES
+   Three examples of technical decision models employing multiple techniques will be developed. These
+   models will consider the following techniques:
+       1. the Isolation of Significant High and Low Pivot Points in an attendant Price Space,
+       2. the Projection of Forward Support and Resistance (Gann Lines and Angles),
+       3. a Momentum Indicator (Relative Strength), and
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                   1
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+       4. Pattern Recognition (Momentum/Price Divergence)
+   taken together in a complementary synthesis. An integrated use such as this constitutes an application of
+   the Principle of Coincidence.
+   The use of multiple, integrated techniques can lead to the following trading enhancements:
+       1. the Improvement of Precision,
+       2. a Greater Probability of Accuracy, and
+       3. Independent Cross Verification.
+   The isolation of future market turning points is the primary purpose of the method presented. A
+   secondary and equally important use of this method is the verification and categorization of established
+   turning points. Additionally, the three example studies will illustrate the concept and power of the
+   Principle of Coincidence.
+
+    THE PIVOT POINT
+
+    The Pivot Point Defined
+   A PIVOT POINT is a particular point in time and price at a particular level of price action when the trend
+   of the market has changed direction. There are Pivot Point HIGHS and Pivot Point LOWS. The three
+   Price Space Examples shown each display a Significant High (S2) and Low (S1) Pivot Point.
+
+    Pivot Point Levels
+   Pivot points can and do occur at all levels of significance down from major, medium, intermediate, minor
+   to micro turning points. It is essential to the effective use of Pivot Points that they be categorized by their
+   appropriate level. The Pivot Points identified in the examples cited are of medium-term level. Pivot
+   points can and do occur in tic-by-tic data, hourly bar charts, daily data on the short-term, "micro" level,
+   on the longer-term level where they can coincide with monthly and/or yearly highs and lows, in weekly
+   bar charts, etc. Pivot Points occur in any and all types of charts.
+
+    The Significance of the Pivot Point Level
+   The significance of the concept of the Pivot Point level is a question of both identification and
+   application. If one is trading short-term, an evaluation of short term Pivot Points will prove most useful.
+   If one is trading long term, such an evaluation will have a more limited applicability. These types of
+   examples can be proliferated ad infinitum. Suffice it to say that to achieve maximum performance, one
+   should evaluate Pivot Points on the level appropriate to one's central trading strategy. In other words,
+   long-term traders should focus on higher-level Pivot Points, and short-term traders should focus on lower
+   level Pivot Points. This is not to say that one should ignore all other Pivot Points as irrelevant. When
+   properly understood, the various levels of Pivot Points can and should be used together in a
+   complementary synthesis.
+
+    THE PRICE SPACE
+
+    Definition of a Price Space
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                    2
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   "Betting on a horse, that's gambling, betting you can make three spades that's entertainment, betting
+   that cotton will go up three points, that's business. See the difference?"
+
+
+
+
+   Chart 1:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 2:
+
+
+
+
+   Chart 3:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 4:
+
+
+
+
+   Chart 5:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   A PRICE SPACE is a COMPLETED price action bounded by both a Low and a High Pivot Point of
+   equal term level. The Pivot Points that begin and end a Price Space are its boundaries, or Boundary
+   Points. The LEVEL of the Price Space is determined by the level of its Boundary Pivot Points. A Price
+   Space bounded by intermediate-level Pivot Points is an intermediate Price Space.
+
+    The Price Space, Elliott Wave and Dow Theory
+   Those familiar with the Elliott Wave and Dow theories will recognize waves and price swings in the
+   concept of the Price Space. There are similarities. Often, an Elliott wave or a price swing will correspond
+   to a Price Space. However, it is important to note that all Price Spaces do NOT correspond to an Elliott
+   wave or a Dow Theory price swing. Price spaces are more generic. The concept of the Price Space is
+   more all-encompassing. A Price Space is solely determined by its boundaries.
+
+    The "Dimensions" of a Price Space
+   Price Spaces have a price and a time dimension. The price, or "space" dimension, is its price "height," or,
+   the price distance traveled from its beginning boundary to its ending boundary. This discussion is
+   exclusively concerned with the price dimension.
+
+   Three Examples of Price Spaces
+   Price Space example #1 begins at Pivot Point Low S1 on 3/9/82 at a price of 786.10 and ends at Pivot
+   Point High S2 on 5/7/82 at a price of 875.50 for a height of 90.40 (876.50-786.10 = 90.40) points.
+   Price Space example #2 begins at Pivot Point Low S1 on 8/9/82 at a price of 769.90 and ends at Pivot
+   Point High S2 on 9/22/82 at a price of 951.10 for a height of 181.20 points. Price Space example #3
+   begins at Pivot Point Low S1 on 12/16/82 at a price of 983.30 and ends at Pivot Point High S2 on
+   1/12/83 at a price of 1105.10 for a height of 121.80 points.
+
+    The Relationship Between Pivot Points and Price Spaces
+   In summary, the boundaries of a Price Space are described by a High and a Low Pivot Point. A Price
+   Space is the base "unit" for analyses such as Gann Lines. Pivot Points are the base unit for analyses such
+   as Gann Angles.
+   An examination of the examples supplied will help "flesh out" a more intuitive notion of the concepts of
+   the Pivot Point and the Price Space.
+
+    THE CONCEPT OF FORWARD SUPPORT AND RESISTANCE
+
+    "Traditional" Support and Resistance
+   Traditionally, support and resistance are anticipated at price levels where the market previously exhibited
+   support and/or resistance. According to the old formula, when resistance is "broken" it becomes support
+   for a future decline from higher levels. The inverse is true for support. Additionally, support can be
+   anticipated at price levels reflecting established monthly, yearly, all-time, etc. "significant" lows. The
+   reverse is true for resistance and prior significant highs.
+   All of these things that hold for traditional support and resistance (TS/R) also hold true for Forward
+   Support and Resistance (FS/R). Also, the existence and use of FS/R is not a replacement for TS/R.
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                3
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Forward Support and Resistance is a complement and addition to Traditional Support and Resistance.
+
+    Forward Support and Resistance
+   FORWARD SUPPORT AND RESISTANCE price levels are calculated from previous price action. In
+   the case of Gann Angles, FS/R is projected forward from a prior Pivot Point. In the case of Gann Lines,
+   FS/R is projected forward from a prior Price Space. The distinction here is:
+       (1)TRADITIONAL Support and Resistance (TS/R) is projected forward from previously established
+          significant price levels, while
+       (2)FORWARD Support and Resistance (FS/R) is projected forward from CALCULATED price levels
+          derived from previously established price action.
+
+    The Advance Projection of Pivot Points
+   Before reading any further, review the Dow Jones Industrial Average, pork bellies, British pound and
+   Kansas City Value Line studies ( Charts 9, 10, 11, 12) featuring Gann Lines, and Gann Angles projected
+   forward from both the Pivot Point High and Low. In particular, examine the points of Gann Angle
+   intersection. Examine closely those angle intersection points that occur near Gann Lines. A large number
+   of significant market turns are indicated by these intersections. Space does not permit the in-depth
+   discussion of all of these market turns. However, the time you spend examining them will prove
+   interesting and worthwhile.
+   Even a cursory examination of these examples will supply ample food for thought as to why one of the
+   best and most powerful applications of Gann Lines and Angles is the advance projection of points in
+   price and time where potential trend reversals are likely to occur. There are problems of accuracy when
+   each of these techniques is used alone. However, when used together, there is a noticable enhancement.
+
+    GANN LINES
+
+    Gann Lines Defined
+   GANN LINES are Forward Support and Resistance lines. They are constructed by dividing a Price Space
+   into a selected number of equal divisions. A Gann Line study displays these price levels as horizontal
+   lines drawn at equidistant spaces.
+
+   Data Required to Construct a Gann Line Study
+   To construct a Gann Line study, four separate pieces of information are required:
+       1. a HIGH Pivot Point,
+       2. a LOW Pivot Point,
+       3. the HEIGHT of the Price Space defined by these two Pivot Points, and
+       4. the appropriate NUMBER OF DIVISIONS by which the Price Space is to be divided.
+   Points One and Two are arrived at by inspection. Point Three is arrived at by calculation. Point Four is
+   achieved through experience. Usually, divisions of eight or ten are a good starting point.
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                             4
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 6:
+
+
+
+
+   Chart 7:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 8:
+
+
+
+
+   Chart 9:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+    How to Construct a Gann Line Study
+   Once these four points are known, the rest is easy. The height of the Price Space is divided into the
+   number of desired segments. Examine the "GANN LINES & PRICE LEVELS" example (Chart 4). The
+   Low Pivot Point, S1, formed on 12/16/82 at a price of 983.20. The High Pivot Point, S2, formed on
+   1/12/83 at a price of 1105.10. These two Pivot Points define a Price Space equal to 121.90 points
+   (1105.10 - 983.20 = 121.90). This Price Space was divided into eighths. Nine horizontal Gann Lines
+   were drawn dividing the Price Space into eight equal price divisions or zones. These price levels can be
+   calculated by either successively adding the "eighth" factor (i.e., 121.90 /8 = 15.238) starting from the
+   low, or inversely, subtracting this factor beginning from the high. In other words: 983.20 + 15.238 =
+   998.44 + 15.238 = 1013.68 + 15.238 = 1028.92, . . . eight times.
+
+    Selecting an Appropriate Price Space
+   To construct a Gann Line study applicable to long-term trading, it would be most appropriate to select a
+   Price Space defined by high-level Pivot Point boundaries. For example, the selection of the highest high
+   and the lowest low in a five-year period would define a Price Space appropriate for long-term
+   considerations. The selection of the level of the Price Space bears a definite relation to the type of
+   intended trading application. Skill must be employed in the accurate identification of a Price Space to
+   enhance the performance of the resulting Gann Line study.
+   Always bear in mind the fact that a Price Space represents a completed price action or movement, no
+   matter the level of price action. For example, the first thrust swing of a five count Elliott wave would
+   certainly qualify as an appropriate Price Space. The same considerations that apply to the selection and
+   definition of a Price Space are also effective guidelines for the selection of Pivot Points for the projection
+   of Gann Angles.
+
+    A Discussion of Gann Lines
+   Gann Lines have practical value because markets have a distinct tendency to retrace previous price action
+   in relation to certain proportions. For example, note the widespread use of the 50% and 61.8% price
+   retracements. Gann Lines take the retracement concept one step further. They divide an entire Price
+   Space into equal price divisions to reveal Forward Support and Resistance levels. Gann emphasized the
+   importance of the 50% retracement level. This price level is important. Frequently market corrections
+   will end right at or very near this 50% retracement level. Empirical observation, however, has shown that
+   too great a reliance on the 50% or 61.8% retracement levels can be dangerous. Both the British pound
+   and the pork belly studies present retracements that traveled well beyond these levels to 80% (the pound)
+   and 87.5% (the bellies). Overreliance on one retracement level for verification and action can blind a
+   trader to the true nature of the market action unfolding. This can in turn lead to inaccurate and ill-timed
+   market action.
+   A Gann Line study, which partitions an entire Price Space into equal price zones and Forward Support
+   and Resistance levels, provides a broad and detailed decision framework for analysis and market action.
+   This complete and comprehensive perspective helps to offset "tunnel-vision."
+   As market price action approaches these various levels of projected Forward Support and Resistance, the
+   prudent trader will be on the alert for a possible change in price trend.
+
+    GANN ANGLES
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                   5
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 10:
+
+
+
+
+   Chart 11:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   Chart 12:
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+    Gann Angles Defined
+   GANN ANGLES (Chart 5) are descending and/or ascending lines drawn forward in time from key High
+   and/or Low Pivot Points at specific angles. Gann Angles were viewed by their author as an "unusual"
+   version of moving averages. Gann also viewed them as rates of projected price change. Electing a more
+   pragmatic approach, Gann Angles are descending or ascending Forward Support and Resistance levels.
+
+    Why Do Gann Angles Work?
+   Why Gann Angles can be effectively applied to the market is a bit of a mystery. It appears to have
+   something to do with the tendency of markets to maintain a certain price/time equilibrium. This was
+   Gann's cherished belief. This theory also has been born out to a certain extent by empirical evidence. You
+   will have to satisfy yourself in this regard as you experiment with these methods.
+
+    How Are Gann Angles Constructed
+   Like Gann Lines, Gann Angles are also relatively simple to construct. If one is using the Advanced
+   Chartist, it is only necessary to call the Gann Angle function and use the Live Cursor to specify the
+   selected Pivot Point. The computer does the rest.
+   For those of you doing manual charting, it is a bit more complicated. Gann Angles are "projected
+   forward," or started from, a key High and/or Low Pivot Point. Gann Angles are different rates of change.
+   In other words, they represent faster and slower rates of price change over a constant time period. A rate
+   of 1 × 1 stands for a change of one unit of price for one unit of time. The unit of measure for price and
+   time is the actual size of one "box" on the charting paper in use. In other words, a Gann Angle advancing
+   at a rate of 1 × 1 advances one square of price for each square of time. The rates of change favored by
+   Gann for review are the following: 1 × 8, 1 × 4, 1 × 2, 1 × 1 (Gann's famous 45 degree angle), 2 × 1, 4 ×
+   1, and 8 × 1. Examine the "GANN ANGLES & RATIOS" example ( Chart 5). These seven Gann Angles
+   are projected forward and upward from a Low Pivot Point that formed on 12/16/83 at a price of 983.30.
+
+    A Discussion of Gann Angles
+   The use of Gann Angles in its simplest form is very similar to that of Gann Lines: namely, as Forward
+   Support and Resistance. As price action approaches the level of the nearest Gann Angle, some type of
+   support and/or resistance can be anticipated. The possibility of a trend change is considered. If none is
+   encountered, then the strength and health of the current price trend is considered to be intact and
+   reconfirmed. But as useful as these angle lines can prove to be in this capacity, they have yet an even
+   more interesting and useful application. And this application highlights the power of the Principle of
+   Coincidence.
+
+    Isolating Angle Intersections
+   Gann was very fond of the 90-degree angle and its broad range of applications to market action. Gann
+   Angles drawn from opposite and equal Pivot Points intersecting at a 90-degree angle often signal key
+   market trend changes. Examine Point P1 on the pork belly chart (Chart 10). The market topped out at a
+   price of 7250 on 8/18/83. The Gann Line L1 was at 7260. The 90-degree intersection of Angles A1 and
+   A2 occurred at 7280 on 8/23/83. Rather impressive. This implies a method of examining all angle
+   intersections; highlighting all 90-degree angle intersections; focusing on those 90-degree Gann Angle
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                               6
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   intersections that occur on or near a Gann Line.
+   Intersections that satisfy these criteria are prime candidates for trend change points. Non-90-degree angle
+   intersections are also significant. However, as a general method it is good to start by sorting by "degree."
+   Skillful use of these techniques requires practice. At minimum, as market action approaches these
+   COINCIDENCES of support and resistance, be mindful of a strong possibility of trend change.
+
+    THE PRINCIPLE OF COINCIDENCE
+   The Principle of Coincidence employs a selection of distinct technical indicators to analyze market action
+   and to make trading decisions. The Principle of Coincidence stipulates that:
+       1. Any technical indicator(s), pattern recognition signals, trading systems and Forward Support and
+          Resistance, among other things, can be used;
+       2. That these methods be employed in an internally consistent manner;
+       3. That each of the methods employed be optimized and
+       tested; and
+       4. That all of the methods employed will be used in the context of a tested and weighted decision
+          model.
+   Chances are that anyone who has ever been involved in market action has employed the Principle of
+   Coincidence in a casual manner. However, the concept applied rigorously becomes increasingly powerful.
+   Consider the following fact: If one proven indicator or technique has a reliability of, for example, 60%,
+   then a selection of three equivalent and statistically independent indicators taken together in an integrated
+   model will yield a significantly greater reliability, possibly well over 80%. This arcane fact of probability
+   is the basis of the Principle of Coincidence.
+   The particular indicators, signals and methods to be chosen are a function of personal choice, taste,
+   equity, trade, model design features, and market factors. It is essential however, that the selected
+   indicators and methods are:
+               1. mutually independent,
+               2. optimized individually,
+               3. optimized collectively, and
+               4. integrated and weighted in an effective decision model.
+   The first two examples discussed illustrated the enhanced performance that results from the integrated
+   use of Gann Lines and two sets of Gann Angles. The third example adds relative strength and divergence.
+   As an overall and general technique, the Principle of Coincidence is essentially multiple,
+   cross-verification. In other words, if one support line is good, two are better and three are better yet.
+   A high degree of discretion must be employed in the selection of the technical indicators to be utilized if
+   the Principle of Coincidence is to be fruitfully employed. To effectively derive the synergy that can result
+   from the integration of a selection of technical indicators, one needs to choose indicators that are as
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                  7
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   different from one another as possible. The need for this results from the need for statistical
+   independence. For example, a selection of stochastics, relative strength and a moving average crossover
+   would be much better than the use of two different moving average crossovers and an oscillator. The first
+   selection will most likely exhibit greater statistical independence than the second.
+   When selecting techniques for the forward analysis of support and resistance, employ methods that are as
+   different as possible.
+
+    FOUR STEPS TO A GANN LINE AND ANGLE STUDY
+   Step #1 - Isolate a Price Space (Chart 6)
+   This, of course, is a two-step process. First, Significant High and Low Pivot Points of equal level must be
+   isolated. These Pivot Points determine the boundary of the Price Space. In STEP #1, a Low Pivot Point,
+   S1, was isolated on 12/10/84 at 1154.70, and a High Pivot Point was found on 3/1/85 at 1282.60 defining
+   a Price Space equal to 127.90 points.
+   Step #2 - Construct Gann Lines (Chart 7)
+   In STEP #2, eight Gann Line divisions were constructed based on the 127.90 point price space isolated in
+   STEP #1.
+   Step #3 - Add Uptrending Gann Angles From Significant Low (Chart 8)
+   Seven Gann Angles were projected upward and forward from the Low Pivot Point, S1, on 12/10/84 at
+   1154.70.
+   Step #4 - Add Downtrending Gann Angles From Significant High (Chart 9)
+   Seven Gann Angles were projected downward and forward from the High Pivot Point, S2, on 3/1/85
+   from 1282.60.
+   The execution of these four steps completes the process of constructing a Gann Line and Gann Angle
+   study. This process was performed for each of three example studies: bellies, pound, and Value Line.
+
+    STUDY #1: PORK BELLIES 3/1/83-10/28/83 (CHART 10)
+   The SIGNIFICANT HIGH, S1, was made on 4/13/83 at a price of 7590. The SIGNIFICANT LOW, S2,
+   was established on 7/19/83 at a price of 5125. These points defined a PRICE SPACE equal to 2465
+   points and lasting 69 trading days. This PRICE SPACE was divided into eight equal price zones. Gann
+   Lines were drawn and Gann Angles were projected forward from these defining points. This example
+   illustrates an important point in the use of retracement techniques. Although it is somewhat uncommon,
+   price action can retrace much more than 50% of prior price action and still BE a retracement. This market
+   retraced to Point P1, a price of 7250 on 8/18/83. Our 87.5% Gann Line was at 7260. The 90-degree
+   intersection of Gann Angles A1 and A2 occurred on 8/23/83 at a price of 7280. Averaging these two
+   prices 7260 + 7280 × .5 = 7270 we see a an extremely accurate market call. This is definitely usable.
+
+    STUDY #2: BRITISH POUNDS 3/1/83-10/28/83 (CHART 11)
+   The SIGNIFICANT LOW, S1, was made on 3/28/83 at a price of 14480. The SIGNIFICANT HIGH was
+   established on 5/31/83 at a price of 16090. These two points established a PRICE SPACE of 1610 points
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                8
+Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo
+
+
+
+
+   lasting 46 trading days. This PRICE SPACE was divided into ten price zones, Gann Lines were drawn,
+   and Gann Angles were projected forward. The retracement of the PRICE SPACE ended at approximately
+   the 80% level at point P1 on 8/11/83 at a price of 14770. The Gann Line at L1 was equal to 14805. The
+   intersection of Gann Angles A1 and A2 occurred on 8/9/83 at a price of 14705. Averaging these two
+   prices, we arrive at a price of 14755. The actual low was made at a price of 14770 on 8/11/83.
+   The price swing between points P1 (8/11/83, 14770) and P2 (8/23/83, 15380) defined a minor PRICE
+   SPACE of 610 points lasting eight trading days. The intersection of Gann Angles A3 and A4 occurred on
+   9/1/83 at a price of 15335. The price of Gann Line L2 is 15290 and L3 is 15445. The average of these
+   two lines is 15365. The actual price high was made at 15380 on 8/23/83. Also we can see from the chart
+   that the market rose to strong overhead resistance at the descending Gann Angle A4. This example
+   further highlights the utility of multiple support and resistance methods.
+
+    STUDY #3: KC VALUE LINE 7/11/83-10/28/83 (CHART 12)
+   This example will integrate relative strength together with Gann Lines and Angles. The SIGNIFICANT
+   HIGH, S1, was made on 7/27/83 at a price of 21050 and our SIGNIFICANT LOW was established on
+   8/9/83 at a price of 19140, defining a PRICE SPACE of 1910 points, occurring in nine trading days.
+   Gann Lines and Gann Angles were constructed and relative strength with a period of nine days was
+   plotted. A 75% retracement ended at point P2. Gann Line L1 was at price 20340. Gann Angles A1 and
+   A2 intersected at a price of 20550 on 10/3/83. The actual high terminating this retracement occurred on
+   10/10/83 at a price of 20560. As if this weren't impressive and strong enough in its own right, a strong
+   bearish signal was generated by a relative strength/price divergence. RS entered the sell zone (R1) two
+   days prior to the high at P1 (9/13/83, 20370). However, RS failed to make a higher high (R2) as price
+   made a new and final high at point P2 (10/10/83, 20560). This is the classic pattern of divergence or, as
+   some call it, non-confirmation.
+
+    CONCLUSION
+   It is this type of coordinated and integrated use of different support and resistance methods together with
+   technical indicators that is known as the Principle of Coincidence.
+   Robert Pardo is President of the Pardo Corporation, an Evanston, Ill. firm responsible for the Swing
+   Trader and Advanced Chartist software packages. All of this charts reproduced in this article were
+   created by the Advanced Chartist on an Apple IIe, courtesy of the Pardo Corporation.
+   This article was also published in the May/June 1985 issue of Wall Street Micro Investor, Suite 302, 11
+   Hanover Square, New York, N.Y., 10005.
+
+
+
+
+Article Text                                Copyright (c) Technical Analysis Inc.                                9
+

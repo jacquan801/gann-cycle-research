@@ -1,0 +1,1856 @@
+                    Gann Grids Ultra 5.0 Charting Application
+                                        By Pivot Point Research
+
+
+
+Overview …………………………………………………………...1
+
+System Walk Through……………………………............................3
+
+Getting Started....................................................................................5
+
+Navigating Gann Charts………………………………………….…11
+
+The Toolbar…………………………………………........................15
+
+Astro Tools………………………………………………………….71
+
+System Setup and Technical Requirements.......................................107
+
+
+                             Overview of Gann Grids ultra
+
+“New” 5.0 Version Requirements:
+
+Windows 2000, Windows XP (with SP2), Windows VISTA (Home or Professional)
+
+Important! If you have any outside windows applications other then the ones mentioned above
+please contact technical support at pvtpoint@aol.com before downloading or purchasing Gann
+Grids Print or Ultra versions.
+
+Minimum 512 MB memory
+
+20MB Free Disk Space
+
+An Internet connection - For installation and registration
+
+What Is the Gann Grids Program?
+The Gann Grids Ultra program is a “Brand New” research program that allows its user to plot
+and chart almost all stocks, commodities and index on a large number of harmonically perfect
+grid chart sizes. These unique grid chart sizes are similar to the ones used by the late WD Gann,
+George Bayer and RN Elliot within their unique and compelling forecasting research.
+Are all of Gann and Bayer’s ideas included in as tools within its functions?
+No....Though each book, course and research application has been painstakingly dissected over
+the years I have only included the ones I have found to work best within GGU’S unique
+functions.
+
+What are the some of the benefits of this approach?
+This keeping the best and throwing out the rest approach has equipped the Gann Grids ultra
+program with some of the most controversial yet spectacular forecasting applications known at
+this time. This concept also helps save its users days, weeks and even months of dead end trial
+and error testing. Only the most highly probable price and time cycle concepts were kept as
+individual tools.
+
+Can I view results on screen?
+Yes…Each of my specialized Gann Grids tools were built one at a time and made to be viewed
+on screen with the simple click of a button. This simple click of a button feature will allow its
+user to potentially see at a glance exactly what the 3 masters were trying to convey within their
+legendary works. This feature will ultimately save its user days, weeks or even months of trial
+and error research.
+
+Most Gann and Bayer forecasting applications can now be done and viewed in just seconds!
+
+Is this program only good for Gann and Bayer type research?
+No… Even though this program was built with Gann, Bayer and Elliot’s unique astronomical
+and mathematical forecasting concept in mind, several other high probability tools have been
+added to the New 5.0 version. These extra applications truly make this one of the most open
+ended forecasting programs on the market at this time!
+
+Why was the program built?
+Even though this program was built out of shear necessity as no other program gave the needed
+testing freedom to unlock Gann, Bayer and other forecasting concepts on screen, the ultimate
+reason behind its design was to allow its users to make some new and potentially unique price
+and time cycle discoveries of their own. This task in my opinion was achieved by adding as
+many mathematical and astronomical cycle tools as I could ……
+With more to come in future upgrades..!
+ .
+Has this goal been achieved?
+I feel Yes….As a many 2.0, 3.0, and now 4.0 version owners have already brought several
+exciting and new concepts to my attention!….Making this study a truly fascinating and open
+ended science!!
+
+I call this science the science of “Astro-numerical forecasting and research” …….
+
+Good luck and happy forecasting.
+
+Robert Giordano
+Owner of Pivot Point Research Inc
+                                System Walk-Thru for Version 5.0
+IMPORTANT!
+Though several functions have been upgraded, added and changed on the 5.0 version’s tool bar, I have intentionally
+left several screen shots of the 2.0, 3.0 and 4.0 tool explanations as they have NOT changed within this upgrade.
+New additions will be marked accordingly.
+
+New to 5.0 version        "Free" Yahoo Data now available
+In the past many have asked if there were any “FREE” internet data sources Gann Grids Ultra
+will work with…………….. And the answer is now “YES”!!
+
+Gann Grids Ultra 5.0 will now work with most historical Yahoo data extracted from
+www.finance.yahoo.com but must be converted into a CSV file first.
+
+However this is a very simple procedure.
+
+    1)     Open up the webpage www.finance.yahoo.com
+    2)     Plug in the desired symbol into the “Get Quote” box
+    3)     Click on “Historical Prices” section on left
+    4)     Set date and time settings to the desired settings... IE. Start Date, End Date and time
+           period (Daily, weekly, or monthly format)
+    5)     Once done scroll down to “Download to Spreadsheet” then save to desired location.
+    6)     Next, open data in Excel, expand column A to show all dates, then press at the same
+           time ctrl/A. This will highlight all data within the file.
+    7)     Once highlighted click from the top toolbar the “Data” button, then “Sort” by setting
+           the first box to “Date” and click on Ascending, then press “File”, “Save” and click yes
+           to save as CSV format.
+    8)     Once the data is converted and saved go to Gann Grids Ultra’s file section, open the
+           saved CSV file by clicking on “File” and highlight the desired time period from the file
+           being read. …IE… Daily, Weekly or Monthly charts.
+    9)     Then set the format as follows:
+1)     File: Opens chart file being read
+2)     File type: Data delimited
+3)     Data delimiter: , (comma)
+4)     Start line: 2
+5)     Chart price adjustment: (keep as 1 unless dealing with intra dollar price formats)
+6)     Field positions are:
+     1) Symbol: 0
+     2) Date: 1
+     3) Open: 2
+     4) High: 3
+     5)    Low: 4
+     6) Close: 5
+     7)     The “Date” is: Delimited
+     8) Date format is: MDY
+     9) Delimiter is a: / (backslash)
+     10) Year length is: 4
+     11) And Month length is: NA
+ASCII DATA SETUP
+
+Decide on the chart frequency: Daily, Weekly, or Monthly
+
+Important… make sure the data file chosen matches the program setting or the tools will
+not work properly.
+
+Import a data file: Either provided by the “Dial Data’s” downloader, Metastock data feed or
+other outside ASCII format sources s
+
+The format: A description of the ASCII fields must be predetermined before notifying the
+charting program of the placement of the fields. Click “OK” once the format is set up.
+
+Example ASCII Data Field: Symbol, Date, Open , High, Low, Close ….Positions may vary
+depending on the ASCII file Data provider being used along with its delimiter( -, or tab )
+
+Sample Data locations: 0, 1, 3, 4, 5, 6 comma delimited
+
+To save chart: click on the first button on the toolbar, or simply, close the chart window, and
+select the “Yes” option to save your chart. Select a location from the browser, and “Save”.
+Getting Started
+Prior to deploying the application: The user should be aware of the location and format of the
+historical price data files. The prices will be plotted on the chart on their corresponding dates.
+Perform the following steps:
+
+1. Click on “Gann Grids Ultra” program icon from your Start Menu.
+        a. Select the “File” option.
+        b. Select “New Gann Chart”
+2. Select your desired frequency. “Daily” will plot O, H, L, C prices for each weekday. (We
+only use weekend setting on daily research projects as many of the astro dates will fall on the
+Sat. or Sun. positions) A place holder will appear for Saturday and Sunday when
+“Weekends” option is chosen.
+
+   Important...The Gann Grids Ultra program was built for 365 day research only and will not give
+   accurate readings without it, therefore weekends are inserted into your daily charts for versions 3.0,
+   4.0 and 5.0. This means trading day charts are NOT an option at this time.
+   Also understand the Gann Grids Ultra programs only have a limited print feature within its settings,
+   however all files can be saved to your PC in the directory of your choice for easy retrieval.
+
+    If a print feature is needed you may purchase the print version of Gann Grids located at
+   www.pvtpointmktres.com at any time. The print version however though compatible with the new
+   systems and data providers it will NOT allow the user to print any draw tools or overlays as
+   constructed by the Ultra versions at this time. It will only print the Open, High, Low and Close bars
+   leaving the rest to be done by hand.
+
+1. “Weekly” data will contain the week high and low format, starting on Monday’s opening bell
+   through Friday’s closing bell.
+2. “Monthly” data will contain the monthly high and low price swings. It starts on the opening
+   price on the first business day of the month, and runs through the closing bell on the last
+   business day of that same month. The price file frequency should match the description, or
+   desired results may not be obtained.
+3. You must now select the price file you wish to plot, and information about the file. The
+   application has four preset formats. If you used the “Dial Data Downloader”, Gann Grids
+   Ultra knows the format of both fixed and comma-delimited files.
+                • Data Delimited – the fields are separated by a delimiter like a comma or tab.
+                    Use this if you have created a .CSV file from a spreadsheet.
+                • Fixed Length – each row of data is the same length, and each field is the
+                    same size and in the same position in every row. For example, the price may
+                    be 8 characters long, and starts in the tenth position in each row, and the date
+                    is 10 characters long and starts in the 20th position in each row.
+
+
+       Please understand that not all ASCII files are the same so all data files must be
+       examined thoroughly to find the appropriate numerical format!
+Its numerical format is as follows:
+
+
+
+
+   •   File type is Data Delimited.
+   •   The Data Delimiter is a comma “,”.
+   •   Start Line Number is 2.
+   •   Symbol is field 1.
+   •   Date is field 3.
+   •   Open is field 5.
+   •   High is field 6
+   •   Low is field 7.
+   •   Close is field 8.
+   •   Date format is Fixed, “YMD”, with a 4 digit year and 2 digit month.
+   •   If the Date Delimiter is “grayed” out (disabled), the delimiter will be ignored, so
+       do not be concerned if it is not blank.
+
+In order to determine what this screen should look like for other formats, open your price
+file in Notepad. Maximize your screen, so you can see the position of each field.
+
+Since Gann Grids Ultra only reads the Date, Open, High, Low, and Close positions
+you must locate the exact position of each within your ASCII file………
+
+EXAMPLE 2
+In this example the file type is data Delimited, the Delimiter is a Coma, the Start line is
+set at 2, and the date format is MDY. There is no symbol placement so the symbol space
+is set at 0, the Date is in the 1st position, Time is left out so the open is set at place 3,
+High is at 4, Low is at 5, and Close is in place 6
+
+ T=TIME, O= OPEN, H=HIGH, L=LOW, C=CLOSE, V= VOLUME, OI= OPEN
+INTEREST
+DATE      T    O H         L     C      V    OI
+2/12/2007,12,35.50,36.25,35.50,36.15,99999999,0
+2/13/2007,12,36.15,36.50,35.85,35.90,99999999,0
+2/14/2007,12,35.80,36.15,35.75,36.00,99999999,0
+2/15/2007,12,36.00,36.00,35.50,35.50,99999999,0
+2/16/2007,12,35.20,35.70,34.40,35.00,99999999,0
+2/17/2007,12,35.00,35.20,34.30,35.00,99999999,0
+2/18/2007,12,34.70,35.00,34.40,34.55,99999999,0
+2/19/2007,12,34.55,34.65,34.20,34.30,99999999,0
+2/20/2007,12,34.40,34.65,33.90,33.90,99999999,0
+2/21/2007,12,34.00,34.85,33.90,34.35,99999999,0
+2/22/2007,12,34.50,35.10,34.45,34.90,99999999,0
+2/23/2007,12,34.90,35.90,34.90,35.75,99999999,0
+
+
+
+
+If the file is “Delimited”, select your delimiter from the list, or type in another. If your
+delimiter does not appear in the list, Gann Grids Ultra will use whatever you typed in. It
+will not be able to distinguish a character that may appear elsewhere from a field
+separator.
+
+For example…if your fields are separated by “/” and your date is also “/” delimited,
+Gann Grids Ultra will be not be able to parse your fields correctly. So, please try to use
+the delimiters provided.
+
+New! Price Multiplier - Chart Price adjustment changes the data. This multiplies each
+Price by the number selected. For example, when working with indices the prices can get
+quite high and the prices can fluctuate to great extents. For easier viewing, you can
+reduce the prices, by using a multiplier of .01; a price of 1000 becomes 10.00. This is
+also useful for commodities priced at penny-scales. A price of 2 cents (.02) can be
+converted into 2.00 with a price multiplier of 100.
+
+
+
+
+Start Line Number… Start Line Number is the row where your actual data begins. For
+example Metastock begins placing data on row (line) 2. The first row is a heading. Dial
+data starts its data on row 1, along with no header row.
+
+Now determine where (what position), the following fields are:
+  • Symbol – may not appear in all files.
+  • Date – required field – also note the date format. Gann Grids Ultra must know
+      how the date appears. “YMD” means the date appears with the year first, then
+      month, then day.
+
+Examples are… 1999-09-15; 99/09/15; 1999-Sep-15; 990915; 19990915; 09/15/1999
+ The date delimiter is the character that separates the year from the month and day.
+ The date may be fixed format in which case there is no delimiter, the month will always
+be 2 digits, and the year may be 2 or 4 digits. (Also see example above)
+
+   •   Open price – required field -Opening price of the time bar file
+
+   •   High price – required field -High price of the time bar file
+
+   •   Low price – required field -Low price of the time bar file
+
+   •   Closing price – required field –Closing price of the time bar file
+
+Supply the Position for “Delimited” files: if the symbol is the first field you see, place a
+“1” in the symbol position. If a field does not appear, place a “0” in the position. If the
+       date is the third field you see, place a “3” in the position. For Delimited files, the
+       position is its field number, not the actual cursor position. The Length of the field is
+       disabled because the length may vary.
+
+       Supply the Position and Length for “Fixed” files by using a text editor like Notepad. (If
+       you have Microsoft Word, open your file with Word, by Left-clicking on the file and
+       “Open With” option. Word will supply the “Col” – column – your field position.) For
+       Fixed files you must know the actual position by locating your cursor position. Using
+       Word, just use the “Col” located on the bottom line, below your document. You should
+       be on Page 1, Sec 1, Ln 1. Place the cursor on the first character of each field. This is
+       your “position”. Supply the Length by counting how many characters a field occupies.
+       For example the opening price may be 10 characters long – 5 digits before the decimal
+       point, 1 decimal point, 4 digits after the decimal point = 10 characters long.
+
+       Date Type is “Fixed” if all the dates are the same size, or “Delimited” if the size varies
+       from row to row. Determine the place of the day, month and year to decide on the date
+       format. If the date is fixed, the delimiter is ignored.
+
+       If your data comes from the same source or if your entire price files have the same format
+       you only need to go through this process once as the program will remember and save
+       your most recently used settings. Also, if you save your charts, this process is bypassed,
+       even if you update your prices – as long as you do not change the name of your price file.
+4. Press “OK” when finished. IMPORTANT! If the field definitions are not accurate, you will
+   get an error about the format. If you are certain you have the correct “Start Line” then do not
+   continue to load the file, just try it again. If you have started on the wrong line, continue to
+   load the data. Gann Grids Ultra will try to pass each line. You will be prompted for errors
+   until you decide to stop.
+5. Gann Grids Ultra will remember your most recently used settings.
+
+You are now ready to use the toolbar. We recommend you maximize your Gann Grids
+Ultra window to 24 grids per square inch or larger at first to get the most beneficial view of your
+historical price range. If you choose to open additional files simultaneously, you can tile your
+windows horizontally or vertically, or cascade if needed.
+
+
+       METASTOCK DATA
+
+       The Gann Grids Ultra 4.0 and 5.0 versions were formatted to include the Metastock
+       data. This Metastock format can easily be setup and downloaded straight from the tool
+       bar once an account has been established.
+
+       The first time you use this format, establish the Metastock folder containing your
+       Metastock master file and data. Once GGU knows this location, all the stocks in the
+       folder will appear on your list. Select a stock, press “Draw Gann Chart” button. Your
+       chart will be drawn and this screen will close.
+       To establish an account just follow the “Free 30 day trial link” located at
+       http://www.pvtpointmktres.com under data providers or click on the hyperlink within the
+       start menu of Gann Grids set-up files
+
+
+
+Navigating Gann Charts
+Once the data has been automatically plotted on your chart, the most recent activity will appear
+on your starting screen. You can now scroll left into the past, right into the future and page up
+and down for prices.
+
+New! By passing your mouse over the chart you can now locate the date and price for a more in-
+depth look at the current dates data. Right click your mouse on the date you wish to view and a
+pop up window will appear. In addition to providing the price information of that dates open,
+high, low and close the pop-up box will also displays the specific astro tools highlighted as well.
+The program will plot an almost unlimited number of historical files along with scrolling up to 5
+years into the future ….
+It will also scroll down to 0 and up to 1000 grids in price.
+
+EXAMPLE
+If the chart is set at a grid scale 8 and the price scale is set at 1 you can view up to 8000 in price,
+if its set at 12 you can view up to 12000 in price, set at 16 will allow you to view up to a 16000
+price. If however, the price scale is set at .50 divide these numbers by 2…etc, etc…
+The Gann chart below represents a Daily data with weekends.
+
+
+
+
+Scroll your mouse across the chart to view the date, O, H, L, C and grid coordinates. This is
+located at the bottom right side of your screen.
+
+The date range of the current view is located next to the “Draw” button. This section will tell
+you the start and end date being viewed on the entire screen.
+
+The buttons and fields on the bottom of the screen: (Control Box)
+   • “<<, >>” – will allow the user to scroll back in time or into the future. The chart will
+      scroll as far back as your data and up to 5 years into the future on all charts.
+   • The Date fields – if you would like to go directly to a date, instead of scrolling, just enter
+      the date by choosing your month, day and year. Only valid dates will be accepted.
+   • Scroll Frequency – the next two fields represent how fast to horizontal scroll, for
+      example “Week 1” would scroll left or right, 1 week at a time, month will scroll 1 month
+      at a time and year will scroll1 year at a time.
+   • “Draw” – will redraw the screen. After you change any field, the Draw button will
+      apply the changes.
+   • “Grid Size” – the scale of the chart. Choose from preset list, or enter your own value.
+      You can add any integer between 4 and 40.
+   • Chart Price – adjusts the vertical axis of the chart. On a chart price of 1, the chart will
+      increment in 1 dollar interval. A minimum value of .01 and maximum of 9999 is the
+      allowable range.
+   •   Note: Gann Grids Ultra version #1 had a scroll up limit of 211 pages so the maximum $1
+       price scale is $8440 on a grid size of 40, a price scale set at $2 would give a max of
+       $16,880 on this same grid size …this feature has now been changed in version 3, version
+       3 now has a 1000 grid setting.
+   •   Price Adjustment – positions the chart according to the price adjustment scale. Choose
+       from preset list. We however recommend you keep it set at 1.
+   •   Vertical Scroll arrows – page up and down to view prices above or below the viewable
+       screen. Note that on charts with a price scale of .25 and less the scroll frequency is
+       slow, therefore the same page (price range) may appear more than once when pressing
+       the scroll tabs. Your screen is NOT frozen; the same price range may be loading two or
+       three times before changing.
+   •   “NEW” Go to Price button- This new feature brings the chart directly to the page of a
+       selected price. This feature will save time scrolling page by page searching for the user
+       defined price as was some-what cumbersome in the 2.0 version.
+
+The Main Menu
+The menu consists of four sub-menus:
+   1. File:
+          a. New Gann Chart – create a new Gann chart
+                  i. ASCII Data – ASCII format, select the frequency of data
+                         1. Daily – the frequency of prices is daily
+                         2. Weekly – the frequency of prices is weekly
+                         3. Monthly – the frequency of prices is monthly
+                         4. Yearly – the frequency of prices is yearly
+                 ii. Metastock format – create a new Gann chart from Metastock data
+          b. Open Saved Chart – re-open a previously created Gann chart. You will browse
+             through your computer and select a “.CHT” file created by Gann Grids Ultra.
+          c. There may be an occasional problem opening a chart created in a previous
+             version of Gann Grids. In a case where any of your overlays, drawings, tools, etc
+             is not read properly you may adjust your chart in “Notepad” by removing the line
+             causing the problem. Gann Grids Ultra will notify you of where the problem lies.
+             For severe problems please send your .CHT file to Pivot Point Technical Support
+             for reformatting.
+          d. EXIT the application.
+   2. Run:
+          a. Trade Tracking Spreadsheet – open the spreadsheet template in EXCEL. You
+             must have Microsoft Excel to open the spreadsheet, which you may customize.
+          b. Pivot Point Data Downloader to retrieve Dial Data prices. You must have a Dial
+             Data account, not provided by Pivot Point, and an internet connection to
+             download data from Dial Data server. Note to all VISTA users: Please take your
+             Firewalls down temporarily (prior to opening the Data Downloader) to allow the
+             data to download. Your transmission will hang and appear unresponsive if a
+             Firewall is up.
+          c. Metastock Downloader to retrieve Metastock formatted data. You must have a
+             Metastock account, not provided by Pivot Point, and an internet connection to
+             download data from Metastock server.
+   3. Window:
+          a. Cascade: arrange windows (Gann charts) in a cascading format.
+         b.    Tile charts horizontally across screen.
+         c.    Tile charts vertically across screen.
+   4. Help:
+         a.   (F1) Contents: for full application “Help” system, with word searching.
+         b.   Note to all VISTA users: GGU Help system is engineered by WinHelp32. The
+              WinHelp32 feature is not included with VISTA’S operating system as it was in
+              prior Windows versions. To utilize GGU Help, you must have WinHelp32. If
+              you click on F1 and GGU Help appears, WinHelp32 has already been installed. If
+              you get a Microsoft error message when clicking F1, follow the Microsoft link
+              and instructions to install WinHelp32. There are different downloads which
+              depend on the edition of VISTA. For example, “Home Edition”, “Professional
+              Edition”, 32-bit or 64-bit. Microsoft will walk you through determining which
+              download is right for your system. Close all your Gann Grids Ultra windows,
+              including tools, then follow the installation directions.
+           c. About: view application version and your product key.
+
+“New” 5.0 version toolbar!
+Descriptions are given in order of appearance from left to right. Several new tool
+bar icons have been added to the 5.0 version
+
+
+
+
+Save Button…
+This button saves the name of the price file, so you can get up-to-date prices without losing
+your chart information. Saves format of your price file, to bypass the chart-settings screen. It
+will save all the waves, highlighted dates, research cycles, overlays and drawings. When you
+update your price files, please keep the names of your files consistent for accurate retrieval of
+charts.
+Paste Button
+Paste dates on the clipboard. This function will pass information on the clipboard, when
+searching for dates. If you are running “Astro Tools”, press this button after you have copied
+dates. The dates appearing on the clipboard will be highlighted on the chart.
+Maintain Highlighted Date button
+         When you click this button, a panel will appear over your chart. The dates on the
+clipboard will appear in the left list. The dates that you have highlighted will appear in the center
+list. The dates you have removed will appear in the “Recycle Bin” on the right. Here, you have
+the opportunity to manipulate and view the dates returned by the Astro tools and other sources.
+You may add, remove, highlight, un-highlight and change colors of the date series in this section
+Example: Using astro tool 2 (aspect highlight).
+After doing a research project on the tool simply highlight the dates to be viewed on screen
+and press “copy”. This will store the highlighted dates.
+Step 1
+Step 2
+Once done open the clipboard application and click “past new dates from clipboard”.
+
+
+
+
+This will send the highlighted dates to the clipboards left hand panel. At this point you can add
+the color of your choice to the dates to be highlighted by clicking on the colored box.
+
+
+
+
+Then press “ok”
+Once the color has been chosen click on the “highlight” button at the bottom of the application.
+This will send the dates and color directly to the chart for an easy view.
+
+After the user is satisfied with the color and dates next click on the double arrow along the top
+right of the first sections box. This will add the data to the second section for further analysis.
+
+
+
+
+In this box the user can also change the color, unhighlight or clear the list.
+This section also condenses the astro tools data to just the tool number, aspect and start date for
+that tools research. This is useful when using several astro tool applications at the same time. It
+makes it easier to keep track of the data. By clicking on a set of dates from this second box the
+color chosen for that application will appear in the colored box at the bottom of this section. Also
+by clicking on a date set the user can view the entire date series by clicking on “view all dates”
+button.
+
+
+
+
+Once the data has been added to this section the dates and tool description can also be viewed by
+right clicking your mouse directly over a colored bar chart
+The last section of this application is the recycle bin. The user can by clicking the double arrows
+facing the third section send the selected data set to the recycle bin. It can be brought back to the
+center box by clicking on the opposite direction double arrows.
+
+
+
+
+Gann Grids Ultra also has the ability to copy and paste any set of dates to the highlight section from
+almost all outside source. This feature will allow the user to save and highlight the ones wanted directly to
+the chart! …This feature is for maintaining and testing any outside astro, mathematical or other trading
+systems containing a series of formatted dates.
+
+Here’s how you do this:
+   1. Get your dates into any readable format, some examples are: text file in notepad, a WORD
+        document, a spreadsheet, or any software that will allow you to copy to the clipboard.
+   2. Select your data, which will include the dates. Even if you have a WORD document, select entire
+        paragraphs, pages, or if necessary, the entire document. If you have a text file in ASCII format,
+        select the lines you need. As long as you can read it, and it looks like a date, Gann Grids Ultra
+        can read it! (Also make sure your Regional Settings are set to US settings).
+   3. “COPY” your selection from an “EDIT” menu or press <CTRL>C.
+   4. Open the Gann Grids Ultra window.
+   5. If you want to highlight the dates without seeing them first, just click the second button on the
+        toolbar, the clipboard icon. If you want to see what you have parsed before highlighting, click the
+        third button on the toolbar, the green highlighter icon. Under the first list box, press “Paste New
+        Dates from Clipboard.” From here you can remove, highlight and save dates.
+
+It is an easy “copy and paste” operation that works with many outside programs.
+Note Gann Grids Ultra has a preset color for a single date highlighted by multiple sources. We
+use a gold shade, which cannot be changed, if a date is highlighted by more than one source. In
+turn, this shade of gold cannot be a user-defined color.
+“NEW” Highlight price button
+
+
+
+
+This button will add to the chart any user defined price diagonally across the chart .This tool is
+perfect for outside price points discovered holding support or resistance throughout the charts
+history. To highlight a price just add the price in the window and click “highlight”. To un-
+highlight just double click on the price in the window and click “un-highlight” …
+Plot new waves button
+
+
+
+
+This button has a drop down window showing several features:
+ Declination chart……..
+ Latitude chart…………
+ Planet /prices…………
+ Planetary Speed Lines
+The 4 tools are used within the “Advanced” version only! And will be further explained in the
+“Advanced” section
+ The first 2 will show at a glance the sin wave along with dates of any planets latitude and
+declination crest. Many trend change dates were found to be somewhat consistent around them.
+Declination chart
+
+
+
+
+Latitude chart
+Astro Tools Menu button
+Drop down menu showing a list of all Astro Tools …Explained in Advanced section
+
+
+
+
+Text button
+Place your text anywhere on the chart and select a font, size and color. A small gray box will
+appear on the screen. You can click anywhere on the grid to move the text around. Once you
+press the “Enter” key, you commit to the location.
+Important…You must hit the “Enter” key to come out of Text Mode or lines will be drawn
+where text should be.
+Draw Lines button
+A small panel will appear in a drop down menu asking you to choose the type of line function
+you would like to use. Simply click on the one you want. This drop down box is in the form of a
+front slash / and is located next to the “Text” tool.
+“NONE”…This feature will allow the user to draw trend lines along with other needed lines.
+Example ….Trend lines
+
+
+
+
+When using this tool as a trend line function it draws straight or angular lines to help determine
+the price direction and slope of an individual market.
+
+Example 2…… Drawing Gann Square overlay lines
+This function will also allow the user to construct the Gann price and time angles within each
+overlay one line at a time. Since all the lines are not needed all the time I left it up to the user to
+add them as needed. They can be constructed as shown above.
+
+However A special Gann Star toggle has been added to the squares overlay tool to draw the
+entire star all at once for the user’s convenience.
+
+ Color… You can also select the pen width and color for each tool within the selection box.
+
+ How to draw lines…Each line is drawn with a simple Click and drag format. Start a line by
+ placing your pointer over the spot you want to start then click and hold your left mouse button,
+ then drag to the desired location and Release when complete,
+
+ To exit draw mode...Click “Done” on the panel to come out of draw mode.
+
+Time bar Count….. This draw tool option allows the user to Click and drag a line in order to
+count the exact number of grids from a user defined starting point to a user defined ending point.
+This feature is exactly what WD Gann would do in order to calculate the average length of time
+from cycle to cycle. ….Tops to bottoms, Bottoms to tops, Bottoms to bottoms, and Tops to tops.
+These where the most famous cycle counts used by Gann.
+
+
+
+
+ Price bar Count. This drawing tool allows the user to calculate with the same drag and drop
+ format as the previous draw tool but instead of calculating the number of bars from point A to
+ point B this draw tool calculates the price range between two points. You can calculate the
+ difference in price from a high to a low, low to a high and others. Gann used this type of
+research to see if he could find similarities in price fluctuations from various markets before
+tops and bottoms were confirmed.
+
+
+
+
+Time and price bar count
+This button allows the user to draw a line while at the same time view how many boxes are
+being crossed vertically or horizontally while it’s being drawn. This is for drawing price and
+time squares along with other unique outside applications.
+Change Cursor, Color, Line length, and Line Thickness in draw mode
+This draw drop down box also allows the user to change the cursor, line length, thickness and
+color to be drawn and viewed on the chart with a simple click of the mouse. If you want to view
+the draw line extended into the future just put in the provided location marked with a “0” the
+number of boxes you wish the line to extend and left click your mouse to the starting point and
+drag to the ending point. This line will then extend the number of boxes into the future. This
+function also works with the angle tool discussed later on.
+
+AB Range tool
+A B Range Tool is no longer located within the draw tool’s drop down box
+It has now been added as a “new” drop down application on the 5.0 tool bar.
+The AB range tool also features several new applications within this upgrade.
+
+
+
+
+This draw tool now allows the user to research the theory behind Gann’s range divisions of 8,
+Elliot’s divisions of Fibonacci numbers and golden mean calculations one at a time or all at once.
+
+According to Gann and RN Elliot the divisions of the price range were extremely important
+points, places and prices to watch for support and resistance levels. Gann found the 3/8, ½, and
+5/8 divisions of the range should be considered the most important first then the rest. RN Elliot
+found the Golden mean numbers of .382, .50, and .618 to also be important. However, .382 is
+very close to the 3/8 or .375, .50 or ½, and .618 or Gann’s 5/8 or.625 thus reconfirming Gann’s
+divisions of 8.
+
+With this new and improved AB Range tool the user can now set up totally separate price and
+time division charts one at a time.
+1. File button …………….A. File button allows the user to Save the AB Range division list
+                             B. Restore user AB Range
+                             C. Restore default settings
+2. Calculator button …….The calculator button gives the user the ability to do outside division
+research both in price and time
+
+3. AB Range toggle …….AB Range toggle is used to separate the research into price or time
+division research.
+Price Divisions (divides point A and point B’s price range into desired dissections)
+
+
+
+
+Time Divisions (divides point A and point B’s time range into desired dissections)
+
+
+
+
+ 4. Use standard AB Range divisions toggle ……..This button is used to automatically divide
+the price research into divisions of 8.
+5. Add break down percentage button……..This button allows the user to add as many price
+or time divisions as he or she would one division point at a time. A special list will appear in the
+middle of the application box showing the list. The divisions are viewed all at once on the chart
+once the click and drag line is completed. This application is great for not just Gann and Elliot
+time and price research but many other support and resistance techniques as well.
+Price
+Time
+
+
+
+
+Or both
+
+
+
+
+This tool also gives the user the ability to change the Pen size, Line color and Time bar color
+with a simple click of the mouse.
+       Angle Tool...
+
+
+
+
+       This tool displays a changing angle tag in a yellow pop up box as you maneuver your line
+       in a left click and drag motion. Once you release the mouse button, the tag will disappear
+       and the size of the angle will be placed next to the line.
+
+
+
+
+WD Gann spoke a great deal about special angles being a main tool for trend analysis and
+forecasting and due to this, this tool was built. What it does is allows its user to draw not just
+each and every Gann angle from every top, bottom, or zero point position but ALL angles as
+well from any point on the chart in a 90* to 90* format. This is done with the same simple click
+and drag feature as the draw tool. Due to Gann’s angle research being at the heart of most
+researchers this draw tool was made as versatile as possible.
+An Important Note….Over time I have personally found many markets use other angles
+holding trend rather then just the unique ones mentioned by Gann. At times these other angles
+held a much better forecast then just the ones given in his books and courses. Due to this, this
+tool works in two ways, first to research all of the Gann angles and crossover points starting from
+tops, bottoms and zero and second to search for all other unique angles that may exist between
+tops and bottoms or bottoms and tops within a specific market price and time structure.
+
+Example…Gann’s 45 and 63.75 degree angle
+
+
+
+
+       Multiple Gann angles from bottoms and zero point along with others
+A unique angle of 68.2-9 degrees shown to forecast highs and lows on GE
+
+
+
+
+Drop down angle tool box
+When using Angle tool drop down box, 3 applications will appear:
+            o Normal - will draw the angle by the simple drop and drag format as
+                the line will start and end in exact relation to the users start and end
+                point.
+            o Extended will draw the angle starting at the user defined start point
+                but will extend the user set number of boxes into the future. Just add in
+                the special box the numbers of boxes you would like the lines to travel.
+            o New! User Defined Angles… This application allows the user to add
+                as many angles as he or she chooses and draws them all at once! This
+                feature will draw any user defined angles from any starting point and
+                in any direction. Just adding the desired angle to the angle dialog box,
+                the direction you want the angles to travel, up, down, left or to the
+                right and the number of boxes you want them to extend.
+            o Then left click your mouse when pointer is in place.
+Normal Function- draws the angle in a simple drop and drag format. The line will start and end
+in exact relation to the users start and end point.
+
+
+
+
+Extended Function- draws an angle starting from a user defined start point and will extend the
+user set number of boxes into the future. Just add in the special dialog box the numbers of boxes
+you wish the lines to travel. Once you let go of the mouse the line will continue at the desired
+angle until it reaches the set number of boxes.
+User Defined Function- will allow the user to add the angle of the user’s choice rather then
+using the drop and drag feature one at a time. This feature will draw any user defined angle
+from any starting point and in any direction. Just add the desired angles to the angle box, the
+direction you want them to travel, up, down, left or to the right and the number of boxes you
+wish them to extend. Right click on a date and price and all angles will be drawn all at once.
+
+New 5.0 formats!
+
+
+
+
+Just drop your pointer over the date and price you want the angle to start and left click once!
+Exit draw and angle tool button
+Use this button to exit all draw and angle tools.
+Also added to the 4.0 and 5.0 version is the ability to change the price scale setting without
+changing the angles on the chart. In older versions of GGU just the ability to view all angles
+placed on the chart one price scale setting at a time was allowable. This “New” enhancement
+will now give the user the ability to change the price scale vibration one scale at a time
+searching for a better fit without needing to redraw all the angles on the new price scale. This
+feature also holds true for the “Gann Star”. In the older version if the price scale setting was
+changed the user needed to redraw all the angles all over again.
+
+Square Root Angle Button
+The square root angle tool draws angles in perspective to the horizontal axis. The user chooses
+the direction of the lines, color, pen width and divisions of lines to be drawn. You also control
+how far in the future you want them to travel by changing the number within the “max
+difference between start and end option”.
+
+
+
+
+This tool works off Gann’s square of 9 spiral chart equation. This equation states that by taking
+a number of a high or low, getting its square root, adding a whole or fraction number to it, re-
+squaring it then drawing a line from point A (starting price) to point B (recalculated price) in the
+number of days found through the square root process you will get an important angle of
+support or resistance in price and time.
+
+ This research is extensively explained in my one on one lesson series, however several other
+outside books on Gann’s square also do a great job explaining this premise.
+Example 1
+Example 2a
+
+
+
+
+Example 2b
+
+
+
+
+  This tool was built to help test Gann’s square root relationships to price and time points found
+within his master spiral calculator. Gann used a special spiral chart to count time and price
+increments (thus the name calculator) while at the same time noticing where the major angles
+crossed within it. These points were then converted to a line using a special square root
+calculation. This calculated line would start at a predetermined high or low point and cross at a
+specific price on a specific date in the future then extended, thus formulating a Gann time and
+price angle. Once this line was stretched into the future many support and resistance points can
+be located which could not otherwise be found.
+
+Time cycle research
+Cycle Research tool … When this button is clicked a small panel will appear asking the user to
+manually enter a start date directly into its panel box or by just clicking on the chart itself, then
+select the number of bars in a cycle you wish to explore along with the number of variance to be
+used. Once done an exact main cycle will be drawn from the users starting point and forward
+into the future up to 5 years. The variance setting will also highlight a user defined number of
+boxes before and after the main cycle line.
+The user can also select a color for both the cycle and variance setting by clicking on the
+colored boxes.
+Example… Say the user wanted to plot a 14 week cycle in blue with a 2 bar variance in red
+which starts on 2/14/03. A red line will appear on 2/14/03 and a blue line will appear on the
+exact 14th line along with all future multiple bars of 14 with 2 red lines before and 2 red lines
+after each blue line.
+Since I found there is no such thing as an exact 14, 29 or 36 week cycle or any other exact time
+Cycle length I developed this tool. This tool will allow the user to start at any date in the past
+and on any time scale setting such as daily, weekly or monthly and start a fixed numbered cycle
+from that point through the last date in your data file and progress up to 5 years into the future.
+
+What this tool is used for is to experiment with different cycle lengths while at the same time
+adjusting the variance setting. The variance setting is a useful feature I had added to show a user
+defined area before and after the fixed number cycle. This way you could see if any cycle length
+is more consistent with a +/- variance as no cycle is exact.
+
+This tool in the 2.0 version only allowed up to 3 research cycles per chart however the new 3.0
+and beyond now allows the user to test as many cycles as he/she wishes…It’s virtually
+unlimited!
+
+Overlay button
+This button allows the user to choose from any one of 3 specialty overlays located in a drop
+down menu. You can choose from Fibonacci number overlay, Numerical squares, half square
+and quarter square overlay, or a fixed number square such as the square of 45, 90, 144 and
+others. Its user defined!
+Fibonacci Overlay
+RN Elliot found the unique number sequence of 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, 233,
+377 …etc…etc., all the way to infinity also known as the Fibonacci sequence to be not just
+consistent within his found time structure but were also consistent throughout nature herself.
+This tool was built to see, starting from major high and low dates just when these special time
+sequences are due. This tool also shows at the same time the price sections related to this special
+sequence as well. New! Halves and Quarter lines options were also added to the new 5.0
+version
+Example1
+
+
+
+
+Example 2
+Numerical squares, half squares and quarter square overlay
+Gann believed numerical squares could be used to find time and price balancing points that
+coincide with natural squares.
+
+But what exactly are natural squares?
+Natural squares are specific numbers of points up in price or bars over in time that count the
+exact numbers of grids equal to numerical squares.
+
+Numerical squares are numbers starting from 2x2=4, 3x3=9, 4x4=16, 5x5=25, etc., all the way
+through a progressive series. Gann however, felt that his unique overlay of 144 was very
+important as he stated in his courses “Within the 144 overlay all natural squares up to 144 can
+be found”.
+
+What do Natural Squares and Half Squares have to do with forecasting markets?
+Gann as well as other found through this unique research that the natural square locations where
+important places to watch for changes in trend. To him they would show at a glance the support
+and resistance levels as well as the time increments of potential changes in trend. Carl Futia also
+found this to be true in his unique price square research. However through extensive trial and
+error research I found this special tools application is usually more consistent after the proper
+price scale was found first.
+
+“New” 5.0 Squares tool overview
+Full squares in black with 45 degree angle
+
+
+
+
+Half squares.
+The half squares are set the same way as the full squares but instead of using only a whole
+number we use half numbers as well.
+
+Example of half squares: 2.5x2.5=6.25, 3.5x3.5=12.25, 4.5x4.5=20.5, 5.5x5.5=30.25, etc
+
+Half Squares in Red
+Quarter squares in green
+
+
+
+
+Choosing a starting point…By placing your pointer/mouse over an exact price and date then
+clicking your left mouse button will send that special date and price to a file within the
+application. Once this is done click the “overlay” button and the overlay will appear starting
+from that exact price and date location progressing into its future.
+
+The 5.0 numerical square version not only features both price and time squares on screen at the
+same time as in the older 4.0 version but this version also allows the user to separate both time
+and price squares with a single click!
+
+On the right side of the new 5.0’s application box there is now a drop down box asking the user
+to choose from one of three choices:
+ 1. Show price and time lines
+ 2. Show time lines
+ 3. Show price lines
+Both price and time numerical squares
+
+
+
+
+Time line numerical squares only
+Price line numerical squares only
+
+
+
+
+In order to temporarily clear a current overlay from a chart just right clicks on its date located in
+the dialog box and highlight. Then click “clear selected” button. This will temporarily remove
+the overlay from the chart but will keep the date in the dialog box itself. If you want to bring it
+back just click on the “overlay” button and it will return. If you want to permanently remove an
+overlay double click on its date and it will be removed for good.
+
+Price and time square overlay
+Gann found the numerical overlays of 52, 90, and 144 to be very important tools in determining
+the direction and trigger levels within individual markets. He also felt the high price squared,
+the low price squared, and both the price and time range squared where also important points to
+watch.
+
+This research was done by taking a high or low price from a trend change date and overlaying a
+special drawing over it. By moving up or down in price an exact number as the price itself along
+with over in time would complete what was known to Gann as a time and price square.
+
+This specialized overlay could be used in two ways, first, to draw blank overlays over the chart
+used for locating potential division point of both price and time support and resistance levels,
+and second, to add the special drawing angles as constructed within his unique overlay pattern.
+(Given within his master courses)
+
+This special pattern as drawn by Gann tends to show many interesting and important points of
+force when the proper price scale is found first.
+New Gann star option button... For those who rather not draw the Gann start line by line can
+now simply click on the square of your choice and check the Gann Star option. Once the square
+is overlaid it will automatically draw the star within its parameters.
+
+
+
+
+Square of 90 # 1
+Square of 90 # 2
+
+
+
+
+Square of 90 with price vibration set at .70
+Time range of 37
+
+
+
+
+Time Range of 30
+IBM low price of 54 doubled and divided by 10 …...or the square of 108
+
+
+
+
+Price range of 39 squared
+Multiple squares of 39 on a weekly chart
+
+
+
+
+Square of 90 divided by 10 or multiple 9 month periods with Gann star
+Square of 90 with Gann star 2
+
+
+
+
+Multiple Squares of 90 with star angles from major weekly low
+Square of 52 starting from a major weekly low with Gann star added
+
+
+
+
+The Clear button
+ The clear image button will erase all drawing images and text from the current chart. This will
+occur all at once so make sure you want to erase ALL work done before you click this button!
+IMPORTANT!
+Once you press this button, you cannot get the images back unless they are restored from a
+saved-chart. After clicking this button a special box will pop up asking if this is what you want
+to do.
+
+
+
+
+The Undo Button
+This button clears the angle, square root angles, lines, or text drawn in a last one in… first one
+out order. The items are stored in a FILO method (First in – last out), so you can clear all
+images, one at a time.
+
+
+
+
+The Print Button
+The Gann Grids Ultra program has limited print format. This limited print feature just sends the
+current screen to the printer and CAN NOT print full length charts nor can it print full screens
+with dates. The program was built strictly to do the special research on screen then to save your
+research data to an ASCII file in a location of your choice.
+If a full print version is needed…. The Gann Grids Printing Version (sold separately) has
+been modified to except the file generated with the Gann Grids Ultra program. This add on
+printing feature allows the user to print the entire chart with dates only (see Gann Grids Print
+version manual located at http://www.pvtpointmktres.com/guide.pdf ) “but will not” allow the
+drawing tools, overlays, and colored bands to print.
+
+View Metastock data button
+This button will allow the user to view the Metastock chart data after an account has been
+established. Please be aware that due to Metastock security locking limitations only one
+Metastock chart can be opened at a time!
+Attach notes to charts button
+ This button allows the user to easily add notes and charts to a saved location for quick and easy
+retrievals.
+
+
+
+
+Gann monthly cycle tool button
+Based on the W D Gann master time periods mentioned within his various books and courses
+this tool was built to save the user’s time marking each date in every month through out the
+course of his/her monthly data. This tool will give the monthly trend changes going back 30, 20,
+15, 14, 10, 7, 5, 3 and 1 years in a list format with the simple click of a button. Also be advised
+that this tool will only highlight and open when a monthly chart is viewed.
+This tool is systematically set up by left clicking your mouse on the farthest set of monthly high
+and lows dates going into the future in sequential order. Once this is done all you need to do is
+put in the desired year you would like to forecast and the program will do the rest.
+The above format is a series of Gann cycle months for the year 2007. If another year would like
+to be viewed just put that year in the provided window and the cycle years will automatically
+update to fit the new projects format. The entire monthly high and low series only needs to be
+clicked on and added once as they could then just be saved for future research
+
+Time Progression tool
+
+
+
+
+The progression tool was developed to find the exact day, weeks or month a user defined cycle
+runs out. By placing a user defined cycle length in the interval box, the time frame in the
+“progression in” box along with how many periods you wish to view will set the tool’s calendar
+scan. Once done choose a user defined date by directly entering it in the “Add” date section or
+just by clicking your mouse directly over the desired time period from the chart itself. Then
+click…..“Generate”……. The tool will then start the progression in sequential order.
+
+This tool is used to isolate future time periods multiple “time aspects” combine within.
+
+
+
+
+Example: A 7.5 week cycle starting from 3 main time swings and progressed 100 periods
+
+
+
+
+Using this format shows all 7.5 week periods/dates starting from the individually set date series.
+ If we wish to scan the month of June 2009 we see starting from the 3/10/ 2009 bottom, June 23
+is at 15 weeks. From the 9/19/2008 top we see the date 6/16/2009 is at 37.5 weeks. Both are
+very important time periods within the 365.25 solar year.
+Date Function
+This tool is used to find the difference between 2 dates by adding or subtracting days, weeks,
+months or years from a given date. (Note... This function does nothing to the charts themselves.)
+
+
+
+
+This tool is used for researching potential turning dates based on fixed time cycles. If you want
+to know the date in 7, 14, 21, or 49 weeks in the future or the anniversary date of any time cycle
+starting from a user defined date this tool will give the answer.
+
+Data Download Button
+This button calls on the Pivot Point Data Downloader working exclusively with the Dial Data
+download system. This feature currently has the ability to retrieve end of day data through a
+Dial Data specially built downloader. You must have an internet connection along with a Dial
+Data account, user ID and password is needed to connect to this service. This featured account
+is not provided by Pivot Point research but must be done directly through the “Track Data
+service”. See details under “Pivot Point Data Downloader” heading for signup on the web
+page.
+Note…Please scroll to the end of this manual for an in-depth description of the downloader
+
+
+
+
+Metastock downloader button
+This button will link directly to the metastock downloader once an account has been opened.
+To open a metastock account you have been equipped with a direct link to a “Special 30 day
+free trial page” located in your Gann Grids Ultra start menu list or go to:
+http://www.pvtpointmktres.com/layout/?show=metamain
+For more information on Metastock download setup please go to the above link and add
+the recommended parameters. This link will send you directly to the information and
+instruction page.
+
+                  End of Gann Grids Ultra Basic Version
+                       Gann Grids Ultra Advanced Version
+                                          Astro tool version
+
+In the early part of 1993 I became interested in becoming a technical research specialist and
+sought as much information as I could on the subject. I read as many books, courses and articles
+as I could find while at the same time testing dozens of technical forecasting systems. I however
+found most if not all fell short of my expectations in actual trading.
+
+After an extensive investigation on the subject the names of W D Gann, R N Elliot, and George
+Bayer stood out among the rest as being the best of the best within the fascinating field of
+technical analysis and forecasting
+.
+What caught my attention about these 3 men were each had a larger then life Bio, along with an
+astonishing track record of forecasting market turns weeks if not months in advance…
+Documented!
+
+However, the fact that Gann and Bayer used a kind of astronomy to generate their forecasts
+didn’t sit well with me at first, in fact to me at that time the whole subject was nothing more then
+superstition and mumbo jumbo rather then an actual science.
+
+What I did eventually begin to see after 3 intense years of research was Gann spoke freely about
+many natural and interesting laws such as the laws of vibrations, the laws of geometrical angles,
+range divisions, time cycles, and natural time sequencing followed by an introduction to his
+master calculators. Gann also showed a unique understanding of astronomy and astrology as
+explained in several examples of planets having a direct relationship to price support and
+resistance levels along with other astronomical calculations.
+
+It seemed to me that his understanding of astrology was more of a hard factual science that could
+be back tested and confirmed, rather then just chart interpretations of pending doom and gloom.
+His type of astrological forecasting was more of an astronomical method with straight forward
+rules rather then what would be given from most street corner astrologers both around at that
+time or even today …… I was intrigued!
+
+George Bayer spoke of Hebrew letters, graphical ellipses on specially sized chart paper, large
+amounts of astronomical observations on what he felt were the keys to unlocking most markets
+price and time reversal periods, aspect timing using the planets and hot zodiac degrees locations,
+theory behind solar and lunar eclipses in forecasting and also something he called his 5 fold
+horoscope. .
+
+He also felt many ancient metaphysical texts where filled with hidden secrets of natural time
+cycles as explained in his various books and courses. He also stated this was the origin of his
+unique research and astronomical trading tool applications
+
+R N Elliot believed his research on the natural coincidences of a special number cycle was
+consistent with not just the fluctuations of our universal markets but also tied directly into nature
+herself. He found that the Fibonacci sequence, the golden ratio, and the distinct number pattern
+found within his pyramid research were all around him all the time. He found the sacred
+sequences and numbers in natural plant growth patterns, sea shell spirals, vortex spirals, planet
+rotation cycles, sacred architectural geometry, musical note intonations and galactic progressions
+
+However, at first being some what of a skeptic I tested every tool in exactly the way instructed
+to do by each within their various works, and to my surprise I found many of the Astro tool
+applications did in fact work…. and at times work well!
+
+I have termed this special astro technical timing, individual and natural energy date research.
+
+I have included within the Gann Grids Ultra Advanced version all of the extremely user friendly
+tools explained in the basic version plus several of what I consider the most consistent astro
+technical applications found within their unique and fascinating research.
+
+For more advanced astrological/astronomical and forecasting tool application found within the
+three master’s works, I highly recommend purchasing most if not all of the Gann, Bayer and
+Elliot books and courses located at several web locations.
+
+Also write to Bonnie Lee Hill and ask for a “FREE” copy of her “Tunnel through the air report”.
+At bonniehill@verizon.net
+
+Bonnie Lee Hill in my opinion is one of the leading astro technical researchers within this unique
+science. I also found her "Tunnel through the Air" material to be a ground breaking study.
+
+Astro Tool 1 – Aspect Fingerprints
+The first astro tool takes a series of dates by left clicking your mouse on the daily chart dates
+from major and medium high and lows points going back 5, 10, and 20 or more years then breaks
+each date down into astro aspects and planetary combinations. This tool then groups them
+together for research. The term astro fingerprints is a term formulated through extensive trial and
+error research as what was discovered over time was when multiple major and medium turning
+dates where astronomically analyzed by dissection, each market seemingly had statistically
+predominant and unique set/sets of planetary aspects around them. Just like a unique set of
+astrological fingerprints.
+
+Finding the highest number of specific planetary combinations around most tops and bottoms is
+the goal of this tool and works in Heliocentric and Geocentric settings
+
+When you select this tool from the Astro Tools menu, a box will pop up. Use this box to set
+Date Parameters for Aspect Fingerprints. Click on your chart, on any dates. They will appear
+inside the astro tools index box. When you are satisfied with the dates, click the “Run Tool”
+button to run Aspect Fingerprints.
+
+
+
+
+“Clear all” will remove all the dates in the box.
+“Copy” will copy all the dates in the box to the clipboard.
+“Paste” will copy any dates you have on the clipboard to this box, so you can grab dates from
+text documents or spreadsheets.
+
+“Run Tool” will execute the tool with the dates you have selected.
+Add any other dates by selecting the date and pressing “+”. Choose your settings and select your
+transit events. You can click on the planets and aspects in their list boxes by single-clicking, or
+select multiple by holding the shift or <Ctrl> keys. Populate the transits box by pressing “+”.
+Once all these parameters have been set, press “Transit Count” or “Aspect Count”.
+Tool #1 Menu:
+
+You can also double click on any one of the dates in the series and see all the planetary locations
+and aspects taking place on that day.
+File button -is to save settings to a file, to open a file containing saved settings or to place the
+information on the screen in a text file.
+
+The Aspects button is used to modify your set of aspects by adding or deleting user set aspects.
+
+The Copy button copies the list of transits generated to the clipboard.
+
+The Excel button copies the list of transits generated to a spreadsheet.
+
+Example
+You can see on the right a series of combinations along with the number of times it was present
+around each date …in this case 14 dates were selected with a 1 degree orb and in a geocentric
+format. You can also by clicking the “transit count” button exactly the type of aspect each
+combination is making.
+
+Astro tool #2_Aspect highlight
+Once a series of high probability aspects/combinations are found using tool # 1’s functions then
+tool # 2 takes over. What this tool does is allow the user to enter the exact planetary combination
+found to be consistent within tool # 1 research and search the heavens through a users set time
+period to find the dates the aspects will again occur.
+Once the dates are located within tool # 2’s functions they can then be highlighted to the actual
+daily charts.
+Select your settings and transit events (as in Tool #1). Press “+” to add transit events to the
+“Transits” list box. Press “List Transits” to populate the data grid. You may now transfer these
+dates and plot them on to your Gann Grids Ultra chart by clicking and dragging on the data grid.
+When you have finished highlighting the selected dates then right-click and a pop up menu will
+appear with two options. The first time you do this “Clear Clipboard”, then “Add to Clipboard”.
+You can keep adding different selections of dates to the clipboard. Once you are done, you can
+plot them on your grid. Closing the tool is not necessary. Just remember to clear the
+clipboard for each set of dates you wish to highlight, or they will be left on the clipboard and
+repeat.
+Tool 2 Menu:
+ The File button saves settings to a file, opens a file containing saved settings, or to place the
+information on the screen in text format.
+ The Aspects button is used to modify your set of aspects by adding or deleting user defined
+sets.
+ The Excel button copies the list of transits generated to a spreadsheet.
+
+Example
+Say the aspects of mars /Saturn was found to be persistent in many of the high and low dates in
+tool #1, In tool # 2 you can scan a user set time frame looking for the dates in the future that the
+special planetary combinations are due. Each date can then be highlighted on the daily chart and
+in the color of your choice.
+
+This example shows the highlighted dates of the Mars/Sat aspects from 1/01/07-10/01/07
+Astro Tool 3 – Planet Ephemeris
+With the ephemeris tool you can look for the dates of planetary retrograde periods, direct
+periods, eclipse hot degrees locations, zero north declination, zero south declination, max north
+and max south declination, planet ingressions into new signs, George Bayer’s mirror point
+locations and much more.
+
+Within the new 3.0 version several new selections have been added, Latitude and Speed
+
+You can also scroll through multiple months to find the date’s planets cross over the “Hot
+Zodiac degrees” found with the ‘Zodiac Hot Spot Locater Tool” explained later.
+
+Tool 3 lists ephemeris data by user defined dates. Enter your settings, press “Generate” to
+populate the data grid. This tool does not interact with the Gann Grids Ultra charts themselves
+.
+The Excel button copies all your data to an Excel spreadsheet, which will open immediately.
+Note… Please be patient and wait for the spreadsheet to completely load before attempting to
+scroll, or modify because this may “lock” your screen causing it to be unresponsive. You will
+know when loading is complete after the column headings and dates turn pale yellow and the
+cursor changes to your default pointer.
+
+ This tool lists Geocentric, Heliocentric, right ascension and declination ephemeris going back
+200 years in the past and up too 50 years into the future.
+
+Geocentric …areas in gray are retrograde dates and areas in red are planetary ingresses
+Heliocentric.
+
+
+
+
+Right Ascension in degrees
+Right Ascension in hours and minutes
+Declination
+
+
+
+
+LATITUDE
+SPEED
+
+
+
+
+This tool also has an added feature in the 3.0 version! You can now view the Declination
+and Latitude of each planet one at a time or all at once in a graphical format. This format
+can be accessed from the special drop down box located on the main screen’s tool bar.
+What this tool does is allow the user to view several planets declination or latitude as an overlay
+used for locating crossovers dates
+For Declination
+
+
+
+
+After clicking on the Declination function the above screen will appear. Next click on the Run
+ephemeris button to open up the ephemeris and set to Declination then set time period you wish
+to view. Once this is done select the planet by left clicking on the planets name column and the
+whole column will be highlighted all at once. Then click the “File” button and “Create Planet
+Log file” link. This will send the needed data to the tool.
+
+
+
+
+After this go back to the Declination screen and click on the “Edit” button, then “Read new
+waves”
+
+Important- only 1 planet can be sent to the log file at a time!
+In this case Venus (pink) and Mars (Red) were selected from Nov. 18 2006 – Dec. 18 2007
+
+
+
+
+To view any date on this chart just “left” click on the desired point and the date will appear at the
+bottom left of this chart.
+
+
+The Latitude chart
+The Latitude chart is set up in exactly the same way as the Declination chart with 1 exception.
+When you pull up the ephemeris tool just click on the “Latitude setting” instead of Declination
+Moon, Venus Latitude
+
+
+
+
+Astro Tool 4 – Planet Transit
+This planet transit tool takes the theories of both Gann and Bayer to a whole new level!
+This tool will take the zodiac location of any planet from any date and finds a user defined aspect
+degree within a user set time period.
+
+This tool is used to find the exact dates each planet makes aspects to itself from a unique starting
+location. Gann and Bayer found this concept to be useful as they found many trend change dates
+could be calculated into the future with it.
+
+Each realized when dates from multiple tops and bottoms where found clustering (from this
+unique single planet research) around single dates in the future a more accurate and higher
+probability forecast could be made.
+
+The user also controls the aspect degree to be used as well as the ephemeris type, Heliocentric or
+Geocentric. The dates found could then be highlighted onto the daily charts if desired.
+
+Enter your settings, press “Generate” to populate the data grid. You may now transfer these
+dates and plot them on to your Gann Grids Ultra chart by clicking and dragging on the data grid.
+When you have highlighted the selection, press “Copy” on the menu bar. Once you are done, you
+can plot the dates on your grid.
+Tool 4 Menu: “Colors” – allows the user to pre-select the colors of your planets.
+
+
+
+
+This example shows the “Sun” starting on 3/21/2006 -4/21/2007 and finding the dates it reaches
+all 30 degree aspects to itself for 1 year.
+The Sun’s 30 degree aspects from itself
+Astro Tool 5 – Planet Transit
+This tool takes any zodiac location, say the location of an eclipse, retro or direct degree, special
+zodiac degrees of asteroids, fixed stars, George Bayer’s mirror points and others and find the
+dates each planet makes a user defined aspect to it in a user set time period.
+
+This mundane energy degree research is a fascinating study in itself and highlights many major
+and minor trend change periods in both individual and the overall markets.
+
+This example shows the 3/29/06 total solar eclipse degree of 8 Aries 35 min. and finding the
+dates each planet makes all 15 degree aspects to it from 1/01/06-5/30/07.
+
+Example 1a
+Example 1b
+
+
+
+
+Example 1c
+Mars highlighted in red
+
+
+
+
+Enter your settings, press “Generate” to populate the data grid. You may now transfer these
+dates and plot them on to your Gann Grids Ultra chart by clicking and dragging on the data grid.
+When you have highlighted the selection, press “Copy” on the menu bar.
+
+Once you are done, you can plot the dates on your grid. Closing the tool is not necessary.
+“Colors” – pre-select the colors of your planets.
+
+
+
+
+“Excel” – copies all your data to an Excel spreadsheet, which will open immediately. Please
+wait for the spreadsheet to completely load before attempting to scroll, or modify because this
+may “lock” your screen causing it to be unresponsive. You will know when loading is complete
+after the column headings and dates turn pale yellow and the cursor changes to your default
+pointer. You must have Microsoft Excel installed on your computer to use this function.
+Astro Tool 6 – Zodiac Hot Spots
+This tool also takes the dates of all user selected highs and lows directly from the daily charts by
+left clicking on them. Then it takes the dates and places each planet from each individual date on
+a special zodiac overview type window and gives a total /tally of the hottest degrees.
+
+This tool was developed to find special zodiac hot spots locations of individual markets. In the
+previously discussed “astro fingerprint tool” we found many markets have special planetary
+combinations around each important turning date .What this tool does is it allows us to see at a
+glance if any single planet or multiple planets have special hot zodiac degrees which may be
+triggering reversals.
+
+But what exactly is a hot degree?
+A hot degree is a specific zodiac location that would show a high probability of market reversals
+when a specific planet or multiple planets crossed over that location.
+
+George Bayer showed within his unique astro research that some markets tend to have special
+zodiac locations or “Zodiac Hot spots” which tend to trigger reversals in both long and short
+term trends. What he explained within in his various books and courses was that when a specific
+planet or multiple planets would cross over this special zodiac degree’s the markets direction
+would turn.
+
+When you select this tool from the Astro Tools menu, a box will pop up. Use this box to set
+Date Parameters for Zodiac Hot Spots. Click on your chart, at any dates that you wish. They
+will appear inside the box. When you are satisfied with the dates, click the “Run Tool” button to
+run tool 6 with the dates you want.
+“Clear all” will remove all the dates in the box.
+“Copy” will copy all the dates in the box to the clipboard.
+“Paste” will copy any dates you have on the clipboard to this box, so you can grab dates from
+text documents or spreadsheets.
+
+“Run Tool” will execute the tool with the dates you have selected.
+Add any other dates by selecting the date and pressing “+”. Choose your settings. Press
+“Generate” to populate the grid.
+Tool #6 Menu:
+“Tally” – will total the columns based on your settings. Check the planets you wish to include.
+Press “OK” when you are done, or “Cancel” to restore previous values.
+LONGITUDE
+
+
+
+
+NEW IN VERSION 3.0
+
+With this new Zodiac hot spot adaptation you can now tell exactly where every planet was in
+declination, latitude, and RA as well as longitude in spread sheet order.
+DECLINATION
+
+
+
+
+RA
+LATITUDE
+
+
+
+
+DECLINATION GRID
+RA. GRID
+
+
+
+
+SPEED
+The “Excel” button – copies all your data to an Excel spreadsheet, which will open immediately.
+Please wait for the spreadsheet to completely load before attempting to scroll, or modify because
+this may “lock” your screen causing it to be unresponsive. You will know when loading is
+complete after the column headings turn pale yellow and the cursor changes to your default
+pointer.
+
+Astro Tool 7– Planet / Prices
+This next tool will plot the zodiac location of any planet and convert it into a price then overlay it
+over a daily price bar chart.
+
+Gann had mentioned in one of his courses that the zodiac location of a specific planets or a
+combination of several special planets would show superior support and resistance levels on the
+markets he was following, when converted into a specific price.
+
+Gann however, was very vague about explaining the exact method used in converting his zodiac
+degree locations into an exact price amount. After much trial and error research this tool was
+constructed with the idea that when looking at his numerical squares of 9, 7, 12 and others and
+starting the 1 degree Aries at $1and 2 degrees Aries at $2 ext…..we could follow through the
+whole zodiac location the same way. This concept also states that if you are at lets say 2 degrees
+Aries all prices in that row 2, 11, 20, 29, 38, 47, 56, 65, 74 will reflect a price/zodiac
+relationship…in other words each number/price in that line will be considered to be an active or
+hot price.
+
+These prices will be viewed on screen as bands or waves of colors. This tool is set up in a way
+which allows the user to add as many lines above or bellow the actual zodiac location he/she
+wants. The bellow prices are in red, the above are in blue, and the actual zodiac location
+translated into a full price are in gray….
+
+Example square of 9 grid
+9, 18, 27, 36, 46, 54, 63, 72, 81
+8, 17, 26, 35, 44, 53, 62, 71, 80
+7, 16, 25, 34, 43, 52, 61, 70, 79
+6, 15, 24, 33, 42, 51, 60, 69, 78
+5, 14, 23, 32, 41, 50, 59, 68, 77
+4, 13, 22, 31, 40, 49, 58, 67, 76
+3, 12, 21, 30, 39, 48, 57, 66, 75
+2, 11, 20, 29, 38, 47, 56, 65, 74
+1, 10, 19, 28, 37, 46, 55, 64, 73
+
+This tool also allows the user to choose any square he wants.
+Enter your settings, press “Generate” to populate the data grid.
+Please note the following:
+   • Wait until “Stop” changes to “Generate” before attempting to plot the waves on your
+       Gann Grids Ultra chart.
+   • If the data is not completely generated, you will not get the proper lines / waves on your
+       chart.
+   • Only prices above $0 will appear on the grid. As pictured above, the cells that appear
+       blank were either 0 or below. You can scroll to your right or down to find the populated
+       cells.
+   • The more lines “above” and “below”, the longer they will take to generate and plot.
+   • The larger the date range, the longer the lines / waves will take to generate and plot.
+   • If you choose to combine planets, make sure “Mean of Prices” option is selected. You
+       will be prompted to assign a color for the waves, once the data has been generated.
+   • Closing the tool is not necessary for plotting multiple series of waves.
+
+Tool # 7 Menu:
+“Edit” -> “Color Settings”: Color settings for lines /waves.
+Press “>>” for planet combinations.
+
+
+
+
+“Edit” -> “Log File Settings” to change the file name and path. This log file contains the
+coordinates of the lines / waves and color. Please leave this as default unless absolutely
+necessary to change. Changing the location of this file while Gann Grids Ultra is running
+may cause your lines / waves to be improperly plotted or lose your coordinates.
+Planet / Prices Settings
+Maintain the lines / waves from Astro Tool 7 Planet / Prices.
+
+
+
+
+Once you have plotted the coordinates from Tool 7, you can maintain the set of lines. The above
+screen shows a daily chart display Mercury waves.
+Color – to change the color of a set of waves, select the set from the list box by single clicking.
+Click on the color box and select a color from the color dialog box. Then press “Change Waves
+in Series to this color”. This will apply the new color, redraws the screen.
+“Draw Waves” – redraws the screen with current waves.
+“Clear Waves” – erases waves off the screen, but does not permanently delete them.
+“Remove all” – permanently removes all waves and redraws the screen. If you want to remove
+only one series, double click on the series in the list box.
+“Read New Waves” – will read the log file generated by Tool 7 and plot them.
+Price Scale setting – plots the waves using the current price scale or 1.00. For example if the
+price scale is 0.50 (50 cents) the waves will be twice as far apart as they would be at 1.00.
+“Cancel” - will close this box.
+Example using square of 1.5 with chart set at .25. Red lines are Saturn and blue is Jupiter
+
+
+
+
+DEGREE OF SEPARATION
+This new tool will take the exact degree of separation for a chosen set of planets on a chosen list
+of dates. What this tool is for is similar to the astro fingerprint tool except instead of searching
+for a the average aspects in multiples of 3.75, 7.5, 15 and the rest , this tool will tell you exactly
+what degree of separation was present on each date for the set planets along with its speed
+variation.
+Example:
+Say you want to know exactly what unique aspect or speed variation are present for any
+planetary combination from the tops and bottom dates you have selected, all that is needed is
+choose what combination you want from the drop down box and click “FIND SEPARATION”
+
+Sun /Mars,
+
+
+
+
+This tool is used to find non-standard aspects spoken of by George Bayer in several of his books
+and courses. Bayer felt that though most astrologers use the standard sets of aspects he felt many
+markets could also have very unique and special degree of separation between a specific set of
+planets. The same can be said for their unique speed differential. If after testing several sets of
+planets you discover a special degree of separation controlling a markets trend change periods
+(say 131 degree’s) you can then use tool # 2 (Aspect Highlights) to find the dates in the future
+when these specialized aspects are due.
+
+PLANET SPEED DIFFFERENTIAL TOOL
+After locating a special speed differential from the “Degree of separation tool” this tool will then
+find that unique degree of separation into the future. Just set the desired period to search in the
+formatted boxes, add the specific planetary combination and set the desired speed differential in
+the set window and click “FIND DATES”
+Dates of “SUN/MARS” with speed differential of 00.30
+NEW!! Astro Tool 10 - PLANETARY SPEED LINES
+The Planetary Speed Lines Tool takes the speed of any planet singularly or combined and places
+it in a user-defined date and price location. If more than one planet is selected it will take the
+mean motion of each and draw its motion at a user defined starting point on screen with the
+simple click of a button. This tool is for researching tops and bottoms in relation to the motion
+and daily speed of the heavenly bodies.
+
+To run planetary speed lines select Tool 10 from the Astro Tools Menu on Gann Grids Ultra.
+Select a start date, the number of boxes you want to extend on the chart and one or more planets.
+If you decide to combine planets, you must take the mean motion and check the Mean of Prices
+option. Select the Centric Type. Press the Generate Button. Wait until the Generate button is
+enabled, and switch windows back to the Gann Grids chart.
+
+
+
+
+Select the Waves button from the Gann Grids toolbar. The fourth item on the menu is “Planetary Speed
+Lines”. If the log file is in the default location, it will automatically be read and appear on the list box. If
+not, press “New Line” from the menu. In order to plot the new wave, follow these steps:
+    1. Highlight the line inside the list box.
+    2. Click on the chart at the location where you want the wave to appear, adjust the color and decide
+         whether or not to mirror the image.
+    3. When you are satisfied with the location, click “Lock in Position”.
+    4. Click “Draw” or “Go To Page” on the Gann Grids Control Box (located on the bottom of the
+         screen).
+
+    5. To flip (mirror) the wave, highlight the line inside the list box, choose “Yes” option in “Mirror
+       Current Image?”, then Click “Draw” or “Go To Page” on the Gann Grids Control Box (located on
+       the bottom of the screen). This will flip whatever the current image is, not necessarily the
+       original line.
+Hi-Lite Dates Color Settings
+This button Sets the color of date lines from Tool # 2 (Aspect Highlights or external sources).
+Important-Please set these colors before highlighting the dates. Click on the colored box and
+select a color from the color dialog box. Press “OK” and the color will appear next to the source.
+Press “Close” when you are finished.
+Planet Color Settings
+Sets the color of date lines from the Astro Tools 4 and 5, categorized by planet Please set these
+colors before highlighting the dates. Click on the colored box and select a color from the color
+dialog box. Press “OK” and the color will appear next to the source. Press “Close” when you
+are finished.
+System Requirements and Installation Instructions
+Requirements for 4.0,5.0:
+Windows 2000, Windows XP (recommended with SP2), NEW!! Windows VISTA
+Minimum 512 MB memory
+20MB Free Disk Space
+An Internet connection - For installation and registration
+
+Run the setup program from CD:
+If your autorun option is OFF:
+Click “Start” menu, “Run”
+Browse the CD for:
+E:\GannGridsUltra\GGUSETUP.exe (where E:\ is your CD drive)
+
+Otherwise AUTORUN will install Gann Grids Ultra as soon as your CD loads.
+Please WAIT for this feature to load, as it may take up to 90 seconds!
+Once you have read the Welcome screen, and have closed all other applications, you
+can install Gann Grids Ultra.
+The setup copies all the required files to your PC.
+The setup will create a program group, but not desktop icons.
+
+Recommendations:
+   • Uninstall older versions of GGU before installing a new version.
+   • If the installation prompts you for a file conflict, or out-dated file we
+     recommend that you KEEP your old version.
+   • We recommend adjusting your monitor resolution to 1024 x 768 pixels. At a
+     lower resolution, some chart functions may not be viewable.
+   • IMPORTANT! Take down any and all FIREWALLS before using Gann Grids
+     Ultra for the first time. Especially in Windows VISTA, FIREWALLS will
+     prohibit GGU from registering your key. Once the registration process is
+     complete, protect your computer by enabling your Firewalls again.
+   • To install GGU you must have ADMINISTRATIVE RIGHTS. Please check
+     your “User Settings” in the “Control Panel” to check.
+
+Check our website www.pvtpointmktres.com for FAQs on installation issues.
+Pivot point Data Downloader advanced overview
+
+Our Data Downloader currently has the internal ability to retrieve pricing data directly
+from the Dial Data service, and places it into a fixed format for Gann Grids Ultra
+programs functions.
+
+
+
+
+Requirements:
+   1. Internet Connection
+   2. Subscription to Dial Data – with a User ID and Password.
+
+Before you begin a download:
+       1. Establish your internet connection, temporarily disable ALL FIREWALLS.
+       2. Open Pivot Point Data Downloader from your Start Menu or from Gann
+          Grids Ultra toolbar.
+       3. Answer “Yes” if you have established your connection.
+       4. To set up your User ID and Password from Dial Data – click on “Settings”,
+          then “Host Information” from the main screen menu. If you attempt to
+          collect data without a valid ID, your transmission will hang. In this case,
+          please select the “Interrupt” button to stop your PC from trying to transmit.
+5. Enter your user information. The host website is currently
+   “dd.trackdata.com”. If this should ever change, this field can be modified.
+   The Port is usually “23”, however if this port is not available on your
+   computer, you may adjust this. If your Downloader cannot connect, try a
+   different Port. Once you select “OK” your settings will be saved for future
+   use.
+6. To add or remove stocks, click “Add Stocks” button
+7. You have been provided with a sample symbol table from “DialData”,
+   which should be updated periodically. You can select from the available
+   securities or add symbols to your list by typing them in the box provided
+   and pressing “+”. All the symbols you add will appear in the “Selected
+   Symbols to Download” list box. Click on a symbol and press “-“to
+   remove. To change the list of available securities, you can type in the
+   name of a new file, browse for a file with “…” browse button, or “Edit
+   Settings”.
+8. “Edit Settings” will take you to a new screen where you can supply the file
+   location and format as follows:
+
+
+
+
+9. Determine what you want to download and where you want to put the data
+   by selecting “Settings”, and “Download Options” from the main screen:
+    Or Right-Click on a symbol on the main screen to edit options:
+
+10. “Download Type” is either “Daily Data” or “Historical”. Daily will
+    download the prices of all the available Dial Data securities for ONE day –
+    latest closing date. Historical data is a history of prices for each security
+    you have selected. Select a frequency.
+11. “Date Range” is the time period you desire prices for each security. If the
+    prices do not exist for that time, only the prices available will be retrieved.
+12. You have been provided with a sample symbol table.
+       You can select from the available securities or add symbols to your list
+       by typing them in the box provided and pressing “+”. All the symbols
+       you add will appear in the “Selected Symbols to Download” list box.
+       Click on a symbol and press “-“to remove. To change the list of
+       available securities, you can type in the name of a new file, browse for
+       a file with “…” browse button, or     “Edit Settings”.
+
+13. “Edit Settings” will take you to a new screen where you can supply the file
+    location and format as follows:
+
+
+
+
+14. Determine what you want to download and where you want to put the data
+    by selecting “Settings”, and “Download Options” from the main screen:
+    Or Right-Click on a symbol on the main screen to edit options:
+
+
+
+
+15. “Download Type” is either “Daily Data” or “Historical”. Daily will
+    download the prices of all the available Dial Data securities for ONE day –
+    latest closing date. Historical data is a history of prices for each security
+    you have selected. Select a frequency.
+
+16. “Date Range” is the time period you desire prices for each security. If the
+    prices do not exist for that time, only the prices available will be retrieved.
+
+17. Select a File Path to determine where your data will be placed. The
+    individual files will be named with the symbol and frequency. For
+    example, the IBM download will be IBMD for daily data.
+Begin Downloading:
+
+   1. “Connect to Host” – Press this button to connect to Dial Data.
+   2. Immediately after Yellow connection light comes on, press “Begin
+      Download”
+   3. Some incoming data will appear in Incoming Data window. Please
+      wait for a response before pressing any buttons.
+   4. When data is downloaded, you will be prompted. You may then exit
+      the program.
+Trouble Shooting
+   •   Cannot Connect – make sure you have an established connection
+       BEFORE running this application. Exit the program, connect to the
+       internet, and rerun the program. If this does not work, try changing the
+       Port in Settings, “Host Settings”. The port is not a local port, it is an
+       internet port. Our default is port is 23. Again, after you change your
+       setting, exit the application and rerun.
+   •   Cannot Connect – make sure a Fire Wall such as AOL Security is not
+       blocking the connection to Dial Data.
+   •   Connection Timed-Out – This may happen on a slow dial-up connection.
+       If there are long gaps between requests, Dial Data will close the
+       connection. If you get this message with a high-speed connection, select
+       Begin Download immediately after Connect to Host.
+   •   Connection Timed-Out – If you have a Fire Wall such as AOL Security, it
+       may block Pivot Point Data Downloader from connecting to Dial Data.
+       When a message pops-up to inform you of the block, unblock to enable the
+       connection. You may have to rerun the program.
+   •   Connection Timed-Out during download – Too much data to download
+       in one session. Dial Data limits the amount of data it can send during one
+       session. Exit the application, decrease the number of securities by un-
+       clicking some on the list, connect to host, begin download. It is best to run
+       the program once for every session.
+   •   Cannot find symbol file – Sample file has been removed from location,
+       and a new file has not been identified. The program will run without this
+       file. If you wish to establish a symbol file, you can download one for free
+       from the Dial Data website. Change the settings to reflect the file path and
+       format of your new symbol file.
+   •   Unsuccessful Download – check your User ID and password.
+   •   Unsuccessful Download – make sure the symbols you have entered are
+       valid. If Dial Data does not recognize the symbol, it may result in errors.
+       If there are several securities to download, normally Dial Data will bypass
+       the illegal ones and send data for the others. If Dial Data encounters too
+       many errors, transmission will cease.
+   •   Unsuccessful Download – make sure you have ample space on your hard
+       drive to place the data. If you are a user that does not have the rights to
+       create files and folders on the assigned drive, reassign the download path
+       via “Settings”, “Download Information”, or have your rights increased.
+       The data is downloaded to a temporary file, and then split up into
+       individual files, one per security.
+
+I have found Dial Data’s historical data to go back on most stocks and indexes up
+to 30 plus years!
+
+With the Reuters data feed running a very close second!
+
+Pivot Point Research is working hand in hand with the Reuters data service by
+offering our users a 30 day free trial to its data feed service.
+    You can sign up for this service at www.pvtpointmktres.com
+
+    However, the choice of data providers is ultimately up to the user. The Gann Grids
+    ultra program can and will read almost all ASCII data files from most sources.
+    You can also write your own ASCII files free of charge from the ASCII file
+    writer located at www.pvtpointmktres.com. Write yearly, Bi weekly (used for stop
+    loss order placement), Bi yearly, or any other file you may want.
+
+    The following is a short list of stocks that have a 30 year or more history.
+
+       Stock               stating date of data
+
+        GE                    1-2-1962
+
+        GM                    1-2-1962
+
+        IBM                   1-2-1962
+
+         EK                   1-2-1962
+
+         AA                   1-2-1962
+
+         CAT                   1-2-1962
+
+         DD                    1-2-1962
+
+         KO                    1-2-1962
+
+         MMM                   1-2-1970
+
+         WMT                    8-25-1972
+
+         XRX                   1-3-1977
+
+         PEP                   1-3-1977
+
+          KR                    1-3-1977
+
+
+
+
+Though the Gann Grids Ultra program was custom built to be a potentially powerful forecasting tool, its
+applications are not guaranteed in any way nor are they exact. Its users must understand that market forecasting
+and trading is a life long study and is not an exact science. Also Pivot Point Research will not be held responsible
+for monetary losses do to the programs use or the users trading decisions. Long term success in any business
+demands an understanding that error and uncertainty are inherent parts within them all…
+Thank you
+Robert Giordano
+

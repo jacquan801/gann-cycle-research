@@ -1,0 +1,3263 @@
+         How To Identify
+             High-Profit
+        Elliott Wave Trades
+            in Real Time
+Pinpointing Optimal Entry/Exit Points with the C Wave Method
+
+
+
+
+                   Myles Wilson Walker
+
+
+
+
+www.fx1618.com
+                              About the Author
+
+
+
+      Myles Wilson Walker has been trading full time since 1986 for himself and
+   others. Initially skeptical about the value of Elliott Wave Principles, Mr. Walker
+   conducted an intense study of all available literature. His goal was to distill the
+  essential elements of Elliott's wave theory, then structure a successful trading
+           program around them that was tradable in real time. This Mr. Walker
+ accomplished, initially using the 24-hour currency markets as his main trading
+ medium, then expanding the analysis to incorporate virtually all major markets.
+        The results of this research are presented here in Mr. Walker's first book.
+Mr. Walker was born in Auckland, New Zealand, where he currently resides.
+
+
+
+
+     www.fx1618.com
+                                     Contents
+
+
+Introduction ....................................................................................... vii
+
+Chapter 1 Basics of Counting Waves ............................................... 1
+Midpoint Method of Wave Counting 6
+
+Chapter 2 Elliott Wave Principles ..................................................... 7
+Impulse Waves           8 Corrective Waves             18
+
+Chapter 3 Guidelines for Counting Waves ..................................... 35
+Counting Waves 48
+Detecting Elliott Wave Patterns and C Wave Patterns                             51
+Terms 51
+Symbols of Wave Degree 53
+
+Chapter 4 Logic of Counting Waves .............................................. 55
+
+
+
+
+       www.fx1618.com
+vi   Contents
+
+
+
+Chapter 5 C Wave Patterns...............................................................f J
+Method Objective for Impulsive and Corrective Markets                               82
+Trade Strategy 83
+C Wave Patterns and Trading Rules 84
+Strong B Waves and Trading Rules 88
+Five Wave Corrections and Trading Rules 94
+List of C Wave Patterns 98
+
+Chapter 6 How To Find C Wave Patterns........................................ 103
+
+Chapter 7 Profit Takes ......................................................................111
+
+Chapter 8 Alternate Counts and Recounts .................................... 115
+Trading Large C Waves                126
+
+Chapter 9 C Wave Patterns on Daily and Intraday Charts .......... 129
+N.Y. Silver       130 Deutschemark Spot                 133
+
+Chapter 10 C Wave Method in Action ........................................... 157
+Entry 159
+Managing the Trade               166
+Conclusion 189
+
+Summary ............................................................................. .'...............191
+
+Appendix I Fibonacci in a Nutshell ............................................... 193
+
+Appendix II Daily Worksheet .......................................................... 197
+
+Index ................................................................................................. 207
+
+
+
+
+       www.fx1618.com
+                      Introduction
+
+
+
+As a novice student, you would not expect to grasp the difficult concepts of
+Elliott's Wave Principle instantly. Understanding and successfully using this
+methodology for analyzing market price movements takes practice and
+perseverance.
+In essence, the Elliott Wave Principle maintains that markets advance or
+decline in a series of wave patterns—five waves in the direction of the major
+trend and three waves in the direction of the correction of the major trend. This
+book is structured to help you broaden your knowledge base of Elliott's wave
+analysis step-by-step. I suggest that your first reading be a quick scan of all the
+material to give you an initial overview. Then, as you go back and study the
+concepts, which are explained in numerous and subtly different ways, you will
+find an approach that makes sense to you.
+This book is essentially different from previous books on Elliott Wave in that I
+have attempted to quantify aspects of the theory into practical and workable
+guidelines with specific Buy and Sell patterns. There is no
+
+                                                                                 vii
+
+
+
+
+     www.fx1618.com
+viii Introduction
+
+
+longer any guesswork. You will be able to match the wave patterns as they are
+happening in real time and execute the trade according to established rules.
+One reason I wanted to publish this book was to pro vide other traders with
+reliable Elliott Wave-based strat egies rather than a rehash of Elliott Wave theory.
+Thus I have kept certain aspects of the theory to a minimus and presented the
+material that I know from experi ence works. Until I can distill reliable rules, I feel
+that it would be unfair to present other information as the truth when in fact it still
+requires further research.
+The first chapters of this book, which deal with Elliott Wave basics, will teach you
+the concepts and help you understand the C wave patterns. These C wave patterns
+are complete within themselves and stand alone without any other technical
+indicators or other market inputs.
+
+
+
+
+      www.fx1618.com
+                                  Chapter
+
+
+                                       1
+
+
+                  Basics of Counting
+                      Waves
+
+
+Imagine a wave of water: It is made up of droplets. The I momentum of the water
+flow has picked up the droplets and unified them in the same direction.
+Between each wave is a trough of inactivity that sometimes runs counter as an
+undercurrent. Waves of market activity behave much the same as waves of
+water. At one moment all is quiet; then some new information hits the market
+and everyone is active, the wave picks up and continues until it can no longer
+be sustained. Then the market goes sideways through lack of activity or
+countertrend (the wave trough) because of profit taking.
+This ebb and flow of market activity represents the price waves that Ralph Nelson
+Elliott categorized in his theory on market behavior during his pioneering work of
+the late 1920s through the 1940s.
+
+
+
+
+                                                                                 1
+
+
+
+
+     www.fx1618.com
+2   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Simply, a wave is seen as one constant direction in price-until it either stops and
+goes sideways or the direction totally changes.
+
+
+
+
+                          This wave (wave 1) is an upward moving wave.
+
+
+
+
+The next wave (wave 2) goes in the opposite direction. In this case, wave 2 is
+going down.
+
+
+
+
+If you could see more detail of wave 1, you would see that it is made up of
+smaller waves—in this case five.
+
+
+
+
+      www.fx1618.com
+1/ Basics of Counting Waves 3
+
+
+
+
+Wave 2 consists of three smaller waves. When any wave is made up of three
+smaller waves, each wave is given a letter, in this case a = 1, b = 2, c = 3.
+
+
+
+
+Or wave 1 could be made up of only three smaller waves. If the wave consists of
+only three waves, it is marked as wave A or wave a.
+
+
+
+
+If wave 1 were made up of only three waves, then wave 2 would always be
+marked as wave B or wave b.
+
+
+
+
+     www.fx1618.com
+4 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+In this instance, the second wave is going sideways. A sideways price area is a
+wave and must be counted.
+
+
+
+
+If you could see more detail of the sideways price movement, you could see that it is
+made up of smaller waves.
+
+
+
+
+Wave 3 is made up of five smaller waves.
+
+
+
+
+      www.fx1618.com
+1 / Basics of Counting Waves 5
+
+
+
+
+Wave B ends, and wave C follows! Wave C usually consists of five waves.
+
+
+
+
+Wave 4 is made up of three waves (the same as wave 2).
+
+
+
+
+When wave 5 ends, the waves are then counted as one wave. At this stage, a
+movement (market correction) opposite the trend is expected.
+
+
+
+
+     www.fx1618.com
+6 How To identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+Midpoint Method of Wave Counting
+Another way of counting waves, called the midpoint method, is to smooth the daily
+data by using only the middle of the day's range. This method gives only one point of
+data a day, which makes it easier to see possible waves.
+The main drawback of the midpoint method is that it is not sensitive enough to detect
+all the details of a C wave. However, when used in combination with detailed daily
+charts, this method can be useful in offering fresh insight to a muddled trading
+situation.
+
+
+
+
+A single line connects the middle of each day's range.
+
+
+
+
+      www.fx1618.com
+Chapter
+
+
+________________________________   2 ______
+
+
+Elliott Wave Principles
+
+
+
+
+A   ccording to Elliott Wave Theory, the market unfolds according to a basic
+    pattern of five waves up and three waves down to form a complete cycle of
+eight waves. The five waves up, called impulsive waves, occur in the direction of
+the trend. The three waves down, called corrective waves, are a price reaction
+against the trend. A sideways market is also considered corrective.
+Most market analysis is concerned with the 80 percent of the time that the
+market is in a corrective state.
+
+
+
+
+                                                                               7
+
+
+
+
+     www.fx1618.com
+  8 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+  Impulse Waves
+
+  An impulse wave is a movement in the direction of the major trend. An impulse
+  wave must obey all the rules listed below (if it does not, the wave in question must
+  be classified as a correction even if it is also moving in the direction of the major
+  trend). Although this seems illogical at first, by applying the rules you will not mis-
+  take a running correction for an impulse.
+
+  Impulse Rules
+  The following rules apply to impulse waves:
+  • Wave 1, wave 3 and wave 5 are trending.
+  • Wave 2 and wave 4 are corrections.
+• Of wave 1, wave 3 and wave 5, wave 3 must not
+  be the shortest.
+  • Wave 2 can retrace up to 99 percent of wave 1.
+  • Wave 4 may not retrace all of wave 3.
+• Wave 4 should not go into the price area of wave 2.
+  (Sometimes it will pull back to the top of wave 1.)
+• Wave 2 and wave 4 must display alternation in
+  as many ways as possible.
+
+
+
+
+        www.fx1618.com
+2 / Elliott Wave Principles 9
+
+
+
+
+      www.fx1618.com
+  10 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+  The structure of an impulse wave is illustrated here.
+  • Wave 1, wave 3 and wave 5 are trending.
+  • Wave 2 and wave 4 are corrections.
+  • Wave 4 does not go into the price area of wave 2.
+• Of wave 1, wave 3 and wave 5, wave 3 is not the
+  shortest.
+  • Wave 2 and wave 4 display alternation.
+
+
+
+
+        www.fx1618.com
+                                                        2 / Elliott Wave Principles 11
+
+
+Counting Waves
+When deciding if a wave fits into either an impulse or corrective framework, look
+for some basic visual things that will instantly show you the right category.
+These are illustrated by the following two diagrams.
+
+                                Correct
+                                Count
+
+
+
+
+Incorrect Count
+(Wave 3 is too small)
+
+
+
+
+Incorrect Count
+(Wave 4 and wave 1 overlap)
+Correct Count
+
+
+
+
+     www.fx1618.com
+  12 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+  Alternation
+  In an impulse move, alternation must occur between wave 2 and wave 4. That is,
+  wave 2 and wave 4 must be different in as many ways as possible, or at a minimum
+  in at least one way.
+  Alternation occurs between wave 2 and wave 4 as either price, time or pattern
+  type.
+• Price: Wave 2 when compared to wave 4 may be
+  obviously smaller/larger in price.
+• Time: Wave 2 when compared to wave 4 may take
+  much more/less time.      .
+• Pattern: Wave 2 may be a simple ABC. Wave 4
+  could be a more complex A B C or even a fourth
+  wave triangle. Wave 2 could be a flat. Wave 4 could
+  be a zigzag or vice versa.
+  The following diagrams illustrate various forms of alternation.
+
+
+
+
+                            In this diagram, there is alternation between
+                            wave 2 and wave 4 in both price and pattern.
+                            Wave 2 retraces more of wave 1 than wave 4
+
+
+
+
+        www.fx1618.com
+2 / Elliott Wave Principles 13
+
+
+
+
+In this diagram, wave 2 and wave 4 display alternation in price, pattern and
+time.
+
+
+
+
+For a pattern to be impulsive, wave 2 and wave 4 must be noticeably different.
+
+
+
+
+      www.fx1618.com
+14 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Wave 2 and wave 4 are too similar and show no alternation. The complete wave
+sequence is corrective.
+
+Degree
+The waves on a monthly chart are much larger than those found on an intraday
+chart comprised of two-hour time frames. If you study a price chart, the degree of
+each wave is easily recognized. You can easily see that some waves consume more
+time and price than others.
+When dealing with small time frames, it is essential to group all the smaller waves
+into bigger ones. The waves on a five-minute chart are grouped to make up an hourly
+chart. The hourly chart is then grouped to make up a daily chart. The daily is
+then grouped to make up a monthly chart and so on. The data on a five-minute chart
+is of minor importance when viewed historically as compared to the data on a
+monthly chart, thus the five-minute chart is said to be of much smaller degree than
+the monthly.
+To count waves properly, it is essential to group the waves of the same degree
+together. This can be difficult since each wave can expand in time or extend in price
+and still be of the same degree. Corrections are notorious for this, and it is easy to
+get lost in the count until the correction is over, especially when you are dealing in
+small time frames.
+
+
+
+
+      www.fx1618.com
+                                                  2 / Elliott Wave Principles 15
+
+
+
+
+The rally from M to N was the same wave degree as the 1987 crash N to O.
+The S&P chart on the following page shows that C wave patterns can be found on
+waves of the smallest degree possible.
+
+
+
+
+    www.fx1618.com
+  16 How To identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Extensions
+When you look at a price chart and compare the three impulse waves, you will
+notice that one of them is longer than the rest. This longer wave is said to be
+extended.
+Waves extend because of market psychology. Traders recognize the trend and at
+the point it becomes a common perception, the market starts to stretch. Very little
+counter-trend action occurs since most players are waiting for reactions to join in or
+add to positions.
+During an extended wave, incredible amounts of price distance can be covered
+with very little in the way of a pullback. The great danger here is that even if you
+are
+
+
+
+
+     www.fx1618.com
+                                                     2 / Elliott Wave Principles 17
+
+
+personally sure that the market is trending, you will not know which wave is
+extending until well into the move. To prevent premature profit-taking on
+position trades, you must be aware of the concept of the extended wave.
+The diagram below demonstrates the concept that an impulse sequence
+contains one wave that is noticeably longer than the others.
+
+
+
+
+    www.fx1618.com
+1
+8 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Corrective Waves
+
+Corrective waves are comprised of three waves. Corrections move in the opposite
+direction to the main trend. Therefore, the first wave (wave A) will be the reverse of
+the trend. The second wave (wave B) will be in the direction of the trend. The last
+wave (wave C) will be against the trend. Wave A and wave B may be comprised of five
+waves of one smaller degree.
+
+ABC Corrections
+ABC corrections are the most common corrective structures with five wave triangles
+following. As a trader, you are always looking for wave C to complete, so that you can re-
+enter the market in the direction of the main trend.
+These diagrams illustrate simple ABC corrections.
+
+
+
+
+     www.fx1618.com
+                                                       2 / Elliott Wave Principles 19
+
+
+The more time the correction takes, the more complex the wave needs to become.
+
+
+
+
+    www.fx1618.com
+20 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+C waves can take up a lot of time and also cover a lot of price distance. They
+do this by having smaller and smaller subwaves.
+
+
+
+
+     www.fx1618.com
+                                                               2 / Elliott Wave Principles 21
+
+
+  Zigzags
+  A zigzag is a corrective wave that divides into a three wave (ABC) sequence. If
+  a zigzag subdivides:
+  • Wave A is made of 5 waves.
+  • Wave B is made of 3 waves.
+  • Wave C is made of 5 waves.
+      Sometimes a zigzag is simple, as illustrated in the following diagrams. All zigzags
+     obey the following essential rules:
+•    Wave B may not retrace more than 61.8 percent
+  of wave A.
+  • Wave C must retrace all of wave B.
+
+
+
+
+        www.fx1618.com
+22 How To Identify High-Profit Elliott Wove Trades in Real Time
+
+
+
+
+     www.fx1618.com
+                                                          2 / Elliott Wave Principles 23
+
+
+  Flats
+  The term flat refers to any ABC correction that obeys the following essential
+  rules:
+• Wave B must retrace more than 61.8 percent of
+  wave A.
+  • Wave C must be at least 38.2 percent of wave B.
+• Wave B can be 61.8 percent to 138.2 percent of
+  wave A.
+
+
+
+
+       www.fx1618.com
+24 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Elongated Flats
+Elongated flats often form complete corrections. Occasionally, they form part of
+a larger triangle.
+Rule: Wave C must be a minimum length of 138.20 percent when compared to
+wave B.
+Often wave C will be 161.8 percent to 238.20 percent of wave B.
+Wave C will often consume the most amount of time when compared to wave
+A and wave B.
+
+
+
+
+     www.fx1618.com
+2 / Elliott Wave Principles 25
+
+
+
+
+      www.fx1618.com
+                                  26 HOW To Identify High-Profit Elliott Wave Trades in Real Time
+
+Triangles
+Normal triangles consist of five wave corrections that often occur in the fourth wave and B
+
+wave position. Each of the five waves usually subdivides into three waves. you believe that
+
+you are in a fourth wave triangle expect to see multiple subdivisions into threes and a lot of
+
+time elapse compared to previous waves (often months on daily). The market will make
+
+false trendline break, as it tends to drift sideways. This is a characteristic of B and fourth
+
+wave triangles.
+
+
+
+
+Triangles consist of five corrective waves labeled a b c d e. Once the market has
+broken the b d trendline, the tri angle is complete.
+
+
+
+
+      www.fx1618.com
+2 / Elliott Wave Principles 27
+
+
+
+
+Each wave of a triangle may or may not subdivide. The five wave structure and
+general shape makes it obvious that a triangle has formed.
+
+
+
+
+      www.fx1618.com
+28 How To Identify High-Profit Elliott Wove Trades in Real Time
+
+
+Diagonal Triangles
+Diagonal triangles consist of five waves and can occur at the end of any
+movement that needs five waves tc complete (e.g., a wave C or a wave 5 of a
+fifth wave oi one larger degree). When you see a diagonal triangle as the last
+wave of a wave 5, expect a major move to follow.
+One of the most important patterns, diagonal triangles are discussed in greater
+detail in Chapter 5. Diagonal triangles can be found on charts of all degree. The
+psychology behind the pattern is this: People are still trying to buy at the top but
+are meeting with selling resistance; and when the diagonal triangle is forming
+at a bottom, people are still trying to sell but are meeting with buying support.
+The result is an overlapping oi wave b, wave c, wave d and wave e.
+Sometimes when you look at the wave, you will see that some waves are simple.
+For instance, wave B might be very simple whereas wave C could subdivide into
+five waves. The most unlikely place for a multiple subdivision of waves is wave D.
+The key to the diagonal five wave triangle is having a clear B D trendline. If the
+trendline is not obvious, more work needs to be done within the triangle.
+
+
+
+
+     www.fx1618.com
+                 2 / Elliott Wave Principles 29
+
+
+
+
+www.fx1618.com
+30 How To identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Five wave (diagonal) triangles can complete any move that needs five waves to
+complete, such as wave C or a fifth wave of any degree.
+
+
+
+
+      www.fx1618.com
+                                                           2 / Elliott Wave Principles 31
+
+
+Running Corrections
+A running correction corrects in the direction of the trend. This is possibly the
+most difficult of all the wave concepts to grasp. Attention to detail is essential in
+recognizing a running correction.
+If the market does not follow the rules of an impulse wave, it is corrective. It
+does not matter if the wave is going in the direction of the trend. A running
+correction indicates a very strong market. In the following illustration, wave a,
+wave b and wave c are part of the same correction. Strong B waves are covered
+in detail in Chapter 5.
+
+
+
+
+C Wave Failures
+When wave C fails to retrace all of wave B, the complete ABC pattern will be
+classified as a C wave failure. The power implications of this pattern are depen-
+dent on the degree of the wave that is being dealt with. On daily charts, the
+move to follow will be strong.
+C wave failures occur frequently on intraday charts but the follow-through is
+negligible.
+
+
+
+
+     www.fx1618.com
+  Fifth Wave Failures
+  On daily charts, fifth wave failures are relatively rare. However, this does not
+  hold true on intraday charts. The move that follows a fifth wave failure is always
+  powerful. The setup is easy to analyze because the market will show normal
+  impulsive behavior. That is:
+  • wave 3 is not the shortest price pattern,
+• there is good alternation between wave 2 and
+  wave 4, and
+• in the fifth wave, the subdivisions will appear to
+  show real weakness of trend.
+
+
+
+
+       www.fx1618.com
+                                                           2 / Elliott Wave Principles 33
+
+
+At this point, be prepared to enter with an order in the market. In every fifth wave
+failure that I have traded, I doubt if I would have gotten a reasonable fill if I had
+waited to phone in my order as soon as I saw the break. A fifth wave failure is the
+strongest signal that the trend has changed. Of course, the degree of wave that you
+are dealing with determines whether it is the start of a fundamental trend change
+or the beginning of a correction.
+
+
+
+
+Wave 5 failed to make a new high. A fifth wave failure should be followed by a
+strong move in the opposite direction.
+
+
+
+
+Wave 5 failed to make a new low. The upward move to follow should be strong.
+
+
+
+
+     www.fx1618.com
+                                     Chapter
+
+
+                                          3
+
+
+         Guidelines for Counting
+                 Waves
+
+
+
+  I n Chapter 1, you looked at the basic concept of putting price flows into waves.
+    When looking at price charts, you need a methodology to break the market
+  movements into patterns of waves for later analysis. Start with big waves, then
+  break these down into even smaller waves. Keep doing this until you have gone
+  as far as you can with the type of charts that you are using (daily or different
+  intraday periods). You will find the following guidelines helpful to the process of
+  counting waves.
+• Mark price extremes. This will be a group of waves.
+• Break the groups of waves into even smaller
+  groups, and apply impulse and correction rules
+  to the smaller wave groups.
+  • Group similar adjacent waves.
+
+
+
+                                                                                  35
+
+
+
+
+       www.fx1618.com
+  36 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+• When the time frame that you are using becomes overcrowded, smooth the data by
+  moving to the next highest time frame (e.g., 30 minutes to hourlies to two-
+  hourlies to dailies to weeklies to monthlies).
+• When the wave count becomes difficult, check a related market. This will often
+  provide a clearer picture.
+• Use a transparent overlay to trace over your charts. This way you can try
+  different wave counts without spoiling your charts.
+• When prices are congested in one area, look for an A B C pattern.
+• At double bottoms, look for a C wave to follow the second low.
+• When two areas of price congestion are linked by a simpler wave, the second
+  congestion area is usually a C wave.
+• Every price movement, no matter how small, is part of a wave and must be
+  accounted for and identified in a logical way. To accommodate space restrictions and
+  to leave charts uncluttered, you do not need to actually label every subwave. But no
+  wave can be overlooked.
+
+
+
+
+        www.fx1618.com
+                                                                          3 / Guidelines far Counting Waves 37
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinoia 60606
+
+
+
+
+       www.fx1618.com
+38 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                 3 / Guidelines for Counting Waves 39
+
+
+
+
+www.fx1618.com
+40 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Commodity Trend Service
+
+
+
+
+       www.fx1618.com
+                 3 / Guidelines for Counting Waves 41
+
+
+
+
+www.fx1618.com
+42 How To identify High-Profit Elliott wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Commodity Trend Service
+
+
+
+
+       www.fx1618.com
+                 3 / Guidelines for Counting Waves 43
+
+
+
+
+www.fx1618.com
+44 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Commodity Trend Service
+
+
+
+
+       www.fx1618.com
+                 3 / Guidelines for Counting Waves 45
+
+
+
+
+www.fx1618.com
+46 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Commodity Trend Service
+
+
+
+
+       www.fx1618.com
+Reprinted with permission. © 1995 Commodity Trend   3 / Guidelines for Counting Waves 47
+Service
+
+
+
+
+       www.fx1618.com
+48   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Counting Waves
+
+
+
+
+The overlapping on charts of any time frame is a wave.
+
+
+
+
+The overlapping on daily charts are small intraday corrections.
+
+
+
+
+Use the previous day's close and today's high/low to determine wave flows.
+
+
+
+
+      www.fx1618.com
+Using close prices with the highs/lows gives a good indication of market action during
+each time period.
+
+
+
+
+Even though wave B is only one bar, when compared to surrounding price bars, it is
+significantly larger. Therefore, it is classified as a complete wave of one higher degree
+(i.e., B is the same price degree as all of A).
+
+
+
+
+     www.fx1618.com
+50   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+Grouping Similar Waves
+The following waves look normal (of the same degree because they are
+similar in either/or price and time Waves must look like this to be considered
+part of the same group for counting purposes
+
+
+
+
+                                                                    Similar in Time
+
+
+
+
+     www.fx1618.com
+                                                     Similar in Price
+
+
+
+
+Smaller wave groups make up each leg of the a b c.
+
+
+
+
+    www.fx1618.com
+                                                           3 / Guidelines for Counting Waves 51
+
+
+Detecting Elliott Wave Patterns and C Wave Patterns
+The      only     charts      suitable     for      detecting       Elliott    Wave        pat
+terns    and     C     wave      patterns     are     bar     charts     with     the    high/
+low    and     close.    A     line     chart     that    only     displays      one     price
+per    time     period    does       not    have       enough      sensitivity     to    show
+all   the     waves      but      can     be     useful     for     making       an     initial
+assessment.       A     point      and      figure      chart     does       not      account
+for time at all and for this reason cannot be used in any
+circumstances.                                                  '
+A bar chart can be displayed in time frames from one minute up to one year. Every
+market will have an optimum time frame that will best display the C wave patterns.
+Discovering the best time frame is a matter of researching individual markets.
+Examples of various time frames are illustrated in Chapter 9. When trading, it is
+important to note that if you are taking trades on charts based on very small time
+frames, your profit will normally be much smaller than targets based on analysis from
+daily charts.
+
+
+Terms
+
+To help define patterns of waves, I find certain terms useful. Following is a list of
+terms with an explanation of their exact meaning.
+
+
+
+
+     www.fx1618.com
+52 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Overlapping
+When a wave returns into the price range of one (or more) previous waves,
+overlapping occurs.
+
+
+
+
+                                              Overlapping price retraces
+Wave 4 retraces past the end                  past the end of another
+of wave 1.                                    complete wave.
+
+
+
+
+Converging
+Converging occurs when the wave group is comprised of shorter and smaller
+moves and can be contained by two trendlines that meet at a point. This pattern
+is found at the end of a larger wave group (i.e., wave e of a triangle, thus making
+a smaller triangle at the end of a triangle).
+
+
+
+
+     www.fx1618.com
+                                                   3 / Guidelines for Counting Waves 53
+
+
+Subdivide
+Market prices stretch by having complete but smaller, or subdivided, wave
+groups within a wave.
+
+
+
+
+No waves subdivided                      Wave 3 subdivided
+
+
+
+
+Symbols of Wave Degree
+
+There are so many waves within waves that symbols must be used to denote
+which wave you are referring to. The focus of this book is the practical application
+of Elliott Wave Principles on a day-to-day basis. Thus, I have concentrated on a
+basic, simple explanation of the wave theory. On the charts, group the same-size
+letters or numbers with each other. A large A B C is of a higher degree than A B C,
+which is one level higher than a b c. Parentheses are used for the next degree
+down [e.g., (a) (b)(c)].
+When dealing with C waves, the letters a, b, c, d, e are used interchangeably
+with the numbers 1, 2, 3, 4, 5. Therefore, a = 1, b = 2, c = 3, d = 4, e = 5. Thus, a
+break above wave 4 also means a break above wave d.
+
+
+
+
+     www.fx1618.com
+                                  Chapter
+
+
+                                      4
+
+
+                    Logic of Counting
+                       Waves
+
+
+
+T he following group of charts will demonstrate a number of points pertaining to
+  wave count logic. At any time when counting waves, a decision must be made
+as to whether a particular count is the best one possible. The points illustrated
+on the following charts are not iron-clad rules, but they will help you to decide
+which is the best possible count at the time.
+
+
+
+
+                                                                               55
+
+
+
+
+     www.fx1618.com
+56    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                  4 / Logic of Counting Waves 57
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810. Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+58 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+4 / Logic of Counting Waves 59
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago,
+Illinois 60606
+
+
+
+
+      www.fx1618.com
+60 How To identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago,
+Illinois 60606
+
+
+
+
+      www.fx1618.com
+                                                                                   4 / Logic of Counting Waves 61
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+62 How To identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago,
+Illinois 60606
+
+
+
+
+      www.fx1618.com
+                                                                                4 / Logic of Counting Waves 63
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+64   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+                                                           Reprinted with permission. © 1995 Knight-
+Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+      www.fx1618.com
+                                                                                 4 / Logic of Counting Waves 65
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+66 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Kmght-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                4 / Logic of Counting Waves 67
+
+
+
+
+Reprinted with peraussion. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+6
+* How To Identify High-Proftt Elliott Wave Trades In Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                 4 / Logic of Counting Waves 69
+
+
+
+
+Reprinted with permission. © 1995 KnightRidder Financial. 30 South Wacker Dnve. Suite 1810. Chicago. Illinois 60506
+
+
+
+
+       www.fx1618.com
+70 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 606<k
+
+
+
+
+       www.fx1618.com
+                                                                                   4 / Logic of Counting Waves 71
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+72 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                4 / Logic of Counting Waves 73
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+74 How To Identify High-Profit Elliott Wave Trades in Real Time,
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                  4 / Logic of Counting Waves 75
+
+
+
+
+Reprinted with permission, © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+76 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive, Suite 1810, Chicago,
+Illinois 60606
+
+
+
+
+      www.fx1618.com
+                                                                                  4 / Logic of Counting Waves 77
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial. 30 South Wacker Drive. Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+78   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Reprinted with permission. © 1995 Knight-Ridder Financial, 30 South Wacker Drive, Suite 1810. Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                                                                   4 / Logic of Counting Waves 79
+
+
+
+
+Reprinted with permission. © 1995 Kjught-Ridder Financial, 30 South Wacker Drive, Suite 1810, Chicago, Illinois 60606
+
+
+
+
+       www.fx1618.com
+                                     Chapter
+
+
+                                          5
+
+
+                C Wave Patterns
+
+
+
+U
+   sing some of the basic Elliott Wave elements discussed in previous
+   chapters, you can now apply them as a method of pattern recognition. The
+   patterns, all some end form of A B C correction, are called C wave
+patterns.
+Your goal is to stay out of the market until the pattern is just about to end. Your
+profit objective will always depend on whether the market is impulsive or correc-
+tive. If the market is impulsive, you will stay with the trade until the impulse
+wave that you have just joined is about to end. If the market is corrective, you
+will stay with the trade through the subsequent A B C. It is important to follow as
+many markets as you can because you only want to trade the most well-defined
+patterns. If the ideal pattern does not form, do not take the trade— save your
+capital for a better situation.
+Note that all the following pattern rules deal with wave C only. It does not make a
+difference if the overall correction is a zigzag or a flat, or if the market is trending
+up or down.
+
+
+
+
+     www.fx1618.com                      81
+  82   How To Identify High-Profit Elliott Wave Trades In Real Time
+
+
+   The ideal trading strategy is to trade two contracts using the C wave patterns:
+1. as a pattern recognition method to signal short-
+   term trades with a fixed profit target, and
+2. as a longer term trading approach pyramiding
+   positions using further patterns as they develop
+   and reversing positions only when a new trade is
+   signaled by a new pattern.
+
+
+  Method Objective for Impulsive and Corrective
+  Markets
+
+  The goal of the C wave method is to enter the market as soon as wave C
+  completes.
+
+
+
+
+        www.fx1618.com
+                                                        5/C Wave Patterns 83
+
+
+
+
+Trade Strategy
+
+Your goal is to identify pattern type and to find the end of wave C. If the overall
+market is corrective, look to find the end of wave C, then enter the market. Wait until
+completion of the next ABC before taking profits.
+
+
+
+
+If the market is impulsive, trend trade and use the end of correction 2 and correction 4
+to add to your position. Wave 2 and wave 4 will end with some kind of C wave pattern.
+
+
+
+
+     www.fx1618.com
+84 How To Identify High-Profit Elliott Wave Trades In Real Time
+
+
+C Wave Patterns and Trading Rules
+
+All C wave patterns consist of five waves with the exception of pattern 5. In all
+the C wave examples that follow, the use of small letters a, b, c, d, e are inter-
+changeable with the use of the numbers 1, 2, 3, 4, 5. This holds true only for C
+waves.
+
+Pattern 1
+A pattern 1 can be recognized by the fact that wave 1 and wave 4 show no
+overlapping. Wave 2 and wave 4 may or may not show pattern alternation; they
+may be the same in time and in price or may look impulsive. A pattern 1 may
+follow all the rules of an impulse wave. However, what clearly defines the C wave
+pattern 1 from an impulse is that the larger wave A and wave B (of which wave
+C is the impulse) can be easily seen. The entry to a pattern 1 is a break of wave
+D. The stop then goes above/below the price high/low of wave E.
+In the illustration below, pattern 1 looks impulsive; however, wave b and wave d
+• will be the same in time and/or price,
+• have simple price pullback, and
+• show no pattern alternation.
+This could be a wave A of pattern 3. To prevent misinterpretation, do not enter
+the trade until the market breaks below/above wave d or subsequent price
+action shows that pattern 3 is not possible.
+
+
+
+
+      www.fx1618.com
+                                                               5/C Wave Patterns 85
+
+
+  Pattern 2
+  In a C wave pattern 2, wave b and wave d overlap. Wave b and wave d may show
+  pattern and time alternation. Wave e
+• will be brief timewise, or may be a small five wave
+  triangle,
+• could, but might not, exceed the high/low of wave
+  (c) of c.
+  The price move that follows will probably be quite slow. However, this will be the
+  end of wave C, so a certain amount of patience is needed.
+
+
+
+
+       www.fx1618.com
+86 How To Identity High-Profit Elliott Wave Trades In Real Time
+
+
+Pattern 3
+A pattern 3, which is a five wave triangle, is a highly reliable end pattern and occurs
+frequently. Wave a is by far the longest price wave. Wave a may consist of three waves
+or five waves.
+Wave b, wave c, wave d and wave e
+• will have similar price range,
+• will possibly skew, and
+• will show similar subdivisions.
+Wave e will be very brief timewise 'unless wave e is in itself a smaller five wave
+triangle. The entry to a pattern 3 is a break of wave d.
+
+
+
+
+      www.fx1618.com
+                                                            5/C Wave Patterns 87
+
+
+Pattern 4
+In pattern 4, wave C consists of five clear waves. Waves a and b will both
+subdivide into three smaller waves. Wave C will be one wave. Wave d will
+subdivide into three smaller waves. Wave e will be one wave.
+
+
+
+
+Pattern 5
+A pattern 5 is the only C wave pattern that consists of only three waves a, b, c.
+Entry is a break below/above wave b. Stop occurs above/below wave c.
+
+
+
+
+     www.fx1618.com
+88 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+Strong B Waves and Trading Rules
+Pattern 6, an A B C running correction, is a very common correction. At first glance,
+it is hard to see the AB C pattern because of the length of wave B. Wave C is
+always a triangle, wave C can pull back into the price area of wave A, but most of
+the trading will be done above/below this. Traditionally, this pattern is known as a
+double three, and the B wave is labeled as X.
+This long B wave concept can be used as a springboard to the other patterns that
+until now have not been classified. When a running correction is found in a trending
+market, the move after wave C completes is always strong. This does not hold
+true in a corrective market where this pattern often gives a false appearance of price
+strength. If you are trading in a market that appears to be strong but does not obey all
+the impulse market rules, check for the ABC running correction or its variation
+patterns 7, 8 and 9. Entry for patterns 6, 7, 8 and 9 is a break of wave d.
+Patterns 6, 7, 8 and 9 all have strong B waves that end well above the beginning of
+wave A.
+
+
+
+
+     www.fx1618.com
+                                                          5 / C Wave Patterns 89
+
+
+The more likely B wave is one brisk movement with no subdivisions or an
+obvious three wave a b c.
+
+
+
+
+    www.fx1618.com
+90 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Pattern 6
+                                  A strong B wave, pattern 6 is an A B C running correction.
+
+
+
+
+      www.fx1618.com
+                                                             5/C Wave Patterns 91
+
+
+Pattern 7
+In a pattern 7, a strong B wave, wave C consists of five waves and must retrace at
+least 50 percent (or more) of wave B. Wave C could pull back into the price area of
+wave A but does not have to if wave B is very long.
+
+
+
+
+     www.fx1618.com
+92 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Pattern 8
+In a pattern 8, a strong B wave, wave C may or may not come back into the price
+range of wave A. Wave C must be a pattern 3 (five overlapping waves). Wave a (of C)
+is the largest in the final a b c d e pattern.
+
+
+
+
+Wave a is the largest in this final a b c d e pattern.
+
+
+
+
+      www.fx1618.com
+Example of Trading Trick #2
+
+
+
+
+      www.fx1618.com
+Example of Trading Trick #2 (4 is a Gift)
+
+
+
+
+       www.fx1618.com
+94 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+Five Wave Corrections and Trading Rules
+Two more corrective patterns that 1 have discovered are not strictly C
+waves but are corrective nonetheless I think of these patterns as
+fitting into the same category as B wave triangles inasmuch as the
+market action af-ter they finish can he predicted These two patterns—
+10 and 11— are complete corrections in themselves, and the price
+move that follows will retrace mo9t if not all the pattern
+
+Pattern 10
+Pattern 10 is a zigzag pattern (wave B retraces 61.8 percent or less of wave A)
+However, note that not all zigzags are a pattern 10
+
+
+
+
+               Unfortunately, wave C gives a false pattern signal
+               and then goes on to make a new high.
+
+
+
+
+     www.fx1618.com
+                                                                                                         5 / C Wave Patterns   95
+
+
+
+A new high must end in a five wave triangle
+
+
+
+
+Entry: A break of wave d
+
+Pattern 10 can easily be mistaken for an impulse, but the wave 4 (in the first diagram) will always he smaller in price and time
+than wave 2. Also wave 4 will be a simple A B C, never anything more complex. Entry is a break of wave D.
+
+
+
+
+    Incorrect Count
+
+
+
+
+                                 Wave 4 Is smaller In both price and
+                                 time when compared to wave 2.
+
+
+
+
+         www.fx1618.com
+94    How To Identify High-Profit Elliott Wave Trades in Real Time Correct Count
+
+
+
+
+     Pattern 11
+     A false impulse similar to pattern 10, pattern 11 could at first be mistaken as an impulse. The deciding factor is that the combined time of
+     wave 3, wave 4 and wave 5 (when measured from the end of wave 2) is equal to less than wave 1 or wave 2 combined. Some of the subwaves
+     on close inspection may be 3s not (impulsive) 5s. A pattern 11 could be completely retraced or may be wave A of a larger A B C. Entry is a
+     break of 2 - 4 trendline stop above/below wave 5.
+
+
+
+
+             www.fx1618.com
+5/C Wave Patterns 97
+
+
+
+
+                        Some of the subwaves on close Inspection will be 3s not 5s.
+
+
+
+
+                        Time of waves
+
+
+
+
+       www.fx1618.com
+98   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+List of C Wave Patterns
+
+
+For easy reference a complete list of the C wave patterns below
+
+
+
+Pattern 1   No overlapping of wave 1 and vvave 4
+
+
+
+
+Pattern 2 Wave b and wave d overlap
+
+
+
+
+                          Pattern 2
+
+
+
+
+      www.fx1618.com
+                                          5 / C Wave Patterns   99
+
+Pattern 3   Five wave triangle
+
+
+
+
+Patlern 4   Many smaller a b c patterns
+
+
+
+
+Pattern S C wave is only three waves
+
+
+
+
+      www.fx1618.com
+  102    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+Pattern 11 Total time of wave 1 and wave 2 Is greater than or equal to the combined times ol wave 3, wave
+  4 and wave 5
+
+
+
+
+         www.fx1618.com
+                                                Chapter
+
+
+                                                    6
+
+
+                     How To Find C Wave Patterns
+
+
+  Ccharts.
+   wave patterns are found at the end of areas of price congestion on intraday and daily
+           Check these areas for waves A and B, then start matching against the rules for C wave
+   patterns described in Chapter 5.
+  Or when the market has been moving strongly up or down, look for the first price pullback and mark
+  as a possible wave A. If the next wave in the direction of the trend is corrective (three waves or five
+  waves showing no impulse rules), mark as wave B. Now check the daily wave flows (see Chapter 3),
+  and check for a match against the C wave pattern rules. Place entry stops in the market as
+  indicated by the pattern rules.
+  To help your .search for C wave patterns, try the following techniques:
+• Use a transparent overlay to trace possible wave
+  flows without marking your charts.
+• Make a larger copy of the daily chart to make it
+  easier to see every wave.
+
+
+
+
+        www.fx1618.com                                                                                103
+100    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+Pattern 6 Strong B wave ending in five waves
+
+
+
+
+Pattern 7 Strong B wave that is retraced 50 percent or more by wave C
+
+
+
+
+Pattern 8 Strong B wave ending in a five wave triangle
+
+
+
+
+      www.fx1618.com
+                                                                        5/C Wave Patterns 101
+
+
+
+
+Pattern 8
+
+
+
+
+ Pattern 9 Wave a, wave b, wave c and wave d overlap, but wave e makes a strong break in
+the direction of wave A
+
+
+
+
+   Pattern 10 Wave 2 is a zigzag, wave 4 is smaller than wave 2 In price and time and wave 5 Is a
+triangle
+
+
+
+
+      www.fx1618.com
+106   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 6 / How To Find C Wave Patterns   107
+
+
+
+
+www.fx1618.com
+108   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+       www.fx1618.com
+                 6/ How to find C Wave Patterns   109
+
+
+
+
+www.fx1618.com
+110   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                                                  Chapter
+
+                                                       7
+
+
+                                          Profit Takes
+
+
+
+
+Onesomething
+     of the most difficult concepts of trading is profit lakes. 1 am a strong believer in trying to make
+             out of every trade because in the past a lot of money has slipped away through trying to
+ trend trade what in hindsight turned out to be a choppy market.
+With the guidance of Elliott's wave principles, you will find it easier to rend the market. Often you will be able
+to predict what is going to happen before the crowd does. This means that you will be early, often by months.
+Predicting time is extremely difficult. The problem is: You can see where the next major move is headed, so
+you hold onto every C wave pattern for the big trend trade only to find that on a larger degree every wave
+series will stretch timewise to the very end. The net result is: You have made a lot of profitable trades that
+have turned to break-even or even losses after you consider the impact of brokerage and have wasted
+several months of your time.
+
+
+
+
+                                                                                                             111
+
+       www.fx1618.com
+112   How to Identity High Profit Elliott Wave trades in Real Time
+
+The solution is to trader some contracts for quick profits while continuing to hold others for the trend trade.
+Trend trading is dependent on wave degree, exit and reverse only when the big patterns emerge. After a
+true trend has begun, you can add more long-term positions using the C wave patterns.
+I use margin requirements as a profit take measure The exchange margin is usually lower than your bro-
+kerage house requires, but I like to use the higher figure since it is a true measure of return. Margin
+increases with volatility and thus to some extent remains in step with the market. When ranges are tight,
+margins are small and a fixed profit based on margin is going to give a realistic return.
+Illustrated on the chart that follows, the profit takes are all based on a percentage of margin that varies from
+market to market. The percentage return on the S&P is only 50 percent because the margin is always fairly
+high when compared to the average price range. On the currencies, 1 use 100 percent return. Intraday profit
+takes must naturally be smaller because the wave degree that you arc trading is only minor.
+
+
+
+
+      www.fx1618.com
+                 7/ Profit Takes   113
+
+
+
+
+www.fx1618.com
+                                                 Chapter
+
+                                                     8
+
+            Alternate Counts and Recounts
+
+
+
+ICntoowave
+       the markets, your analysis will often be wrong—this is simply a fact of life. However, unless you have
+         rigid a view of where the market is going, this should not hinder your ability to make money. With the
+             patterns, you must be prepared to trade the patterns as you find them.
+A good strategy, if possible, is to always trade two contracts, even if that means trading minicontracts.
+You can take quick profits on one position and let the other one ride until you find another clear pattern.
+Now that you have discovered C wave patterns, you will see them in all markets C wove patterns occur
+frequently on intraday charts You can wait and conserve your capital for the bust trades.
+Instead of looking at only one or two markets, investigate a variety of markets. Alternate counts are
+necessary because the Elliott Wave is flexible by nature and
+
+
+
+
+                                                                                                           115
+
+      www.fx1618.com
+116   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+when a perfect pattern sets up, then fails and changes into something else, it is because fundamental
+information has entered the market. Alternate counts will not change the nature of the move—if you are
+in an impulsive market, the market will remain impulsive. And if you are in a corrective market, unless it
+is the very end of the correction, you still stay in a corrective market
+These factors make it difficult for long-term counting This is why you will find Elliott Wave analysts saying
+different things Until a final wave is over, there is always the possibility of an extension (for instance, wave
+C corrections sometimes can go on for many months, even years). In the currencies and the grains, large
+price moves have been made during the last five or six years, but all the moves were of a corrective nature
+rather than impulsive. These corrective waves last a very long time, and there are a lot of small C wave
+patterns within the longer corrections. This allows you ample opportunity to make a profit; you do not
+need a long-term view. (See the December Deutschemark Charts in Chapter 4).
+Recounts are required when waves subdivide. The objective is to get the best possible count. Alternate counts
+will often yield the same buy/sell signals, in which case final labeling choice is a matter of personal
+preference as long as all the pattern and wave count rules are satisfied.
+
+
+
+
+      www.fx1618.com
+                 8 / Alternate Counts and Recounts   117
+
+
+
+
+www.fx1618.com
+118   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 8 / Alternate Counts and Recounts   119
+
+
+
+
+www.fx1618.com
+120   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 8 / Alternate Counts and Recounts   121
+
+
+
+
+www.fx1618.com
+122   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+       www.fx1618.com
+                 8 / Alternate Counts and Recounts   123
+
+
+
+
+www.fx1618.com
+124   Ho w To Identif y High-Prof it Elliott W a ve Tra des in Real Time
+
+
+
+
+      www.fx1618.com
+                 8 / Alternate Counts and Recounts   125
+
+
+
+
+www.fx1618.com
+  126     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+  Trading Large C Waves
+  At this stage you should understand the phenomenum of large C waves that take the market to new
+  highs or lows (see the diagrams on the next page). This is why you should not                             always rush to trade
+  opposite the direction of the C wave. Long waves extend just like impulse waves.
+  ? you same insight into what I am thinking about. Scince      1987 crush, all the stock market advance has
+  been technically corrective in nature. Obviously, there have been more chances to trade on the side of the C wave directionthan
+  against it as the market makes new highs. Long term, this indicates a certain structural weakness. When
+  the market eventually turns around, the selloff will be severe. But here you are dealing with a w a v e
+  degree that is measured in years; realistically, there have been many opportunities to buy the market with
+  smaller C wave patterns. Although this is an ext r e m e example, it happens all the time on a smaller
+  smaller and underscores two points:
+1. Do not get locked into a view of market direction through your long-term analysis.
+2. Trade all the C wave patterns as long as all the rules are met.
+
+
+
+
+          www.fx1618.com
+                 8 / Alternate Counts and Recounts 127
+
+
+
+
+www.fx1618.com
+                                               Chapter
+
+                                                   9
+
+
+                  C Wave Patterns on Daily and Intraday
+                             Charts
+
+
+
+The following charts are presented for your future reference. The C wave patterns are once again shown in
+ real markets to help you with pattern matching. The profit takes are all fixed targets based on a
+ percentage of margin. These are only guidelines, but they will help you assess this concept's value for
+yourself.
+
+
+
+
+       www.fx1618.com
+130    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+N.Y. Silver
+
+The following chart of N.Y. Silver over a six-month period shows a long series of
+a b c corrections. Sometimes the patterns are difficult to decipher — this is when
+you must stay out of the market. At other times, there are some clear patterns that
+provide a good easy trade. But when you are in a market with multiple a b c
+corrections, profit takes must remain relatively small
+The first wave marked is a B wave triangle a b c d e, which then goes into wave
+C. The wave C ends with a pattern 3. The market then declines and makes a
+double bottom (quite often double bottoms are the start of wave A and the end of
+wave B). Naturally after this, there will be another C wave. This C wave ended
+with a pattern 2. Wave 1 and wave 4 overlap.
+
+
+
+
+      www.fx1618.com
+                 9/ C Wave Patterns on Daily and Inlraday Charts   131
+
+
+
+
+www.fx1618.com
+I 32   How To Identify High-Profit Elliott W ave Trades in Real Time
+
+
+
+
+           www.fx1618.com
+                                                                                9/ C Wave Patterns on Daily and Inlraday Charts   133
+
+
+
+Deutschemark Spot
+The Deutschemark spot chart was used previously (see Chapter 2) to demonstrate a fifth wave triangle.
+This was the high on the dollar in 1985. Before the filth wave triangle , I have marked another A B C. This
+is a good example of 7, which is a strong B wave with wave a, wave b, wave c, wave d and wave e
+pulling back into price area of wave A. The high on the dollar is marked as         a strong ABCDE fifth wave
+triangle.
+wave pattern.
+             Then after that, the first a b c, which is a smaller rally on the dollar after it started declining, there was a C
+
+The pattern was a pattern 5, which was just three waves. Looking further, it turns out that the next move down was
+only three waves after this, meaning that the decline must he a strong B wave. This was followed by an a
+b c d e, making this a good example of a pattern 6.
+
+
+
+
+       www.fx1618.com
+134   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Deutschemark—Spot—4 Month
+
+
+
+
+          www.fx1618.com
+9/ C Wave Patterns on Daily and Inlraday Charts   135
+
+
+
+
+      www.fx1618.com
+136    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 9/ C Wave Patterns on Daily and Inlraday Charts   137
+
+
+
+
+www.fx1618.com
+138   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 9/ C Wave Patterns on Daily and Inlraday Charts   139
+
+
+
+
+www.fx1618.com
+140    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                 9/ C Wave Patterns on Daily and Inlraday Charts   131
+
+
+
+
+www.fx1618.com
+142 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+    www.fx1618.com
+                                                    9/ C Wave Patterns on Daily and Inlraday Charts   131
+
+
+
+
+                        Five wave triangle
+                        Pattern 3
+
+
+
+
+Five wave triangle ending with a smaller triangle
+
+
+
+
+        www.fx1618.com
+144 How To Identify High-Profit Elliott Wave Trades in Real Time
+S&P 500 60 Minutes
+Five wave triangle
+
+
+
+                     Five wave triangle
+
+
+
+
+        www.fx1618.com
+                                          9/ C Wave Patterns on Daily and Inlraday Charts   145
+
+
+Copper 120 Minutes
+
+
+
+
+                     B or fourth wave triangle
+
+                     Wave e sometimes breaks
+                     the a c trendllne. Entry Is a
+                     break of the b d trendline or
+                     a stop above/below wave d.
+
+
+
+
+    www.fx1618.com
+146 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Deutschemark Hourly
+
+
+
+
+                                                Pattern 2
+                          Pattern 3
+
+                                This hourly Deutschemark chart shows
+                                smaller C wave patterns within a triangle.
+
+
+
+
+      www.fx1618.com
+9/ C Wave Patterns on Daily and Inlraday Charts   147
+Sugar (CSCE)
+
+
+
+
+     www.fx1618.com
+148 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                     9/ C Wave Patterns on Daily and Inlraday Charts   149
+
+S&P 500 1 Minute
+
+
+
+
+    www.fx1618.com
+150 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Copper 10 Minutes
+
+
+
+
+     www.fx1618.com
+                     9/ C Wave Patterns on Daily and Inlraday Charts   151
+Copper 10 Minutes
+
+
+
+
+    www.fx1618.com
+152    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Copper 10 Minutes
+
+
+
+
+      www.fx1618.com
+                     9/ C Wave Patterns on Daily and Inlraday Charts   153
+
+
+Copper 10 Minutes
+
+
+
+
+    www.fx1618.com
+154     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Copper 10 Minutes
+
+
+
+
+      www.fx1618.com
+            9/ C Wave Patterns on Daily and Inlraday Charts   155
+
+
+
+
+www.fx1618.com
+156     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+      www.fx1618.com
+                                                    Chapter
+
+                                                       1O
+
+
+                            C Wave Method in Action
+
+
+
+  Youpatterns
+        now know what the C wave patterns look like and how they develop in real time. You can use these
+              in their simplest forms to get short-term trades by matching your price charts with the patterns
+   that I have laid out for you. The full listing of patterns is provided in Chapter 5 for future reference.
+   Another way to use C wave patterns is to try trend trading in an effort to stay in the trade as long as you can.
+   In this chapter, I will take you through some market action day by day to help you see how this can be
+   done.
+1. Draw a line through the midpoint of each day's range to get the general market shape.
+   2. Mark in a rough count of either (3s) or (5s).
+
+
+
+
+                                                                                                                157
+
+
+
+         www.fx1618.com
+   158     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+3. Keep renumbering until you have a logical wave count.
+
+
+ 4. Simplify your count by marking the end of every group of waves (5s) or (3s) with a dot and the num-ber of
+   w a v e s in each group.
+
+ 5. Always mark the first (3) group as a wave A.
+
+6. The next wave group of the same degree is wave B. This may be made up
+  of a smaller a b с d one degree smaller.
+
+7. Any time you have three or more waves on the                           MIDPOINT CHART , TRY DOING
+   DETAILED COUNTS ON THE DAILY CHARTS AS WELL
+
+
+8. Keep using both the midpoint and daily charts until you are absolutely sure
+  that wave B has finished.
+
+9. When wave B is complete, the midpoint chart will not be sensetive enough to get an accurate C wave count. Use
+   the daily chart until wave C ends.
+
+10. When your wave count is unclear, check a related market.
+
+11. Place market entry stops only when you have a clear C wave pattern. (See C wave diagrams and
+    rules in Chapter 5 )
+
+12. Once you are in the trade, use the daily charts for stops and a combination of daily and midpoint charts for
+   analysis. Repeat steps 1 to 11.
+
+
+
+
+         www.fx1618.com
+                                                                       10/ Wave Method in Action 159
+
+
+Entry
+The method of entry is the same for every pattern. An entry stop is placed one tick above/below the price
+bar of wave d or 4. When this stop is activated, a stop loss is placed one tick above/below wave e or 5
+Stops are covered in more detail ( see Managing the
+Trade, later in this chapter)
+
+
+
+
+      www.fx1618.com
+160      How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+The above chart shows 24 days of data on the OEX (S&P) 100). To begin the wave count, draw a line through the
+midpoint of each day's range to got the general market shape shown below
+
+
+
+
+      www.fx1618.com
+                                                                        10/ C Wave Method in Action       161
+
+
+
+
+Example 1
+
+
+
+
+Mark in a rough count of either/or 3s and 5s
+
+
+
+
+                           Example 2
+                           Keep renumbering until you have a logical wave count. Example 2 appears to be the
+                           best fit at this point.
+
+
+
+
+Simplify your count. Mark the end of every group of 5s or 3s with a dot and the number of waves in each
+group.
+
+
+
+
+       www.fx1618.com
+162     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+You can say that your first group may be an impulse 5s, but you don't know if it is wave 1, wave 3 or
+                                                                                              wave 5
+
+
+
+
+The next group (3) is definitely a correction against the short-term trend (3s are always correction). Therefore,
+always make your first (3) group after a (5) group as A.
+
+
+
+
+       www.fx1618.com
+                                                                         10/ Wave Method in Action              163
+
+
+
+
+Because you now have a wave A, the next group of 3 or 5 must be wave B. Or if wave И subdivides, the next three groups
+will be (a) (b) (c). This se tup is the most common. lt does not affect you either way because your
+primary interest is wave C.
+
+
+
+
+Mark the next Group of 3s as wave B.
+Now that you have possible wave A and wave B, you must now look for a C wave pattern. You are at the
+stage where the midpoint method is not sensitive enough to detect the final five waves that should make
+up wave C. You now look for five waves on a daily chart by marking in every wave flow (see Counting Waves
+in Chapter 3).
+
+
+
+
+       www.fx1618.com
+164   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Using the close prices and daily range, you can get a good idea of the wave flow.
+
+
+
+
+Five waves can be counted, but wave 3 does not exceed wave 1. This pattern does not fit into any of our C
+wave patterns, and the market may expand into the situation as presented in example 2.
+
+
+
+
+      www.fx1618.com
+                                                                         10 / C Wave Method in Action      165
+
+
+
+
+When the wave count is unclear, check a related market. In this case, the S&P 500 shows a clear five wave
+pattern. Wave 2 and wave 4 do not overlap. Refering to the pattern diagrams and rules, you will find that the C
+wave on the S&P 500 conforms to the rules of pattern 1.
+
+
+
+
+Because you are trading the S&P 100, refer back to the OEX chart and place your entry stop a tick above
+wave 4 and a stop loss below wave 5.
+
+
+
+
+      www.fx1618.com
+166   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+Managing the Trade
+At th e beginning of the trade, you cannot do anything until at least three waves have unfolded. Do not
+use the midpoint method alone to count waves since this method is not sensitive enough. Consider any
+movement as 3 wave. When you can count three waves of any degree, your stop can be moved, as in
+case 1 and case 2
+
+Case 1
+Wave 3 is least 300 percent in price length when com-pared to wave 2 (e.g. if wave 2 is 100 points,
+wave 3 must be 300 points or more). The stop can now be moved up to below wave 2.
+
+
+
+
+                   Case 1: Stop moves to below wave 2.
+
+
+
+
+      www.fx1618.com
+                                                                         10 /C Wave Method in Action     167
+
+Case 2
+
+
+
+
+Case 2 (a): If five waves are detected as wave 3, check for an impulse wave. If impulse wave is found,
+stop is moved to below wave 2.
+
+
+
+
+Case 2 (b): Check wave 1 for correction. If wave 1 is corrective, wave 3 will possibly be C wave pattern. If a
+C wave pattern is confirmed, the stop and reverse is placed below wave 4 of the C wave as usual.
+
+
+
+
+      www.fx1618.com
+    168   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Case 3
+
+
+
+
+ If there is no C wave pattern and wave 3 is less than 300 percent of wave 2, the stop stays in
+ its original place underneath the extreme low.
+
+
+
+
+                In a situation as described in case 3, wave 3
+may turn into wave B
+
+
+
+
+            If you are still in the trade, stop points can only be
+           altered when five waves can be counted.
+
+
+
+
+      www.fx1618.com
+                                                                           10/C Wave Method in Action       169
+
+
+
+
+                                When five waves can be counted, the stop goes
+                                under wave 4
+
+
+
+
+If you get stopped out, check the wave group(s) of wave 5. If they are 3s and not 5s, wave 5 should be
+renamed wave B.
+
+
+
+
+If this is the case, look for a C wave pattern. Do not attempt to stay in the trade. This C wave may retrace all the
+previous price moves and more.
+
+
+
+
+       www.fx1618.com
+170     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Five waves can now be counted. The stop is moved from below wave 2 and is now placed below wave 4.
+
+
+
+
+      www.fx1618.com
+                          10/C Wave Method in Action        171
+
+
+
+
+                   Because the assumed wave B is so strong
+                   compared to wave A, this is looking like
+                  pattern 6, 7 or 8 (sec pattern rules in Chapter
+                  5) The stop to enter the market goes above
+                  wave d with a stop loss below wave e. You
+                 still maintain your original position with the stop
+                 loss below wave 4
+
+
+
+
+www.fx1618.com
+172      How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+The stop to enter the market above wave d has not been hit, and the market has continued to correct
+(sideways markets are corrective). This calls for a recount. Wave A is still straight forward, but wave B may
+be incorrect.
+
+
+
+
+      www.fx1618.com
+                                                                     10/C Wave Method in Action    173
+
+
+
+
+Strictly using the entry rules, you were stopped into the market a tick above wave d. That same day your
+stop loss was hit a tick below wave e. Wave B is still obviously strong compared to wave A so any C wave
+must be a pattern 6, 7 or 8. A new buy stop was placed above the high of the day.
+
+
+
+
+      www.fx1618.com
+174   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+You have been successfully stopped into a pattern 7 trade
+
+
+
+
+      www.fx1618.com
+                                                                         10/C Wave Method in Action     175
+
+
+
+
+The stops on trade 2 have been progressively raised from below entry to under wave 2 and then raised
+again to under wave 4. The stop under wave 4 was then hit, leaving just your original open position. Marked
+on the chart are complete wave groups that make up the larger waves 1,2, 3 and 4.
+The slop rules are used on the large wave groups in the same manner us the smaller groups. You are
+always trying to cut your risk, and you achieve this by moving stops up on new positions using smaller
+degree waves.
+
+
+
+
+      www.fx1618.com
+176    How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Wave A and wave B have finished. Now look for the C wave pattern.
+
+
+
+
+      www.fx1618.com
+                 10/C Wave Method in Action     177
+
+
+
+
+                    Notice that the wave marked И is
+                    5 waves, this previously labled
+                   wave 5. In fact, it was wave B of
+                   pattern 6 A B C running
+                   correction.
+
+
+
+
+www.fx1618.com
+178   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Your stop profit stays below wave C of wave 4.
+Profit takes and reversals can only be made if wave 5 becomes pattern 3, or a clear five waves.
+
+
+
+
+The last day of trading has broken the pattern 3 range. Wave A is a correction.
+Rule: First (3) is wave A.
+
+
+
+
+      www.fx1618.com
+                                                                          10/C Wave Method In Action 179
+
+This alone suggests that the downmove is not a change of trend. But on the other hand, you do not know how
+far the C wave will carry you. It would be quite possible to retrace the complete upmove. Now that you have wave
+A and wave B, you are looking for a C wave pattern.
+
+
+
+
+Wave C now has a five wave pattern 2. The entry stop goes above wave 4.
+
+
+
+
+      www.fx1618.com
+180 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Your stop profit was hit, and you wait on the sidelines. Wave C has become too complex on the OEX, so you
+use the cash S&P to help with the count.
+(For clarity, this S&P 500 chart was constructed from a daily chart using high/low and close prices to get the
+correct wave flow. It is not a midpoint chart )
+Rule: Check related markets to clarify the count.
+
+
+
+
+S&P 500
+
+
+
+
+      www.fx1618.com
+                                                                       10/C Wave Method in Action       181
+
+
+
+
+Wave C obeys the rules of pattern 1. Now refer back to the OEX chart, and place a stop above wave 4 to enter
+a new position with a stop loss beneath wave 5.
+Now let's take a look at a second example of market action playing out day by day.
+
+
+
+
+      www.fx1618.com
+182   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Eight days of May wheat are illustrated above. Since you have a wave group of at least three waves
+on the midpoint (more in this case), you can try a detailed daily wave flow.
+
+
+
+
+      www.fx1618.com
+                                                                      10/C Wave Method in Action   183
+
+
+
+
+The daily wave count is clear enough to use. Wave 1 is a (3), therefore, it is marked wave A.
+
+
+
+
+The next part is fuzzy until wave 4 overlaps wave 1 and on day 7 the market closed down. Wave 4 is wave
+(c) of B. You are now looking for a C wave pattern.
+
+
+
+
+      www.fx1618.com
+184     How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+Wave C is a pattern 1. Our entry stop above wave 4 was hit, and you are now long with a stop under wave
+5. The market then went sideways. Your stop below wave 5 was not h i t . Above is a wave flow that shows
+the real wave count. This does not alter your long position in any way.
+
+
+
+
+There is a clear double bottom that now can be labeled wave A and waveB. Wave 5 of wave C is very
+long when compared to both wave A and wave B and also when compared to wave 1 and wave 3 of
+wave C. Wave C is elongated. Your stop and reverse goes under wave 4.
+
+
+
+
+      www.fx1618.com
+                                                                                        10/C Wave Method in Action             165
+
+
+
+
+Your stop has not boon hit, and you have not found any C wave patterns to add on with. The wave count is murky, so you are now using
+both the midwave and daily charts for your wave counts.
+
+
+
+
+Stop losses should now be raised.
+
+
+
+
+        www.fx1618.com
+186 How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+
+The midpoint provides the clearest look at the market. Wave B has ended, and you are looking for a
+clear C wave pattern on the daily chart. Now you will experiment and see if you can get a good fiton
+your wave count.
+
+
+
+
+        www.fx1618.com
+                                                                       10/C Wave Method in Action     187
+
+
+
+
+In all honesty, the last wave (S) is subdividing so much that it is hard to get a good count. Unless this
+ends with a pattern 3, I can see no way of entering the market as a seller (profit and reverse). You
+must raise your stop to take profits now that you have a clear wave 4. But if the market were to pass
+through here now without a pattern 3 signal, you would have to stand aside. Remem-ber, unless the
+pattern is clear, conserve your capital for a better opportunity.
+
+
+
+
+      www.fx1618.com
+188   How To Identify High-Profit Elliott Wave Trades in Real Time
+
+
+
+The pattern 3 is quite clear so you could move your Stop up to below wave D. There you took profits as well
+as reversed your position.
+
+
+
+
+      www.fx1618.com
+                                                           10/C Wave Method in Action                         189
+
+Conclusion
+
+After walking through previouse examples, you can see how relatively easy a complex
+subject can become. You will note that you made profitable trades without getting caught up
+in any long-term wave counts. It is not necessary to have a deep knowledge of the Elliott
+W a v e P r i n c i p l e s t o m a k e p r o f i t s a s l o n g a s y o u p a y a t tention to detail and make sure
+that you follow the C wave pattern recognition rules. The experience that you need for long term
+counts will come with time, but even then you must realize that Elliott Wave is an indicator of future
+events and only offers the most probable out-come - new information enters the market, the wave
+structure eill adapt. For this reason, never have a view on the market and keep your wave counts
+up to date.
+
+
+
+
+       www.fx1618.com
+                                             Summary
+
+
+
+
+ItElliott
+    is with good reason that the Elliott Wave Theory has retained the interest of traders for more than 60 years.
+          Wave is one of the few market methods that can effectively identify where the current price belongs in
+  the overall structure of the market. With this informa-tion, a trader can decide whether to be buying dips or
+selling the rally. The C wave patterns have taken Elliott's wave principles to a new level of precision and as
+such are a significant breakthrough for real time traders. There should be no need to look at the market in
+hindsight. The C wave patterns will get you on the right side of the market, whether the moves are large or small.
+You must be prepared to take the time to study and match the C wave patterns every market day. Consis-
+tency is the key. If you can do this, you will never miss a good trade again. This is a discipline that requires con-
+stant application, but the rewards are many.
+
+
+
+
+                                                                                                                  191
+
+
+       www.fx1618.com
+                                            Appendix
+
+                                                  I
+
+
+                        Fibonacci in a Nutshell
+
+
+
+The Fibonacci rarios and Elliott Wave are bound to-gether in the public mind as one, but Eliott origi-
+ nally conceivedl the wave theory without any knowledge that the Fibonacci sequence existed. The C
+ wave pat-terns also stand alone outside any other market techni-cal inputs such as moving
+averages, relative strength indexes. However, you do not have to abandon other technical studies.
+When you get a reliable signal from another type of system, you can always increase your trad-ing
+size.
+Consider the Fibonnacci ratios only as an indicator. If you do not find any price or time ratios, do
+not let that stop you from taking the trade when you have a C wave signal.
+
+
+
+
+                                                                                                    193
+
+
+
+      www.fx1618.com
+194 Appendix 1
+   The Fibonacci sequence made up like this:
+  1 + 2 = 3
+            2+3+5
+                     3+5=8
+                                        8 + 13 = 21
+and so on to infinity.
+The Fibonacci ratios used in market calculations are expressed in percentage
+terms as follows :
+38,2 % 61,8 % 138,2 % 161,8 % 238,2 % 261,8 %
+This is how it works in theory: Say that the market has moved up 100 points and is now pulling back. You
+would look to buy when the market is at 62 points         that is 100 - 38.2 points 38 points that is 100 - 61 8
+points or if wave 1 was 100 points and wave 2 was 40 points, you would look to sell wave 3 at the different
+Fibonacci ratio points. These are calculated by adding them to the end of wave 1 (which in this case is 100
+points).
+The Fibonacci ratios would give the following sell points. sell at 138 = (100 x 38 2% + 100)
+162 = (100 x 61 8% + 100)
+238 = (100 x 138 2% + 100)
+262 = (100 x 161 8% + 100)
+338 = (100x238.2%+ 100)
+362 = (100x261.8%+ 100)
+
+
+
+
+       www.fx1618.com
+                                                                            Fibonacci Ratios in a Nutshell   195
+
+You can see the problem. There are now so many sell points that it would be foolish to use the ratios
+by them-selves as a method for finding a target. It is quite likely that t h e market w i l l reverse for a
+while from around one of those points, but the risks of selling at these ratio targets outweight the
+gains. More rewarding is using the ratios to predict the likely termination time of a correction.
+Fibonacci time targets are calculated the same way as price. Take the time of wave A and
+wave B when added together, and multiply them by the Fibonacci ratios. For instance, if wave A and
+wave B when added together equal 10 time periods, your time targets for the end of wave C are 4, 6,
+14, 16, 24 and 26 time periods.
+I can not stress this point enough. At this stage, the Fibonacci ratios are only an indicator and
+remain so until a definitive set of rules can be discovered that will enable them to be used with
+consistency in the real world of trading.
+
+
+
+
+      www.fx1618.com
+                                                   Appendix
+
+                                                       II
+
+
+                                    Daily Worksheet
+
+
+
+
+When counting waves, the practiced trader puts in a lot of work—almost subconsciously
+ Using a daily worksheet, you can lay out logically the complete analytical process so that, by following all the
+steps, you will always arrive at the best answer. In following this process, you become a detective—putting
+together the clues that tell you where and when the next market move will happen. The daily worksheet will save
+you considerable time even after you become proficient at Elliott Wave counts. This checklist lays out every step
+so that no potential clue can be overlooked. You may want to photocopy the worksheet for east of use.
+
+No matter what type of trading you do, always look at charts of one higher degree than you normally use. If you
+trade in intraday, do a preliminary wave count using the daily charts. If you use daily charts, look at the weekly
+and monthly charts. This preliminary count does not need to be strictly accurate on this initial glance, but it
+does serve to remind you the type of market that you are in and therefore lend a sense of
+perspective.
+  If you are trading currencies or stock market futures that are trending in nature, you must
+eventually do long-term wave counts using monthly charts. But if you are trading markets such as live
+cattle, which obviously oscillate in price bands, there is no point in trying to do long term counts
+when the most useful application of Elliott Waves is on daily charts.
+WHEN USING THE WORKSHEET, CIRLE THE + OR - SIGNS SO THAT YOU HAVE A QUICK REFERENCE OF THE
+WORK THAT YOU have already done. The more + signs that you have, the more likely that your
+analysis is correct. Mark your investigative ideas under comments to keep them fresh in your mind.
+
+
+
+
+       www.fx1618.com                                                                                         197
+                                                                                                           Daily Worksheet 199
+
+                Daily Worksheet
+
+                Wave 1
+    +           Can you count five waves (three in the direction on the trend, two corrective)
+    +           Do the two corrective waves show alteration?
+    +           Is the a lteration in the term of price?
+    +           Is the alteration in the term of wave structure (e.g. the first may be an a b c, the second an a b c d e, or the
+                first may be a flat the second may be a zigzag?
+    +   -       Is the alternation in in the form of time? For instance, correction 1 may be five days, correction 2 noticeably
+                longer or shorter. Also at this point, check for Fibonacci time ratios between the first and second corrections
+                (e.g. the first correction took ten days, the second took six days, therefore correction 2 is approximately 61.80
+                percent of correction 1).
+    +       - Are there any Fibonacci time ratios between correction 1 and correction 2? If there is no alternation
+              between correction 1 and 2, you might be in a corrective zigzag pattern. Zigzags often act the same way as an
+              impulse. For practical purposes at this stage, treat the move as impulsive until there is more evidence. Wave
+              1 may be extending, and the move may be showing power because of some strong underlying fundamental
+              considerations that you are as yet unaware of.
++           - When comparing the three waves that move in the direction of the new trend, is one of these waves longer
+              than the other two? If the waves are all similar in price, note that they may possibly be a zigzag and not the
+              start of a new impulse move.
++           -       When comparing the three waves that move in the direction of the new trend, is the middle wave
+                longer in price than at least one of the other waves?
+
+
+
+
+                       www.fx1618.com
+200    Apendix 2
+
+If the middle wave is the shortest, this move is a correction
+If you believe that you are in wave 1 and you can count only three waves before wave 4 enters the price area
+of wave 1, you are now in wave B of a correction
+
+Comments____________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+
+
+Wave 2
++        -    Is wave 2 a correction of at leat a simple ABC?
++        -      Compared to wave 1, does wave 2 take a least one-third of the amount of time to complete
+(e.g., wave 1 took ten periods to complete, wave 2 must take at least three periods)?
++         -    Has wave 2 retraced more than 99 percent of wave 1? If so, this is definitely not wave 2. You
+must either be in wave B of a correction and the wave that you have labeled as wave 1 was a zigzag not an
+impulse, or your count is totally incorrect in which case you will need to go through the whole process again from
+at least three waves back.
++        -     Does wave A subdivide into three smaller waves?
++        -     Does wave B subdivide into three smaller waves?
++       -    Does wave C subdivide into five smaller waves? If this happens, there is a strong chance that
+wave 2 is now complete and you should take any entry signal in the direction of the trend.
+
+
+
+
+       www.fx1618.com
+                                                                                        Daily Worksheet 201
+
+If at this point a five wave triangle occurs with every wave clearly subdivided, you are in wave B not wave 2.
+The exception to this is intraday currencies where you will often see that wave 2 on a 120 minute chart is a
+small triangle. Wave 2 can often be a running correction during strong impulsive markets. Wave A, wave B
+and wave C will be corrective, so there should be no confusion
+Comments_________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+__________________________________________________________________________________
+
+
+
+
+Wave3
++     -      Can you count five waves (three in the direction of the trend, two corrective)?
++     -      Do the two corrective waves show alternation?
++     -      Is the alternation in the form of price?
++     -      Is the alternation in the form of wave structure?
++     -     Is the alternation in the form of time?
+            At this point, check for Fibonacci time ratios between the first and second correction.
++     -      Are there any Fibonacci time ratios between correction 1 and correction 2?
++    -     When comparing the three waves that move in the direction of the new trend, is one of these
+waves longer than the other two?
+
+
+
+
+      www.fx1618.com
+202       APENDIX 2
+
++             When comparing the three waves that move in the direction of the new trend, is the middle
+wave longer in price than at least one of the other waves?
+If the middle wave is the shortest, this move is a correction
+If you believe that you are in wave 3 and you can count only three waves before wave 4 enters the price area
+of wave 1, you are now in wave B of an irregular correction
+
+Comments____________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+_____________________________________________________________________________________
+
+
+
+Wave 4
++     -     Can you count three waves only in wave A?
++     -     Can you count three waves only in wave B?
++     -     Can you count either three or five waves in wave C?
++    -      Wave 4 can be a five wave triangle If so, are all five legs made up of three waves, not five?
+Wave 4 can often take up much more time and be far more complex than wave 2 As an indicator that wave 4 is
+complete, use Fibonacci time ratios.
+
+
+
+
+      www.fx1618.com
+                                                                                        Dally Worksheet 201
+
++     -      When you compare the time that wave 2 took to complete, does wave 4 relate by any
+Fibonacci ratio (such as, 61.8 percent, 1 6 1 . 8 percent, 238.2 percent or 261.8 percent)?
++      -       Does wave 4 stay out of the price range of wave 1? If the answer in no, you are definitely in a
+correction. Wave 4 can be shorter in time if wave 2 was unusually complex and time-consuming. In this case,
+wave 4 will often be a severe price correction and will be obvious when you look at your price charts.
++     -     Is there price alternation between wave 2 and wave 4?
++    -   Is there structure alternation between wave 2 and wave 1 (e.g., wave 2 may be a zigzag and
+wave 4 a flat)?
++     -       Is there lime alternation between wave 2 and wave 4?
++      -       Has a contracting triangle completed?
+At this point, be prepared to take any entry signal in the direction of the trend.
+Comments:_______________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+________________________________________________________________________________________
+
+
+
+
+          www.fx1618.com
+204   Appendix 2
+
+Wave 5
+
+
++           Can you count five waves in the direction of the trend, two corrective ?
++           Do the two corrective waves show alteration?
++           Is the alteration in the term of price? Is the alteration in the term of
+wave structure?
++           Is the alteration in the term of time? Also at this point check for Fibonacci time
+ratios between the first and second corrections.
+
++           Are there any Fibonacci time ratios between correction 1 and correction 2?
+
++    -    When comparing the three waves that move in the direction of the trend, is one of these
+waves longer than the other two?
++     - When comparing the three waves that move in the direction of the new trend, is THE MIDDLE
+WAVE longer in price than at least one of the other waves? If the middle wave is the shortest, this move
+is a correction. If you believe that you are in wave 5 and you can count only three waves before wave 4
+enters the price area of wave 1, you are still in a correction.
+
+Comments
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+____________________________________________________________________________________________
+
+
+
+
+      www.fx1618.com
+                                                                                           Dally Worksheet   205
+
+
+
+Wave 5 Triangle
+If wave 1 has obviously completed but the next move in the direction of the trend is corrective, you
+have a good case that a triangle top is forming. Wave 1 will at first appear impulsive, but when
+you look closer to its structure, you will find that it is actually corrective.
+Is t h e r e a lack of alternation between the two corrective waves t h a t make up wave 1 in three
+following ways?
+Time Price
+Structure
++        Is the third waveof wave 1the shortest of the three waves? This is
+not essential.
++     -     Ca n you deduce from the above answers that wave 1 is corrective? In this case, relabel wave
+1 as wave A.
++            Does wave 2 subdivide into three waves only? If so, label this as wave B.
++            Does wave 3 subdivide into three waves only? If so, label this as wave C.
++      -     Does wave 4 subdivide into three waves only? If so, label this as wave D.
++            Do the price ranges of wave B, wave C, and wave D overlap?
+
++      -     Does wave 5 subdivide into three waves only? If so, label this as wave E.
++      -     Sometimes wave 5 will appear impulsive and will make new market highs, but on closer
+inspection wave 5 will be corrective. Is there lack of alternation between the two corrective waves that
+make up wave 5 in the following ways?
++     -      Time
++     -      Price
+
+
++      -     Structure
+
++     -    Is the third wave of wave 1 the shortest of three waves?
+(This is not essential).
+
++       -  Can you deduce from the above answers that wave 5 is corrective? In this
+case relabel wave 5 as wave E.
+At this point draw a trend line linking waves B and D. When this trend line is broken,
+the wave 5 triangle is complete.
+Place an entry stop underneath/above the start of wave d with a protective stop loss
+above/below the high/low. The market will now begin a change of trend or wnter a
+major corrective period. Its price strength and duration will depend on degree of the
+waves that you have been analyzing.
+
+
+
+
+      www.fx1618.com
+www.fx1618.com
+

@@ -1,0 +1,70 @@
+{
+  "count": 80,
+  "stats": {
+    "empty": 19,
+    "pdf_text": 46,
+    "ocr-preview": 15
+  },
+  "items": [
+    {
+      "file": "(1909) Scientific Stock Forecasting.pdf",
+      "txt": "(1909) Scientific Stock Forecasting.txt",
+      "method": "empty",
+      "chars": 0
+    },
+    {
+      "file": "(1909) Ticker and Investment Digest.pdf",
+      "txt": "(1909) Ticker and Investment Digest.txt",
+      "method": "pdf-text",
+      "chars": 17014
+    },
+    {
+      "file": "(1918) Truth of the Stock Tape - Annual Forecasts 1919-1922.pdf",
+      "txt": "(1918) Truth of the Stock Tape - Annual Forecasts 1919-1922.txt",
+      "method": "empty",
+      "chars": 0
+    },
+    {
+      "file": "(1922) The Morning Telegraph.pdf",
+      "txt": "(1922) The Morning Telegraph.txt",
+      "method": "pdf-text",
+      "chars": 5093
+    },
+    {
+      "file": "(1923) Truth of the Stock Tape.pdf",
+      "txt": "(1923) Truth of the Stock Tape.txt",
+      "method": "pdf-text",
+      "chars": 315860
+    },
+    {
+      "file": "(1931) The Human Body.pdf",
+      "txt": "(1931) The Human Body.txt",
+      "method": "pdf-text",
+      "chars": 3523
+    },
+    {
+      "file": "(1931) Usage of Gann SQ9 & Hexagon Chart.pdf",
+      "txt": "(1931) Usage of Gann SQ9 & Hexagon Chart.txt",
+      "method": "pdf-text",
+      "chars": 10674
+    },
+    {
+      "file": "(1941) How To Make Profits Trading In Puts & Calls.pdf",
+      "txt": "(1941) How To Make Profits Trading In Puts & Calls.txt",
+      "method": "pdf-text",
+      "chars": 63330
+    },
+    {
+      "file": "(1953) The Magic Word.pdf",
+      "txt": "(1953) The Magic Word.txt",
+      "method": "pdf-text",
+      "chars": 210194
+    },
+    {
+      "file": "(1954) May Coffee Santos D - Heliocentric And Geo.pdf",
+      "txt": "(1954) May Coffee Santos D - Heliocentric And Geo.txt",
+      "method": "ocr-preview",
+      "chars": 4809
+    }
+  ]
+}

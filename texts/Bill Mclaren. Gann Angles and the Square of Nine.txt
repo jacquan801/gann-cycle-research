@@ -1,0 +1,87 @@
+                      Gann: Angles and the
+                        Square of Nine
+                                       By Bill McLaren
+
+
+I
+    believe it is prudent that I begin by prefacing this article with a few cautions. First, there is
+    an abundance of misinformation related to the theory of Gann analysis that is available to
+    the novice trader. Other schools of trading thought involving Fibonacci, Andrews, or Elliott
+may be related to some aspects of Gann, but beware of "pundits" that group some or all these
+schools under the umbrella of Gann theory. They are blatantly misguided. Second, you must
+have a basic understanding of price movement to be successful in trading. This knowledge is
+the foundation of analysis and all else is built upon it. Gann, Elliott, or even oscillators all present
+probabilities, but the only thing that is a certainty is that which is occurring on the price chart.
+The pattern in the movement of prices should justify the probability that your indicator is giving
+you the right signal. Third, quoting Mr. Gann, Whenever price and time are squared, you can
+look for a change in trend." The key word in his statement is "look." This means to look for some
+evidence that the trend has changed before positioning on that probability. I gave a seminar
+last year where the basic theme was stop trying to pick tops and bottoms and learn how to earn
+money trading." What I was attempting to explain in the seminar was how to identify what I call
+counter trend movements. Counter trend movements are identied as the rst rally after the
+fall-off of prices from a signicant high. When prices are trending upward, prices will tend to fall
+sharply off a signicant high, either 1 to 3 days or 7 to 10 days depending on the momentum of
+the move. But after a high that completes a move, the st counter trend will usually be within
+1 to 3 days long. (Note IBM chart Figure #3) Conversely, the opposite is true when prices are
+trending downward. Once you've been able to locate these counter trend movements, I believe
+you will have acquired the knowledge to trade successfully.
+
+
+                                    The Use of Angles
+     Gann angles are employed for many reasons but probably the two most important being
+rst, to dene when price and time are back in balance with each other and second, to show the
+strength or weakness of a position. They are not to be used to randomly buy or sell support and
+resistance levels. Since the Gann method of charting is done on geometric charts where the two
+axis represent the same space movement, the angles therefore are a geometric relationship to
+price and time. The 1 x 1 (or 45°) angle line moves at the rate of one price increment to one time
+increment, so on a weekly stock chart this would represent one point per week. The slower 1 x 2
+moves at 1/2 point per week and the faster 2 x 1 moves 2 points per week.
+     Referring to gure #I we see that a stock hits a high of $36 and moves down. Assuming
+that this is a weekly chart, when the 45° angle from the high moves down to zero, time would
+have moved 36 weeks and if a 45° angle were drawn up from zero at the time of the high, where
+those two angles meet would represent 50% of the high price ($18) in both price and time.
+This would obviously be very strong support on the geometric chart as price and time would be
+balanced or "squared" at a harmonic 50% of the high price.
+     Figure #2 shows that from the low, price moves above the 2 x 1 angle, then falls back to
+rest on the 45° angle (at point A) bringing price and time back into balance. At point "B" price
+moves above the 45° angle from the swing high placing the movement in a strong position
+from the tow (above the 45° angle) and strong position from the high (above the 45° angle
+from high), indicating a resumption of the uptrend. This is an example of a blow-off movement.
+Notice how at point "C" price nds the low at the next ascending angle, then again at point "D"
+on the next higher ascending angle. At point "A", price could have broken the 45° angle but at
+point NB" if price recovered that same 45° angle and also moved above the 45° angle from the
+high then the same conclusion would apply.
+     Figure #3 shows a daily chart of IBM. Notice how the high was precisely against the angle
+from the low "squaring price and time" and indicating a possible change in trend. There are
+many ways to qualify that probability is an important high and one of the ways is with the "square
+of nine" which we will look at a little later in this article.
+     Figure #4 shows a daily chart of the S&P contract. Notice how the last high is again squared
+with an angle from the low. This Squaring" occurs 36 days from the low and 72 points up from the
+low. Those well versed Figure #2 in Gann theory will recognize 36 x 72 as important harmonies
+of 144 and therefore qualifying that N squaring" as important.
+
+
+                                     Square of Nine
+     The square of nine, or spiral chart, is a very valuable tool for trading and forecasting. See
+Figure #5. It is used as a way to see the vibration of prices in degrees. It has been my experience
+that 90% of all stock's price swings will t into these degrees of movement. Look at gure #5.
+Around the outside of the square of nine are the dates of the year. This circle encompasses a
+spiral of numbers, the rst cycle of numbers ranging from 1 through 9. Notice on the 45 angle
+running from the center northeast to the date of May 6th are the squares of even numbers: 16,
+36, 64, 100, 144, etc. Moving down to the southwest corner are squares of odd numbers: 25,
+49, 81, 121, 169, etc. These are "natural" resistance levels but should be conrmed with other
+indicators. However, some stocks and the Dow Jones Industrial Average are uncanny for hitting
+signicant highs and lows on exact squares of numbers.
+     There is one other aspect to using the square of nine. It is that the geometric angles can be
+overlaid on top of the spiral chart (Figure #6). Figure #3 shows an IBM chart where the low was
+at the 95-6 level. The rst important high was at 116 followed by a counter trend move down
+to 105, then nally a blow-off into the high at 139. I have circled those prices on the square of
+nine and noted the degrees of movement on the IBM chart. You can also nd these degrees
+of movement mathematically. For instance, to locate a 180 movement, take the square root of
+the number, add 1, and square the total. To nd 360, add 2 to the square root and square that
+total. Now go back to gure #5 and look at the dark line that cuts across the chart. It starts on
+August 23rd and ends February 19th. The low on IBM occurred August 23rd (rst of the double
+bottoms) and the high occurred February 19, or exactly 180 in time. Moving 360 in price and 180
+in time while "squaring" the high price with the low on the trading day chart gave a probability
+that 139 on February 19th could be a signicant high point
+

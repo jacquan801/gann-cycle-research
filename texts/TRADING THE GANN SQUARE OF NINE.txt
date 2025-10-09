@@ -1,0 +1,2043 @@
+This material is protected under the Digital Millennium Copyright Act of 1998 and various
+international treaties. This material may not be replicated and redistributed. You may
+make one or more copies for archival purposes if those copies are for your own use, but
+it is illegal to email this material or to make it available for downloading by any person
+other than yourself.
+
+
+
+
+                               Eyewire/Photodisc/Getty Images
+
+
+
+
+                                                                                         2
+                                           CONTENTS
+
+INTRODUCTION
+
+THE GANN WHEEL                                        ……..
+  The Real Square of Nine
+  Use the Gann Wheel then Put it Away
+
+THE SQUARE ROOT THEORY                                ……..
+
+SQUARE OF NINE ROADMAP CHART                          ……..
+  Circles Within the Wheel
+  The Degrees to Factor Table
+  Moving Around the Square of Nine
+  Constructing a Roadmap Chart
+  Calculating the Horizontal Price Lines
+  Calculating the Vertical Time Lines
+  Placing the Channel Lines
+  Creating Hourly Roadmap Charts
+
+THE THREE DIGIT CONTROVERSY                           ……..
+  Which Price Do I Use?
+  Variations on Time Spacing
+  Gann Angles
+
+SQUARING PRICE WITH PRICE                             ……..
+  Support and Resistance From Major Pivots
+  A Touch of Reality, Please
+
+CONVERTING PRICE AND TIME TO DEGREES OF A CIRCLE      ……..
+  A Visualization of Spatial Relationships
+  Price or Time Converted to Degrees - the Formula
+
+THE DEVIL IS IN THE DETAILS                           ……..
+  Five Ways that Price Squares with Time
+
+SQUARING CURRENT PRICE WITH                           ……..
+TIME FROM A PRIOR CHANGE IN TREND
+
+SQUARING TIME IN A PRIOR TREND WITH                   ……..
+THE PRICE RANGE OF THE CURRENT TREND
+
+SQUARING THE PRICE RANGE IN THE PRIOR TREND WITH      ……..
+TIME IN THE CURRENT TREND
+   The Only Other Formula You'll Ever Need
+
+SQUARING PRICE THAT ENDED A PRIOR TREND WITH          ……..
+TIME IN THE CURRENT TREND
+
+SQUARING THE PRICE RANGE OF THE CURRENT TREND WITH    ……..
+TIME OF THE CURRENT TREND
+
+APPENDIX
+
+CONCLUSION
+
+
+
+                                                             3
+                                        INTRODUCTION
+
+If you have been trading stocks, options or futures for any length of time you are probably familiar
+with W.D. Gann, at least by name. Gann was a prodigious researcher and a prolific author for
+most of the first half of the 20th century. He traveled to Egypt to experience first hand the
+proportional beauty of the Great Pyramid, and to India to experience first hand another source of
+ancient knowledge and wisdom. Many contemporary Gann researchers believe that the Square
+of Nine was first used in India hundreds and perhaps even thousands of years ago and that Gann
+rediscovered it there. So remarkable was Gann's reputation that people paid the price of a single
+family home to attend Gann's weekend trading seminars. His work has spawned hundreds of
+articles, books and computer programs attempting to decipher his often cryptic writing style or
+claiming to have discovered his "secret" for trading the markets.
+
+If Gann had a secret, we don't know it. But secrets or no, Gann is credited with verbalizing an
+abstraction that captures the imagination of every person with the dream of making it big in the
+markets - "when price and time square change is inevitable." Even without having a clue what
+squaring of price and time could mean the idea that any method of market analysis could be used
+in the same sentence with the word inevitable will get your attention every time.
+
+The momentum that started this tract came via a telephone call from a friend who trades stock
+futures. He related a call that he had received from another futures trader with whom he
+exchanged trading ideas and outlooks by email. The caller told the trader to get an historical
+chart, but not tell him what ticker the chart represented, or the trading period the chart
+represented. "Give me a price for an obvious swing high or low", the caller said. "Just to save
+time, tell me if it's a high or a low, and if the next swing off that pivot is major or minor." Who
+wouldn't be curious enough to participate in this? Over the next several minutes the trader gave
+the caller several instances of the minimal information he had asked for and after a brief period
+each time received back from the caller two or three price levels one or more of which the caller
+said would be major support or resistance or change the trend. The results were not perfect but
+they were darn close enough to what was actually happening with that ticker to instigate many
+hours of follow up, research, and experimentation, and finally, an understanding of what price
+squaring time means, and how to do it simply in any market without paying hundreds or even
+thousands of dollars for new software, special equipment, or Gann size seminar fees.
+
+Gann wrote in metaphors. He described complex things with symbols instead of plain language.
+He often provided so much data that there was little information to be found. Much of what has
+been written about Gann and his methods adopts this cryptic style. The writers taunt you with "I
+know something you don't" and more often than not do not tell you what it is despite the price of
+the work or what the title of their book may claim. We have tried very hard to avoid that.
+
+This is a book about technique. How to do things. We do not attempt to hide any "truths" in
+symbolic language. Within the first few chapters you will know how the caller was able to impress
+the trader with his prescience. You will be able to reliably duplicate the caller's results in any time
+frame with any ticker. You will learn how to print a plain-jane daily or intraday chart from a
+charting program or the internet and quickly turn it into a Square of Nine roadmap that will define
+the boundaries of the current trend and show you the exact price levels of the most likely major
+resistance and support. You will learn how to forecast exactly where and when the current trend
+could come to an end. You will have the knowledge to make the Square of Nine your own and to
+apply it with the simple tools you already have on hand.
+
+
+
+
+                                                                                                     4
+                                     THE GANN WHEEL
+
+
+
+When presented with the idea of the Square of Nine, this illustration is most likely what you think
+of. A useable version is available at http://www.tradingfives.com/addenda.html.
+
+
+
+
+As with most things associated with Gann, they are described in colorful terms and made to look
+more difficult than they really are. The Gann Wheel or Square of Nine chart has been compared
+to or described as the floor plan of the Great Pyramid. Gann is said to have kept a scale model of
+the Great Pyramid with the peak labeled with the numeral one and each block consecutively
+numbered in a counterclockwise fashion. You can easily imagine how this pyramid would be
+constructed, by grabbing the number one on the Gann Wheel and pulling it straight up to create a
+three dimensional object from the two-dimensional flat surface of the paper. This is probably a
+fairly useful thought experiment because it creates a clear picture in the mind of opposing sides,
+distinct angles, and the increasing distance between numbers, what we relate to as volatility, as
+you move further away from the numeral one on the top of the pyramid.
+
+That the Great Pyramid of Gizeh also features prominently in the work of R.N. Elliott and the
+adherence of Fibonacci ratios to something built thousands of years ago is probably more than
+coincidental. For example, the Great Pyramid is 5,813 inches high (5-8-13) and the inch was the
+standard unit of measure in ancient Egypt. The ratio of the elevation to the base is .618. The total
+of the four edges of the base, measured in inches, is 36,524.22 which is exactly 100 times the
+length of the solar year. What does it all mean, who knows? In a totally unscientific affirmation it
+does suggest that the human brain may be hard-wired to respond in a certain way to very specific
+mathematical ratios and spatial relationships.
+
+The Real Square of Nine?
+
+Gann gave many courses on different aspects of his method but he never gave a course
+exclusively on the Square of Nine. We understand from others who have studied much of Gann's
+original work that in one of his courses he did write about what he called a square of nine that
+looked something like this:
+
+
+
+
+                                                                                                  5
+                                  9      18     27      …..    81
+                                  8      17     26      …..    80
+                                  7      16     25      …..    79
+                                  6      15     24      …..    78
+                                  5      14     23      …..    77
+                                  4      13     22      …..    76
+                                  3      12     21      …..    75
+                                  2      11     20      …..    74
+                                  1      10     19      …..    73
+
+And although he never referred to it by any particular name Gann also produced his own
+illustration of the Gann Wheel, what we call today the Square of Nine that is the same as the
+illustration on the website. We know that Gann used what we call the Gann Wheel to trade along
+with the complete version of the above table of 81 numbers as well as several other tables of
+numbers and geometric charts. Today we take for granted things like hand-held computers and
+wireless communications. In Gann's day you had to be a lot more creative and resourceful.
+
+Use the Gann Wheel then Put It Away
+
+Although we will cover in this section a classic and simple use of the Gann Wheel to forecast
+price support and resistance levels, at the end of this section we will put the paper copy of the
+Gann Wheel away. The purpose of this short exercise is to provide a conceptual framework to the
+mathematical applications of the Square of Nine that is the heart of this work and much of Gann's
+work as well. Later on it will be much easier to make sense of an expression like "19 is on the 90
+degree angle" after you've seen how that works in two dimensions on the Gann Wheel.
+
+                             31    32     33     34    35     36     37
+                             30    13     14     15    16     17     38
+                             29    12     3      4     5      18     39
+                             28    11     2      1     6      19     40
+                             27    10     9      8     7      20     41
+                             26    25     24     23    22     21     42
+                             49    48     47     46    45     44     43
+
+If you draw or imagine a circle around the outer edge of the above table we can conceptualize the
+table as a rectangle inside a circle with a 360 degree circumference. The vertical line from 34 to
+46 is at 0-180 degrees, and the left to right horizontal line from 28 to 40 on the table is at 270-90
+degrees. In the example above we can say that 19 is 90 degrees up from 15. The numeral 23 is
+180 degrees up from 15 and 90 degrees up from 19. The numeral 8 would be 180 degrees down
+from 15. The "up" and "down" references mean greater or lesser numbers and not relative
+positions on the table. For example, 8 is 180 degrees down from 15 and 23 is 180 degrees up
+from 15 even though 8 and 23 are both on opposite sides of the horizontal 270-90 degree line.
+
+In this very simple example we are using the Gann Wheel as a square root calculator. That may
+not be obvious to you at this point but when we start to do the math it will be. The number 15 lies
+conveniently on the 0-180 degree angle so it's easy enough to show a 90 degree or 180 degree
+rotation. What if the number is not one of those on the most convenient fixed angles, say 37 on
+our small chart, which lies in the upper right hand corner? Most commercial Gann Wheels come
+with an acetate overlay with several angles printed on it. To calculate targets from 37 you would
+move the overlay to the right so that the zero or 360 degree angle lay on 37 and then read the
+angles of interest directly from the repositioned overlay.
+
+We neither encourage nor discourage using a two-dimensional (paper) version of this square root
+calculator. After all people have been successfully using this tool for long before there was a Wall
+
+
+
+                                                                                                   6
+Street in New York or even a New World to put a New York in. Just be prepared for a steep
+learning curve. The paper version increments in whole numbers and can be difficult to apply to
+stock prices less than $150 and to many futures prices which may require a radical conversion of
+one kind or another. Of course, the folks that know these conversion factors aren't going to tell
+you about them without serious cash changing hands, if at all. That being said, any number of
+books, courses and seminars on applying the paper version of the Gann Wheel or the Square of
+Nine are available on-line or in person, and some have been available for many years. We
+haven't traveled this road because we believe that there is an easier way.
+
+
+
+
+                                                                                               7
+                              THE SQUARE ROOT THEORY
+
+
+We have alluded to the Square Of Nine as a square root calculator. We have attributed not the
+discovery of this tool (the actual discovery or date of first use is an unsolved mystery) but its
+public application to trading stocks and commodities to W.D. Gann. Perhaps it's worthwhile to
+know that Gann was not the only financial writer to publicize the seemingly magic power of
+squares and square roots in forecasting stock prices. In the early 1950s William Dunnigan
+developed two stock trading systems called the Thrust Method and the One Way Formula. Both
+methods had several advantageous entry techniques but each had an absence of exit
+techniques. Dunnigan was above all a portfolio manager and not happy with the risk-reward
+aspects of his own trading methods, Dunnigan supported and publicized the Square Root Theory.
+He went so far as to call this theory the "golden key" and claimed recognition from some
+economics and statistical trade journals of the era.
+
+References to the Square Root Theory as a predictor of stock prices pops up every now and then
+in financial writings. Norman Fosback used the theory in a 1976 publication called Stock Market
+Logic to make the case that the normal trading range of low price stocks provides greater profit
+opportunities than the normal trading range of high price stocks. In 1983, a book entitled The
+Templeton Touch, by William Proctor, disclosed that one of Templeton's 22 principles for stock
+market investing was that stock price fluctuations are proportional to the square root of the price.
+Square roots will always maintain a cozy mainstream relationship with stock prices if only
+because they are an essential component of almost every volatility or option pricing formula.
+
+The theory holds that stock prices move over the long and short term in a square root
+relationship. For example, IBM made a monthly closing low of 4.52 in June, 1962 and monthly
+closing high of 125.69 in July, 1999. This is within a few percentage points of the square of the
+sum of the square root of the low price + 9 or (2.12+9)^2. GM made a low of 15 in November,
+1974 and a high of 95 in May, 1999. Again, a few percentage points from the square of the sum
+of the square root of the low + 6 or (3.87+6)^2.
+
+There are hundreds and hundreds of these examples across the stock, financial and commodity
+markets. Even a few minutes with a pile of stock charts and a calculator will build confidence that
+major highs and lows are related to each other by additions and subtractions to their square
+roots. The Square of Nine takes these square root relationships to a different level as you will
+learn in the pages ahead.
+
+"We use the square of odd and even numbers to get not only the proof of market movements, but
+the cause." W. D. Gann, "The Basis of My Forecasting Method" (the Geometrical Angles course),
+p. 1
+
+
+
+
+                                                                                                   8
+                      THE SQUARE OF NINE ROADMAP CHART
+
+
+
+The first practical application of the Square of Nine will make use of the degrees of the circle
+concept we developed with the Gann Wheel, a calculator, a pencil and an expanded Square Root
+Theory. We are expanding the Square Root Theory by adding divisions of whole numbers, and
+not just whole numbers, to the mix, and by moving beyond only price calculations to include a
+simple time element on the charts we will construct shortly.
+
+Circles Within the Wheel
+
+In the Gann Wheel section we said things like "19 is 90 degrees up from 15." An expression like
+that makes sense only if we visualize a rectangular table of numbers enclosed in a circle of 360
+degrees. It's imperative to embrace the terminology because expressions like degrees and
+angles from here to there, or such and such price squaring with time on the 108 degree line are
+the lingua franca of the Square of Nine and essential to understanding how the different pieces fit
+together.
+
+                            31     32     33    34     35     36    37
+                            30     13     14    15     16     17    38
+                            29     12     3     4      5      18    39
+                            28     11     2     1      6      19    40
+                            27     10     9     8      7      20    41
+                            26     25     24    23     22     21    42
+                            49     48     47    46     45     44    43
+
+Time for more visualization. Using the number 15 on the above illustration as the focus, we can
+visualize a circle with the number 15 on its perimeter at a starting point of zero degrees. 19 is at
+90 degrees, 23 is at 180 degrees, and 28 is at 270 degrees. The number 34 is directly above the
+number 15 and is positioned one ring outside the "circle." Its position on the Square of Nine
+directly above 15 means that 34 is 360 degrees up from 15, or one complete rotation or cycle
+from 15. (28 is also outside the gray highlighted area but is not a rotation outside the "circle"
+because its position has not yet completed 360 degrees, or one full rotation from 15.)
+
+Hopefully the square within the circle visualization hasn't created any confusion. We did this
+illustration so that we can put some visual perspective on the math that accomplishes the same
+thing as one 360 degree rotation on the Square of Nine.
+
+The square root of 15 is 3.87. Adding the number 2 to the square root of 15 results in 5.87. (3.87
++ 2). That result squared is 34.49. We can immediately learn two things from this exercise: One is
+that the whole numbers on the Square of Nine ignore decimals and will inherently create rounding
+errors; and the second is that adding 2 to the square root of a number and squaring the sum is
+the same thing as a 360 degree rotation up on the Square of Nine. Subtracting the number 2 from
+the square root of 15 and then squaring the difference would be the equivalent of a 360 degree
+rotation down on the Square of Nine.
+
+The Degrees to Factor Table
+
+Now that you have the knowledge that a 360 degree move is the same as adding (or subtracting)
+2 to the square root and then squaring the resulting sum or difference, we can expand this
+knowledge to produce the following:
+
+
+
+
+                                                                                                  9
+DEGREES     =    FACTOR
+360              2.00
+315              1.75
+270              1.50
+225              1.25
+180              1.00
+135              0.75
+90               0.50
+45               0.25
+22.5             0.125
+
+Degrees to Factor Conversion Table
+
+The factor is the whole or decimal number that is added to or subtracted from the square root of
+the base number before squaring the result to move up, down or around on the Square of Nine.
+This simple table is Core Knowledge. Factors not shown on the Table can be derived easily. The
+factor for 67.5 degrees, for example, is .25 + .125 = .375. For most stock market work the major
+factors are those for 45 degrees and the multiples of 45 degrees.
+
+Moving Around the Square of Nine
+
+What number is 180 degrees up from 15? The answer is 23.75. The formula is (N ^.5 + factor) ^2,
+where N=15, the base number, and factor = 1 as determined from the Degrees-to-Factor table.
+Raising a number to the power of .5 or 1/2 is the same as solving for the square root. This is
+handy if your calculator has a power function key and does not have a square root function key.
+
+90 degrees divides the circle into quarters, 45 degrees divides the circle into eighths, and 22.5
+degrees divides the circle into sixteenths. You will find many cases where these divisions provide
+resistance and support from major and minor pivot points in every time frame.
+
+Constructing a Roadmap Chart
+
+Let's put our knowledge to work and create something useful. Chart 1 is a price chart of the daily
+high-low bars of the SP 500 (SPX) for the period from November '02 to late May '03. The low of
+the bar on March 12, 2003 was 788.90. The low close of the swing occurred a day earlier on
+March 11, 2003 at 800.73.
+
+
+
+
+                                                                                               10
+Chart 1
+
+You can construct all the new Square of Nine stuff you see in Chart 1 on a simple price chart
+printed out from Excel or any of the dozens of technical analysis or stock charting programs or
+many stock charting web sites. Most of the illustrations in this book are produced from a Visual
+Basic program created to do the research for this book, but with a small amount of practice you
+can produce a useful Square of Nine Roadmap Chart with a pencil and a straight edge. If you can
+print a plain bar chart of the SPX for the period around March 12, 2003 you can follow along with
+this example.
+
+Calculating the Horizontal Price Lines
+
+The two obvious structures that would not be present on the Excel chart are the vertical/horizontal
+grid lines and the trend lines, or as we will refer to them, the channel lines. This is how to
+construct the horizontal grid lines. Pull out your calculator and do the math with the square root
+of 788.9 and the factor for 180 degrees from the Degrees-Factor Table and write down the first
+four or five 180 degree cycles up from the March 12 low of 788.9. Your worksheet will look
+something like this:
+
+March 12 low - 788.9
+= (SQRT(788.9) + factor) ^2
+
+180 degrees (factor = 1) =      846.07
+360 degrees (factor = 2) =      905.25
+540 degrees (factor = 3) =      966.42
+
+
+
+                                                                                                11
+720 degrees (factor = 4) =       1029.60
+
+Using the price scale of the chart you printed, draw four horizontal lines on the price chart at 846
+through 1029, the price levels of the 180 degree rotations you just calculated, and you will have
+completed the horizontal gridlines.
+
+Calculating the Vertical Time Lines
+
+The vertical gridlines are the time element of the Roadmap. You calculate the time element by
+taking the square root of the starting price of 788.9. The result is 28.08 which rounds to 28. Using
+a compass, the increments on your straight edge, or by any other method, mark off the distance
+of 28 bars from the last high-low price bar on the printed chart and draw a vertical line at that
+position. Repeat one or two times.
+
+This completes the horizontal and vertical grid and by doing nothing more you will have mapped
+out likely key support and resistance prices for the SPX upswing from the March 12 low, but, of
+course, we're not done yet.
+
+Placing the Channel Lines
+
+The lowest channel line is drawn by connecting a straight line from the starting point at 788.9
+through the intersection of the first 180 degree horizontal line (846 on the chart) and the first 28
+unit vertical line and extending it upward at the same angle through the other 180 degree
+intersections. The procedure for the middle channel line is exactly the same but the starting point
+is the intersection of the first 180 degree horizontal line (905) and the same vertical position as
+the starting bar. The third channel line is done the same way one cycle higher (966).
+
+If desired you could add horizontal grid lines at the 90 degree price levels. They can be calculated
+the same way using a factor of .50 and its multiples, or you can simply split the difference
+between the 180 degree horizontal lines and draw the 90 degree lines there.
+
+Why 90 degrees and why 180 degrees? The 90 degree angle (and its multiples, 180, 270, 360…)
+are very important in the stock market, particularly with daily and longer data. You will find that
+many, many swings and pullbacks are stopped dead on a 90 degree angle from a pivot top or
+bottom. We used a 180 degree angle, or more fittingly a factor of 1.00, to construct this daily
+chart of the SPX because that particular angle is what worked the best for the swing that started
+on March 12, 2002 from a price level around 800.
+
+You do not yet have all the basic information that you need to use the Square of Nine Roadmap
+Chart as an application, but you will soon enough. Chart 2, below, is an hourly chart of the DJX
+from a period in May, 2003. The Hourly chart was constructed with 45 degree angles, or a factor
+of .25. Study the chart for a few moments before moving on to the comments below the chart.
+
+
+
+
+                                                                                                 12
+Chart 2
+
+Creating Hourly Roadmap Charts
+
+Chart 2 was originally constructed during the late morning on May 16, 2003. At that time all the
+price bars to the right of the left most vertical line (located directly under the 87.42 legend) were
+missing because they had not yet occurred. We had reason to believe at the time that this hourly
+pivot on the morning of May 16 could be a significant turning point. Price action over most of the
+next two trading days seemed to confirm our outlook. The bounce off the 84.49 horizontal line
+was not unusual and could have been expected for a couple reasons. One big reason was that
+84.49 is 90 degrees down from the suspected pivot high at 87.42 and you should always expect
+some sort of reaction at 90 degree angles from a major or minor pivot. The second reason was
+that the bounce was occurring at the mid-point of a square. Not nearly as important as the
+expected reaction on a 90 degree line, countertrend moves have a tendency to start and end at
+the midpoints of the price and time squares. (Note: if you are doing the math jump to page 16.)
+
+The tip-off that something was seriously amiss with the bearish outlook was the penetration of the
+upper channel. We call this style chart the Square of Nine Roadmap Chart because price stays
+within the upper and lower channel bounds for days, weeks or even months from a major turning
+point. Naturally, the shorter the time period of the data in the chart the more likely price is to
+exceed the outer channel bounds as trend and countertrend moves work themselves out within
+even bigger trends.
+
+When the upper channel bound was penetrated on the close for two consecutive hours it was
+time to close shorts and construct a new 45 degree Roadmap chart from the suspected pivot low.
+Chart 3 below was started from the May 20 pivot low after it became clear that the suspected
+
+
+
+                                                                                                  13
+down trend had busted. One practical advantage of the Roadmap chart is that it can be
+constructed, channels and all, the moment that a suspected pivot occurs. The Square of Nine
+Roadmap chart self-confirms the trend in progress by subsequent price movement remaining
+above the lowest channel bound in an uptrend and below the highest channel bound in a
+downtrend.
+
+
+
+
+Chart 3
+
+Chart 3 provides more useful information about the value of the Square of Nine Roadmap Chart
+as a legitimate trading tool. If you were long off the May 20 low you could stay comfortable with
+the fact that price was remaining well above the lower channel bound. Reactions were occurring,
+as is normal and expected, contained within the 45 degree squares. At the time this is being
+written we do not know if the 2nd rotation of the 90 degree level at 90.17 will stop the move or if it
+will hit the wall at a higher level.
+
+The most reliable price target that will most likely turn back a rally or stop a down move is the
+outer diagonal channel line. The horizontal price lines often provide resistance or support in a
+continuing move. Very often price will "vibrate" within a square while it trends in the direction of
+the channel lines.
+
+We believe that the Square of Nine Roadmap is a valuable trading tool in its own right, and that's
+before we even get into the meat and potatoes of actually squaring price with time, or using time
+to forecast price, or price to forecast time as we will in subsequent chapters.
+
+All the examples we show in this book are daily or hourly charts. You can construct a Roadmap
+chart for any ticker with any time frame from minutes to years. The principles of construction are
+
+
+
+                                                                                                   14
+exactly the same as for the daily or hourly charts you see here. You will have to do some
+experimenting to determine the factor that will produce channels that faithfully contain most of the
+price movement of the swing of interest over long periods relative to the time frame of the chart.
+Persistence will pay off here. You may also have to do some experimenting with a three digit
+conversion for the natural prices of your ticker. More on that in the next chapter.
+
+
+
+
+                                                                                                 15
+                           THE THREE DIGIT CONTROVERSY
+
+
+
+The Three Digit Controversy
+
+There are a couple things that we did not cover in the last section on constructing a Square of
+Nine Roadmap Chart. One of them is what we call the three digit controversy. When we
+constructed the SPX chart we calculated the spacing of the vertical time line by taking the square
+root of the starting pivot price. In that example, the starting pivot price was around 800 and the
+square root of 800 rounded out to a time dimension of 28 bars. The time dimension on the
+Square of Nine Roadmap Charts remains constant regardless of the actual duration of the price
+data. For example, the SPX chart is daily data and the time spacing is 28 trading days. The time
+spacing interval would remain 28 bars for Hourly or Weekly data that started from the pivot price
+level of 800 except, of course, the actual time elapsed would be 28 hours or 28 weeks.
+
+But look again at the DJX Hourly in Chart 3. The square root of the base price of 84.26 is 9
+rounded and there's no way the vertical time lines on that chart are separated by nine bars. Also,
+if you’ve done the math yourself for Chart 3 you found out that 85.72 is not on a 45 degree angle
+up from the DJX natural trading price 84.26. The first 45 degree angle up from the natural trading
+price of 84.26, if we do the math with a .25 factor, is 88.91, so what gives?
+
+As a general rule, when calculating price angles (the horizontal lines) and time spacing for the
+Square of Nine Roadmap Charts we want to calculate with a number that has three significant
+digits, or in other words, three digits to the left of the decimal point. Before doing the calculation
+for the 45 degree angles and for the time spacing on the DJX charts we converted the base price
+84.26 to 842.6 before taking the square root. That provided us with a time spacing of 29 bars on
+the hourly Roadmap chart. The 45 degree angles we calculated for the horizontal price lines were
+based on a starting price of 842.6 (84.26 x 10) and then converted back to two digits for
+placement on the chart. For example, price on the first 45 degree angle up computed out to 857.2
+before being converted back to the two digit 85.72 that appears on the chart. If you were using a
+spreadsheet program like Excel to draw the plain price charts you could do the conversion
+directly on the price data. If you print charts off the net or use a commercial charting program you
+may have no choice but to do the conversions before and after calculating the angles and the
+time spacing.
+
+Using three digits for the calculations is a general rule and need not be followed religiously. If the
+SPX started trading over 1,000 next week we would not even consider converting the actual price
+levels to 100. Maybe if price climbed to 1,200 or 1,300 we would consider a conversion. The
+basic concept we want to emphasize is that the angle (factor) selected for the grid should
+produce channel lines that look like normal trend lines as much as possible. You know that you
+hit the right combination if the channels reasonably contain the swing and if price is reliably
+vibrating between the tops and bottoms of the individual squares. Converting natural prices to
+three digits by multiplying or dividing by factors of 10 before doing the Square of Nine calculations
+will change the size of the squares. Higher natural or converted prices and lower factor numbers
+provide smaller price slices and smaller squares suggesting that the duration of the data itself,
+hourly, daily, weekly, may be one of the most important determining conditions.
+
+Which Price Do I Use?
+
+When working with daily, weekly or monthly charts there can be an enormous difference between
+the high or low price of a bar and the closing price of the same bar, or the highest or lowest
+closing price that terminates a swing versus the most extreme price that terminates the same
+swing. Which price do you use for your Square of Nine calculations?
+
+
+
+                                                                                                   16
+The best answer is to use both the highest or lowest close for a swing, and the extreme high or
+low for a swing as a base price to make two separate charts. If the new swing persists you can
+evaluate which base price choice is producing the most useful chart for you and discontinue the
+other. Chart 4 is a remake of Chart 1 of the SPX using the close on March 11 as the base price
+for the horizontal price lines in place of the intraday low on March 12 as we did with Chart 1.
+
+One additional difference between Chart 1 and Chart 4 is that we added the 90 degree angle
+horizontal price lines to Chart 4. There is no universal rule that we can apply or pass on to you
+for constructing the perfect Roadmap chart for every ticker in every time frame. There is no
+substitute for experimentation and experience.
+
+
+
+
+Chart 4
+
+Variations on Time Spacing
+
+There is a peculiarity with the Square of Nine Roadmap Charts in the way that the time spacing is
+calculated. This peculiarity is distinct from but related to the three digit controversy. In all our
+example charts we calculated the time spacing by taking the three digit square root of the pivot
+price and rounding it. The time spacing when calculated this way produces a perfectly vertical
+line on the chart. A more precise method of calculation, particularly for daily charts, is to find the
+square root for each 180 degree angle (assuming of course that the chart is based on 180
+degrees or a factor of 1) and use that result as the time spacing on each separate horizontal line.
+For example, the time spacing on the SPX chart (Chart 1) is a constant 28 bars. If we used the
+variable time spacing method the bar spacing at the 720 degree angle at the price level of 1029
+
+
+
+                                                                                                   17
+would be 32 bars. This will produce time spacing bars that slant slightly to the right from bottom to
+top on an uptrend but may produce better time related results, particularly at higher price levels
+on extended moves.
+
+There is one more variation on time spacing for the Roadmap charts. The explanation will
+probably not make any sense to you right now, but it will when you have finished the book. As
+previously explained, we calculated the time spacing for Chart 2 and Chart 3 by converting the
+natural base price of 84.26 to three digits = 842.6 (84.26 x 10) and taking the square root. 842.6
+^.5 = 29.02. The variation is to use the natural price 84.26 and determine the first number on the
+84.26 angle of the Square of Nine that comes closet to 29.02 and then use that number as the
+time spacing interval. That number in this case is 26.83, which rounds to 27 for hand drawing.
+
+Gann Angles
+
+Much has been written on Gann Squares and Gann Angles and Gann Fans. Almost all high end
+charting programs provide them as a user choice although the help files may seem deficient in
+explaining how to actually use them. We make absolutely no claims that the channel lines on the
+Square of Nine Roadmap charts accurately represent any particular so-called Gann Angle, 1x1,
+1x2 or any other, or that the squares resulting from the vertical and horizontal lines are Gann
+Squares accurately drawn or otherwise. W.D. Gann made all his charts by hand on specially
+scaled charting paper to achieve a specific rise over run for the tickers he traded. This scaling is
+not easily duplicated on different sized computer screens or ink jet printers. The Roadmap charts
+stand on their own, and although their method of construction is also highly suited for hand
+drawing, there is no added value in defining them in terms they were never intended to match.
+
+
+
+
+                                                                                                  18
+                             SQUARING PRICE WITH PRICE
+
+
+
+The technique for squaring price with price is the same technique that we used to calculate the
+horizontal gridlines for the Square of Nine Roadmap Charts. By adding or subtracting specific
+divisions of the circle (review the Degrees to Factor Table) to the square root of the base price
+and then squaring the resulting sum or difference, we are in effect calculating support and
+resistance levels straight up or straight down from the base price without regard to time.
+
+Support and Resistance from Major Pivots
+
+Generally you want to do these static angle calculations from only the major pivot points. We
+would include in this category the all time high and low, the 10 year high and low, the 5 year high
+and low, the 52 week high and low, and also the contract high and low for most futures contracts.
+For thoroughness, you should do each of these calculations twice, one time with the extreme high
+or low price for the bars that began and ended the swing, and one time with the highest or lowest
+closing prices that began and ended the swing. As you can see, if you start to get even a tiny bit
+more liberal with your definition of what constitutes a major pivot point you are going to end up
+with an awful lot of numbers.
+
+If you deal only with stock and stock related tickers, we also suggest using an angle no lower
+than 180 degrees (a factor of 1) in your calculations if you intend to place all these numbers on a
+chart. If you intend to keep them in an Excel spreadsheet or otherwise off the chart then go with
+90 degrees for the financial markets and perhaps even 45 degrees if you are looking for
+additional evidence at a suspected major turning point.
+
+A circle has 360 degrees and not all angles are of equal importance when doing Square of Nine
+calculations. Financial markets tend to respond to the 45 degree angle and to the multiples of 90
+degrees (180, 270, 360) for major support and resistance. With all markets 360 degrees (a factor
+of 2) represents a full cycle and the location of the 360 degree price angles from the major pivots
+is always of interest when doing these static angle calculations. Bond traders tell us that 60
+degrees and the multiples of 60 degrees (120, 180, 240, 300, 360) can sometimes be as
+important in their market as the 90 degree multiples. We do not trade any markets associated
+with anything that can be sliced, diced or stewed and can offer no opinion on whether angles
+other than the usual 90 degree multiples are considered important for those markets.
+
+There is a danger here of having so much data that there is no discernible information so you
+want to be judicious in your selections. Also, we tend to use these static angle calculations from
+the major pivots mostly to provide additional evidence at a suspected major turning point. If our
+daily Roadmap chart were coming up to a 360 degree price level we would want to know if this
+same price level was, as an example, also 10 rotations of 360 degrees down from the all time
+high.
+
+The three digit controversy raises its ugly head here too, as it does with all Square of Nine
+calculations. We deal mostly with the cash and futures stock indexes and generally do convert
+them to three significant digits before doing the math for these static angle calculations, and for
+actual squaring operations whenever a price range is called for If the index price is "much" over
+1,000 or less than 100. Because you do not have to deal with a time element for static angle
+calculations you would also probably want to have an off-chart table of natural, unconverted
+prices handy even if you have marked your chart with major support and resistance levels after
+doing the appropriate conversion to and from three digits.
+
+
+
+
+                                                                                                19
+Many stocks and indexes made all time highs in 1999 and 2000 and bear market lows in 2002 so
+there are dozens of recent examples where the value of this simple price on price calculation can
+be backtested to your own satisfaction. The technique is simple enough to apply without
+additional demonstration and it would be spiking the punch to show the most dramatic examples.
+
+A Touch of Reality, Please
+
+Many high flying stocks made bear market lows in the Summer and Fall months of 2002. In many
+cases these lows were 80% and 90% off all time highs made a scant two years or so earlier.
+During the many discussions going at the time about methods for finding a bottom in stocks this
+simple technique was brought up. Examples were cited where AOL, for example, was thought to
+have probably made a bear market low at the time very near the 21st 180 degree cycle down
+from its all time closing high of 94 (split-adjusted). On July 25, 2002 AOL made a daily, and bear
+market low of 8.70 and closed that day at 9.64. If you do the math the 21st 180 degree cycle
+down from the three digit adjusted closing high is 9.33. Should the technique be dismissed out of
+hand because 9.33 was not exactly the low or the close of the day that AOL made a bear market
+low?
+
+We bring this up because since we're doing mathematical applications the expectation creeps in
+that the results must be accurate to within two decimal places to be useful. We hope the readers
+are less rigid. Gann himself did not expect this kind of accuracy and attributed near misses to
+"lost motion" or "pitch ahead or behind price." For any Square of Nine price application we apply
+the notion that any bar containing the target price is a valid hit. For time applications a near miss
+of one or perhaps sometimes even two bars is a valid hit. For price and time squaring
+applications within two or three degrees is certainly a hit and within four or five degrees is a near
+miss worth considering.
+
+Let's review the math to see how we got from a closing high of 94 to a "price of interest" of 9.33.
+We converted 94 to three digits (94 x 10) = 940 because in July, 2002 AOL was trading in single
+digits. Higher raw numbers produce smaller price slices. The square root of 940 = 30.66. The
+factor for 180 degrees = 1. The square of 30.66 - 21 = 93.3, which converted back from three
+digits (93.3 x 1/10) = 9.33. How did we know that the 21st cycle of 180 degrees down from the all
+time closing high of AOL would be important? We didn't, at least not until July 25, 2002. The
+Square of Nine on many occasions will show definite predictive qualities, but you usually only
+learn that after the fact. The success of turning technique into a method you can trust is not
+simple and it's not easy. We can only propose that success may come to those who seek to
+harness the power of the Square of Nine not to predict the future but to know when it is here.
+
+
+
+
+                                                                                                  20
+          CONVERTING PRICE AND TIME TO DEGRESS OF A CIRCLE
+
+
+
+A Visualization of Spatial Relationships
+
+Before moving ahead let's review the conceptual framework of what we have accomplished. We
+started everything off with the description of the paper version of the Square of Nine. You can
+view the form of the paper version in Appendix 1 if you haven't already done so. We created the
+visualization of how you can turn the two dimensional Square of Nine table into a three
+dimensional pyramid by grabbing the center of the table and pulling it straight up until all the sides
+are perfectly shaped. Each block in the pyramid is a number in the table. This visualization
+enables us to see the spatial relationships between the numbers and how they relate to each
+other by angles and sides and position on the pyramid. When viewed looking down from directly
+above the numeral one at the apex of the pyramid we can see how the blocks can be stretched
+and pulled into the geometric shapes of a circle, a smaller triangle, and a square without losing
+their spatial relationships to each other.
+
+A little heavy on the visualization? Maybe so, but before tackling the more esoteric applications of
+the Square of Nine where both price and time are interchangeable to and from degrees of a circle
+we want to reinforce an awareness that the axis boundaries and the price bars on our stock
+charts are really just the literal representations of the spatial relationship of price and time. And
+finally, that we can precisely determine the location of these spatial relationships, in some
+circumstances well into the future, by manipulating the square root of price and time's position on
+the Square of Nine with the decimal equivalents of the divisions of a circle.
+
+Price or Time Converted to Degrees - the Formula
+
+The formula for converting a price level or a number of bars or calendar days to degrees of a
+circle is straightforward and can be done on any calculator with a square root function key or a
+power function key.
+
+The formula for Excel is: MOD((SQRT( (N))*180)-225,360) where N is the price, or price range, or
+time in days or bars that we want to convert.
+
+Punching the formula into a $10 calculator is more labor intensive because of the MOD 360
+business. Here's the keystroke sequence for finding the degrees of circle for the number 74.
+
+                        Keystrokes
+
+Step 1:   SQRT(74) * 180 = 1548.42
+Step 2:    1548.42 - 225 = 1323.42
+Step 3:      1323.42 / 360 = 3.676
+Step 4:            3.676 - 3 = .676
+Step 5:       .676 * 360 = 243.42
+
+The only curveball is in Step 4 where you subtract 3 from 3.676. This step is necessary to
+accomplish the MOD 360 function which limits the final answer to a number between 1 and 360.
+For this example with N=74 you subtracted 3, the whole number to the left of the decimal point
+before multiplying by 360 in Step 5. If N=265 the whole number to the left of the decimal point
+would be 7 so you would subtract 7 from the intermediate result of Step 3, and so on.
+
+The Excel table below shows the precompiled degrees for all the numerals between 1 and 225.
+The Excel formula above enables you to expand this Static Degrees table to any extent desired.
+
+
+                                                                                                   21
+   N          D        N          D        N         D         N         D         N         D
+    1        315       46        276       91        52       136        74       181        37
+    2         30       47        289       92        61       137        82       182        43
+    3         87       48        302       93        71       138        90       183        50
+    4        135       49        315       94        80       139        97       184        57
+    5        177       50        328       95        89       140       105       185        63
+    6        216       51        340       96        99       141       112       186        70
+    7        251       52        353       97       108       142       120       187        76
+    8        284       53          5       98       117       143       127       188        83
+    9        315       54         18       99       126       144       135       189        90
+   10        344       55         30      100       135       145       142       190        96
+   11         12       56         42      101       144       146       150       191       103
+   12         39       57         54      102       153       147       157       192       109
+   13         64       58         66      103       162       148       165       193       116
+   14         88       59         78      104       171       149       172       194       122
+   15        112       60         89      105       179       150       180       195       129
+   16        135       61        101      106       188       151       187       196       135
+   17        157       62        112      107       197       152       194       197       141
+   18        179       63        124      108       206       153       201       198       148
+   19        200       64        135      109       214       154       209       199       154
+   20        220       65        146      110       223       155       216       200       161
+   21        240       66        157      111       231       156       223       201       167
+   22        259       67        168      112       240       157       230       202       173
+   23        278       68        179      113       248       158       238       203       180
+   24        297       69        190      114       257       159       245       204       186
+   25        315       70        201      115       265       160       252       205       192
+   26        333       71        212      116       274       161       259       206       198
+   27        350       72        222      117       282       162       266       207       205
+   28          7       73        233      118       290       163       273       208       211
+   29         24       74        243      119       299       164       280       209       217
+   30         41       75        254      120       307       165       287       210       223
+   31         57       76        264      121       315       166       294       211       230
+   32         73       77        274      122       323       167       301       212       236
+   33         89       78        285      123       331       168       308       213       242
+   34        105       79        295      124       339       169       315       214       248
+   35        120       80        305      125       347       170       322       215       254
+   36        135       81        315      126       355       171       329       216       260
+   37        150       82        325      127         3       172       336       217       267
+   38        165       83        335      128        11       173       343       218       273
+   39        179       84        345      129        19       174       349       219       279
+   40        193       85        355      130        27       175       356       220       285
+   41        208       86          4      131        35       176         3       221       291
+   42        222       87         14      132        43       177        10       222       297
+   43        235       88         24      133        51       178        16       223       303
+   44        249       89         33      134        59       179        23       224       309
+   45        262       90         43      135        66       180        30       225       315
+
+The degrees of a circle for the static numbers never change. The number 152 will always be on
+the 194 degrees angle, for example, and the number 9 will always be on the 315 degrees angle
+when applying the formulae, whether it's a trading range of 9 points, 9 calendar days, or the
+closing price on any bar.
+
+
+
+
+                                                                                          22
+For most of the applications going forward we will not be working directly in prices or days or bars
+but with the degrees of the circle that each of those items represents. As we now know the
+number of degrees will always be between 1 and 360, one complete rotation of the circle or the
+sum of the angles of a square.
+
+This formula for converting price and time to degrees, so far as we know, is attributable to Carl
+Futia and has been previously published or otherwise made generally available without any
+reservations. There are other formulae for determining angles but this particular method is the
+least complicated and it can be implemented easily on a cheap calculator or in a spreadsheet.
+
+The purpose of the MOD 360 function is to manipulate the result to a number between 1 and 360.
+In our example above we wanted to convert the intermediate result 1323.42. We could have done
+it this way. 3 x 360 = 1080 and 4 x 360 = 1440. The number 1323.42 is more than 3 x 360 and
+less than 4 x 360 so if we subtract out the 3 x 360 product (1323.42 - 1080 = 243.42) we are left
+with a desired number between 1 and 360.
+
+
+
+
+                                                                                                 23
+                              THE DEVIL IS IN THE DETAILS
+
+
+
+The threshold question is what does the term squaring price and time mean? For all the
+applications in this book it means that price (or a price range) in degrees equals time units in
+degrees, or that price is 180 degrees or 90 degrees opposed to time. For example, a price range
+of 49 points squares with 81 time units because both price and time are on the 315 degree angle
+of the Square of Nine.
+
+Suppose you have a situation where you have a base price of 935.05 and you want to determine
+if that price squares with 37 time units? Use the formula to calculate that 935.05 = 239 degrees.
+
+Find the 180 and 90 degree oppositions to 239 degrees:
+
+239 - 180 = 59 degrees (this is the same as 239 + 180 = 419 - 360 = 59)
+239 - 90 = 149 degrees
+239 + 90 = 329 degrees
+
+Use the formula to calculate that 37 = 150 degrees.
+
+The base price of 935.05 squares with 37 time units at a 90 degree offset on the Square of Nine.
+
+The 90 degree angle and its multiples at 180, 270, 360 are considered the most "important"
+angles for the financial markets and should always be considered when analyzing daily charts
+and longer time frames for squaring incidents. 45 degree oppositions also square price and time.
+We mentioned in a previous section that some bond traders look for 60 degree offsets in addition
+to the offsets that are multiples of 90 degrees.
+
+You can be as creative as you want to spend the time being in determining what squaring angles
+are most important for the tickers you trade most frequently, or even how you can otherwise
+manipulate the numbers in ways other than the ways we show here. Day traders, in particular,
+seem to come up with the most creative variations which they claim to be effective for the time
+periods and markets they trade. There are no rules and you are limited only by your own
+imagination and the laws of mathematics.
+
+Five Ways that Price Squares with Time
+
+There are five primary ways that price squares with time:
+
+•   Current price squares with time elapsed from a prior change in trend.
+•   Time in a prior trend squares with the price range of the current trend.
+•   Price range in a prior trend squares with time in the current trend.
+•   Price ending prior trend squares with time in the current trend.
+•   Price range in the current trend squares with time in the current trend.
+
+This list begs a response to a few questions.
+
+What does price mean? If you're working with daily bars you can usually work with the closing
+price although it's often worthwhile to check results with the daily high if the prior change in trend
+(CIT) was from a low, or the daily low if the prior CIT was from a high.
+
+The price range of a swing can mean the measurement from close-to-close, from high-to-low, or
+low-to-high, or close-to-high, or close-to-low. Our custom software displays price data by close
+
+
+
+                                                                                                   24
+only line charts or by regular high-low bars, and measures swings by either bar high or bar low
+price or by closing price. Nothing unusual here except to say that it's OK to construct Roadmap
+charts where the channels are drawn from a bar high or low based on price levels computed from
+the close.
+
+So far as we're concerned all these methods for determining a price range are equally valid.
+Maybe a little visualization will help. Gann hinted that stock and commodity prices were like units
+of energy that were constantly changing levels and direction, but that only got measured at
+arbitrary and artificial moments in time, a minute, a day, a year. A daily bar represents a very
+long time for something in constant motion at an immeasurable speed. Who's to say what
+precise moment on that bar should be used to confirm a key change in energy or direction?
+
+Here's another curveball. We work most frequently with the DJX and although we usually do a
+three digit conversion when working with price range calculations in the DJX we often do not
+convert the natural two digit price to three digits when working with a base price squaring.
+Unfortunately we are not aware of any precise rule to follow to achieve consistent results, so the
+three digit controversy continues to dog us.
+
+Time is the number of bars or trading days, or the number of calendar days from a previous bar.
+This is the only way we calculate time but there are means to turn the obvious into the complex
+for those so inclined. Some people convert days to the number of hours or minutes their market
+trades in a normal day. Others convert minutes to the number of degrees of earth rotation
+(1degree = 4 minutes) from a certain event.
+
+A trend is more elusive to define because a meaningful definition to you depends greatly on the
+time frame in which you operate and the way you handle risk tolerance and money management.
+The Roadmap charts may provide a more objective definition. A long term trend ends when price
+breaks cleanly beyond the upper or lower outer channel boundary, and a short term trend ends
+when the same thing happens on the hourly Roadmap chart. We use the terms trend and swing
+interchangeably throughout this book.
+
+Most trends end where the market has squared price and time but not every squaring of price and
+time will end a trend. You can usually expect a reaction of some kind to occur at every squaring
+although it could be a hesitation, a major but temporary pullback or even an acceleration in the
+same direction. Not every method of squaring price and time will apply in every situation and
+most times only one or two methods will show the square. Sometimes despite every combination
+there is no apparent square to be found. Gann said that every high and low was related
+mathematically to at least one other high or low and probably several. Then again, Gann used
+100 year charts in his work. Not many computer traders will have the patience to do that kind of
+backbreaking research.
+
+
+
+
+                                                                                                25
+                          SQUARING CURRENT PRICE WITH
+                       TIME FROM A PRIOR CHANGE IN TREND
+
+
+In this application we want to look at today's price to see if it "squares" with the number of trading
+days (bars) or calendar days that have elapsed since a prior change in trend. If you're working
+with daily bars you will usually use the closing price although if the closing price calculation is
+inconclusive it's often worthwhile to also check results with the daily high if the prior change in
+trend (CIT) was a low, or the daily low if the prior CIT was a high.
+
+This a recent example of the application of this technique in the DJX cash, which made a low of
+74.17 on March 12 after changing trend to down a few months earlier on January 13, '03. You
+needed four pieces of information on March 12 to check for a squaring: the closing price (75.52),
+the low price (74.17), the number of trading days (38), and the number of calendar days (58) from
+January 13, 2002. It was worthwhile checking for a squaring on March 12 because the market
+had put in a bullish reversal bar after making a new swing low and had closed at the high of the
+day. The daily bar was a bullish Hammer in candlestick parlance. Chart 5 is what a plain chart of
+the DJX looked like on March 12, 2003.
+
+
+
+
+Chart 5
+
+The conversion of time to degrees is simple enough from the Static Degrees conversion table.
+
+
+
+                                                                                                   26
+38 TD = 165 degrees
+58 CD = 66 degrees
+
+For the price side of things the first to check is the close on March 12. 75.52 = 259 degrees, 349
+degrees, 79 degrees, 169 degrees (0, +90, +180, +270). 38 TD = 165 degrees. The close is
+within 4 degrees of square with the trading day count at a 90 degree offset.
+
+Let's also check for squaring with the low price on March 12. 74.17 = 245 degrees, 335 degrees,
+65 degrees, 155 degrees (0, +90, +180, +270). 58 CD = 66 degrees. The low is within 1 degree
+of square with the calendar day count at a 90 degree offset. You could reasonably conclude that
+the DJX squared price and time on March 12. Please notice that we did not convert the DJX to
+three digits before doing the calculation because we were working with a base price and not a
+price range.
+
+
+For another example let's do the NYSE High Beta Index (NHB) at the October 10, 2002 low. The
+NHB is a cash only index. You cannot trade the index itself and there are no derivatives.
+Nevertheless, it's a great index to follow because the high beta stocks tend to lead the market.
+NHB Elliott Wave counts are often cleaner and always ignored at your peril.
+
+
+
+
+Chart 6
+
+
+For this example we're going to determine a squaring with the low price on October 10, 2002 with
+elapsed time from the swing that ended on August 22, 2002.
+
+
+
+
+                                                                                               27
+34 TD = 105 degrees
+49 CD = 315 degrees
+
+There was no three digit conversion so the low price at 1248.55 = 15.26 degrees, 105.26, 195.26,
+285.26. (0, +90, +180, +270).
+
+34 TD = 105 degrees. The NHB low on October 10, 2002 squared with the 34 trading days
+elapsed since the prior change in trend on August 22, 2002.
+
+This is a short chapter but we have covered, in all necessary detail, the critical information you
+need to square current price with time from a prior change in trend. For raw data you need the
+number of bars that have elapsed from the prior trend. If you're working with daily data you
+should also determine the number of calendar days that have elapsed since the prior change in
+trend. Price is the closing price or the bar high or bar low price. Sometimes you may want to do
+the calculations for both the high and the low price to determine if a squaring occurred
+somewhere within the bar even if it was not at one of the bar extremes or at the close.
+
+We did not convert either the DJX or the NHB natural price to three digits because we were
+working with fixed prices and not price ranges. All this extra discussion is probably making the
+procedure seem more difficult that it really is. Once you've worked with a few particular tickers
+you will get a feel for what's required from the nuances to get consistent and reliable results.
+
+
+
+
+                                                                                               28
+                    SQUARING TIME IN A PRIOR TREND WITH
+                   THE PRICE RANGE OF THE CURRENT TREND
+
+
+
+The application of this technique requires three pieces of information if you are working with daily
+data: the number of trading days (TD) and the number of calendar days (CD) in the prior trend or
+swing, and the price range of the current swing. You can measure a price range from close-to-
+close, from high-to-low, or from close-to-high or low.
+
+With the application of all the Square of Nine techniques, once you know how to convert price
+and time to degrees, the implementation of all the techniques is fairly simple. The devil is in the
+details of deciding how to establish a price or a price range and when to convert natural prices
+into three digits.
+
+The period from July '02 through January '03 provides some easily distinguishable swings with
+sharp edges in many of the indexes so it's a good time period in which to do backtesting and
+some practice in applying this technique. It's also the very recent past so we do not have any of
+the "things are different now" issues to deal with that often come up in market analysis
+discussions.
+
+Chart 7 shows the daily SPX cash for that period. The price and time ranges are from high to low
+for each swing. The number of points of travel for each swing show this as a period with
+tremendous opportunities for trading the major indexes.
+
+
+
+
+                                                                                                 29
+Chart 7
+
+The next two charts shows particular time periods of Chart 7 in more detail.
+
+
+
+
+                                                                               30
+Chart 8
+
+On a closing price basis, from START to A there was a swing of 22 TD. If you were doing your
+analysis at the close of trading at Point B you would determine if the market squared price and
+time that day by measuring the close-to-close price range of the swing from A to B, converting
+that price range into degrees (185.94 = 70 degrees), converting the 22 TD into degrees (22 = 259
+degrees) and seeing if you got a hit. 259 - 70 = 189. Nine degrees separation from a multiple of
+90 degrees is too much separation to call it a squaring. Close-to-low numbers work out to a swing
+of 186.90 points = 76 degrees. 259 - 76 = 183 degrees, which provides an acceptable 3 degrees
+of separation
+
+Note that we're using rounded numbers for most of these examples. You can quickly get the
+degrees for any number up to 225 from the Static Numbers to Degrees Table. The whole process
+takes only seconds once the raw data is gathered together.
+
+At Point C the price range of the swing on a closing basis is 162.11 points which is a tad more
+than 266 degrees. The duration of the prior swing was 33 TDs which converts to 89 degrees
+putting the price range at Point C and the time units of the prior swing within a few degrees of
+square at an offset of 180 degrees. 266 - 89 = 177. If the multiple of 90 degrees happens to be
+180 degrees that's even "better" and if it's 360 degrees that is the "best."
+
+
+
+
+                                                                                              31
+Chart 9
+
+At Point D the prior swing was 35 CD on a closing basis and the price range on a closing basis
+was about 63 points. 35 = 120 degrees and 63 = 124 degrees squaring within about 4 degrees of
+unity or 360 degrees.
+
+Point E is yet another squaring of price and time. 30 CD = 41 degrees and 56 points = 42
+degrees, within about 1 degree of unity or 360 degrees.
+
+If you're like the rest of us you probably have an entire library of books on trading and technical
+analysis (thank you for adding this one). In most of those books, which may be valuable in their
+own right, if there was any reference to W.D. Gann and the concept of squaring price and time it
+was probably something like this "if price travels 90 points in 90 days…" How far we've come!
+
+Because one side of the price-time comparison is fixed, the number of TDs and CDs of the prior
+swing, we can use this application to examine the predictive qualities of the Square of Nine. This
+is easier done if you have a copy of the Static Numbers to Degrees Table in front of you. In the
+last example, the swing from D - E on Chart 9, we were working with 30 TDs. Since we already
+know that 30 TDs is 41 degrees on the Square of Nine we need only look at the Table of
+Numbers and Degrees to see which price ranges will square with 41 degrees. Staring in the first
+column and working through the table we can pick out price ranges of about 12, 30, 56, 90, 182,
+and 240 points that we know will square with 30 TDs at 360 degrees on the Square of Nine. And
+since we also already know the starting price of the current swing it's simple enough to figure out
+a list of future prices that will complete one of the required price ranges that will square with 30
+TDs. From that point on you need only check today's bar to see if it contains a price that will
+complete the square.
+
+
+
+
+                                                                                                 32
+It gets a little more complicated, but still manageable, when you add the 90 degree offsets that
+will also square the current range with time. In addition to the above list, a complete list of price
+ranges would include numbers that fell on the 131, 221, 311 degree angles as well. A shorter but
+still very good list would include only the numbers that fell on the180 degree offset at 221
+degrees. For the period from July '02 through January '03 that we covered in the examples all
+the squarings occurred at either 360 or 180 degrees although that will not be the case for every
+other ticker.
+
+
+
+
+                                                                                                  33
+                    SQUARING THE PRICE RANGE IN THE
+               PRIOR TREND WITH TIME IN THE CURRENT TREND
+
+
+
+For this application you need the following information: the price range of the prior trend and the
+number of TDs and CDs that have elapsed in the current trend. For this example of the SPX
+squaring the price range of a prior trend with TDs in the current trend, we used another example
+from the Fall of 2002 which provided many distinguishable swings. Because the SPX was a three
+digit price at the time no conversion was considered.
+
+
+
+
+Chart 10
+
+The high to low range of the August 22 - October 10 downswing was 196.37 points in the cash
+index. Rounding to 196 and reading directly from the Conversion Table we see that 196 points =
+135 degrees. From the October 10 low to the high of the next swing was 36 TDs. From the
+Conversion Table we see that 36 also equals 135 degrees so the SPX has squared price and
+time at what turned out to be the beginning of a 146 point downswing in the cash index.
+
+
+Here's another example with a $20 stock. DELL made a swing low in September, '02 and a swing
+high in November, '02 with a closing price range of 6.64 points.
+
+
+
+
+                                                                                                34
+If you were following DELL in early February of 2003 could you have used the price range of the
+September - November upswing to get a handle on when the November-February down trend
+might end?
+
+Let's do the math. 6.64 points converted to three digits is 66.4. Plugging 66.4 into the original
+formula we introduced provides a result that tells us that a price range of 6.64 points (converted
+because DELL trades at two digits) falls on the 161.75 angle on the Square of Nine. We could
+use the Table to determine what TDs or CDs would also fall on the 161.75 angle, or we can plug
+the angle of interest into a new formula and compute the result.
+
+The Only Other Formula You'll Ever Need
+
+The formula to determine the relationship of all the numbers that fall on a particular angle on the
+Square of Nine is:
+
+(((2 * n) + ((2 * x)/360) + 1.25)^2 Where "n" = number of the rotation and "x" = angle of interest.
+For almost every use of this formula you will start with n=1 or n=2 and repeat the calculation for
+each new "n" until you have completed as many rotations as you think will be useful for the
+particular application at hand.
+
+The keystrokes for starting with n=1 and applying the formula with an angle of interest of 161.75
+on a calculator with no parenthesis and a memory STO and memory RCL function key are:
+
+2*161.75 = 323.5 / 360 = .8986 + 1.25 = 2.1486 STO
+2*1= 2 + RCL = 4.1486
+
+
+
+                                                                                                35
+4.41486 ^2 = 17.2
+
+2nd iteration:
+
+         2*2= 4 + RCL = 6.1486
+         6.1486 ^2 = 37.8
+
+3rd iteration:
+
+         2*3= 6 + RCL = 8.1486
+         8.1486 ^2 = 66.39
+
+The results of plugging the angle of 161.75 into the new formula and running through three
+iterations gave us the number of three possible TD or CD counts on which we would look for a
+change in trend (17, 37, 66).
+
+Oh, oh. If you check the results you would find out that none of these TD/CD possibilities scored
+a hit on February 10, and if this is all you had done with this technique DELL would have reversed
+the down swing and launched into a 7 point rally without you.
+
+What are we missing? Price and time "square" on the same angle on the Square of Nine, in this
+particular case an angle of 161.75 degrees. In the financial markets price and time also square at
+the three 90 degree offsets to the angle at interest. We should have done more work and used
+the new formula to go through the same three iterations with angles of interest of 251.75, 341.75,
+and 71.75, the 90 degree offsets to 161.75.
+
+As it tuned out the 3rd iteration of the 71.75 degree offset hit on the number at 58 TDs.
+
+We used this DELL example for a couple reasons. One reason is to introduce the second and last
+formula that you will ever need to mathematically apply the Square of Nine in any market in any
+time frame. The first formula converts numbers to degrees (angles) and the second formula
+converts degrees to all the numbers that lie on that angle on the Square of Nine. It's easy enough
+to use the second formula to also do the calculations for the three 90 degree offsets of the
+primary angle, in effect, squaring the circle.
+
+The second reason is to drive home the point that in most cases the spatial relationship between
+price and time that will stop a move cold or change a trend will not jump off the chart and tell you
+where it is. There is no substitute for doing the work.
+
+
+
+
+                                                                                                 36
+                     SQUARING PRICE THAT ENDED A PRIOR
+                    TREND WITH TIME IN THE CURRENT TREND
+
+
+
+This an easy technique to apply. You need only convert the price ( high, low or close) that ended
+a prior trend to degrees on the Square on Nine with the time in TDs or CDs (converted to
+degrees) of the current trend to see if the market is squaring price with time on the bar or day of
+interest. Because the base price is fixed you can easily use the new formula to forecast a grid of
+future TDs and CDs on which you will want to pay special attention to the market or to your
+particular ticker to get a sense of an ending trend.
+
+Let's work the same DELL chart that we used for the last example and see if there was more than
+one way to get to the square of price and time on February 10, 2003.
+
+
+
+
+Chart 12
+
+The highest close of the swing ending on November 14, 2002 was 30.94. Converted first to 309.4
+and plugged into the first formula we find that price lies on the 61 degree angle on the Square of
+Nine. Plugging 61 degrees and each of the 90 degree oppositions of 61 degrees into the new
+formula that tells us what numbers lie on the 61 degree angle shows TD and CD days of interest
+of 57, 65, 75, 83. Based on the closing price of the swing that ended in November, 2002, the TD
+calculation is within one day of square on February 10.
+
+
+
+                                                                                                37
+For completeness, let's do the calculation based on the highest price of the November swing. The
+highest high of the same swing was 31.06, converted to three digits = 310.6, converted to
+degrees = 67 degrees. Plugging 67 degrees into the new formula and jumping to the 3rd iteration
+shows 58 TD as a day of interest.
+
+On February 10, 2003 you knew that DELL squared price and time in at least two different ways.
+In the previous chapter we determined that the price range of the swing that terminated in
+November squared with time of the current swing on February 10, 2003. Actually, by applying
+both formulae you could have known to a certainty at the close of trading on November 14, 2002,
+that DELL would square price and time in two ways on February 10, 2003. What you did not
+know to a certainty on February 10, 2003 was that DELL had changed trend that day and was
+beginning an almost uninterrupted 40% advance. There is no mathematical or magic formula for
+determining which squaring of price and time will result in a change in trend that produces a big
+move but with use and experience you will develop a trader's sense of which squarings are likely
+to be the most important.
+
+We used both formulae for the DELL example in this chapter. You could have used only the first
+formula, the one that converts price or time into degrees, to determine that 58 TD converts to
+65.8 degrees. What's the possible advantage to having the second formula? It's easier and more
+convenient to project ahead for times or prices of interest by using the second formula. If DELL
+had not made a reversal on February 10, the 58th TD, we would have known that we should be
+looking for that reversal on the 65th or 75th TD or CD because these numbers also lie on the 61
+degree angle of the Square of Nine.
+
+
+
+
+                                                                                              38
+                SQUARING THE PRICE RANGE OF THE CURRENT
+                  TREND WITH TIME OF THE CURRENT TREND
+
+
+
+This particular technique is best suited for adapting to the concept that a squaring price need not
+necessarily be defined only by what occurred at one absolute moment in time such as a high or a
+low or a close. A daily bar, or even an hourly bar, is a very long time for a wave of energy that is
+in constant motion at an immeasurable speed. Visualizing price as an energy wave can be a very
+useful construct sometimes. We should be interested in all the prices that occurred during the
+period it takes to complete one bar.
+
+This technique is best suited for squaring a price range that has occurred after 100 or more bars
+or calendar days. Generally speaking, the more bars or calendar days between the start date and
+end date of the range the better. A very nonmathematical explanation can be illustrated with the
+chart below. The chart graphs the angles for the numerals 1 - 247 as they cycle from 0 to 360
+degrees.
+
+
+
+
+Chart 13
+
+Although the magnitude and shape of the sawtooth pattern does not change as the number of
+bars or incidents increases, the slope of the change becomes flatter over time as the number of
+bars or days increases. In effect the "noise" is reduced as time increases.
+
+You could do this squaring calculation on a daily chart for any ticker from the first day after you
+suspect that the trend has changed. You will score hits from time to time, particularly as the
+number of trading days or calendar days increases, but we find that the best results on daily
+charts occur with well defined trends that cover months of trading. This Excel chart of the DJX for
+the period from March, 2002 to October, 2002 shows the power of this technique.
+
+
+
+                                                                                                 39
+There were 142 trading days from the peak of the Bear Market rally that ended in March, 2002 to
+the Bear Market Low (to date) that occurred on October 10, 2002. The trading range from peak to
+valley was 34.76 points which rounds to 35. The degree conversion for 142 trading days gives a
+result of 120 degrees. A price range of 35 converts to 120 degrees. The DJX squared price and
+time on October 10, 2002, the day of the Bear Market low to date, with the rally high on March 12.
+If you do the math to two decimal places from the precise high to the precise low the result will
+not come out a perfect 120 degrees, but at some undetermined moment within the two daily bars
+on March 19, 2002 and October 10, 2002 the DJX squared price and time exactly.
+
+Using this technique we did not get a squaring with the March 19 high at the time of the previous
+Bear Market low in July. Was that a tip-off that the lower low was still to come?
+
+
+
+
+                                                                                               40
+                                        CONCLUSION
+
+
+
+
+The purpose of this work was to explain concisely and in adequate detail some mathematical and
+graphical techniques for applying the Square of Nine to real world trading situations. The
+formulae for converting price and time to degrees, and for finding all the conversions that lie on a
+particular angle on the Square of Nine, and the method for constructing Roadmap charts are a
+solid foundation for making the Square of Nine your own. The five ways that the markets will
+square price and time can provide you with knowledge that may not be obtainable by other
+means. We do not claim to have covered, or even to fully understand, the boundaries of all that
+can be known about the Square of Nine. We have not even touched on the work of the school
+that uses degrees of longitude of the celestial bodies for their conversions.
+
+This is above all a book about technique. A golf instructor can show you the proper techniques
+that Tiger Woods uses to strike a ball, but if you want to play golf you must go out there and do it
+yourself. There is no other way to develop the feel and the touch that will promote confidence in
+a competitive situation. When learning and applying these techniques there is much to be said
+about getting off the keyboard and using your pencil and straight edge.
+
+W.D. Gann may or may not have had any secrets but he knew the value of persistence and hard
+work. In one of his stock market courses Gann counseled that a person who wanted to make a
+success of stock trading should spend one hour a day for five years studying stock charts before
+making one trade. We hope that your journey has been shortened by this knowledge.
+
+Supplements, updates and addenda can be read and downloaded from:
+
+http://www.tradingfives.com/addenda.html
+
+
+
+TRADINGFIVES.COM
+June 2, 2003
+
+
+
+
+                                                                                                 41
+          SUPPLEMENT
+
+
+
+
+ ORIGINAL WORKS OF W.D. GANN
+MADE AVAILABLE FOR GENERAL USE
+
+
+
+
+                                 42
+         W.D. GANN MATHEMATICAL FORMULA FOR MARKET PREDICTIONS
+
+                    THE MASTER MATHEMATICAL PRICE,
+                       TIME AND TREND CACLULATOR
+
+      This chart is made on transparent plastic so that you can place
+it over a daily, weekly, or monthly high or low chart and see at a
+glance the position on the time and price based on the geometrical
+angles. It is designed to give QUICK ACCURATE EASY CALCULATIONS: SAVE
+TIME AND PREVENT ERRORS.
+
+      The square of 12 is always important in working out time periods
+because there are 12 months in a year. The square of 144 is the GREAT
+SQUARE and works better than any other square both for TIME AND PRICE
+because it contains all of the squares from 1 to 144. This chart is
+divided into sections of 9 both for time and price because 9 is the
+highest digit. Nine spaces on the daily chart equals 9 days, 9 weeks or
+9 months in time periods and 9 equals 9¢ on grains, 9 points on stocks
+or 90 points on cotton on the daily high and low chart.
+
+      One column in the square of 144 contains 144. This would equal
+$144 on grain. 144 points on stocks or using a scale of 10 points to
+1/8 inch it will equal 1440 points on cotton.
+
+      MASTER 144 SQUARE CONTAINS 324 square inches and each square inch
+contains 64 units which gives 20,736. This is 20,736 weeks or months
+and the proportionate parts of this are used for the measurement of
+time and price because this is the great cycle.
+
+THE GREAT CYCLE OF THE SQUARE OF 144.
+            The time period of this square is 20,736 days, weeks or
+months. One-half is 10,368 days. One-fourth is 5,184 days. One-eighth
+is 2,592 days. One-sixteenth is 1,296 days. One-thirty-second is 648
+days and the one-sixty-fourth is 324 calendar or market days. 1/128 is
+162 days and 1/256 is 81 days or the square of 9.
+
+WEEKLY TIME PERIODS
+      THE GREAT CYCLE in weeks is 2962 and 2 days and 1/2 of this
+period is 1481 weeks and 1 day. One-fourth is 740 weeks. One-eighth is
+370 weeks and 2 days. One-sixteenth is 185 weeks, 1 day. One-thirty-
+second is 92 weeks, 4 days and 1/64 is 41 weeks, 2 days.
+
+MONTHLY TIME PERIODS.
+      THE GREAT CYCLE in months is 681 months and 23 days. One-half of
+this 28 years, 9 months and 23 days. One-fourth is 14 years, 5 months
+and 8 days. One-eighth is 7 years, 2 1/2 months. One-sixteenth is 43
+months and days. The weekly and monthly time periods from any major
+high and low can be checked to determine the future trend.
+
+                                     -1-
+
+
+
+
+                                                                     43
+THE MASTER NUMBERS:
+            The Master Numbers are 3,5,7,9, and 12. The No. 9 and is
+multiple is the most important because 9 digits added together equal
+45. The next number of greatest importance is 7, the number mentioned
+more times in the Bible than any other number. There are 7 days in the
+week and 7 calendar days as well as 5 market days, and their multiples
+should be carried on your Daily, Weekly and Monthly Charts. The square
+of 7 is 49, which is a very important time period. The second square of
+7 is 98 and the third square of 7 is 147 and the fourth square of 7 is
+196 and 196 is also the square of 14. The next number in importance is
+No. 5 which is the balancing number between 1 and 9. The square of 5 is
+25 and the second square of 5 is 50 which is just 1 over the square of
+7 making 49 to 50 very important for a change in trend. Three squares
+of 5 is 75 and 5 squares of 5 is 100 and 100 is the square of 10, which
+is also important for changes.
+
+      The No. 3 is mentioned in the Bible next to the No. 7 and three
+is important because 3 x 3 equals 9, the square of 3, and it is the
+first old number that forms a square greater itself. Three must be used
+in every way possible, 3 x 7 equals 21, 3 x 5 equals 15, 3 x 9 equals
+27 and 3 x 12 equals 36, very important because it is the square of 6.
+The No. 12 is also spoken of in the Bible many time and is of great
+importance. Jesus selected 12 deciples. There are 12 months in a
+year, and 12 signs of the Zodiac. The important 12's in the square of
+144 are 12, 24, 36, 48, 60, 72, 84, 96,108, 120,132 and 144. These are
+all important for both time and price in days, is weeks and months.
+
+      Referring to the No. 9, 7 x 9 is 63 and is a great importance
+because the square of 8 his 64, therefore, around 63 to 64 is very
+important to watch the change in trend. 7 x 12 is 84 and this is of
+very great importance and the No. next to this is 90, which is 10 x 9
+and 90 is one-quarter of the circle, which is very important for time
+and price changes. Next in importance is 9 x 12 which is 108 or three-
+quarters of 144.
+
+      The importance of the circle of 360 deg. must not be overlooked
+in connection with the square of 144 because the proportionate parts of
+the circle agree with the parts of 144. 2 1/2 times 144 equals 360 1
+1/4 times 144 equals 180, 1/2 of the circle, and 90 is 5/8 of 144. 9
+is 1/16 of 144, 18 his 1/8, 27 is 3/8, 36 is 1/4, 45 is 5/16 and always
+very important for time and price changes and for resistance levels.
+48 is 1/3 of 144 and 54 is 3/8 and 63 to 7/16, 72 is one-half of 144,
+81 the square of 9, is 9/16 of 144 and 90 is 5/8, 99 is 11/16, 108 is
+3/4, 117 his 13/16, and 126 is 7/8 and 135 is 15/16 of 144. These are
+the most important in the square of 12 and should be watched closely
+when time periods in days, weeks or months reach these points on the
+Master Calculator. Remember that you should always watch the Daily
+Chart for the first indication of the change in trend and at the same
+time look at the position on the Weekly Chart or seven day time periods
+which is next in importance. The Monthly Chart is of the greatest
+importance for changes in the main trend.
+
+                                     -2-
+
+
+
+
+                                                                      44
+THE IMPORTANCE OF 3 AND 5
+      The movement in PRICE and TIME whether on a Daily, Weekly or
+Monthly chart has three important points, the PRICE, the TIME AND
+VOLUME of sales, the PITCH OR TREND which is the geometrical angle
+which shows whether time is influencing and driving prices up or down
+on a slow angle or an acute fast moving angle. To there are also for
+other factors that influence prices, PRICE, TIME AND VOLUME AND
+VELOCITY. Time is the most important factor because when time is up
+volume increases and the velocity or speed of the market increases and
+the PITCH or TREND on the angles moves up faster or down faster
+
+      There are three other important points to consider on a Daily,
+Weekly or Monthly High and Low chart. These are the LOW PRICE, the
+HIGHEST PRICE and the RANGE her for a or 1/2 between the high and the
+low.
+
+FIVE FACTORS FOR TIME AND PRICE
+      These are high, low, halfway point, opening and closing prices.
+The trend is indicated by the closing price, especially when the market
+is very active. If the price closes above the halfway point or near
+the high, the trend is up. If it closes below the halfway point or
+near the low, the selling is greater than the buying and the trend is
+down, at least temporarily. In connection with the Master Time and
+Trend Calculator apply all of the rules with the Master Time Factor and
+geometric angles.
+
+STRONGEST POINTS FOR TIME AND PRICE RESISTANCE
+      In using the Master Square of 144, the strongest points are 1/4,
+1/3, 2/3, 3/8, 1/2, 5/8, 3/4, 7/8 and the complete square of 144.
+
+      The points were the most angles cross are the strongest for
+resistance and PRICE and TIME.
+
+TRIANGLE POINTS
+      the triangle points or way of the green angles cross are the most
+important. These are 72, 144, 36, 48, 96, 108 and of course, 72, and
+at the end of the square of 144 at the top and the bottom.
+
+SQUARES IN THE SQUARE OF 144
+      These squares were the angles cross are of great importance for
+time and price resistance. These are 36, 45, 54, 63, 72, 90, 108, and
+at the top of the square of 144 at the top and the bottom. When the
+price is at point equal to 36 and the time periods in days, weeks or
+months is at 36, TIME and PRICE is SQUARE and it is important to watch
+for change in trend. With the square of 144 you can get any square
+from 1 to 144. Suppose you want to get the square of 72; you move
+across to 72 for time and if the prices is at 72 moving up on the
+chart, PRICE and TIME have balanced, or squared out, and are at the 45
+degree angle and at the halfway point on the Master Price, Time and
+Trend Calculator.
+
+                                     -3-
+
+
+
+
+                                                                         45
+WHERE TO WATCH FOR CHANGES IN TREND
+      Most changes in trend occur when the TIME PERIODS are at one-half
+of the square of 144 and happy and of a square or at the 1/3, 2/3,1/4,
+and 3/4 points in the square of 144; you must always watch the square
+and time of the HIGHEST PRICE and the MINOR HIGHS and LOWS, also the
+square in TIME of the LOWEST PRICE and the SECOND or THIRD higher
+bottom, and also the time required to square the Range and where this
+square works out in the Master Square of 144.
+
+      EXAMPLE: the lowest price that wheat ever sold was 28¢ per
+bushel, In March, 1852, therefore, every 28 months would square the
+lowest price. The highest price that wheat ever sold for was in May
+11, 1917 when the May option sold at 325, therefore, it would require
+325 months to square the highest price. The lowest price that the May
+option ever sold was 44¢, therefore, it would require 44 months in time
+to square the low price. The range between 44 and 325 is 281¢ which
+would require 281 months, 281 weeks or 281 days to square the Range.
+You would look on the Master Chart and see that 2 squares of 144 equal
+288, therefore, you would watch for a change in trend between 281 and
+288 or near the end of the second square of 144. 7 x 44, the extreme
+low, equals 308, therefore 6 1/2 times 44 would equal 286, which is
+within two points of the end of the square of 144 or the end of the
+second square making 286 and important time period to watch for a
+change in trend. In squaring the range of 325, the highest price for
+May wheat with the 2 squares of 144 and 17 over, therefore, when the
+time reached 36 days, weeks or months in the Master Square of 144 you
+can see that resistance would be met because moving up the time period
+of 136 you see that the 45 deg. angle moving down from 72, which is the
+INNER SQUARE and the line drawn across from 36 on the price scale
+crosses at 36. In this way you can see that the Master Chart would
+indicate a resistance in time and price corresponding with the square
+of the highest price, the lowest price, and the Range. All other time
+periods from a high price, low price, of the range of any commodity or
+of the stock averages or individual stocks should be worked out in this
+same way.
+
+      You will succeed in using the Master Mathematical Price, Time and
+Trend Calculator by going over the charts and laying the calculator
+over them and working out past history. In this way you will learn just
+how it works and prove to yourself the great value of the Master
+Calculator.
+
+HOURLY TIME PERIODS
+      When markets are very active and making a wider range in price,
+it is important to keep an Hourly High and Low Chart, just the same as
+you keep the Daily High and Low Chart and the Hourly Chart will give
+the first change in trend.
+
+      There are 24 hours in the day, therefore, 6 days are required to
+pass through 144 and a total of 864 days to pass through the square of
+144.
+
+
+                                     -4-
+
+
+
+
+                                                                         46
+      At the present time, all exchanges are open 5 days a week with
+the exception of holidays and most of them are open 5 hours each day,
+therefore, it will require 28 days and 4 hours to pass through 144 at
+the rate of 5 hours per day and 5 days per week.
+
+GREAT YEARLY TIME CYCLE
+      To pass through the square of 144, which equals 20,736, it
+requires 56 years, 9 months and 23 days, which is very important time
+cycle. Next is importance is 1/2 of this time period which is 28
+years, 5 months and 8 days and 1/4 which is 14 years, 2 months and 19
+days. The 14 years cycle is always very important because it is 2
+seven year periods. 14 years equals 168 months and 169 months is the
+square of 13 making it very important for a change in trend and this is
+also an important time resistance point.
+
+      1/8 of the Great Cycle if 7 years, 1 month and 10 days and is
+quite important. 1/16 is 42 months and 20 days, 1/32 is 21 months and
+10 days. This is an important time period because it is close to 22 1/2
+months which 1/16 of the circle of 360 degrees.
+
+NINE SPACES AND NINE TIME PERIODS
+      The chart being divided up into 9 sections gives all the squares
+of 9 for price resistance and time resistance which, as referred to
+above is 9¢ on the Daily Chart for grains and the same for Weekly and
+Monthly Charts; that is, 1¢ to each 1/8 inch. For different
+commodities, different scales are used. (See special instructions for
+the different commodities.)
+
+      The Chart being divided up into 9 sections gives a 16 the squares
+of 9 for price resistance or time resistance which, as referred to
+above, is 90 points on the Daily Chart, 135 on the Weekly Chart, and
+270 on the Monthly and 2880 on the 20 point scale and 9 spaces equal
+180 points.
+
+      The angles in red are all drawn on the squares of 9. The Inner
+Square of 450 is drawn from 72 because 72 is 1/2 of 144. These angles
+come out at 72, 144 and 72.
+
+      The straight lines are in green and are 1/3 of the square of 144
+in price or time.
+
+GREEN ANGLES
+      The green angles are the angles of 2 x 1 which are up two spaces
+or 2 points in one period of time. The other angle below the 450 angle
+is the angle of 1 x 2 which requires 2 time periods to move up 1 space
+or 1 cent per bushel on grains for each time period of 1 day, week or 1
+month. These angles move down from the top at the rate of 2 points or
+2 spaces per time period or at the rate of 1/2 space, 1/2 point or 1/2
+cents per time period. The distance that the green angles and the red
+angles are apart determines how far prices can advance or decline.
+
+      When the market enters the INNER SQUARE it is important for a
+change in trend and time angles and Position in the square tell at the
+time it entered whether the price is going up or down. Also when price
+breaks below the 45 deg. on the INNER SQUARE it shows weakness in
+proportion to the time from high or low price.
+                                      -5-
+
+
+                                                                         47
+WHEN TO START A NEW SQUARE
+      When the time period of the Daily, Weekly or Monthly Charts has
+moved 144 you began a new square. But to get the position you simply
+move the Master Square over to 144 and place it over the chart to get
+the position in the next square.
+
+STRONGEST AND WEAKEST POINTS
+      Where the greatest number of angles cross or bisect each other in
+the square of 144 are the points of greatest resistance, such as where
+the 25 and 2 x 1 angles cross each other.
+
+       Study and practice on past action of the market and you will soon
+learn how to determine the trend very quickly by using the Master
+Chart.
+
+HOW TO USE THE MASTER SQUARE OF 144:
+      Follow all rules on angles as given in the Master Forecasting
+course.
+
+      Place this chart at the bottom or 0 on the daily, weekly or
+monthly chart or place the bottom of the chart on the low price or
+square of the high price, the low price, and the square of the range in
+show where time and price balances.
+
+      When you figure the halfway point of the extreme high or the
+halfway point of the range, place either the top of the bottom of the
+chart on the halfway point and it will give the correct POSITION and
+TREND. However, if you will place the CENTER, or 72, on the halfway
+point in PRICE you will then get the correct position in time and can
+see how the price is working out with time and the MASTER SQUARE of 144
+and the INNER SQUARE which starts from 72, the gravity center or 1/2
+point of the square.
+
+CALENDAR DAYS AND MARKET DAYS
+      For any kind of chart, we move over one space for each unit of
+time. Therefore, it would require 144 market days or 144 calendar days
+to complete the square of 144. When prices pass out of one square into
+another, a change in trend usually takes place and the periods and
+geometrical angles on this Master Chart will tell you which way the
+trend is going to change.
+
+LEAP YEARS
+      In calculating time periods to get the exact number of days and
+weeks the LEAP YEAR must be figured and one extra day added. From 1864
+the Leap Years were as follows: 1868; 1872; 1876; 1880; 1884; 1888;
+1892; 1896; 1904; 1908; 1912; 1916; 1920; 1924; 1928; 1932; 1936; 1940;
+1944; 1948 and 1952.
+
+                                      -6-
+
+
+
+
+                                                                        48
+POSITION WITH MASTER SQUARE
+      To get the position with the MASTER SQUARE of 144 lay it over the
+Daily, Weekly or Monthly and start from the extreme low, extreme high,
+0 or 1/2 point of the range or 1/2 of the high selling price. You can
+also place the top of the chart at the high selling price. In this way
+you can get the correct time and position or angles at a glance.
+
+      Place MASTER CALCULATOR on January to twelve year periods, each
+month same way.
+
+      You should have all time periods from important highs and lows
+calculated in days, weeks and months in order that you can look them up
+quickly on the MASTER CHART.
+
+      With all time periods brought up to date in this way, you can get
+the position on the MASTER CHART and the indicated trend without
+looking at a daily, weekly or months chart. You should have the time
+periods and months from every important top and bottom.
+
+      With the MASTER SQUARE of 144, your work will be cut down but you
+must learn to practice and bring up all time periods and study the
+MASTER SQUARE and learn how to use it to get tops and bottoms
+accurately. Work and practice will bring PRECISION and PROFITS. I
+have done my part. It is now up to you to work hard and if you do,
+your success is assured.
+
+
+
+
+                                                                        49
+     SQUARE OF NINE
+
+     You have already had the MASTER SQUARE OF TWELVE explained,
+which represents days, weeks, months and years, and the
+measurements of TIME in the Square of Twelve or the Square of the
+Circle.
+
+     The SQUARE OF NINE is very important because nine digits
+are used in the measuring everything, and we cannot go beyond 9
+without starting to repeat and using the 0. If we divide 360° by
+9, we get 40, which measures 40°, 40 months, 40 days, or 40
+weeks, and shows why bottoms and tops often come out on these
+angles measured by one-ninth of the total circle.
+
+     If we divide our 20 year period, or 240 months, by 9, we
+get 26-2/3 months, making important angle of 26-2/3°, months,
+days or weeks. Nine times nine equals 81, which completes the
+First Square of Nine. Note the angles and how they run from the
+main center. The Second Square of Nine is completed at 162.
+Note how this is an opposition to the main center. The Third
+Square of Nine is completed at 243, which would equal 243 months
+or three months over our 20 year period and accounts for the time
+which often elapses before the change in the Cycle, sometimes
+running over three months or more. The Fourth Square of Nine
+ends at 324. Note the angles of 45° cross 325, indicating a
+change in cycles here. To complete the 360° requires Four
+Squares of Nine and 36 over. Note that 361 equals a square of 19
+times 19, thus proving the great value of the Square of Nine and
+working out the important angles and proving out discrepancies.
+
+     Beginning with "1" at the center, note how 7, 21, 43,
+75,111, 157, 211, 273 and 343 all fall on a 45° angle. Going the
+other way, note that 3, 13, 31, 57, 91, 133, 183, 241 and 307
+fall on an angle of 45°. Remember there are always four ways you
+can travel from the center following an angle of 45°, or an angle
+of 180° or an angle of 90°, which all equal about the same when
+measured on a flat surface. Note that 8, 23, 46, 77, 116, 163,
+218, 281 and 353 are all on an angle from the main center also
+note that four, 15, 36, 61, 96,130,190, 249 and 316 are on an
+angle from the main center, also note that four, 15, 34, 61, 96,
+130, 190, 249 and 316 are on an angle from the main center, all
+of these being great resistance points and measuring out
+important time factors and angles.
+
+Study the SQUARE OF NINE very carefully in connection with the
+MASTER TWELVE and 360° CIRCLE CHART.
+
+
+
+
+                                                                 50
+                       SIX SQUARES OF NINE
+
+     We are sending you six permanent Charts, each containing 81
+numbers. The first Square of Nine runs from 1 to 81. Everything
+must have a bottom, top, and four sides to be a square or cube.
+The First Square running up to 81 is the bottom, base, floor or
+beginning point. Squares #2, 3, 4 and 5 are the four sides,
+which are equal and contain 81 numbers. The Sixth Square of Nine
+is the top and means that it is times times as referred to in the
+Bible, or a thing reproducing itself by being multiplied by
+itself. Nine times nine equals 81 and six time 81 equals 486. You
+can also use 9 time 81, which would equal 729.
+
+     The No. 5 is the most important number of the digits
+because it is the balance or main center. There are four numbers
+on each side of it. Note how it is shown as the balancing or
+center number in the Square of Nine.
+
+     We square of the Circle by beginning at 1 in the center and
+going around until we reach 360. Note that the Square of Nine
+comes out at 361. The reason for this is it is 19 times, and the
+1 to begin with and one over 360 represent the beginning and
+ending points, 361 is a transition point and begins at the next
+circle. Should we leave the first space blank and make it "0"
+than we would come out at 360. Everything in mathematics must
+prove. You can begin at the center and work out, or began at the
+outer rim and work in to the center. Begin at the left and work
+right to the center or to the outer rim or square.
+
+     Note the Square of Nine or the Square of the Circle where
+we begin with 1 and rune up the side of the column to 19, then
+continue to go across until we have made 19 columns, again the
+square of 19 by 19. Note how this proves up the circle. One-half
+of the circle is 180°. Note that in the grand-center, where all
+angles from the four corners and from the East, West, North and
+South reach gravity center, number 191 appears, showing that this
+point we are crossing the Equator or Gravity center and are
+starting on the other half of the circle.
+
+     We have astronomical and astrological proof of the whys and
+wherefores and the cause of the workings of geometrical angles.
+When you have made progress, proved yourself worthy, I will give
+you the Master Number and also the Master Work.
+
+     Study the human body in every way and you will find that it
+is the work of a Master Mind, and when once you know yourself and
+know your body, you will know the Law and will understand all
+there is to know. Remember there is a source of all supply and
+that you have within you the power to know all there is to know,
+but you must work hard, seek and you shall find.
+
+
+
+
+                                                               51
+52
+53
+OTHER TRADINGFIVES EBOOK PUBLICATIONS
+
+                                              Using Fibonacci Ratios to Forecast Price
+                                              and Time
+
+                                              You will become a Fibonacci trading expert with
+                                              what you get from our ebook:
+                                                  •   we show you exactly how to apply the
+                                                      three Fibonacci ratio techniques
+                                                  •   the variations on each technique and
+                                                      how and where to apply them
+                                                  •   which ratios are important for each
+                                                      technique
+                                                  •   which pivot points and swings to
+                                                      measure from with each technique
+                                                  •   a simple and amazing way to know which
+                                                      Fibonacci clusters will become important
+
+                                              Free training software is available.
+
+
+                                              J.M. Hurst Cycle Trading without the
+                                              Rocket Math
+
+                                              This ebook shows you everything you need to
+                                              know to apply our modification of J.M. Hurst's
+                                              displaced moving average technique to
+                                              consistently and reliably project price and time
+                                              turning points in the financial markets. We
+                                              consider this book a perfect complement to the
+                                              Square of Nine and Fibonacci techniques
+                                              because each method provides unique price
+                                              and time projections by completely
+                                              independent methods.
+
+                                              Free training software.
+
+
+UPDATE POLICY
+
+Updates and revisions to this ebook and to the free training software will be available to
+purchasers of this book at no cost.
+
+TradingFives has a strict Privacy and Anti-Spam Policy. We will not send you any
+notifications of updates or revisions unless you have specifically given us permission to
+do so. You can do that by providing your email address in the form located at
+www.tradingfives.com, or you can send a blank email message to our list manager
+tradingfives@aweber.com.
+
+
+
+
+                                                                                            54
+                        TRAINING SOFTWARE INFORMATION
+
+
+HISTORICAL DATA COLLECTION
+
+Hourly data is readily available from a number of on-line sources. www.quote.com has a
+paid monthly service with a feature to export several intraday time frames to Excel where
+they can be saved in ASCII format.
+
+You can also get 5 minute interval stock files at moneycentral.msn.com for free. You will
+need a MSN Passport, which is also free. You have to download manually and jump
+through a few hoops in Excel to get the msn data in useable condition, but it is available.
+
+EOD data collection is a strong point of AnalyzerXL which easily collects free stock,
+index, mutual fund and futures data from exchanges across the world. Data collection is
+only one module in AnalyzerXL which can better be described as a trader's tool in an
+Excel environment. Other modules include charting with 146 built-in indicator and expert
+system macros, real time quotes, and option data collection. You can download a 30
+day free trial of AnalyzerXL at the TradingFives website at this URL:
+http://www.tradingfives.com/analyzerxl.htm
+
+REQUIRED DATA FORMAT FOR THE TRAINING SOFTWARE
+
+The number one problem users have with our training software is data formatting. The
+training software uses only ASCII data files. Most data collection software has an export
+function that allows the user to convert the software's proprietary format into ASCII.
+
+The required ASCII format for the training software is as follows:
+
+DATE           TIME      OPEN     HIGH     LOW     CLOSE       VOLUME (optional
+mm/dd/yyyy     hhmm                                            but not used)
+
+Every data file needs a time field even if End of Day. Use 1600 for EOD data if the time
+field has to be manually inserted.
+
+The data delimiter can be a comma, space or tab. The software would prefer to see a
+comma delimiter, which has been the standard since the first main frames, but spaces
+and tabs will also work.
+
+With the exception of .prn, which is reserved for AnalyzerXL exports, there is no
+limitation on the name of the file extension. .txt, .asc. dat, and any other combination
+(with the exception of .prn) will work equally as well.
+
+AnalyzerXL
+We use AnalyzerXL for all our EOD stock, index, mutual fund and futures data. The file
+extension .prn is reserved exclusively for this exact set-up. AnalyzerXL has an automatic
+export macro which makes data collection very easy indeed. Here's a screenshot of the
+AnalyzerXL data collection set-up. It is difficult to read at normal viewing size but still
+conveys the simplicity of the procedure. The data format for AnalyzerXL exports is
+different from regular ASCII but that exception is handled automatically by the .prn
+extension, which is attached automatically by AnalyzerXL.
+
+
+                                                                                           55
+The corollary is that unless your data export is going to look exactly like this do not use
+the .prn file extension.
+<TICKER>,<PER>,<DTYYYYMMDD>,<TIME>,<OPEN>,<HIGH>,<LOW>,<CLOSE>,<VOL>,<OPENINT>
+^GSPC,D,20030613,000000,998.51,1000.92,984.27,988.61
+^GSPC,D,20030616,000000,988.61,1010.86,988.61,1010.74
+^GSPC,D,20030617,000000,1010.74,1015.33,1007.04,1011.66
+^GSPC,D,20030618,000000,1011.66,1015.12,1004.61,1010.09
+
+
+
+
+                                                                                              56
+57
+
