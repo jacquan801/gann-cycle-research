@@ -3,7 +3,7 @@ name: OCR PDFs to text
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 6 * * 1"  # optional weekly run
+    - cron: "0 6 * * 1" # optional weekly run
 
 jobs:
   ocr:
@@ -127,14 +127,18 @@ for t in sorted(glob.glob('texts/*.txt')):
     try:
         with open(t, 'r', errors='ignore') as f:
             s = f.read()
-        items.append({"file": os.path.basename(t),
-                      "bytes": len(s.encode('utf-8','ignore')),
-                      "sample": s[:400]})
+        items.append({
+            "file": os.path.basename(t),
+            "bytes": len(s.encode('utf-8', 'ignore')),
+            "sample": s[:400]
+        })
     except Exception:
-        items.append({"file": os.path.basename(t),
-                      "bytes": 0,
-                      "sample": ""})
-with open('texts/index_texts.json','w',encoding='utf-8') as f:
+        items.append({
+            "file": os.path.basename(t),
+            "bytes": 0,
+            "sample": ""
+        })
+with open('texts/index_texts.json', 'w', encoding='utf-8') as f:
     json.dump(items, f, ensure_ascii=False, indent=2)
 PY
             fi
