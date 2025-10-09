@@ -1,5 +1,8 @@
 name: OCR PDFs to text
 
+permissions:
+  contents: write
+
 on:
   workflow_dispatch:
   schedule:
@@ -126,3 +129,4 @@ PY
           git add texts/*.txt texts/index_texts.json || true
           git commit -m "Add/update OCR text sidecars (CI)" || echo "Nothing to commit"
           git push
+
