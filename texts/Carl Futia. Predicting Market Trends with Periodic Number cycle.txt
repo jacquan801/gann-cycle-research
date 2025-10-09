@@ -1,0 +1,2259 @@
+The Cyclic Forecast __
+
+PREDICTING
+MARKET
+
+TRENDS
+WITH PERIODIC
+NUMBER CYCLES
+
+INTRODUCTION
+
+In this special repért you will learn about one of the most ac-
+curate: forecasting tools that. has ever been developed for predicting
+trend changes in stocks and commodities. Very few people have ever
+heard of "periodic number cycles," and even fewer have seen them in
+action or know how to use them. Yet periodic number cycles are the
+key to understanding and anticipating the unexpected trend reversals
+which make trading the stock and commodity markets so difficult.
+
+There is a fundamental difference between a market analysis
+based upon periodic number cycles and one based upon more traditional
+methods of cycle analysis. Ordinary cycles, such as those derived
+from a Fourier decomposition of market prices, are waves of fixed
+time length and price amplitude. Thus one usually identifies an
+ordinary cycle by its length, as for example the "8 week cycle" or
+"4 year cycle," etc. Unlike ordinary cycles, periodic number cycles
+have variable time length; in fact repetitions of the same "cycle"
+take successively longer periods of calendar time. Thus periodic
+number cycles cannnot be identified by any fixed wave length (they
+have none); instead a number cycle is identified by the original
+major top or bottom which started the series of number cycles to which
+the cycle in question belongs. You will begin to appreciate this as
+well as many of the other unique features of number cycles as you
+study this report.
+
+In Chapter 1 you will learn how to construct the Octagon Chart.
+This is a table which assigns, explicitly or implicitly, an angle
+between 0° and 360° to every positive whole number (like 1, 2, 3, 4,
++++, 65, etc.). This correspondence between angles and numbers is the
+key to the construction and use of periodic number cycles. Chapter
+2 explains the simplest of the forecasting tools you will learn. This
+is the method of Natural Angles which uses only weekly and monthly
+time measurements to predict the specific days on which trend changes
+are likely. A more sophisticated forecasting method is explained in
+Chapter 3. There you will discover how to directly compare time
+measurements to price measurements through the Octagon Chart and thus
+arrive at predictions of future trend reversal dates. Chapter 4 dis-
+cusses several methods for using the Octagon Chart to project future
+support and resistance levels and thus to estimate the extent of the
+current move. In this chapter you will also learn about calendar
+support and resistance levels and how they can be used to predict
+both the prices and times of future trend Changes. Chapter 5 explains
+how you can combine what you have learned about periodic number
+cycles with some simple trend following, technical rules to improve
+your trading results. Finally, in the appendix you will find not
+only a number of market charts referred to in the text but also lists
+of historical tops and bottoms in the Dow industrials, May soybeans,
+February pork bellies, March sugar, and May wheat. These tables
+provide all the information you need to get started with your own
+number cycle analysis.
+
+It's very likely that you will find the ideas in this report
+strange and exotic. But I speak from experience when I say they
+really do work. Try them and I think you will be amazed at the help
+periodic number cycles give you in timing market trend changes!
+
+Carl A. Futia
+
+wiih.
+Chapter 1:
+
+Chapter 2:
+
+Chapter 3:
+
+PREDICTING MARKET TRENDS WITH
+PERIODIC NUMBER CYCLES
+
+©1982 The Cyclic Forecast
+P.O. Box 215
+Morris Plains,.NJ 07950
+
+Table of Contents
+
+The Octagon Chart cescccccccscccccesecceeeccs
+1.1 The Basic Idea ........... soeecces
+1.2. Constructing the Octagon Chart .. :
+1.3 What It All] Means ......0..c.eeeseeeeeaes
+1.4 Constructing Other Periodic
+
+Number Tables ........:. saw eeeee tee cceenes ,
+The Natural Angle Method ............. evens ws
+2.1 Data Required to Get Started ....... esos
+2.2 The Weekly Natural Angle Method .........
+2.3 Time Saving Hints .......... wen eeees see.
+2.4 The Weekly Natural Angle Method
+
+Applied to Stock Prices ........... peesoe .
+2. A Soybean Example .........ccceeeeeeuenes
+2 The Monthly Natural Angle Method ........
+2.7 Application to March Sugar ..............
+The Price Angle Method ..........cccccceuccccce
+
+3.1. Finding the Price Angle ....
+3.2 Price Angles for Interest
+Rate Futures ...........00- teem eccene
+3.3 The Weekly Price Angle Method .
+3.4 Applications to the Dow
+Industrials ........ oeoseee eee e eee eee nne
+
+3.5 Applications to Pork Bellies ...
+The Monthly Price Angle Method
+
+nF ww
+
+onn xn.
+Chapter 4:
+
+Chapter 5S:
+
+Projecting Support and Resistance
+Levels Using the Octagon Chart ........ssee05
+4.1 The Trend Level Method ........ seve eewes
+4.2 Projecting Support and Resistance
+
+in the Dow During 1978 ....cecsecscevess
+4.3 Calculations for the 1980 Bull
+
+Market in Soybeans .....csecceccsuveuees
+4.4 The Trend Change Method ................
+4.5 Calculating Support and Resistance
+
+in the Dow During 1981 ........cc cee euee
+4.6 Calendar Support and
+
+Resistance Levels ....,..cceceseeeeveees
+4.7 Predicting the Times of Trend
+
+Reversals Using Calendar Support
+
+and Resistance LevelS .csssssceseceeeees
+
+Some Practical Trading Hints ............. tee
+5.1 Identifying Tops and Bottoms -
+
+The Trend Recognition Method .......<..,
+5.2 Screening Out False Entry Signals ..... .
+5.3 Taking a Position ......ecececccusesvees
+5.4 The Secret of Proper Stop :
+
+Loss Placement ........iseeees seeteeeces
+5.5 Closing Out the Trade .....ccceceecereee
+
+Figures and Charts
+All charts are courtesy of the Commodity Research
+
+Appendix
+
+Bureau.
+
+22
+22
+
+23
+
+24
+25
+
+27
+
+28
+
+29
+
+31
+
+31
+32
+
+32
+
+34
+34
+Chapter 1 - THE OCTAGON CHART
+
+1.1 The Basic Idea
+
+Periodic number cycles are based upon the hypothesis that each
+positive whole number (1, 2, 3, 4, etc.) corresponds to some angle
+between 0° and 360°. This correspondence is defined by what is
+called a periodic. number table. There are many different types of
+periodic number tables and among them is the Octagon Chart. In this
+chapter you will learn how to construct and read the Octagon Chart
+as well as other useful periodic number tables.
+
+The Octagon Chart is based upon the division of the 360° of the
+circle into 8 (remember, octagon) equal sectors of 45° each. In
+figure 1 you will find a table Tisting the first 18 cycles of the
+Octagon Chart. Each cycle corresponds to a single column and the
+cycles are numbered across the top of the chart. Note that each
+column has 8 rows (remember there are 8 45° angles in 360° and this
+is the Octagon Chart.)
+
+The next thing to notice is that each row in the chart corres-
+ponds to a specific angle between 0° and 360°. These angles are
+labeled along the left hand side of the chart. Thus row 1 of the
+chart corresponds to the 0° angle, row 2 to the 45° angle, row 3 to
+the 90° angle, etc.
+
+Now pick an angle, say 135°, and a cycle, say cycle 6. The 135°
+angle in the Octagon Chart is row 4 while cycle 6 is column 6 in the
+chart. Notice that the number 145 is in row 4, column 6 of the Octagon~
+Chart. We express this fact by saying that the number 145 is on the
+135° angie in the Octagon Chart. Of course there are many other
+numbers in this chart that are on the 135° angle; in fact all of the
+numbers in row 4 are on that angle. Similarly, all the numbers in
+row.5 are on the 180° angle, all the numbers in row 3 are on the 90°
+angle, etc. ’
+
+Thus far we have seen how the Octagon Chart tells us which numbers
+correspond to each of the eight angles listed along the left hand
+side of the chart. But you will notice that not every number appears
+in this chart. For example, in cycle (column) 6 the number 145 is
+on the 135° angle while the number 151 is on the 180° angle. What
+happened to the numbers in between: 146, 147, 148, 149, 150? To
+which angle do these correspond?
+
+There are two ways to answer this question. The first is the
+theoretically correct way, but it is a bit cumbersome for practical
+applications. This is the method of interpolztion. Inthe example
+above, to find the angle corresponding to 147 (for example) we would
+proceed as follows. The distance between 151 (on the 180° angle)
+and 14S (on the 135° angle) is 6 units. This corresponds to the angular
+distance between these kyo numbers of 45°. Thus each of these 6
+units is equivalent to or 74°. Since 147 is 2 units above 145,
+it must be 2 x (74) degfees from the 135° angle which corresponds to
+145. Thus 147 is on the 150° angle.
+-4-
+
+The second method is less cumbersome and suffices for practical
+applications. In this method we "round off to the nearest 224°."
+With this method each number gets assigned to one of the angles 0°,
+224°, 45°, 674°, 90°, 1124°, 135°, 1574°, 180°, 2023°, 225°, 247}4°,
+270°, 2924°, 315°, or 3373°. Notice that each of these angles appears
+on the left hand side of the Octagon Chart or is exactly 4 way between
+two angles which do appear. For example, 674° does not appear in
+the chart, but it is exactly } way between 45° and 90°. Now let's
+apply the "round off" method to the above example. Recall that 145
+is on the 135° angle and 151 is on the 180° angle. Halfway between
+these two angles is 1573° and halfway between 145 and 151 is 148.
+Thus 148 is on the 1574° angle. Now in the “round off" method each
+number between 145 and 151 is assigned either the angle 135° (if it
+is closest to 145) or 1574° (if it is closest to 148) or 180° (if
+it is closest to 151.) Since 147 is closer to 148 than it is to 145
+the number 147 is assigned to the 1573° angle in this "round off"
+method. On the other hand, 146 is closer to 145 than to 148 so 146
+is on the 135° angle. Similarly 149 is closer to 148 than to 151 so
+it too must be on the 1573° angle.
+
+One more point needs to be made with the round off method. Look
+in cycle 7 (column 7). Note that 197 is on the 135° angie while 204
+is on the 180° angle. The difference between 204 and 197 is 7 units
+and this is not evenly. divisible by 2. Nonetheless, 7 : 2 = 34 so
+that 2003 is the "ideal" number which corresponds to the 1573° angle
+in cycle 7. To apply the "round off" method to compute the angles
+for numbers between 197 and 204 proceed as in the last paragraph. Use
+197, 2004 and 204 as the “test numbers." Thus 199 is closer to 2003
+than it is to 197 so 199 is on the 157}° angle according to the round
+off method.
+
+1.2 Constructing the Octagon Chart
+
+You will notice that the portion of the Octagon Chart which is
+reproduced in figure 1 ends with the number 1369. Of course, the
+chart can be extended as far as you want to go. But in order to do
+this you must first learn how to construct the Octagon Chart.
+
+The construction is simplicity itself. Because the Octagon Chart
+is based upon the 8 angles of 45° in the 360° circle, each cycle
+or column in the chart has 8 rows or entries, one for each of the 8
+angles. The first angle, 0°, in cycle 1 is assigned the number
+2. Each succeeding entry in cycle 1 is obtained by adding 1 to the
+entry above it; the "add-factor" of*1 unit is derived from the fact
+that we are working in column or cycle 1.
+
+Now let's obtain the entries in column or cycle 2. Because this
+is cycle 2 the "add-factor"” becomes 2 units. Thus the first (or 0°
+entry) in cycle 2 is obtained by adding 2 (the "add-factor") to the
+last (or 315° entry) in cycle 1. Thus 2 + 9 = 11, the 0° entry in
+cycle 2, Each succeeding entry in cycle 2 (column 2) is obtained
+from the one above it by adding 2.
+
+How do we get the entries in cycle 3? First find the add-factor.
+-S-
+
+Since we are constructing column 3 this add-factor must be 3. The
+0° entry in column 3 is obtained from the 315° entry in column 2 by
+adding 3. Thus 25 + 3 = 28, Each succeeding entry in cycle 3
+(column 3) is obtained by adding 3 to the entry above it.
+
+The generai rule to follow should now be clear. The add-factor
+for any cycle n (column n) is the number n. The 0° entry in column
+n is obtained from the 315° entry in column n-1 by adding n. Each
+succeeding entry in column n is obtained by adding n to the one
+above it. In this rule the symbol "n" represents any chosen whole
+number.
+
+In this construction I have tried to communicate the idea that
+each column of the Octagon Chart should be thought of as a cycle.
+Note that cycles with higher numbers have greater lengths. For example,
+the length of cycle 3 is obtained by subtracting the 0° entry in
+cycle 3 (namely 28) from the 0° entry in cycle 4 (namely 53). Its
+length is therefore 25 units. The same type of calculation shows
+that cycle 4 has length 33, cycle 5 has length 41, etc. Cycle lengths
+grow by 8 units (remember, Octagon) with each repetition. This is
+one important difference between periodic number cycles and more
+common forms of fixed length time cycles.
+
+1.3 What It All Means
+
+So far you have learned to read the Octagon Chart and to construct
+it, but I haven't explained what the numbers in the chart mean. Do
+they represent, time intervals, prices or what?
+
+The beauty and power of periodic number tables is that their
+entries can represent all of these things plus many more. The point
+is that all market technical action is expressed in terms of numbers
+and measured by numbers. Depending upon the application you have in
+mind, the numbers in the Octagon Chart can represent days, weeks, or
+months between highs and lows, or price levels, or price changes. In
+fact, the most powerful use of a periodic number table interprets
+the numbers as measuring both price and time. In other words, the
+number table can connect both price and time measurements into angular
+measurements. In this way, price and time measurements can be directly
+compared through the angles to which they correspond.
+
+No doubt you find the very idea of measuring price and time on
+the same scale a bizzare notion. But I intend to convince you in
+Chapter 3 that it is an invaluable forecasting technique.
+
+1.4 Constructing Other Periodic Number Tables
+
+Using the method described in section 1.2 you can construct any
+other periodic number table you might want to study. One of the most
+useful of these is the Hexagon Chart. This table is based upon the
+6 angles of 60° (hexagon) in the 360° circle. Thus each column of the
+Hexagon Chart has entries which correspond to the angles 0°, 60°,
+120°, 180°, 240° and 300°. The entries in the Hexagon Chart are
+-6-
+
+obtained by exactly the same procedure as those in the Octagon Chart.
+The only difference is that each column in the Hexagon Chart has
+only 6 entries.
+
+In a similar way one could construct a periodic number table
+based upon the 12 angles of 30° in the 360° circle. Each cycle or
+column in this table would have 12 entries. Just as in the Octagon
+and Hexagon Charts, the 0° entry in column 1 is 2 and the rest of the
+entries are obtained by using the column's add-factor in the way
+described in section 1.2.
+
+In the following chapters the discussion will be focused solely
+on the Octagon Chart. This is for convenience only. Similarly
+excellent results could have been obtained by using the Hexagon Chart
+instead. As you gain experience you May want to experiment along
+these lines using different kinds of number tables. The possibilities
+are endless.
+
+Just remember this. Don't mix apples and oranges. Forecasts
+made by using one chart are separate from forecasts made by using
+another. In other words, a weak signal from each of two charts, say
+the Octagon and Hexagon Charts, is not equivalent to a strong signal
+obtained from any one chart alone. Beginners sometimes make the
+mistake of trying to combine the indications of two different charts.
+Until you gain some practice using one of these periodic number tables
+it is probably best not to confuse yourself by using others. For
+starters the Octagon Chart can fill most of your forecasting needs.
+-7-
+
+Chapter 2 - THE NATURAL ANGLE METHOD
+
+2.1 Data Required to Get Started ~
+
+In this chapter you will learn how to use the weekly and monthly
+Natural Angle methods to predict the times when significant trend
+changes are most likely to occur.
+
+To apply this method you must first obtain a list of important
+historical highs and lows in the market you are studying. For a
+commodity market first choose an active contract month and then develop
+a list of the important highs and lows in that contract month only as
+far back in time as you can get data. ‘To get you started T have in-
+cluded in the appendix a list of the important highs and lows in the
+
+Dow industrials, May soybeans, May wheat, February pork bellies and
+March sugar.
+
+As a general rule it is best to use only the 15-30 most important
+historical highs and lows in any given market. A high or low is
+important if it "sticks out" or is prominent on a monthly chart. The
+more highs and lows on your list the greater the number of trend
+reversals you will wind up predicting in a given year. If you use more
+than 30 highs and lows (especially if most of them have occurred
+during the last 10 years or so) then you will predict so many trend
+reversals as to make the predictive method of no practical value. On
+the other hand, using fewer than 15 highs and lows will lead to too few
+trend reversal predictions and will again cause the method to have
+little practical value. ~
+
+Some commodity markets have been open for too short a time to
+establish even 15 important tops and bottoms (as examples, gold,
+interest rate futures, foreign currencies and heating oil come to
+mind.) For these markets I use the 15 or 20 most recent important
+intermediate term highs and lows (rather than using only long term,
+
+ani ear market tops and bottoms as I do for the other commodities.)
+
+2.2 The Weekly Natural Angle Method
+
+The idea behind the Natural Angle method is simplicity itself. To
+
+determine whether or not a trend reversal should be expected during
+
+the current week you must first calculate the number of weeks which
+
+have elapsed between the current week and the week of each of the
+
+highs and lows on your list of highs and lows for the market in question.
+For example, if we wanted to know whether a trend change was due in
+
+Dow industrials during the week ending April 3, 1981 you would calculate
+as follows. The week ending April 3, 1981 is 53 weeks from the low
+
+on March 27, 1980, 160 weeks from the low on February. 28, 1978, 236
+
+weeks from the high on September 21, 1976, 329 weeks from the low on
+December 6, 1974 etc.
+
+Once you have done these calculations you are ready to determine
+how many weekly natural number cycles terminate during the current
+-8-
+
+week. A weekly natural number cycle is an interval of time which can
+be measured by a number on the 0°, 90°, 180° or 270° angles of the
+Octagon Chart. Thus 69 weeks is a natural number cycle because the
+number 69 is on the 180° angle in the Octagon Chart. Similarly, 249
+weeks is a natural number cycle because the number 249 is on the 90°
+angle.
+
+A weekly natural number cycle always starts from the week of one
+of the historical highs and lows on your list for the market in
+question. For example, 53 weeks is a natural number cycle because
+53 is on the 0° angle. If we count forward 53 weeks from the March
+27, 1980 Dow low we arrive at the week ending April 3, 1981. Therefore
+we can say that the natural number cycle of length 53 weeks, which
+starts from the March 27, 1980 low, terminates during the week ending
+April 3, 1981. Similarly, 163 weeks is a natural number cycle because
+163 is on the 270° angle. If we count forward 163 weeks from the Dow
+low on February 28, 1978 we arrive at the week ending April 24, 1981.
+Therefore we can say that the natural number cycle of length 163
+weeks, which starts from the February 28, 1978 low, terminates during
+the week ending April 24, 1981.
+
+A trend reversal is likely to occur during the current week if
+at least two weekly natural number cycles, which:start from highs and
+lows on your list, terminate during the current week. This is the
+basic rule to remember, so read it over once again to be sure you
+understand it,
+
+Let us illustrate this rule by showing why aitrend reversal in
+the Dow industrials could have been expected during the week ending
+April 3, 1981. As we pointed out above, that week was 53 weeks from
+the March 27, 1980 Dow low. This is one natural number cycle which
+terminates that week. As a short hand I like to say that the week
+ending April 3, 1981 is 0° from March 27, 1980 low ibecause 53 is on
+the 0° angle. There is another natural number cycle which terminates
+that week. Counting forward from the May 26, 1970 Dow low we find
+that the week ending April 3, 1981 is 565 weeks from that low. Note
+that 565 is on the 90° angle. Therefore the natural number cycle of
+length 565 weeks, which starts from the May 1970 low, terminates that
+week. In other words, the week ending April 3, 1981 is 90° from the
+May 1970 low. It is also easy to discover a third number cycle which
+terminates then. For that week is also 431 weeks from the January 11,
+1973 Dow high. Thus the week ending April 3, 1981 is also 270° from
+the January 1973 high.
+
+So far we have found three natural number cycles which terminate
+during the week ending April 3, 1981. That week is 0° from the
+March 1980 low, 90° from the May 1970 low and 270° from the January
+1973 high. Only two cycle terminations are required to forecast a
+trend change, so one is indeed projected for that week. For the exact
+date of the predicted trend change we select the midpoint of the
+trend change period, i.e. Wednesday, April 1. You will recall that
+on that day the Dow closed within 1 point of the exact top of its
+February-March 1981 rally.
+-9-
+
+You now have learned the essence of the weekly Natural Angle
+method. Before illustrating this technique with further examples we
+should first discuss some important details.
+
+First, do not use the natural number cycles of lengths 2, 4, 6,
+8, 15 or 23 in Your calculations. The cycle lengths of 2, 4, 6, and
+8 weeks are too short to be meaningful; 15 and 23 are on the 90° and
+270° angles in cycle 2 of the Octagon Chart and are therefore of
+less importance. However you should use the cycles on the 0° and
+180° angles in column 2, namely those of lengths 11 and 19. Starting
+with column 3 you can use all cycle lengths which appear on the 0°,
+90°, 180° and 270° angles as discussed above.
+
+Secondly, when using the weekly Natural Angle method you will
+occasionally find spans of 2 or sometimes even of 3 consecutive weeks,
+each of which is a predicted trend reversal week. When is the ideal
+trend change day in this situation? I have found it best to select
+the trading day as close. as possible to the middle of the trend change
+period.
+
+2.3 Time-Saving Hints
+
+The calculations described above may sound tedious, but if you
+organize your worksheets carefully you can do all the necessary
+calculations required to predict an entire year's worth of trend
+change dates in just a couple of hours. Of course the calculations
+could be done in a few seconds on a personal computer, but I will
+assume that you want to do the work by hand, at least at the start.
+Here's what you should do to calculate the trend changes predicted
+during a given year by the weekly Natural Angle method.
+
+You will need two worksheets. Each sheet should have as many
+columns as you have historical highs and lows on your list. Label
+each column at the top by the date of one of the highs or lows on
+your list. Along the far left hand side of each worksheet list in a
+vertical column the weeks of the current year; do this by writing
+down in order the date of the Friday of each week. You should now
+have two worksheets; the columns of each sheet correspond to each of
+the historical highs and lows on your list; the rows correspond to
+the weeks of the current year for which you are making predictions.
+
+On worksheet #1 you will first keep a count of the number of
+weeks which separate the first week of the year from each of the
+historical highs and lows on your list. Put these numbers in row 1
+of worksheet #1; obviously the count from a particular high or low
+should go in the column labeled by that high or low at the top of the
+sheet. For convenience, you should also count forward from week 1 in
+the year and enter at, say, week 26, the number of weeks week 26 of
+the current year is from each of the historical highs and lows. These
+numbers can then be entered in row 26. To save time when preparing
+next year's worksheets you will also want to calculate these counts
+for week 52 of the current year and enter them in row 52.
+-10-
+
+Now you can calculate natural number cycles on worksheet #2.
+Pick one column corresponding to a given high or low. Look on work-
+sheet #1 to see how many weeks the first week of the year is from the
+high or low which corresponds to the column you have picked. Starting
+with this number, count forward the weeks of the year; enter a mark
+{either 0, 90, 180 or 270) each.time you come to a week whose count
+is a weekly natural number cycle from the high or low. The mark
+should be entered in the row corresponding to that week and in the
+column corresponding to the high or low you started from.
+
+If you repeat this procedure for each column, when you finish
+you will at a glance be able to tell which natural number cycles ex-
+pire in which weeks. It is then easy to see visually which weeks are
+trend reversal weeks and then to calculate the ideal trend change
+day. Trend reversals can be expected in those weeks which correspond
+to the rows having two or more marks in them in worksheet #2.
+
+2.4 The Weekly Natural Angle Method Applied to Stock Prices
+
+In this section I will illustrate the weekly Natural Angle method
+in action by applying it to predict trend changes in the stock market
+averages during 1981. All of these trend reversals could have been
+predicted using data available at the start of that year. In fact,
+at that time I actually performed the calculations I'm about to describe
+to get.a better picture of the important dates to watch in 1981.
+
+These trend changes are all calculated using the dates of historical
+bull market tops and bear market lows in the Dow Jones industrial
+average going back to 1900. A list of these highs and lows appears
+in the appendix to this report.
+
+To follow the results of the trend change predictions, see figure
+2, This is a daily chart of the NYSE composite average during that
+year. I am.using this chart instead of a chart of the Dow to show
+you that predictions made on the basis of Dow highs and lows apply
+equally well to all the market averages. It is not necessary to use
+a separate list Of highs and lows for each average you want to
+predict.
+
+The week ending January 2, 1981 is 316 weeks from the bear market
+low on December 6, 1974 and is also 40 weeks from the March 27, 1980
+low. That week is therefore 90° from the 1974 low and 180° from the
+March 1980 low. This follows from the fact that 316 is on the 90°
+angle in the Octagon Chart and 40 is on the 180° angle. Since at
+least two weekly, natural number cycles expire during the week ending
+January 2 we conclude that we should expect a trend change at the
+midpoint of that week, namely on December 31, 1980. This is point A
+in figure 2 and occurs 3 trading sessions prior to the exact high
+for all of 1981 in the NYSE composite. The top was followed by a
+drop of about 10% during the next 7 weeks.
+-li-
+
+The next intermediate trend reversal projected in the stock
+market in 1981 by the weekly Natural Angle method occurs during the
+week ending April 3. That week is 565 weeks or 90° from the 1970
+low, 431 weeks or 270° from the 1973 top, and 53 weeks or 0° from
+the March 1980 low. A trend change would therefore be predicted
+for April 1, 1981, point B in figure 2. This was the exact top of
+a 3 day rally which brought the NYSE index to within less than 1%
+of its March rally top. A drop of 5% lasting 5 weeks then followed.
+
+By this time you will have noticed one distinctive feature of
+the Natural Angle method and of the periodic number cycles it uses.
+This predictive method, as well as the others which will be explained
+in the following pages, predicts trend changes, not tops or bottoms.
+In other words, it tells you to expect a trend change at a certain
+point in time, but not whether the trend change will be a top or a
+bottom. This is one of the great differences between periodic
+number cycles and ordinary, fixed length, time cycles. At first, one
+might be tempted to believe that the inability to know in advance
+whether a trend change will be a top or a bottom would be a handicap
+in practical market situations. But nothing could be further from
+the truth. In fact 70% of the time the market itself will tell you,
+just before the trend change is due to occur, whether it will be a
+top or a bottom. How? Most of the time it will then be in a very
+visible uptrend or downtrend as the date for the trend reversal
+approaches. Since the current trend will be reversed on or about the
+trend change date, you should be expecting a high point if the trend is
+currently up and a low point if the trend is currently down.
+
+Some techniques for determining whether the current trend (the
+trend which will be reversed) is up or down will be discussed in
+Chapter 5. Most of the time this is easy to do at a glance. For
+example, look at the predicted trend changes due at points A and B
+in figure 2. First cover up the chart to the right of point A. On
+December 31, 1980 the NYSE composite had been rising sharply for
+more than 2 weeks. If this trend was to be reversed, you would have
+been looking for a top as December 31 approached. The situation
+was equally clear at point B. Cover up the chart to the right of
+point B. Prices had been rising sharply for the 4 previous weeks.
+Clearly the trend reversal due on April 1 had to be a top, and it was.
+
+Now let's return to our stock market trend reversal projections
+for 1981. The week ending April 24, 1981 was 1009 weeks or 90° from
+the 1961 top and 163 weeks or 270° from the February 1978 low. The
+ideal date for the trend reversal was therefore April 22, (point C
+in figure 2) the midpoint of the week. At that time would you have
+been expecting a top or a bottom on or about the trend change date?
+Cover up the chart to the right of point C. The direction of the
+then current trend was not as clear as it was at point A and B.
+Prices had rallied about a week after a modest 2} week decline. The
+mechanical method discussed in Chapter 5 would have correctly determined
+that this trend reversal would be a top. The really convincing
+evidence, however, was given by the Dow industrials. The Dow was in
+the process of establishing its bull market high at 1024 on April 27,
+-12-
+
+the highest level it had closed at in more than 8 years. Clearly
+the current trend was up and the reversal had to be a high point.
+This example illustrates how looking at other market averages can
+sometimes clarify the direction of the current trend. In doubtful
+cases, looking at the technical indicators will often help too;
+
+if they are "oversold," the trend reversal should be a low; if they
+are "overbought" the reversal should be a high.
+
+By this point you should understand how to apply the weekly
+Natural Angle method to predict trend reversal dates. This method
+predicted 6 additional trend reversals in the stock market averages
+during 1981: May 27 (D), June 10 (E), July 27 (F), September 14 (G),
+November 18 (H) and December 22 (1). Only the reversals due on
+September 14 and December 22 failed to materialize. In both cases
+you would have been looking for a low point, but prices soon dropped
+to new low levels for the move by a’substantial margin. Such failures
+of the trend to reverse when expected underline the importance of
+coordinating the Natural Angle method with some simple technical
+indicators in order to determine the exact times to buy or sell. This
+subject is discussed in some detail in Chapter 5.
+
+The accuracy exhibited by the weekly Natural Angle method in
+projecting trend reversals for stock prices during 1981 is typical
+year in, year out, in all markets (commodities as well as stocks).
+In my experience 70% of the trend reversals predicted by this method
+are within just a few (2 or 3) days of a significant top or bottom.
+
+2.5 A Soybean Example
+
+The Natural Angle method works as well, if not better, in the
+commodities markets. In this section we shall apply the weekly
+Natural Angle method to predict trend reversal dates in soybean
+futures during 1981. To do this I use a list of historical tops and
+bottoms in May soybeans going back to the start of future trading
+in 1936. This list can be found in the appendix. The trend reversals
+projected on the basis of the highs and lows in May beans can be
+used to trade all contract months, not just the May contract.
+
+The first trend reversal projected by the weekly Natural Angle
+method for soybean futures in 1981 is February 9 (point A in figure
+3). This date is calculated as follows. The week ending February
+6 is 352 weeks or 270° from the May 1974 low and 11 weeks or 0° from
+the November 1980 top. The following week, which ends February 13,
+1981, is 391 weeks or 90° from the August 1973 top and 86 weeks or 0°
+from the June 1979 top. The midpoint of this two consecutive week
+trend change period is Monday, February 9. Note that July '81 beans
+formed the first of 2 tops at the 820 level on the preceding trading
+session, February 6. If you had >een using the mechanical trend
+recognition method described in Chapter 5, you would have been ex-
+pecting this trend reversal to be a top because the current trend
+was clearly upwards.
+-13-
+
+The next trend reversal date in soybeans is February 25, 1981
+(point B in figure 3). The week ending February 27 is 916 weeks or
+180° from the August 1963 low and 334 weeks or 180° from the October
+1974 high. Three trading sessions prior to February 25 July ‘81
+beans formed the second top at the 820 level. This reversal also
+had to be a top according to the mechanical trend recognition method
+discussed in Chapter 5.
+
+The weekly Natural Angle method projected the next trend reversal
+in soybeans for April 6, 1981. The week ending April 3 is 204 weeks or
+180° away from the April 1977 top, and 19 weeks or 180° from the
+November 1980 top. In addition, the week ending April 10 is 1041
+weeks or 180° from the April 1961 high, 411 weeks or 180° from the May
+1973 high, 371 weeks or 0° from the February 1974 high, 190 weeks or
+90° from the August 1977 low, and 53 weeks or 0° from the April 1980
+low. The midpoint of this two week trend change period is Monday,
+April 6. The exact top of a 90¢ rally occurred 3 trading sessions
+later on April 9.
+
+The weekly Natural Angle method projected 9 other trend reversal
+dates for soybeans in 1981: May 5 (point D), June 1 (point EB), June
+17 (point F), July 1 (point G in figure 4), July 15 (point H), August
+26 (point I), September 23 (point J), October 21 (point K) and
+November 23 (point L). Only the’May 5, August 26 and October 21 dates
+failed to coincide with significant trend reversals.
+
+At this point you should note another important aspect of the
+trend reversal prediction methods described in this report. One should~
+not expect every important high or low in the market to be confirmed
+by a projected trend reversal date. For example, the March 4, 1981
+low in soybeans was missed by the weekly Natural Angle method, Of
+course, some tops and bottoms which one method might miss are sometimes
+picked out by another (the March 4 low in soybeans was projected by
+the methods discussed in Chapter 3). Nonetheless, you should use
+projected trend reversal dates primarily as a method for timing market
+entry, rather than exit. In other words, don't insist upon a trend
+reversal date to occur before you close out a profitable position.
+
+This question is discussed in more detail in Chapter 5.
+
+2.6 The Monthly Natural Angle Method
+
+Thus far you have learned how to project trend reversals by
+calculating natural number cycles in terms of weeks. There is nothing
+special about using a week as a unit of time in the Octagon Chart.
+
+In this section I shall explain how to calculate natural number cycles
+in terms of months and how to project trend reversals based upon
+these calculations.
+
+The procedure is very similar to that used in the weekly Natural
+Angle method described in section 2.2. A monthly natural number cycle
+is an interval of time, measured in months, which appears on the 0°,
+90°, 180° or 270° angles of the Octagon Chart. For example, 34 is on
+-14-
+
+the 90° in that chart. Therefore 34 months is a monthly natural
+number cycle. Similarly, 218 is on the 270° angle; therefore 218
+months is also a monthly natural number cycle.
+
+A monthly natural number cycle always starts from the date of
+one of the historical highs or lows on your list for the market you
+are predicting. In the Dow industrials for example, a low occurred
+on December 6, 1974. Since 34 is a monthly natural number cycle, we
+can count forward 34 months from December 6, 1974 and arrive at
+October 6, 1977. Therefore, the monthly natural number cycle of
+length 34 months, which starts from the December 6, 1974 low, terminates
+on October 6, 1977.
+
+In order to predict a trend reversal date two monthly natural
+number cycles must terminate no more than‘ 8 calendar days apart. When
+this happens, the predicted trend reversal date is the trading session
+midway between the dates on which the two monthly cycles terminate.
+This rule is simple enough to use. Let's see how the monthly Natural
+Angle method works in practice.
+
+2.7 Application to March Sugar
+
+A complete list of the important highs and lows in March sugar
+going back to 1960 is contained in the appendix to this report. Let's
+use these highs and lows to project trend reversals in sugar during
+1980 with the monthly. Natural Angle method.
+
+February 22, 1980 is 34 months or 90° from the April 22, 1977
+high. February 25, 1980 is 19 months or 180° from the July 25, 1978
+low. These termination dates are consecutive trading sessions and
+therefore within 8 calendar days of one another. Using the rule
+described in the last section we would project a trend reversal for
+February 25, 1980 (point A in figure 5). This date was the exact
+low of a 1 week, 33¢ drop in sugar and preceded a sharp 5¢ advance.
+
+The next trend reversal in sugar during 1980 projected by the
+monthly Natural Angle method is March 28. To see why note that
+March 29, 1980 is 218 months or 270° from the January 29, 1962 low.
+Note also that March 26, 1980 is 127 months or 0° from the August
+26, 1969 low. The trading day midway between these termination
+dates is March 28. The next trading session, March 31, was an ex-
+cellent buying opportunity. In July '80 sugar (note that it is the
+March '81 contract which appears in figure 5), March 28 was the
+exact low of a 6 week, 9¢ drop. Sugar prices almost doubled during
+the next two months.
+
+The monthly Natural Angle method predicted 5 more trend reversal
+dates during the period of time covered by figure 5: July 28 (point C),
+August 20 (point D), October 27 (point E), November 24 (point F)
+and January 6, 1981 (point G). Of the seven dates projected in
+figure 5, five were successful trend reversal projections. As usual,
+one prediction method alone cannot be expected to catch all the
+important highs and lows in the market. Test your understanding of
+
+the monthly Natural Angle method by calculating these sugar reversal
+dates yourself.
+-15-
+
+Chapter 3 - THE PRICE ANGLE METHOD
+
+In this chapter you will learn about an entirely new concept in
+cycle analysis. This concept is embodied in the Price Angle method
+for predicting trend reversals. It says that the price level at
+which a market established an important high or low actually determines
+the timing of later trend reversals. In other words, price determines
+time! Before you dismiss this idea as just too silly to consider,
+I suggest you read the rest of this chapter and look at the evidence
+carefully. I believe you'will be convinced of the truth of this con-
+cept by its performance in predicting trend reversals. In my experience,
+the Price Angle method for predicting trend reversals is the most
+accurate method discussed in this report!
+
+3.1 Finding the Price Angle
+
+The basic approach taken by the Price Angle method is to relate
+price measurements to time measurements by using the Octagon Chart.
+The first step in this process is to find the angle determined by
+the price levels of all historical highs and lows on your list for
+the market you are predicting.
+
+Given a price, how does one determine the angle to which it
+corresponds? The approach for doing this is to think of the price
+as a number and to find the number in the Octagon Chart. Then use
+the "round off" method described in section 1.1 to find the angle
+determined by this number. ~
+
+It is usually obvious how to find the number associated with the
+price. For example, a Dow industrial price of 902.56 would be
+associated with the number 902. A price of 1024.56 would be associated
+with the number 1024. The 1932 low in the Dow at 41.22 is associated
+with the number 41. Similarly, a price of 637 3/4 in soybeans would
+be associated with the number 637.
+
+The rule we were following in the last paragraph is to ignore
+the fractional part of the price (i.e. the numbers to the right of the
+decimal point) when associating a number with a price. In some
+markets however you will want to use one of the digits after the
+decimal point. This is the case for the meat complex, heating oil,
+sugar etc. For example, the number associated with a price of 54.73
+would be 547, The number associated with a price of 9.86 would be
+98. The number associated with a price of 102.31 would be 1023, etc.
+
+Once you have found the number associated with the price you can
+then look up this number in the Octagon Chart. In most cases the
+number will not appear directly in the chart but will fall somewhere
+between two numbers which do. When this happens you must apply the
+"round off" method described in section 1.1 to find the angle determined
+by that number, If the number appears directly in the Octagon Chart
+-16-
+
+you can simply read off the.corresponding angle at the far left of
+the chart in the same row as the number.
+
+When you have completed this procedure you will have associated
+the price with one of the following 16 angles: 0°, 224°, 45°, 674°, 90°,
+112}4°, 135°, 1573°, 180°, -2024°, 225°, 247°, 270°, 2923°, 315°, 337}°.
+Carry out this process for the price of each high and low on your
+list of historical highs and lows for the market you want to predict.
+The angle which is associated with the price of a particular high or
+low is called the price angle of that high or low. In the appendix
+you will find all the price angles for the Dow industrials, May soy-
+beans, March sugar, February pork bellies, and May wheat. Test your
+understanding of the procedure for finding price angles by finding
+the price angles for the highs and lows on these lists and checking
+your answers against the price angles listed in the tables.
+
+Here is one final note. Sometimes when applying the "round off"
+method you find that a number is exactly halfway between two angles,
+say halfway between 673° and 90°.” In this case you should always
+choose the angle which is a multiple of 45°; in the example just .
+given you would choose 90° (= 2 x 45) instead of 67}. In other words,
+
+always choose the angle "without the 4°", Remember, this rule applies
+only when a number is exactly halfway between two angles which are
+z apart.
+
+3.2 Price Angles For Interest Rate Futures
+
+The method described in the preceding section for finding the
+price angles of -historical highs and lows does not work for interest
+rate futures. Why? I believe the reason is that interest rate futures
+are traded on an index basis and that these prices are not the natural
+units in which to measure their behavior. What are the natural units?
+Why, the answer should be obvious - interest rates. It is the interest
+rate determined by a high or low which determines the price angle in
+interest rate futures.
+
+To calculate the price angle of a top or bottom in interest rate
+futures you proceed as follows. First convert the price at the high
+or low into an interest rate. For T bills or CD's this is easy to do.
+Just subtract the price from 100.00 and the answer is the interest
+vate. Thus a T bill price of 86.64 gives an interest rate of 13.36%
+since 100.00 -86.64 = 13:36. To find the interest rate for T bonds,
+T notes, GNMA futures, etc. you must obtain a table which converts
+prices into interest rates for these futures. Your broker should be
+able to supply you with one.
+
+Once you have found the interest rate at the high or low you
+convert it into a number. Thus 13.36% becomes 1336, while 8.83%
+becomes 883. Then find this number in the Octagon Chart and calculate
+the corresponding angle just as before (using the "round off" method
+if necessary).
+-17-
+
+3.3 The Weekly Price Angle Method
+
+The lengths of the number cycles used by the price angle method
+are different for each historical high or low. The price angle
+determined by a historical high or low in turn determines the lengths
+of all number cycles which start from that high or low.
+
+The procedure for determining cycle lengths is simple. Suppose
+the price angle of a particular top or bottom is 224°. Find all
+angles which can be obtained from 224° by adding and subtracting
+multiples of 90°. Thus we obtain 221°, 112}°, 2024°, 2924°. These
+4 angles determine numbers in the Octagon Chart which are on these
+angles. For example 12 is on the 223° angle, 63 is on the 112}° angle,
+71 is on the 2023° angle, etc. Any number on one of these four angles
+in the Octagon Chart defines the length of a weekly number cycle which
+starts from this top or bottom. Thus, counting forward.in time 12
+weeks from this top or bottom we arrive at a week in which a number
+cycle of length 12 weeks terminates. Similarly, counting forward
+in time 63 weeks we come to a week in which the number cycle of length
+63 terminates.
+
+The important point to remember is that the length of any number
+cycle starting from a given high or low is determined by the price
+angle of that high or low. To determine these cycle lengths just
+add and subtract multiples of 90° (i.e. add 0°, 90°, 180° and 270°)
+to the price angle of the high or low. The resulting four angles
+determine all the numbers in the Octagon Chart which are lengths of
+weekly number cycles starting from that high or low.
+
+For example, suppose the price angle of a high or low is 135°.
+Then adding and subtracting multiples of 90° we obtain 135°, 225°, 315°
+and 45°, Any number on one of these four angles in the Octagon Chart
+then becomes the length of a weekly cycle starting from this high or
+low.
+
+From this point forward the weekly Price Angle method works just
+like the weekly Natural Angle method. To predict a trend reversal
+using the weekly Price Angle method you must find two weekly number
+cycles terminating in exactly the same week. To follow up on the
+above examples, suppose the current week is 63 weeks from a top whose
+price angle is 224°, and 31 weeks from a bottom whose price angle is
+135°. Since 63 is on the 112$° angle and 112} = 224 + 90, we know
+that the weekly number cycle of length 63, starting from a top on
+the 224° angle, terminates this current week. Similarly, since 31
+is on the 45° angle and 45 = 135 + 270 (or 135 - 90) we know that the
+weekly number cycle of length 31, which starts from a low on the 135°
+angle, terminates during the current week. Thus two weekly cycles
+determined by the price angles of old tops or bottoms terminate
+during the current week and so a trend reversal should be expected.
+
+\
+
+Before illustrating the Price Angle method on some actual examples
+I should make two further comments. Sometimes you will find that no
+-18-
+
+whole number is exactly on an angle like 673°. For example, in
+column 5 of the Octagon Chart the number 93} is on the 673° angle.
+Should we use 93 weeks or 94 weeks as the cycle length determined by
+such an angle? My rule is to round downwards; thus I would use 93
+rather than 94 as the cycle length on the 674° angle in column 5.
+Secondly, just as in the Natural Angle method, don't use any cycle
+lengths coming from column 1. In column 2, use only those lengths
+which are 0° or 180° away from the price angle of the top or bottom.
+
+3.4 Applications to the Dow Industriais
+
+Let's now project some trend reversals for stock prices by applying
+the weekly Price Angle method to the historical highs and lows of
+the Dow industrials.
+
+The week ending January 30, 1981 is 969 weeks from the June 1962
+low in the Dow. That low occurred at 535.76. The number 535 does not
+appear in the Octagon Chart directly, but note that it is exactly
+halfway between 529, which is on the 315° angle, and 541, which is on
+the 0° angle. Therefore the price angle of the June 1962 low is 3373°.
+Next note that the time measurement, 969, is exactly halfway between
+the numbers 961 (315°) and 977 (0°). Therefore 969 is also on the
+3373° angle. This means that 969 is a weekly number cycle starting
+from the June 1962 low because 969 is 0° away from the price angle
+of the 1962 low, 3374°. In other words, the angle of 969, 3373°,
+equals the price angle of the 1962 low, 3374°, plus 0°. Therefore the
+number cycle of length 969 weeks, which starts from the 1962 low,
+terminates during the week ending January 30, 1981.
+
+There is another number cycle which terminates during that week.
+It is 151 weeks from the February 28, 1978 low in the Dow. - That low
+occurred at 742.12 and 742 is on the 0° angle according to the round
+off method. The time measurement, 151, is on the 180° angle. Since
+the time measurement is 180° away from the price angle we conclude
+that there is a number cycle of 151 weeks which starts from the February
+1978 low and which terminates during the week ending January 30, 1981.
+
+There is yet a third number cycle which terminates that week.
+Counting forward 1097 weeks from the top in January 1960 brings us
+to the week ending January 30,1981. The top in 1960 occurred at
+the 685.47 level. According to the round off method 685 is on the
+1573° angle and therefore the price angle of the 1960 top is 1573°.
+Now note that 1097 is on the 3373° angle, making this time measurement
+exactly 180° away from the price angle of the 1960 top. It follows
+then that there is a number cycle of length 1097 weeks which starts
+from the 1960 top and which terminates during the week ending January
+30, 1981.
+
+We have found 3 number cycles which terminate during the week
+ending January 30. The projected trend reversal date is therefore
+the midpoint of that week, or January 28. In figure 6 you will find
+-19-
+
+a graph of the NYSE composite index for 1981. The projected January
+28 trend reversal is marked point B. Notice that this was only 3
+trading sessions prior to the first low of a double bottom which
+preceded the strong February-March 1981 rally. If you had been using
+the mechanical trend recognition method described in Chapter 5 you
+would have been looking for a low point at that time.
+
+Just to be sure that you understand the procedure for the weekly
+Price Angle method let's calculate another trend reversal date in
+stocks for 1981. The week ending September 25, 1981 is 1324 weeks
+from the April 1956 high at 521.05. According to the round off method
+the number 521 is on the 292}° angle, so this is the price angle of
+the 1956 top. The time measurement 1324 is on the 2024° angle. This
+is 90° away from the price angle of 2924°. Therefore there is a
+number cycle of length 1324 weeks which starts from the 1956 top and
+which terminates during the week ending September 25, 1981.
+
+Next note that the price angle of the 1960 top at 685.47 is
+1573° according to the round off method. On the other hand, the number
+1131 is on the 673° angle. Since this is 90° away from the price .
+angle we conclude that there is a number cycle of length 1131 weeks
+which starts from the 1960 top. This cycle terminates during the
+week ending September 25, 1981.
+
+The week ending October 2, 1981 also saw two number cycle termin-
+ations. These cycles started from the December 1968 top and the
+January 1973 top. The first had length 670 weeks and the second had
+length 457 weeks. Test your understanding of the Price Angle method ~_
+by writing down the reasons why there were indeed number cycles of
+these lengths starting from these highs.
+
+The midpoint of the September 21-October 6 trend change period
+was the trading session of September 28, 1981. This was the date of
+the exact 1981 low point.
+
+The weekly Price Angle method predicted 7 trend reversals in all
+for 1981. These were scheduled to occur on January 14 (A), January 28
+(B), February 25 (C), April 29 (D), July 22 (E), September 28 (F)
+and November 4 (G). Only one of these projected reversals, January
+14, failed to mark a significant trend change, thus showing the power
+and value of the weekly Price Angle method,
+
+3.5 Application to Pork Bellies
+
+The weekly Price Angle method works extremely well in the
+commodities markets also. Let's look at the trend reversal predictions
+it made for pork bellies in 1981. You will find a list of historical
+highs and lows in February bellies along with their price angles in
+the appendix to this report. Using these highs and lows the weekly
+Price Angle method predicted 1981 trend reversals in pork bellies on
+January 21 (A), February 18 (B), April 13 (C), April 29 (D), May 13 (E),
+June 17 (F), September 16 (G)}, October 21 (H) and November 11 (I).
+-20-
+
+These projected reversals are marked on figures 7 and 8. Five of
+these projected reversals were within 2 days of an important high
+or low while the September 16 projected reversal was only 4 trading
+sessions late.
+
+Let's calculate the first two of these trend reversal dates
+so that you can sharpen your understanding of the weekly Price Angle
+method.
+
+The week ending January 23, 1981 is 130 weeks from the August
+1977 low at 43.50., According to the round off method 435 is on the
+2924° angle and so this is the price angle of the 1977 low. The time
+measurement 130 is on the 223° angle and is 270° away from the price
+angle. Therefore there is a number cycle of length 130 weeks which
+starts from the 1977 low and terminates during the week ending
+January 23, 1981.
+
+That same week is 77 weeks from the August 1979 low at 37.20.
+According to the round off method the number 372 is on the 0° angle
+and this therefore is the price angle of the 1979 low. The time
+measurement 77 is on the 270° angle and so is 270° away from the
+price angle of the 1979 low. Thus there is a number cycle of length
+77 weeks which starts from the 1979 low and which terminates during
+the week ending January 23, 1981.
+
+The fact that we have two number cycles terminating during the
+same week allows us to project a trend reversal for the midpoint of
+that week, January 21, 1981. As you can see in figure 7 this was the
+exact low prior to an 8¢ rally in bellies.
+
+The trend reversal projected for February 18, 1981 is calculated
+in a similar manner. The week ending February 20 is 124 weeks from the
+October 1978 high at 73.70. The number 737 is on the 3374° angle and
+this then is the price angle of the 1978 top. The time measurement
+124 is on the very same angle. Thus there is a number cycle of length
+124 weeks which starts from the October 1978 high and terminates
+during the week ending February 20.
+
+That same week is also 792 weeks from the December 1965 high at
+56.00. The number 560 is on the 67$° angle and this is the price
+angle of the high. The time measurement 792 is on the 1573° angle,
+90° away from the price angle. Therefore there is a number cycle of
+length 792 weeks which starts from the December 1965 high and terminates
+during the week ending February 20, 1981.
+
+The fact that at least two cycles terminate that same week allows
+us to project a trend reversal for February 18, 1981. In figure 7
+you will see that this was the exact top prior to a 20¢ drop in
+bellies.
+
+3.6 The Monthly Price Angle Method
+
+The monthly Price Angle method differs from the weekly method in
+-21-
+
+only two ways. First, months are the units of time measurement,
+
+not weeks. Secondly, in order to project a trend reversal, two monthly
+number cycles must terminate within 8 calendar days of one another.
+This is the same rule you use in the monthly Natural Angle method
+discussed in Chapter 2. Reread that section on the monthly Natural
+Angle method to remind yourself how the termination dates of monthly
+number cycles are calculated.
+
+The monthly Price Angle method is extremely useful and I calculate
+and track these monthly number cycles for stocks and commodities.
+This method predicted trend reversals in pork bellies during 1981 for
+June 8, July 3, December 4 and December 16. Only the December 4
+prediction failed to coincide with a significant trend reversal.
+December 16 was the exact date of a low preceding a 30¢ rally which
+carried into the first half of 1982. See figure 8.
+-22-
+
+Chapter 4 - PROJECTING SUPPORT AND RESISTANCE LEVELS
+USING THE OCT. CHART
+
+In. the last two chapters you learned how to use the number cycles
+defined in the Octagon Chart to determine the times when significant
+trend reversals are likely to occur. These very same number cycles
+can be used to measure price as well as time. When used in this way
+the Octagon Chart becomes an invaluable tool for predicting the
+support and resistance levels at which the price trend is likely
+to be reversed. In this chapter you will learn three ways to project
+support and resistance using the Octagon Chart.
+
+4.1 The Trend Level Method
+
+In this section you will learn how the price levels at which
+tops or bottoms occur can actually be used to calculate the levels
+at which future tops or bottoms are likely to occur. The price
+attained at an intermediate top can be used to calculate the levels
+at which the ensuing downtrend is likely to stop. Similarly, the
+price attained at an intermediate bottom can be used to calculate
+the levels at which the ensuing uptrend is likely to stop.
+
+The first step in applying the trend level method is to convert
+the price of the top or bottom on which you want to base your pro-
+jection into a number. This step is the same as you used in the last
+chapter when finding the price angle of a top or bottom, For the
+Dow industrials, the Amex index, wheat, soybeans, gold, silver and
+all other commodities that are normally quoted in hundreds of cents,
+dollars, points, etc., you will want to use only the digits which
+appear to the left of the decimal point. For example, a Dow close at
+834.76 corresponds to the number 834, a top in soybeans at 677}
+corresponds to the number 677, a bottom in gold at 421.70 corresponds
+to the number 421 etc. For the NYSE composite the S&P 500, the
+Value Line average, pork bellies and meats, sugar, copper, cotton,
+heating oil and all other commodities which are normally quoted in
+tens of cents, dollars or points you will want to keep the first
+digit to the right of the decimal point also. For example, a close
+in the NYSE index at 68.24 corresponds to the number 682, a top in
+the S&P 500 at 119.73 corresponds to the number 1197, a top in pork
+bellies at 88.38 corresponds to the number 883, a low in sugar at 9.83
+corresponds to the number 98 (aithough when sugar is not too volatile
+it is best to use all three digits instead, hence 983).
+
+The rule for converting prices into numbers just given generally
+associates a 3 or 4 digit number to a price. When making long term
+support and resistance projections, it is often helpful to drop
+the last digit from the number and to base the projection on a 2 or 3
+digit number instead. Thus instead of using the number 1024 for the
+April 1981 Dow top you could have used 102 to make a long term pro-
+jection. No hard and fast rules can be given for this particular
+wrinkle, but you should quickly develop a feel for what can be
+accomplished after a little experimentation on your long term charts.
+-23-
+
+Once you have converted the price at the top or bottom into a
+number you locate the position of this number in the Octagon Chart
+and find its angle using the round off method. In other words, you
+are finding the price angle of the top or bottom just as you did
+when applying the Price Angle method described in Chapter 3.
+
+You are now ready to apply the Trend Level method to compute
+support and resistance. Suppose you are projecting support levels
+on the way down from a top. You have already found the price angle
+of the top. The Trend Level method then tells you to expect support
+at those prices which are on the same angle as the top or which are
+180° away from the price angle of the top. Let's illustrate this with
+some simple examples. Suppose there was a Dow top at 813.42. The
+number 813 is on the 225° angle in the Octagon Chart and so the price
+angle of the top is 225°. The Trend Level method then projects
+support levels for the ensuing decline at those prices which are on
+the 225° angle or the 45° angle (180° away from 225°) in the Octagon
+Chart. Thus the first support level on the way down should be expected
+at approximately 757 (on the 45° angle), the next at 703 (on the 225°
+angle), the next at 651 (on the 45° angle), etc.
+
+Next, suppose you are projecting resistance levels on the way
+up from a bottom. The Trend Level method then tells you to expect
+resistance at those levels which are on the same price angle as the
+bottom from which you are projecting or which are 180° away from that
+price angle. For example, suppose you are projecting resistance
+levels up from a low at 44.65 in pork bellies. The number 446 is on
+the 3373° angle and so this is the price angle of the low. You
+would be looking for resistance on the way up at those prices which
+are either on the 3373° angle or on the 157}° angle (180° away. from
+3373°). The first resistance level is 49.00 on the 157}° angle, the
+second is 53.50 on the 337}° angle, the third is 58.30 on the 157}°
+angle, etc.
+
+If you are a very short term commodity trader you will probably
+also want to keep in mind the levels which are 90° and 270° away from
+the price angle. These price levels are usually not as strong
+support or resistance as the levels which are 0° and 180° away from
+the price angle, but they stop enough short term moves to make them
+worth knowing about.
+
+4.2 Projecting Support and Resistance in the Dow During 1978
+
+The best way to learn how to apply the Trend Level method is to
+work through a number of practical examples. To get you started
+
+I will do the calculations as they applied to the Dow industrials
+during 1978.
+
+The Dow industrials established a closing low at 742.12 on
+February 28, 1978. The price angle of this low is 0° because 742
+is on the 0° angle in the Octagon Chart according to the round off
+-24-
+
+method. The Trend Level method tells us to expect resistance on the
+way up from this low at prices on the 0° angle and at prices on the
+180° angle (which is 180° away from the price angle of the low).
+These resistance levels are 799 (on the 180° angle), 856 (on the 0°
+angle and 916 (on the 180° angle).
+
+The Dow was in a bear market during 1977 and early 1978. A
+bear market rally normally carries prices up to the first resistance
+level up from the low, or in other words up 180° from the low price.
+This first resistance level according to the Trend Level method is
+799. The Dow reached this level in mid April and broke through it
+on very heavy volume. This was a sure sign that the advance would
+continue to the next resistance level, namely 856. In fact the Dow
+formed a minor top at 858 in May 1978 and a slightly higher inter-
+mediate top at 866 in June of that year.
+
+The decline which started from the June top-carried the Dow
+down to 806 and a low in early July. Could you have predicted this
+low if you had determined that 866 was an intermediate top? Since
+the top at 866 occurred close to the predicted 856 resistance level,
+you would expect that the Dow would continue to bounce between the
+support and resistance levels calculated by the Trend Level method
+from the 742 low. On this basis the downside target would be 799.
+You would not figure on a drop all the way back to 742 because by
+May 1978 the advance had developed all the characteristics of a bull
+market rise. The 799 target could be refined a bit by doing a Trend
+Level method calculation based upon the intermediate top at 866.51.
+According to the round off method the number 866 is on the 223° angle.
+The Trend Level method then tells us to expect the first support
+level below 866 on the 202} degree angle at 806. Averaging the two
+targets 806 and 799 gives 803 as a target for the decline. ‘As it
+turned out the bottom actually occurred at 806.
+
+After the intermediate low at 806 had been established you
+could begin to predict the next upside target in the bull market.
+Thus far the Dow had been stopping at the support and resistance
+levels derived by applying the Trend Level method to the 742 low.
+
+On this basis the next upside target would be the next resistance
+level above 856,-tiamely 916. Again, this target could be refined a
+bit by calculating a second target based upon the 806 intermediate
+term low. The price angle of this low is 202)° and 923 is also on
+the same angle. Averaging 923 and 916 gives 920 as an upside target.
+
+The Dow actually topped out at 908 on September 11. This was
+close to the 920 target but short of it. This was a sign of weak-
+ness in the price trend; the previous intermediate upmoves had
+stopped a bit above their upside targets (866 vs 856) and the down-
+trend in June had also stopped above its downside target 803. The
+Dow was thus acting less bullishly than one would expect on the
+basis of the Trend Level projections than more bullishly. This
+failure to reach a logical upside target was a sign that a decline
+more severe than the 7% June drop was in store.
+-25-
+
+It is interesting to note that a 910 upside target could have
+been projected based upon the 742 low by "dropping a digit" as dis-
+cussed in section 4.1. Suppose you had associated the number 74
+to the 742.12 low instead of the number 742. Now 74 is on the 225°
+angle in the Octagon Chart according to the round off method (it is
+halfway between 225° and 2471° and so is assigned to 225° because
+the latter is a whole multiple of 45°). The next resistance level
+up from 74 is 91 on the 45° angle. If 74 corresponds to the price
+of 742 then 91 corresponds to the price of 910. This then would have
+been a long-term resistance level projection based upon the 742 low.
+Of course the actual top occurred at 908.
+
+The exact level of the September 11, 1978 top was 907.74. The
+number 907 is on the 157}° angle and this then is the price angle
+of the top. The first two support levels down from 907 are 848 and
+792. The Dow had not yet stopped respecting the support resistance
+levels calculated from the 742 low. Therefore averaging these levels
+(856 and 799) with those projected from the 907 top gives 852 and
+796 as downside targets. The actual low of the subsequent decline
+occurred on November 14 at 785.
+
+4.3 Calculations for the 1980 Bull Market in Soybeans
+
+Needless to say the Trend Level method for projecting support
+and resistance levels applies equally well to all of the commodity
+markets. To illustrate this point let's look at the bull market
+advance that took place during 1980 in soybeans (see figure9a@). ~
+
+November '80 beans established a low at 631 on April 2, 1980.
+The price angle of this low is 3374°. The Trend Level method projects
+resistance levels at 684 (1573°), 736 (3374°), 792 (1573°), 848 (3373°),
+908 (1573°) and 969 (3373°). Initially beans acted very poorly,
+failing to rally even the normal 180° of a bear market rally to the
+684 level. Prices remained in a narrow trading range during April
+and May. But in late June prices penetrated the 684 level on heavy
+volume, leading one to look next at the 736 target. This level was
+reached on July 2. Would it have been appropriate to sell out there?
+
+No. The advance to the 736 level occurred without any decline
+of more than 2 days. Intermediate term tops rarely occur until at
+least one substantial, 2 day decline first interrupts the upmove.
+Since 736 was therefore unlikely to be the top you would next look
+to the 792 level to stop the advance. On July 14 prices gapped and
+closed limit up substantially above 792 at 804. Even though a two
+day decline had occurred the previous week it was unlikely that the
+top would occur on a limit up day during which no significant amount
+of trading had occurred. However, since a substantial 2 day decline
+had already occurred you would be ready. to sell on the first
+significant technical signal, especially if it occurs after prices
+hit an important resistance level. ‘
+
+This event occurred 4 days: later. The 840 level had been reached
+-26-
+
+but on that day prices had failed to close above the last minor high.
+The ideal resistance level was 848, within 1% of the actual high.
+Technical confirmation was given the next day when prices dropped
+below the low of the high day.
+
+How far down might prices be expected to fall during the sub-
+sequent decline? Two previous minor declines had averaged about 40¢
+each, so one would anticipate a greater decline this time. Thus
+the support level at'792 (calculated from the 631 low) was unlikely
+to hold and the first likely downside target was the next level
+down or 736. It would have been possible to refine this target
+slightly by using the 840 high as a basis for calculation instead
+of the 631 low, 840 is on the 315° angle and 729 is on the same
+angle. Averaging 729 and 736 gives 733 as a target. The drop
+ended on July 25 at 740.
+
+November beans resumed their advance and established their final
+high at 931 on November 5, 1980. This level was nowhere near any
+target you could have computed based upon the Trend Level method.
+
+The 631 low projected a target at 908 while the 740 low projected a
+target at 916. Here is a situation which demonstrates the danger
+
+of attempting to trade using only the Trend Level method for pro-
+jecting support and resistance. It is extremely important to factor
+into your buy-sell decisions the evidence provided by the market's
+technical action as well as the projections of trend reversals made
+by methods discussed in previous chapters. In the case of November
+beans you would have been alert for a sell signal as soon as prices
+rose above 900 and came within 1% of the targets cited earlier. The
+move above 900 occurred during a sharp, uncorrected, 4 day advance,
+and so it was unlikely that the top was at hand just yet. The
+earliest time you would have sold was October 30. A new high had
+been made by a small margin but then prices broke below the previous
+day's low. This would have been a good Place to sell long positions,
+but short positions would have been stopped out for a small loss.
+The final top at 931 came 3 days later.
+
+4.4 The Trend Change Method
+
+Thus far we have seen how the numbers in the Octagon Chart can
+be interpreted as: prices and how this allows the price angle of a
+top or bottom to determine subsequent support and resistance levels.
+
+In the Trend Change method, on the other hand, the numbers in
+the Octagon Chart are interpreted as price chan es, not price levels.
+To apply the Trend Change method you first must find the price angle
+of the top or bottom from which you are projecting support and
+resistance. Next, look at the numbers in the Octagon Chart that are
+on this price angle or 180° away from this price angle. These numbers
+tell you. how many price units the trend is likely to carry: before
+encountering support or resistance.
+
+Let me clarify this rule with a hypothetical example. Suppose
+a top occurs in wheat at 490. This top would then correspond to a
+-~27-
+
+price angle of 157}°. How far down will the move be likely to carry
+before encountering support? To answer this question look at the
+numbers in the Octagon Chart which are either on the 1574° angle, or -
+180° away from this angle on the 337}° angle. Of these numbers
+ignore those which occur in the first 2 columns of the Octagon Chart.
+In this example, the numbers we want are 38 (1574°), 51 (3374°),
+
+67 (1573°), 83 (3373°), 103 (1574°), etc. To obtain likely support
+levels on the way down, subtract.each of these numbers from the price
+at the top, 490. Thus 490 -38°=452, 490 -51 =439, 490 -67 =423,
+
+490 -83 =407, 490 -103'-387. - The support levels obtained in this way
+are thus 452, 439, 423, 407, 387. If you are projecting resistance
+levels up from a low, just reverse this procedure by adding (instead
+of subtracting) the numbers to the price at the low.
+
+You will notice that the distance between successive support or
+resistance levels calculated by the Trend Change methods is very short
+initially, but then gradually lengthens. I have found that those
+levels obtained by adding or subtracting numbers which are on the
+same price angle as the top or bottom to be more significant than
+those obtained from numbers which are 180° away from the price angle.
+In the example discussed above this rule makes the 452, 423 and 387
+levels stronger support levels than 438 or 407.
+
+In practical applications it is usually best to combine the
+Trend Level and Trend Change methods for projecting support and
+resistance levels. Do this by using the levels projected by the
+Trend Level method as starting points. Then see if these levels are
+near any of the levels projected by the Trend Change method. If ~
+they are, average the two levels in question to arrive at your final
+estimate of the relevant support or resistance zone.
+
+4.5 Calculating Support and Resistance in the Dow During 1981
+
+Let's illustrate the combined use of the Trend Change and Trend Level
+methods by calculating support and resistance in the Dow during 1981.
+The 1981 top occurred at 1024 which corresponds to a price angle of
+135°. The Trend Change method tells us to look at the numbers in
+the Octagon Chart which are not in columns 1 or 2 and which are on the
+135° angle or the 315° angle. ‘These numbers are 37, 49, 65, 81, 101,
+121, 145, 169, 197, 225 etc. Subtracting each of these numbers from
+the 1024 high gives a list of potential support levels for the sub-
+sequent decline. These are 987, 975, 959, 943, 923, 903, 879, 855,
+827, 799. These levels are quite close together and therefore by
+themselves are not very helpful. To clarify the situation we apply
+the rules set down in the last section.
+
+First, the levels obtained from numbers on the 135° angle are
+the more important ones, other things being equal. This rule thus
+singles out the 987, 959, 923, 879, 827 levels as ones to watch.
+
+Secondly, we should also compute the support levels given by the
+-28-
+
+Trend Level method and compare them to those given by the Trend Change
+method. These levels are 961, 901, 841 and 785.
+
+We now combine this information as follows. The 961 level is
+obtained from the Trend Level method while 959 is an important level
+given by the Trend Change method. Averaging these two gives the
+first important support level on the way down, 960. Next we note
+that 901 is a Trend Level projection. Note also that 903 is a Trend
+Change projection, but not one of the strong ones. Even so, because
+these levels are so close together we average them to obtain 902 as
+the next support level on the way down. Considerations similar to
+these tell us to average the 841 and 827 levels to obtain 834 as the
+next support level. Finally we average 785 and 799 to obtain 792 as
+a support level.
+
+With the exception of 902, each of these levels proved to be
+important support-resistance zones during the decline from the 1024
+top. The May '81 low occurred at 963, the August '81 top at 954,
+the September low at 824, the October low at 836, and the March '82
+low at 794, ,
+
+4.6 Calendar Support-Resistance Levels
+
+This section will explain a surprisingly effective tool which
+enables you to calculate support and resistance levels using only the
+calendar. Once you understand this method you can turn it "upside
+down" to use support-resistance projections to predict the times that
+trend changes are likely.
+
+The key to the calendar method is the observation that angles
+in the Octagon Chart correspond to certain calendar dates as shown
+in the following table:
+
+Angle Date Angle Date
+0° March 21 180° September 22
+224° April 12 202}4° October 16
+45° May 5S 225° November 8
+673° May 27 2473° November 30
+90° June 21 270° December 31
+1124° July 14 2924° January 13
+135° August 5 315° : February 4
+157}° August 31 337}4° February 28
+
+To calculate the calendar support and resistance levels which
+correspond to any date just look at the prices in the Octagon Chart
+which are on the same angle as that date or which are 180° away from
+-29-
+
+that angle. It is also sometimes useful to look at prices which are
+90° or 270° away from the angle corresponding to the date.
+
+As a hypothetical example, Suppose you wanted to calculate the
+calendar support and resistance corresponding to August 5. From the
+preceding table you know that August 5 corresponds to the 135° angle.
+Therefore you would look at all prices which are on the 135° angle
+or on the 315° angle. For example 677 is on the 135° angle. This
+corresponds to a price of 677 in the Dow or 67.70 in cattle or 6.77
+in sliver, etc. According to the calendar method, if the price in
+the market you are following is within 1% of 677 on August 5 you should
+look for a change in trend. Of course, there is nothing special about
+6773; any other price on the 135° or 315° angles would have served as
+
+well since they are all support resistance levels corresponding to
+August 5.
+
+The only’ difficulty you are likely to encounter is that of com-
+puting calendar support or resistance for dates not in the preceding
+table. Notice that as we move from one date to the next in the pre-
+ceding table, we actually drop down one entry to the next angle in
+the Octagon Chart. For example, moving from August 5 to August 31
+corresponds to a move from 677 to 683 since 683 is on the 157° angle
+and 677 is on the 135° angle. The 677 level moves upwards over time
+until it reaches 683 on August 31. One can then draw a straight line
+on your chart connecting 677 on August 5 to 683 on August 31 and
+read off the support-resistance levels for the dates in between from
+this line. Follow this graphical "interpolation" procedure for-any
+date not in the preceding table.
+
+The calendar method just described often gives remarkably accurate
+results. In the November '80 soybean example discussed in section
+4.3 the 834 level is on the 292j°® angle. This is 180° away from the
+1124° angle which itself corresponds to July.14. ‘By interpolation,
+July 17 corresponds to the 835 level and November beans topped out
+that day at 840 before dropping to 740 in 5 days. The November 5 high
+in November beans was at 931. Note that 931 is on the 225° angle and
+the corresponding date is November 8! On March 8, 1982 the Dow
+established a closing low at 794 and then sallied 80 points. By inter-
+polation it is easy to see that 794 is 180° away from the angle (about
+348°) which corresponds to March 8,
+
+Countless examples of this sort of action abound in stock and
+commodity charts as you will soon discover when you start doing your
+own calculations. But remember - do not use the calendar method in
+
+isolation - be sure to coordinate it with the other methods discussed
+in this chapter.
+
+4.7 Predicting the Times of Trend Reversals Using Calendar Support
+an esistance Levels
+
+Suppose you could estimate with reasonable accuracy the level at
+which a market move is likely to stop. Suppose you also knew that
+
+-30-
+
+it was likely to stop at a clanedar support or resistance level. This
+information would then tell you when the coming top or bottom should
+occur. All you would have to do is find the calendar dates which are
+either on the same angle as your’price. target, or 90°, 180° or 270°
+away from this angle. The correspondence between dates and angles is
+contained in the table in section 4.6. In this way you would come up
+with four possible termination, dates for the move, spread around the
+coming year at 3 month intervals from one another. In most cases you
+can make a “ball park" estimate of the speed with which prices will
+reach your target, and this will usually be enough to pick only one
+of the four dates as the likely time for the top or bottom.
+
+Let's illustrate this. procedure with a calculation I made recently
+for June '82 Comex gold. June gold was in a bear market and established
+an intermediate low at the 319 level on March 15, 1982. Note that
+319 is on the 1124° angle and that an upmove of 180° from 319 (a normal
+bear market rally) would carry prices to 356 according to the Trend
+Level method. The Trend Change method shows that 35 is on the 1124°
+angle also and so 319 + 35 = 354 is a likely resistance point.
+Averaging these two levels gives 355 as a reasonable target for. the
+bear market rally. If 355 is also a calendar resistance level we can
+calculate the dates on which the top is likely to occur. Since 355
+is on the 292}° angle the dates for the top are those which correspond
+to the 224°, 112}°, 202}° and 2924° angles. These are January 13,
+April 12, July 14 and October 16. A rally from 319 to 356 would only
+take a few weeks at most and so April 12 becomes the target date for
+the top.
+
+The actual top occurred on April 14 at the 377 level. Note that
+the time projection was accurate but the price projection on which it
+was based was not. This happens frequently enough so that you should
+be prepared when it does. Note however that 377 was itself on the
+223° angle which corresponds to April 12!
+
+The possible uses of calendar resistance levels to compute both
+price and time objectives are limited only by your imagination.
+Experiment with these ideas and you are likely to discover new approaches
+which will be invaluable in your own trading.
+-31-
+
+Chapter 5 - SOME PRACTICAL TRADING HINTS
+
+In the previous chapters you have learned some new methods for
+predicting the times and the prices at which important trend reversals
+are likely to occur. In this chapter I will discuss some simple-to-
+use trading rules which I have developed over the years to help me
+take advantage of these trend reversal predictions. The next few
+pages do not constitute a complete treatise on commodity and stock
+trading techniques, but they will give you some simple rules-of-thumb
+to follow in the markets. These rules will help you to make profitable
+use of the Octagon Chart in day-to-day trading.
+
+5.1 Identifying Tops and Bottoms - The Trend Recognition Method
+
+To most people the strangest aspect of periodic number cycles is
+their inability to tell you far in advance whether a predicted trend
+reversal will be a top or a bottom. But for practical trading
+purposes you do not need this information in advance at all. In fact,
+it suffices to be able to recognize a trend reversal as a top or a
+bottom at the time it occurs to make profitable use of the trend
+reversal predictions.
+
+Here is the method I use to determine whether a trend reversal
+is going to be a top or a bottom. The main idea is to devise a rule
+which will classify the current trend of the market as up or down.
+If this can be done successfully then the fact that a trend reversal
+is due will tell us that it must be a top if the current trend is up
+and a bottom if the current trend is down.
+
+The Trend Recognition method works as follows: First wait until
+you are $ trading sessions away from the trend reversal date (do not
+count the reversal date itself). Then wait for the first day within
+this period which you can label as a New High day or a New Low day.
+
+A New High day is a trading session for which the daily high is above
+the daily highs of all of the preceding four trading sessions. A New
+Low day is a trading session for which the daily low is below the
+daily lows of all of the preceding four trading sessions. In narrow
+markets it is possible for the same day to be both a New High and a
+New Low day. In this case label it as neutral.
+
+Starting 5 trading sessions prior to the projected trend reversal,
+if the first day you can label turns out to be a New High day then the
+current market trend is up. If it is a New Low day then the current
+market trend is down. If the current trend is up the trend reversal
+should be a high and you should be preparing to sell on the first
+technical signal the market gives. If the current trend is down the
+trend reversal should be a low and you should be preparing to buy
+on the first technical signal the market gives.
+
+The mechanical Trend Recognition method just described works
+beautifully about 70% of the time. But there will be times when the
+-32-
+
+market's action will be ambiguous. For example, a New High day might
+be followed a day later by a New Low day. As another example, the
+market may have declined steeply for several weeks and then formed
+
+a narrow trading range right near the lows. Two days before the trend
+reversal date the market breaks upward out of the trading range and
+establishes a New High day. Is the trend reversal a top or bottom?
+
+Unfortunately, there are no simple answers to this kind of
+problem. Ultimately you are forced to rely upon your own judgement
+in such situations. I always find it very useful to look at other
+contract months or related commodities because they sometimes present
+a clearer picture and thus can resolve the ambiguity. In the stock
+market it is often useful to look at other market averages and at
+the technical indicators for help in identifying the reversal as a
+top or bottom. For example, if most of the technical indicators are
+in "oversold" territory you would probably conclude that the reversal
+will be a low. If they are in “overbought” territory the reversal will
+probably be a high.
+
+5.2 Screening Out False Entry Signals
+
+I have found the following rule invaluable in my own stock and
+commodity trading:
+
+don't take a new position unless the market
+is within 3 or 4 days of a trend reversal date.
+
+Following this rule religiously has the effect of eliminating many
+
+of the false buy and sell indications given by various technical
+indicators and mechanical trading systems. Since there are usually
+not very many trend reversals predicted during a given year, this
+
+rule will also prevent you from overtrading. Taking positions too
+frequently is almost a sure sign that you have lost perspective on the
+markets and shouldn't be trading at all.
+
+Of course there will be times when the technical evidence seems
+to point to a top or a bottom, yet none of the methods we have dis-
+cussed predicts a nearby trend reversal. This is a very rare occurrence.
+In any given market it happens perhaps . once in two or three years.
+If the technical evidence is truly overwhelming then my rule is to
+take a position despite the lack of a trend reversal date. But be
+careful, for it's easy to let wishful thinking carry the day and to
+persuade yourself that the technical evidence is very strong when in
+fact it isn't.
+
+5.3 Taking a Position
+
+Once you have determined that a predicted trend reversal will
+be a top or a bottom you have the problem of deciding when and at
+what prices to establish a long or short position. Your choice of
+technical rule to follow for doing this has to be guided by the
+-33-
+
+strength of the evidence which points to a trend reversal. If several
+different methods described in previous chapters all point to the
+same or nearly the same date (within 3 or 4 days of one another) for
+a trend reversal, and if the market has reached a level calculated
+
+to be important support or resistance, then it makes sense to use a
+very sensitive entry rule which will get you in very near the top or
+bottom. On the other hand, if only one method predicts a trend
+reversal date, and if the market is not near any calculated support
+or resistance, then you would want to follow a very cautious entry
+rule which sacrifies the initial part of the move just to be sure the
+trend really has reversed.
+
+Clearly some judgement is involved in choosing the entry rule to
+use in any given situation. This is unavoidable, but you will acquire
+the right feel for the strength of the trend reversal evidence
+fairly quickly if you do the calculations for several markets over
+a period of time.
+
+Here are the most important entry rules I use when trading stocks
+and commodities.
+
+1. The most sensitive entry procedure is to buy slightly
+above the previous day's high and sell slightly below
+the previous day's low. This will get you in very near
+the top or bottom, but the danger of a whipsaw and
+consequent loss is great unless the trend reversal
+evidence is very strong.
+
+2. A less sensitive. entry procedure is to buy near the
+close of the second consecutive day on which the
+market moved above the previous day's high. Sell
+near the close on the second consecutive day on which
+the market moved below the previous day's low.
+
+3. Still less sensitive than 1 or 2 is the use of a moving
+average of length anywhere from 5 to 10 days (10 days
+is best for stocks, but shorter lengths work better
+for most commodities). With this procedure you buy
+on a close above the moving average or sell on a
+close below it.
+
+4. This entry technique is similar to 3 but requires less
+Calculation. Sell on a close which is below the previous
+4 closes and which is also below the steepest, short term
+uptrend line connecting short term bottoms. Buy on a
+close above the previous 4 closes and which is also
+above the steepest, short term downtrend line connecting
+short term tops.
+
+5. In general, this is the least sensitive entry procedure
+of all. Buy on a breakout above the high of the last
+~34-
+
+two day rally. Sell on a breakout below the low of
+the last two day decline. This procedure won't get
+you in near the top or bottom but it will avoid the
+false and unprofitable entries the other methods can
+cause when the number’ cycle evidence is weak.
+
+5.4 The Secret of Proper Stop-Loss Placement
+
+The principle I'm about to explain can turn you from a loser
+into a winner in the commodity markets. If you follow it you will be
+able to trade with close stop-loss orders which will greatly reduce
+your losses on losing trades without making you take losses anymore
+frequently.
+
+Always try to buy or sell when the market is moving in the
+direction you want it to go. Choose your entry level in such a way
+that you will show an immediate profit if you are going to be right.
+
+If you follow this rule when taking a position and the market
+begins to move against you almost immediately (i.e. during the same
+or the next trading sesSion), you know you are wrong, so get out
+immediately. In such circumstances, stop-loss orders can be kept
+very close ($300-$500 per contract) below or above entry, and many
+
+losing trades will be terminated even before the top is caught, thus
+further reducing the loss.
+
+Let me illustrate the application of this principle in my own
+trading. I have found that when the trend reversal evidence is strong
+I can buy slightly above the previous day's high or sell slightly
+below the previous day's low. From experience I know that if I am
+correct in taking my position I should show a profit by the ‘close of
+trading on the entry day. If T don’t T get out of my position by the
+close. The ratio of gains to losses on trades initiated in this way
+has been extremely high (better than 5 to 1).
+
+One more word about stop loss orders is appropriate here. There
+will be times when you are reading the market correctly but nonethe-
+less get stopped out in your initial entry attempt. After getting
+stopped out once I am always ready to re-enter (the next day if necessary)
+provided conditions remain favorable. After two successive losses
+I am sometimes willing to try a third time with a smaller position.
+But after three failed entry attempts (and often after only two) I
+always look for opportunities elsewhere. This procedure will keep
+you from "fighting the trend" during those times when trend reversal
+predictions do not work out.
+
+5.5 Closing Qut the Trade
+
+As a general rule you should not wait for a number cycle indication
+before closing out a profitable trade. Such indications will often
+occur, but don't insist on waiting for them. The reason for this is
+simple. Number cycles do not predict every significant high or low.
+Figure 1
+The Octagon Chart
+
+1 2 3 4 5 6 7 8 9
+
+O°} 2 ll 28 53 86 | 127 |] 176 | 233 7 298
+45° 3 13 31 57 91 | 133 | 183 | 241 | 307
+go°} 4 15 34 61 96 | 139 | 190 | 249] 316
+135°} 5 17 37 65] 102 | 145 | 197 | 257 | 325
+180°] 6 19 40 |] 69 | 106 |] 151 | 204 | 265 | 334
+225°) 7 21 43 73) 411 ).157 | 211 273 | 343
+270°) °8 23 46 77) 116 | 163 | 218 | 281 | 352
+315° 9 25 49 81 | 121 | 169 | 225 | 289] 361
+10 11 12 13 14 15 16 17 18
+
+0°/371 452 | 541 | 638 | 743 | 856 977 |1106 | 1243
+
+45°) 381 463 J 553 | 651 757 | 871 993 11123 | 1261
+
+90°) 391 474 | 565 | 664 | 771 886 | 1009/1140 | 1279
+
+135°4401 485 | 577 | 677 | 785 | 901 | 1025)1157 | 1297
+
+180°} 411 496 | 589 } 690 | 799 } 916 | 1041)1174 } 1315
+
+225°1421 507 | 601 703 | 813 | 931 1057)1191 | 1333
+
+270°)431 518 { 613 } 716 | 827 | 946 | 1073]1208 | 1351
+
+315° |441 529 | 625 | 729 |} 841 | 961 | 1089]1225 } 1369
+
+-35-
+
+In fact, they can best be thought of as predicting low risk entry
+times. Therefore the right time for closing out a profitable trading
+position can come and go without any number cycle indication.
+
+There are two basic procedures one can use for taking profits.
+One method involves trailing a stop order beneath a profitable long
+position and raising it as the market advances. The order can be
+placed below the current level of an appropriate moving average, below
+the last minor low, below a short term rising trendline, below the
+lowest price of the. last 2 or 3 days, etc. When a trend reversal
+is imminent it is often best to raise the stop loss order to the point
+at which you are prepared to reverse your position and go short.
+Reverse this procedure for a short position in a falling market.
+
+The second exit procedure involves taking profits at prespecified
+price targets. These targets are usually slightly above or below the
+levels of previous tops or bottoms or are given by support-resistance
+calculations which were described in Chapter 4,
+v
+
+ByndI4
+
+Ie eae Peal hae a St |. ‘030 | nom | 300 | wae ov | | "aaa oma
+eel @ ZH j . an 2 zu oe ze Can
+eG 1
+
+fet
+f i
+t
+Li
+™
+MNTOA ALISOdNO3
+« : —
+eet EE
+I t
+Ls) ff
+ri y rte
+ry Pre
+Cer: am
+* “et ! 5 i fet
+et, u a ta
+ou; SEE t 7
+; i IT } ral
+
+aa i nia 1a a
+
+i * Cy
+
+{ iz
+tl ui a
+
+t [
+al t t 09 = $96} ‘LE ‘OIC
+x i i (3SAN] XIOME FONVHOXT WOOLS NUCL MAN
+
+ars sae a
+ait 08
+ir
+imi"
+Lil .
+3 tty se
+r uY ‘2
+4 it
+a rat n 900
+yA f
+t
+esi Tot ¥ tase
+var i! in a CF .
+i! ri LJ = '
+f iF “y ri i
+rita mL ASA head
+f ff =
+: :
+Ii i a 138
+LA
+1
+i tf 4
+fi 1
+_
+; =| 8
+4 t ae
+te ts a a ae] ny) se ee ea buys RLS we
+auLy ava. {| SEPT. oct. mov. | DEC. | aan. | FEB. ‘MAR. 1 APR. MAY | JUNE | LY
+FiGureE 3
+card im SOYBEANS MAR. 1982 - CHI | ZT
+EACH HORZONTAL UNE ~ 10 CENTS
+
+ait aa fe
+700
+Hi 1
+fy ;
+|
+- 44H a iq —]
++ — 50
+r gl tte q
+T.: tL. fn
++ bo
+i
+rail} oe } — 200
+an Do { a
++ } H i y
+pee ede 18a 1
+ee ee see ee ee ee Ce ee 2 ae 2!
+APA. way JUNE auy | ave. | seer ocr. nov. | pec. gan |__res, | man.
+
+Fimucee U
+MAR. 1981 - BLY,
+kw
+
+FF = i SUGAR NO.11 t i
+26-81 : hia
+~
+5
+i
+Mi ET \ ied
+ory tY
+i id 1
+atte f
+T a it fail a 5
+;
+r i
+{RCH i
+tot
+um f fii
+rath 4
+a,
+i
+ht
+i 1 B 1s
+[at ‘|! rea. 1 7 war, al APR. *| way “ue | wuur |' ava. | aire t Sex oct. Nov. ‘pec. we rep.
+
+Figure S$
+
+Ere BELLIES JULY 1981 - CH i
+EACH HORIZONTAL UNE = 100 Powers
+ul " hs
+i
+i t be
+= Ma (ail
+gee
+Ay, r
+eececeees’ te
+yaeeeeet biigsere ce
+{ a i
+foe’ |S at Pree) in] ton aw" | Cane |
+
+Figure 7
+
+9 Bund
+aunt | ave ws¥ | ee | ‘p30 | ‘RON | 290 | aazs | “Onw | Aint | anne | awe | “Wav
+dia ele gle A rg tp eke pl ene ze le oe
+T q
+[SWATOA JSAM
+n
+\
+wat
+rl Pi 7 if
+if ai an a (.-) BLS
+ial uf
+ig AS =ane
+3
+FA Fi ‘| |
+aT i
+4
+Tat "
+bick ri
+tal Fal
+Pad
+*
+rt j Ft :
+i a ; +4
+{ ci
++ :
+l aa
++t ct ‘09 = S981 “LG “ad T tay rr
+HASAN) XAGM1 JONVHOX NOLS WHOA MIN. + : 3
+
+_ — we
+i ina PORK BELLIES FEB. 1982 - CHI ] imme
+ul i mm 7 | -EACH HORZONTALUNE = 160 FOWTS 1 rat
+tt + fi t mu
+win geeiae
+1
+i f ‘4 fl il IN
+Th ti +H ¥4 0
+{ it iL |
+Ui ] i [
+t ia To
+Toa nim t ‘es
+Lit
+4 t su
+tl if aul |
+lig Oe be
+
+v7
+
+s hea : i
+Ce ee rs an rh P a7 ; “2 4 3 Ops ww ae
+| oman. APR. may “NE, JULY auc. | sert. ocr | “now | DEC. I JAN,
+
+Figure &
+
+SOYBEANS HOY. 1990 -CAl.;
+
+EOE ai Ran astra tt
+
+t + + T
+
+T + ;
+Trurbrrprrr ° 4 vil oannn
+cot H ; vit try -
+ma tt :
+T n fl +
+Ti 758
+i Ly i, Pil :
+P ms can
+ftp ti Pog 17 i
+i i if iy
+i i Tt a a H
+T nc +
+on ee =
+Hy
+
+i 4 Sane
+Pie a) iyi |) ala 3? eg | uo |
+] ‘une | guuy AUG. | SEPT. ‘ocr. Nov.
+
+ay 9 28
+aor | ay |
+
+. FiGuae q
+
+APPENDIX
+
+Highs ana sows for the Dow Industrials
+
+Date Price Price Angle
+9-24-1900 52.96 o-°
+7-17-1901 78.26 2924°
+
+11- 9-1903 42.15 225 °
+1-19-1906 103.00 1574°
+11-15-1907 53.00 0°
+11-19-1909 100.53 135 °
+7-30-1914 71.42 2024°
+11-21-1916 110.15 225 *
+12-19-1917 65.95 135 °
+11- 3-1919 119.62 292h°
+8-24-1921 63.90 1123°
+9- 3-1929 381.17 45 °°
+
+7- 8-1932 41.22 2023°
+3-10-1937 194.40 1123°
+4-28-1942 92.92 674°
+5-29-1946 212.50 225 °
+6-13-1949 161.60 270 °
+1- 5-1953 293.79 3373°
+9-14-1953 255.49 135 °
+4- 6-1956 521.05 292}4°
+
+10-22-1957 419.79 225 °
+1- 5-1960 685.47 1574k°
+10-25-1960 566.05 90 °
+12-13-1961 734.91 3374°
+6-26-1962 535.76 3373°
+2- 9-1966 995.15 45°
+10- 7-1966 744.32 0°
+12- 3-1968 985.21 22he
+
+5-26-1970 631.16 3374°
+
+1-11-1973 1051.70 2023°
+12- 6-1974 577.60 135 °
+
+9-21-1976 1014.79 1123°
+2-28-1978 742.12 0°
+3-27-1980 759.98 45°
+
+# 27-1981 1024.04 135 °
+Highs and Lows for May Soybeans
+
+Date Price Price Angle
+10-17-38 68 180 °
+1-15-48 436 2923°
+2- 9-49 201 1573°
+4-27-54 422 225 °
+8-11-55 “222 z924°
+S- 3-56 340 2024°
+5-11-60 211 225 °
+4-26-61 337 z024°
+8- 8-63 239 45°
+8-17-66 343 225 °
+6- 5-69 244 673°
+5-21-73 1020 1123°
+8-14-73 906 1573°
+11+ 5-73 521 2924°
+2-26-74 690 180 °
+5- 8-74 521 2923°
+10- 4-74 971 3374°
+12-15-75 458 224°
+4-22-77 1077 270 °
+8-16-77 520 270 °
+6-22-79 859 0°
+4- 2-80 570 1123°
+11-20-80. 1006 90 °
+Highs and Lows for May Wheat
+Date Price Price Angle
+12-28-32 43 225 °
+1-16-48 306 45°
+7- 5-49 191 90 °
+12-10-51 265 180 °
+8-18-55 190 90 °
+10-31-56 245 674°
+5- 4-65 143 1123°
+9-14-66 207 2023°
+Date Price Price Angle
+
+3-28-69 125 337°
+2-26-74 636 0°
+8-22-77 239 45°
+6-22-79 514 2474°
+4-21-80 376 224°
+10-22-80 571 1124°
+
+Highs and Lows for February Pork Bellies
+
+Date Price | Price Angle
+12-16-65 56.00 673°
+6-20-66 29.50 337%°
+S- 9-67 40.00 135 °
+8-12-68 29.52 337}3°
+2- 2-70 48.87 157}°
+1-11-71 — 22.57 315 °
+8-22-73 83.80 315 °
+6-12-74 36.30 315 °
+10- 3-75 104.10 180 °
+8- 3-77 43.50 z924°
+10- 6-78 73.70 . 337}°
+8- 2-79 37.20 0°
+6- 6-80 40.60 1573°
+12- 1-80 74.50 0°
+
+Highs and Lows for March Sugar
+
+Date Price Price Angle
+1-29-62 1.95 180 °
+5-23-63 12.33 3373°
+8-20-63 4.91 315 °
+10-24-63 12.04 315 °
+1- 3-67 1.23 224°
+6- 5-67 3.75 135 °
+9-16-68 1:78 157°
+4-22-69 4.19 2023°
+
+8-26-69 2.76 0°
+Date Price Price Angle
+
+2- 7-72 9.14 45°
+7-28-72 5.41 224°
+11-21-74 66.00 673°
+1- 6-77 7.43 2473°
+4-22-77 11.06 225°
+9-23-77 7.96 292%°
+12-30-77 11.03 225 °
+7-25-78 6.55 135 °
+
+11- 5-80 45.50 224°

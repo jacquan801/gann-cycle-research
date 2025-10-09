@@ -1,0 +1,6989 @@
+By Myles Walker
+No part of this publication may be reproduced, stored in a retrieval system or transmitted in any
+form or by any means, electronic, mechanical, photocopying, recording, scanning or otherwise,
+except as permitted under Sections 107 or 108 of the 1976 United Stated Copyright Act, without
+either the prior written permission of the Publisher. Requests to the Publisher for permission
+should be addressed to the Permissions Department, Halliker’s, Inc. 2508 W. Grayrock St,
+Springfield, MO 65810. (417) 882-9697, Fax (417) 886-5180. E-Mail:
+publisher@tradersworld.com
+
+CAVEAT: It should be noted that all stock and commodity trades, patterns, charts, systems,
+etc., discussed in this book are for illustrative purposes only and are not to be considered as
+specific advisory recommendations. Further note that no method of trading or investing is
+foolproof or without difficulty, and past performance is no guarantee of future performance. All
+ideas and material presented are entirely those of the author and do not reflect those of the
+publisher or bookseller.
+
+Library of Congress Cataloging-in-Publication Data:
+ISBN
+
+Printed in the United States of America
+
+Copyright © 2001 Myles Wilson Walker
+
+All Rights Reserved. No part of this work may be reproduced in any form without written
+permission from the Author.
+
+The technical charts in this book printed with permission of the GannSoft Publishing Company.
+The program used was the GannTrader 3.0, which is available from Traders World. Order online
+at www.tradersworld.com or via phone at 800-288-4266.
+
+Book Published by
+
+Halliker’s, Inc.
+
+2508 W. Grayrock St.
+
+Springfield, MO 65810
+
+Ph: 417-882-9697
+
+Fax: 417-886-5180
+
+E-mail: publisher@tradersworld.com
+Web Address: www.tradersworld.com
+Contents
+
+Contents Introduction to Astrological and Technical Trading of Stocks and Commodities
+
+bececeasessesusscsssessesecscsaceesseaecsseeesnescesseesaeescesseeseesnsseneeeececaesseessasesnesseesasesecsseseeesessceersuatenetees 3
+Introduction to Astrological and Technical Trading of Stocks and Commodities ............. 4
+Major ASpects ........sceseescseesssscessessessenseessnsensenssenscnscceacnsessensesseensensesscnecsecsscsesaeessesenecsseeenes 9
+Minor ASpeCts. .......cccseccsccsccserssessessesssenecsceeesecessessesseceeecsecousseecseceaceeceasoussssessecusesessenseatenss 10
+Fixed Cycles......ccceccseescscessssssesscnssseseceessseseecesccsssesaesesesssseesensssssesescsseneceeessesnesseseessneees 12
+How to find a fixed cycle for any market ....... ee ee eeeeseeeseceecesseeseesesseesaeeseesaseeeonsens 16
+Planets by Degrees .........:ccscecesscesseeseceseeesessecsasesssessecsasesssesueseeseeseuseeessusseseeeesesseusseeeeeeasees 45
+Retrograde - Direct Planets as a Cycle Timet.........cccccccsseesssseecsersseseseeesesesseeeseseseeeseesees 51
+Retrograde - Direct Planets as a Cycle Timer...........ccccececcescccseeseseneeceseseeseeseceseeseessesaeases 52
+Reprint from The Ticker and Investment Digest ...........0cccccseseseeecesessseesecseeeesasensesaes 60
+Repeating aspects, Gann Planets and Soybeans ............ccseseseceeeseessessreneeeseseensenseseeseesnes 67
+Dow Crash Date ........cccssccssceceescecesceecesecesscersecueeesseesessseesensaaeesseeeceseeeessesessessasesensenenaneesges 71
+Repeating ASPpects....... ci esecccessscsscsseesssessssecssessscseeseseseesesreseeesesaessesseeeessessessessesessseeeeeees 75
+The Bradley Siderograph .0.........eeccsesssssssescesecsscssesseessesscesesecensseseseesacesessssessecsesesesenesenens 79
+Transits to Natal Charts ........:ceccescesssceesesceseeeeeessseseesessasesacesseecsaeessescseessaeesessaessaveeeeesees 83
+Jupiter Ingress and Soybeans ...........:ceccecsesseseseeseseensesscsscesceseessensensessenecsessecsesseeessesseees 94
+Day Trading the S+P with Astrological Aspects ............c:cccsecsscessesesscenscssseeeesenseeeeeenens 109
+Summary of the Fixed Cycles used in Part One ...........cccccccccesesceeereesecsessessenneseeseesseaees 116
+Chart Patterns ..........cccccscccsscssscssseceeceseecsseesseesscessacecssseeeeeessaseauacesassacesseseseeeaesneueceetenerenaae 117
+Failed Signals ........c.ccccsssseeseseccseceeesceeeeeseesesecesecsccseceeeeseeseeseeegeaeesecaeeasesesaesessaseasassataeeas 129
+OrgamiZatiONn.........cececeseesecseeseeseeseesessecsecsesseeseesseseesesseesssensensensseatessseseneesnesessensenteseeeeenes 134
+Daily Routine... eeceeeeseeseesssscsecnsensesscecessceseeseseesseccsecsececsecenecsesssssecaseessecseeseeseseseneses 135
+Data Collection .........cccccsessceesccceesceseeeeeceseteseeessaeessesesaecessecesaeessesesasesenenaeeseeeseneseaceaeeaeeres 135
+What is Realistic .........eccceeccsscecscersseeesaeeeseseascessscesscesseeseseeessesesasecsesessssesesseesssessessneessonaes 137
+A Glossary of Astrological Terms ...........:ccceccessessssessesesssseseersneecsesesseseeessessessesssesenesenas 142
+First Trade Dates..........ccccscsssecesssscecsececeseessecesseceseecsseeceseecsnerssesateeseneneeenerscessnesneeseeeees 148
+NYSE vocececcccesccssccscessceceeseesseescecsecsneeseecsecsessanesnecsneescesauessnceeessseseaeeaeeeseseeseeessaeseessaseaeeaees 148
+Futures and Options Glossary ...........cecccccsecsssesseeessseseeeeeseeeeeeeeseeceeeesesessesseeseseesesesesseeaegs 150
+Books by Myles Wilson Walker ............ccccccesescsesseseesesseesseceseeesesscsesecseesseenesesseessesseeeses 158
+Links on the Web ..........ccceccessecceseceecceceecsscessecesseceseseseneceseesseseessessateeeeeeneeeaetseeaeserserseeeess 161
+Introduction to Astrological and Technical
+Trading of Stocks and Commodities
+
+I am going to assume for the purposes of this book that everyone is a beginner to
+both the markets and astrology. Also that they have a small sized starting account
+currently but would like to get most of their income from this account in the future.
+
+In this book I hope to prove to you that astrological cycles are a valid form of
+market analysis that can give you the edge you need to be constantly profitable.
+As well as the astrological cycles I will show you some simple price charting
+techniques that I have found to be very useful.
+
+These cycles are the most basic and serve as an introduction. You can add more
+complex analytical routines, as you become more skillful.
+
+When studying this book don’t try and learn everything on the first reading, scan
+through and see what is appealing to you. This is a book of ideas, you must check for
+yourself to see if the cycle you’re interested in continues to be valid.
+
+At the end of the book is a glossary of astrological terms for your reference.
+
+If you are going to discover the truth you will have to throw away preconceived
+notions about measuring time and start from the beginning. If you know something
+about traditional astrology already my advice would be to start again in Financial
+Astrology as it is different from what you are use to working with.
+
+You will find that there are many, very reliable cycles based on the fixed positions of
+the planets and also when they are at certain distances from other planets (aspects)
+
+I suggest that you get to know one or two particular cycles for any Stock or
+Commodity in detail, prove to yourself its validity and then trade it as a separate
+system. Entry rules should be simple such as a break from a trading range or of a
+trend line.
+
+Ninety Percent of my trading is now based on these Astrological cycles and that is
+because the longer I have spent working with them the more confidence I have in
+their effectiveness.
+
+The solar system can be viewed in two ways. The original form was as seen from
+earth (geocentric) and then once it was discovered that the earth went around the
+Sun (heliocentric) both methods are used, and surprisingly, geocentric is equally
+effective.
+
+When viewed from earth at certain times of the year planets appear to go
+backwards, this results in the apparent slowing down and speeding up of the planets
+compared to the more regular path of the Sun centered heliocentric view.
+The following chart is of heliocentric Mercury. Note that the speed angle is steep.
+
+Wha
+
+24a
+
+480
+
+420
+
+360
+
+300
+
+240
+
+180
+
+120
+
+60
+
+09/49 lm 41/26 a7 507 Tee 03702 03/08 vari 05/74572002
+
+MATE = (06/16/2002, Daye Sunday, CURSOR FRICE = 18.492 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+le f PLAMET BER CEBU TL MUS Fe fi
+
+The fast almost vertical line on this chart is the Mercury heliocentric view.
+
+AR THSUM FA MARS FY dUPITER FR SATURH FE UR AHES FP HEPTHHE FR PLUTO FS HOON Fil WOGEFLI
+
+‘540
+
+480
+
+420
+
+1360
+
+‘(300
+
+1240
+
+1180
+
+120
+
+: : : : : : ww: :
+09/49 10/25 41/26 12/30/3004 02/02 03/08 oe/tt 05/15/2002
+
+DATE = ad 16/2002, Day © Sunday, CURSOR PRICE = 79.492 OPEN=0.0 HIGH=0.0 LOL=0.0 CLO
+
+SE=0
+AR TH SUN FD MARS FH JUPITER FG SATHRH TG UR AWS FF HEPTUHE e PLUTO Fa HEON Fil NBDE FLd
+S4ML94 L5H? ABH BD 200.48 2O4R 1088 BSS 7898 “LBB J2R7B “A753 31089 B.078 O56.HS 10417 189.08 S445 PP Sd
+
+This chart is of exactly the same time period but is the Mercury geocentric (from
+
+earth) view.
+Notice how this is much slower, the dips in the line are when Mercury is appearing
+to go backwards across the sky (retrograde) and then the line turns up as Mercury
+then goes forward (direct)
+
+woo 7a aan
+==]
+
+oe
+rt
+
+ymb¢ s (glyphs) are placed on an Astro wheel that is drawn
+as a 360 degree circle.
+
+The circle is then divided into 12 equal areas of 30 degrees.
+
+These are the 12 star signs.
+0-30 degrees Aries
+30-60degrees Taurus
+
+60-90 degrees Gemini
+90-120 degrees Cancer
+120-150 degrees Leo
+150-180 degrees Virgo
+180-210 degrees Libra
+210-240 degrees Scorpio
+240-270 degrees Sagittarius
+270-300 degrees Capricorn
+300-330 degrees Aquarius
+330-360 degrees Pisces
+(ees
+
+Astrolog 5.41D
+Bonus Mode
+Mon July 38, 2001
+1:08pm (ST -3:@8 GMT>
+122*26W 47*36N
+Null houses.
+Tropical, Geocentric.
+Julian Day = 2452121. 3886
+
+house:
+house:
+house:
+house:
+house:
+house:
+Th house: .
+iti Pe house: 210.608
+e Suns position ont house: 248,088
+360 degree circle house: 276.600
+house: 300.000
+house: 33¢.000
+
++ 127.753 ~- @°an’
+
+: 1, Earth: @,
+: @, Water: @
+Cor: @, Fix: 1, Mut:
+Vine o
+71, A: @, D:
+1, Cad:
+Learn: 1, Share: @
+
+@ KRS4Eb SOON
+
+Astrolog 5.41D
+Bonus Mode
+Mon July 36, 2601
+1:68pm ¢ST -8:68 GMT>
+122°26H 47*36N
+Nulf houses.
+Tropical, Geocentric.
+Julian Day = 2452121.3966
+
+ist house: 8,000
+2nd house: 38,008
+3rd house: 68.809
+4th house: 99.000
+Sth house: 129.000
+Sth house: 159,009
+7th house: 199.008
+8th house: 219.009
+Sth house: 240.068
+10th house: 270.660
+1ith house: 380.008
+12th house: 330.606
+
+Sun 127.753 - @°aQ’
+Jupi: 93.862 —- 9°15’
+
+Fire: 1, Earth: 6,
+
+Air : @, Water: 1
+
+Car: 1, Fix: 1, Mut: 6
+Yong: 1, Yint 2
+
+M: @, N: 2, A: B, De 2
+Ang: 1, Suc: 1, Cad? @
+Learn: 2, Share: @
+
+RO ARSNEbEOOHAS
+
+Jupiters
+
+< «x ¢- << ae
+
+N
+
+Sun
+Moon
+Mercury
+Venus
+Mars
+Jupiter
+Saturn
+Uranus
+Neptune
+
+Pluto
+
+88 Days
+
+224 Days
+
+1 Year, 322 Days
+
+11 Years, 322 Days
+29 Years, 167 Days
+84 Years
+
+164 Years, 167 Days
+
+248 Years, 242 Days
+Major Aspects
+
+An aspect is the angle of separation between planets
+
+Conjunction (0 degrees)
+Neither harmonious or inharmonious, this aspect merges and intensifies the
+energies of two planets.
+
+Sextile (60 degrees)
+Harmonious aspect.
+
+Square (90 degrees)
+Inharmonious aspect causing tensions and obstacles.
+
+Trine (120 degrees)
+Harmonious aspect
+
+Opposition (180 degrees)
+Inharmonious aspect that creates dynamic tensions.
+Minor Aspects.
+
+Semi-Sextile (30 degrees)
+A minor harmonious aspect.
+
+Semi-Square (45 degrees)
+A minor inharmonious aspect.
+
+Sesquiquadrate (135 degrees)
+A little more minor than Semi-Square.
+
+Quincunx (150 degrees)
+Minor inharmonious
+
+The most important aspects for financial astrology are
+Conjunction
+
+Square
+
+Trine
+
+Opposition
+
+Sextile
+
+10
+Astrolog 5.38
+Wed February 9, 1966
+12:61pm CDT -5:80 GMT?
+73°57K 4@*45N
+
+Null houses.
+
+Tropical, Geocentric.
+Julian Day = 2439166. 1674
+
+ist house: 4,600
+2nd house: 3.088
+3rd house: 68.000
+4th house: 94,600
+Sth: house: 124. a8
+6th. house: 159.860
+7th house: 180.088
+8th house: 214.968
+Sth house: “240,880
+16th house: 276,089
+lith house? 388.968
+12th house: 330.680
+
+Node: 60.548R + @°ag"
+
+Fira’ @, Earth:-3,
+
+Hie : 5S, Water: 3
+
+Car: 2, Fix? (3, Mute 6
+a)
+
+Pe
+
+Learn: 4, Share: 7
+
+n 2nd house: 36,602
+
+Astrolog 5.38
+
+Wed February 9, 1966
+12:81pm (DT: -5) 88 GMT>
+73°57 4° HSN
+
+Null. houses.
+
+Tropical, Geocentric.
+Julian Bay = 2439166. 1674
+
+ist: house: 8.008
+
+x
+
+ard house! “60.8ag
+4th house: 90.880
+house: 126,609
+house? 158.660
+
+: 186.
+
+60.546R-+ Baa"
+Fire: @, Earth: .3;
+
+Ang: 23.Sue: 3, Cad: 6
+Learn: 4, Share: 7
+
+xs
+
+HERES OAHU PRS Sh ROOM
+
+PHBE AR OCIS” KRZLEb BO Ht
+
+11
+
+Fixed Cycles
+A fixed cycle is the easiest cycle to work with. Every Stock or Commodity is sensitive
+to at least one planet crossing a particular degree of the Zodiac.
+
+I will show you how to find these fixed cycles soon but first I would like to
+demonstrate a few examples for you on different markets so you can see how they
+may work.
+
+The chart below is a weekly U.S. Bond chart it is marked with the degree where
+heliocentric Venus was at the time of the weekly close. These particular weeks were
+chosen because during those weeks Venus was hitting one of the sensitive degrees in
+the natal chart (birth) for U.S. Bond futures.
+
+The exact cycle is heliocentric Venus at 56, 176 and 296 degrees.
+
+4275
+22.75
+
+473
+27 59 122.75
+
+i! B52
+4175.28 1744 57.96 -HIP75
+296 :
+95.22 12
+MAPS
+295
+107.75
+176.4 0.64 = 60.76
+299.43 Venus Natal Cycle 40275
+U.S. Bonds .
+! : : ; : : : : : : 97.75
+050127 950728 96016 960720 970124 S70725 980123 980724 990122 990723
+Date = 950106, Day = Fri, Price = 97.75 OP=99.2811 HI=99.6561 LO-98.5 01=99.4061
+
+12
+Bonds- Fixed Cycle J90.975
+Mercury conjunct or in ao
+
+in +
+
+4 we i | ; fl _ rretes
+
+I
+
+~~
+
+715
+169.625
+167.75
+65.875
+ee ce penn TT ean neta nnene and
+: eee eT : : : : : : l64
+43/46/34 01/49 02/33 03/26 05/01 06/04 o7/08 08/41/85
+DATE = 09/14/85 Day = Saturday, CURSOR PRICE = 64.0946 0PEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+fs 0 FLAMES Reraea ro MEHUS FE EARTH-SUN Fa ARS F4 MUPTTER TS SATURN FR URANISF? © HEPTHUHEFE PLUTO FS HDOH Fit. NODE Fis
+
+EOE ABE UNDE BBS UF2G1 00 1G RL 2.489 JOP G8 OBS 239.5 2.95 254.48 9.083 BPRS A448 2i9.02 16.298 16rd 4.088 4155
+NGO UG) ABB GI° -HBMLIBB. “BBS 154.89 03 GB O.0 7019 L0RL S281. “0.846 3609 289 GAG? TSSN8 THD Ade Baar
+
+Bonds can also change trend when Geocentric Mercury is conjunct, square or
+opposite Jupiter.
+
+13
+Corn: September 01 CBOT Plotted To: 07/23/01
+
+the
+
+the i t-
+Le : 1 | ii
+
+ial “| at,
+
+od 18 Of 15 30 td. 29° 16 FO 13. 28 44 28
+Oct Nov Dec Jan Feb Mar.
+
+Corn -Fixed cycles from Super Timing 2001 Annual Forecast
+
+Soybeans: November O1 CBOT Plotted To: oFve9/01 |
+: I 7546
+ley | 533
+| Pty a I 520
+weet |
+
+Wy | it Ht . I OF
+
+TH it + "| me
+I 494
+
+Lit, H {I
+
+“htt : i! 401
+
+Hy aa : | 466
+HL
+
+qi “455
+th, thi nr i a | ~
+
+batt | 429
+i al,
+: ~ ee : ‘ . : : “416
+64 48 of 45 30 d4 79 16 30 43. 28 14 28 dif 26 10 2408 22 09
+Oct Nov Dec Jan Feb Mar Ap May Jun Jul
+
+——s
+
+Soybeans Fixed cycles from Super Timing 2001 Annual Forecast
+
+14
+15
+How to find a fixed cycle for any market
+
+It is much easier to process many markets quickly by using a fixed cycle.
+
+The fixed cycle can be generated by using the natal chart. This chart may be from
+the first trade date of the contract, from a significant high or low or even from the
+time of an important event that was relevant to that market such as when a
+currency was taken off a peg and was allowed to free float.
+
+To get a fixed cycle look for three things.
+
+1 Venus degree
+
+2 Mars degree
+
+3 Planets that are conjunct, trine or square (within 3 degrees of orb or less)
+
+First of all look at the position of Venus.
+
+Note Venus’ degree and find the trine points by adding 120 degrees.
+i.e. Venus is at 1 degree plus 120 = 121 this is a fixed cycle point.
+
+Then 121 + 120 = 241 this is another fixed cycle point
+By adding another 120 results in 361 degrees which is back to the start at 1 degree.
+Next get the 90 degree points from Venus’ start position, in this case they would be
+
+91, 181 and 271 degrees.
+
+In summary find the points 90, 120, 180, 240 and 270 degrees from the natal planets
+position which is found at the date of birth or significant high or low.
+
+What should happen is that the next time Venus is in one of these positions the
+market should change trend. Some times the change is major but more often minor
+swings will develop at these points.
+
+Next repeat the same process but using Mars instead of Venus.
+
+The planets that are conjunct, trine or square (within 3 degrees of orb or less) may
+also create a fixed cycle when they are in aspect to each other again.
+
+Look for in steps of 30 degrees between big planets such as Jupiter and Saturn or 90
+and 120 degree separations between faster planets.
+
+All these cycles should be checked against the commodity or stock that you are
+trading you may find that both Venus and Mars cycles will work well on one market
+
+for example but only Venus on an another or in some markets not at all.
+
+When new major highs or lows are made in any market start fixed cycles from these
+points.
+
+16
+Fixed Cycles Found to be Useful
+
+The following lists a few of the fixed cycles that I have found to be
+useful.
+
+Swiss franc Mars 92, 182, 212, 272, 332, 2 degrees geocentric
+
+Swiss franc Mercury conjunct Mars geocentric
+
+Swiss franc Mars 30 degree steps from Jupiter geocentric
+
+British pound Mars 30 degree steps from Uranus geocentric
+
+Soybeans Mars geo 1936 natal 276 degrees (no other points)
+
+Soybeans Mars geo 60, 124, 188, 252, 316 degrees (special cycle)
+
+Soybeans Venus trine Saturn geocentric
+
+Corn Mars geo (high July 12 1996) 80.86 degrees 171, 201, 261, 321, 351 degrees
+S+P Mercury conjunct Sun geo
+
+S+P Mercury 230, 110, 350 degrees geo
+
+S+P Sun 45 degree steps from Saturn geo
+
+S+P node in 90 degree steps from Mars geo
+
+S+P Mercury 120 degrees Neptune geo
+
+S+P Heliocentric Mercury 88, 178, 268, 358 degrees
+
+S+P Sun trine Saturn geo
+
+S+P Sun trine and square Jupiter geo
+
+U.S. Bonds Venus Heliocentric 56, 176, 296 degrees
+
+IBM (natal) Mars 30 degree steps from Jupiter geo
+
+IBM Mars 30 degree steps to Uranus but only up to 60 degrees of Mars conjunct
+Uranus geo
+
+Fixed cycles are also repeating aspects that have a correlation with trend changes
+
+either major or minor in specific markets. The charts that follow are of this type of
+fixed cycle.
+
+17
+|
+
+| g
+Lisi
+i
+
+I
+
+Planetary Aspects
+
+| Vanus'S emisestile Mars
+
+% K 10
+
+-3:200.0
+
++ 32150,0
+ot:
+
+3100.0
+3,050.0
+
+3,000.0
+
+[ir Tra [oo los [to 11a [ee [oe [oe [ie [oa [a0 lo? 114 let 28 loa lt Ite [eo loa ltt [18 125. [03 [it fre [25 Io2 Jos [16 L23 (30 lor Ina 21
+
+IMay \Jun
+
+Wut
+
+The chart above shows Venus and Mars every time they apart in 30 degree steps
+(30, 60, 90 120, 150 etc) and is plotted over a price chart of the Australian Share
+
+Market Index.
+een ros eon
+
+i084
+-;|t6-40
+
+90
+
+Bed
+
+1460
+
+eho
+~heeo
+-h220
+
+: “ln60
+
+100
+
+00/38 14) 15 TELL Ma PLT
+
+06/24
+
+05/07 vaya
+
+04/05/2000
+
+BEURY FL THSHH F2 HARS FY
+PHF 2.025 47.53 -H.G31 B2Sb Bf 73.59 BSBE 52d
+HOB LNG? 4B18 ONG 143-258 00 a
+
+Ke § BREED
+PEL
+BESY,
+
+SUPITER FS SATURN FR |6ORANUST? © HEPTUME FS = PLUTO FS
+“HM? 52.4 -1.808 E002 -0.782 30652 §At9 81.82 11.919 298.5
+28.4? G.869 BL88 LuMN L18.8F D424 BR? ~1.989 127.93 10.34 13N.18
+
+DATE = 03/23/2000 Day © int fuesday, CURSOR PRICE = 1700 OPEN= 1400. 72 HIGH= 1404.04 LOL=1373.6 CLOSE= 1373.36
+
+NBOH PAL DDE Fit
+
+“O.332 147.4?
+wH.38G 43.78
+
+19
+
+06/30 03/47 40704 44/21/2000 01/08 02/23 TVET} TALE
+DATE = O77 10 2001 Day =  duesday CURSOR PRICE = 1004.75 OPEN= 120 1.42 HIGH= 1215.36 LOW=1196. 14 CLOSE=12 14.44
+ER CURE ft EUS Fe bre SUH FZ ABRS FY SUFTTER FS = SATURN FS UR AHDS FF HEPTUNE FE | PLUTO FS WOON Fil NDDE FIA
+bia ts “L475 FP “BSW UUNSe BL BGR HON? 94 -BRA 70.82 -1.885 705.95 “QPH2 27.73 Dida BSbP2 105% FA HG? SHB
+USES? ~3.072 147.04 -1 S08 1HO08 -YauF 0 1.0 (RYO -VOPA UPS? -2.552 G89 -2U98 HOG? -H4dy 254 B989 474.94 -1.01 155.83
+
+20
+gee
+
+Wheat-COT 55/00 Weekly, Geo 360 deg Piansteaai STB 200 Tp: 452 lee ue =i
+Wheat Weekly with syn conjunct Saturn
+
+} i
+
+f
+2
+?
+i
+
+7410
+
+“1380
+
+;
+
+inte
+i
+
+:
+B :
+06/23/89
+
+é
+
+CARTHOMIN £9 MARS FA
+22 (9LHL 1.622 184) rt a ae
+
+350
+
+320
+
+A
+
+i
+09/25/92
+
+290
+“260
+
+“12350
+
+i
+200
+
+i
+04/31
+HBOH P14) HOBE Fit
+
+rr]
+PLUTE FS
+
+i
+; 06707793
+
+40713790
+BR ANUS FF
+
+330
+
+HEPTUHE F&
+“£.8e BO1.98 “0465 290.99 O.GB5 233.86 i484? 90.99 1186 26a.gF
+
+By
+
+f
+
+! .
+
+a ‘ £
+03/04 10/98/78
+
+i
+02/746
+Day = Friday, CURSOR PRICE = 300 OPEN-296. 75 HIGH-300.5 LOW=295. CLOSE-297-
+Lt
+
+DATE= 05721793
+a PAUE CuRY Fi YEHUS FZ
+Baan 100 647 cLGPH SDH
+
+a HER
+
+Weekly Wheat showing Sun conjunct Saturn
+
+21
+rt]
+
+deg Planets only Sc
+
+“2 Bt: 200 Tp: 784 Pl fing:
+
+—
+
+/ ? Wheat Wee
+
+kly with Sun conjunct Saturn’
+
+é
+2
+
+Zz
+
+ae
+f
+
+antl nN ae
+
+wt
+
+784
+
+740
+
+/ lego
+
+“1620
+
+“960
+
+“500
+
+IC SHBG -1.288 J4919 -L.80? 227.95
+
+WO PPB. P39 TLL Abi Bat
+
+fo s20
+é
+é
+e260
+: Z
+fo: : : fo: : : fs 2 of 200
+a4/03 08/3870 04735 42/17/93 08/43/04 aafo7 #2701795 07726796
+BATE = O5/ 1e97 Day = Friday, CURSOR PRICE = 300 OFEN=3 76.75 RIGH=393 LOW=372 CLOSE=387
+g HET Ruy FL WEMUS Fe EAS THESES £2 MARS F4 JUPITER FG | SATURN FE URANUS FP HEPTUHE FS PLUTO FS HBOH Fit Habe Pid
+
+“O49 JOP.OR “0.882 899.99 OM19 GUGM 42 7R BRAS -4.H99 17021
+
+Weekly Wheat showing Sun conjunct Saturn
+
+22
+“BHS4 JOL53 -d.39? 204.08
+L6P5 42.5
+
+Sif B46
+' (3429 8.472 548
+
+“Hfae 7859 1.8P6 6.0 1h S956 1.285 40.05
+
+8 189.74 L558 BNE] DPdd MBBS “Lae? 9r.99 Gt 889.5
+“A.AS2 45.0?
+
+; ae 840
+aa H i Soybeans leekly with Venu af /
+/ 120 degrees.or- conjuriet Jupiter / jo 7f90
+all / j / _—_ eet 730
+~ i, f -l670
+; / /
+/ ; —_—_ ie
+athe | | 1550
+aw
+| _ io 490
+, / " 430
+i i
+; —_—— 370
+feof
+oe OF f
+/ / 310
+i f: lesa
+02/02 09/28/90 FETED 04/47 09/41/92 05/07 13/31/93 03/26/94
+BATE = ON7 T4795 Day = Friday, CURSOR PRICE = 258.496 OPEN=428.29 HIGH=437.9 LOW=4 18,4 CLOSE-920,
+Wy 0 PLAR ROURY FL YEMES Fal EARTH SUH F2 MARS FS JUPITER FS 0 SATURH FB UR BAUS FF HEPTINE FR PLUTO - HOGN FLL MODE F124
+
+(58 259.89 13.825 (SLNs -h.24h 218.28
+
+“hifd 7?
+
+12.883 Sh.2? 1528 3045
+
+Weekly Soybeans with heliocentric Venus conjunct or 120 degrees from Jupiter
+
+23
+
+Another type of Fixed cycle is when a planet changes from one sign into another.
+
+This is called Ingress
+The Ingress points are where the traditional zodiac signs begin.
+
+The chart below shows Venus ingress plotted against the Australian Dollar.
+
+/ 4 Australian Dollar f Dollar 4 Day - Bai Chait, 0 2
+
+‘Australian Dollar US. Dollar «1 Day - Bar Chait,
+
+thy iy
+| \ ‘Wl ie \
+
+g
+ri
+
+canner
+
+|
+hy
+
+78,100
+
+b+ 6.000
+Ls 900
+5,800
+5.700
+- 5-600
+5,500
+5.400
+
+75.300
+
+5,200
+
+BS Ter Te Tet Tes Tos Fy He Des [ee 10s Ti6 los lao los [ra [a0 le? low lit 118 les loz loa 116 [23 [20 Toe 113 120 127 loa [h1 hie [6 toe
+[Mar Ape Iva Wun uh Aug.
+
+[Sep (Bet, INov
+
+24
+1634
+
+ir
+_ 41640
+= (1580
+tH i a r 1520
+i J oe
+n } fl it .
+a Lal oT j Hh bei kr Ni i Ti
+Tala tee he \
+TL [= va cH
+i _ ‘340
+ail
+a “1280
+f—— Venus Ingress and cash $+P “ly220
+al
+ae -/1160
+. . ee. 1100
+11/08 427412/99 04/45 02/48 03/23 04/26 05/30 07/03/2000
+Cash S+P.
+
+The sloping line is Venus and the horizontal is the 30 degree zodiac points, when the
+two intersect it is at the ingress point. I have marked the last three ingress’ on the
+
+right hand of the chart for clarity.
+
+25
+ee
+ae Reals OR
+
+TAL, Geo 460 deg Planets only Sc: 0.0625 Bt: 107 Tp: 425.25 Pl fing: 0.05
+
+= a 125.25
+. ai ae gi t23ar5
+ea I Wty t q he Nee
+
+Tye | r
+— f } tr in rina Wh a tu 120.125
+mat yes i | “18.25
+
+te
+i | | 116.375
+IM M45
+
+=I
+
+‘
+=
+=|
+
+a
+
+i thy 212.625
+y's
+' Bonds Venus and Mars Ingress _
+= =H075
+ae we Ce
+ee
+a 408.
+_ a 108.875
+: : : : : ae : a : 107
+09/23 10/27 44/30/97 041/03 02/06 03/12 04/45 05/19/98
+DATE = “n9704fo? Day = Monday, CURSOR PRICE = 107 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.6
+Se F ELAVET: cube Fi> . MEMES Fa EARTH SUN NARS TH WUPITER.FG | SATURN FE DRANUS FF MEPTHHE FE = PLUTOFS HOWH Fit. -HOBE Fit
+
+EROCHTOIE. ARP QR ~RBUE 192-8 MW OGP4S908 0 BULAP "BAD FUN19 1.896 10.97 “BREE 08. WU G4R 297.55 DMOb 248 2G 42.948 15972 LoS LPTLIE
+
+U.S. Bonds showing Venus and Mars ingress
+
+26
+Ti CAL feo eR deg Planets only Se 0.0008 Bt: 0.625 Tp: 0.8586 Pl fing: 0.0009
+
+“ 0.8586
+LO -10.841
+
+SEC LRTIE, TEPAB GARE FFI DHE 47 TL BEES 2.188 B48
+
+“LOBG JEL
+
+*HBUE Ji5.32 -0.692 303.8. 0.288 O50.93 it.7ad° 514i
+
+Venus Ingress and Swiss Franc Ua
+“ 0.817
+a
+10.793
+_—
+a
+< --10.769
+aa
+a -10:745
+vA -|o.724
+“10.697
+Yo
+
+c tt anh si “10.673
+
+ih La a
+
+Bet Ps tt ih a i i
+
+oT tot, I | Nad ite 10.649
+
+i ;
+
+rT 3 nr i
+: : i : : : hi Ye 0.625
+otf 13 os / 47 06/20 07724 08/27 09/30 4 ag 2/07799
+DATE= 05/24/99 Day = Sunday, CURSOR PRICE = 0.6229 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+ie 1h. PEAHET run Fa NEHUS Fe EAR TH-SUN FI WARS FH MUPITER FS SATURN FB URANUS FP 9 -HEPTUHEFE PLUTO FS HDOH Fil. NODE Fit
+
+“B.LGS 280.18
+
+Venus ingress and the Swiss Franc
+
+27
+
+et ie
+ipa| i4| @ | EE a
+SPH STD, Hel 120 deg Uranus as
+
+A al 1684
+_-+§4+P-~Fixed-Gycle————— of 1640
+a Heliocentric Venus conjunct
+ra and at 120 degree steps to Uranus “80
+1520
+11460
+Ne
+1260
+“1220
+Pa
+. nemmmaninennerd IGT
+ral
+wv
+: : : : ‘ : : : 1100
+10/27 12/45/99 02/03 04/23 05/41 06/29 08/47 10/05/2000
+DATE = 11/22/2000, Tay = Wednesday, CURSOR PRICE = 1142.24 OPEN= 1347.39. HIGH= 1342.33 LOW=1321.29 CLOSE= 1322.36
+dy F PLAUET ACURY FL EHUS F2 EAR TH-SUN F2 WARS FY MUPITER FS SATURN FH GRMNUS FF HEPTUHE FE: PLUTOFS ADOH Pit: -HObE Fis
+PRUCLPLUR GSRR-QURHS -209 G05 G0 {64.98 L675 B9.68 “1749 57.83 SURE GSS. SG “UPU8 305.88 f.1Ra- 26255 10.57 195.04 G45 107.P8
+ray, (HOAR- 5.8 83:5 585. 400.54 -IL705 165.598 9971 105.72 O.038 57H? 138k Be 4 48.0R -0829-67.91 9.555 lated YMG 1N7.02
+
+Planetary ingress of Venus and Mars are more often minor swings because they
+happen so frequently. A cycle that can produce larger swings is heliocentric Venus
+conjunct or 120 degrees from Uranus.
+
+Larger swings have slightly more time leeway such as up to four days either side of
+the exact aspect. They are warnings to be prepared to take action. Entry methods
+can be faster moving averages or trend line breaks that confirm by price a change of
+trend.
+
+28
+Bh feist | Ta
+Gt as ea iS
+
+SPH SOAY lel 120 deq Uranus aspects Sc Ot G0 Th aed Fong
+a
+
+: ~ 1464
+-
+
+al ie
+1360
+1300
+1240
+
+a“ 1180
+
+ra 11120
+
+-
+tt +1060
+=
+a 4000
+Pal =
+ea . : : : ra : : : aks
+41/02 42/18/98 02/04 03/24 05/44 06/28 08/43 09/30/99
+DATE = = 11710799 Day = Wednesday, CURSOR PRICE = $80 OPEN=1309.28 HIGH=13¢9.26 LOW= 1360.19 CLOSE=1373.96
+oe ELEY. CURY FL VEMUS F2 EAR TH-SUN FI MARS FY MUPITER. FS SATURN FH URBNES FT? HEPTUME.FE: PLUTO FS NOOH Fit NORE Fit
+
+PACS? AMM BELO Me W2BM TL SRS 4,835 3198 <LEAS NT BR “2338 8 GBD IOS R2 2G, DSOE 11.298 263.26 049 deg
+
+HEL
+65.02 BABY AUG3G HERG 84.79 -D.GR 10.88 1484 76% OBFN BRI Dei 28 G0 48.03. +1143 BG.88 10.867 8289-3368 171.98
+
+SEY BES?
+
+Heliocentric Venus conjunct or 120 degrees from Uranus.
+
+29
+1684
+
+Ft
+<
+i an 1640
+a -:}580
+oon nanmnsnenne 1520
+ie a
+a a |
+< Jue " fi Ue
+a
+ugh Pall IM, Il x. 1400
+a | aE
+“14340
+1 ye i oo 1230
+we
+a
+Pa - 1220
+nop ca 1160
+od a
+: : < : : : : : 1100
+06/30 038/47 10/04 11/19/99 01/06 02/23 04/41 05/29/2000
+DATE = 0706/2000 Day = Thursday, CURSOR PRICE = 1100 OPEN=1440.23 HIGH=146 1.65 LOW= 1439.56 CLOSE= 1296.67
+fr B FLAHET REURY EL EMUS F2 EA TeesH FA MARS FH UUFITER.FS © SATURN FE BRABUS FF HEPTHHE. FE ~ FLUTOFS HODH Pid.“ HODE fit
+MELYAC CHR ICBRY 2B “HENS JBL OBS BHF 00 $084 1974 89.94 “0.9RG §259  -2475 TNE GSS IGG Dene B5L75 10.81 189.0F 8 115.14
+SPELT QUSS, FURO GANG LHEOR LOI FIFI. “0.608 149.95 ere Pe pe: ed a BG 3.4 WBS <BR? 40.285 19.18 7h82 186.59
+
+Heliocentric Venus conjunct or 120 degrees from Uranus.
+
+30
+
+= - 14730
+
+“31610
+at
+
+“1490
+
+aT 1370
+
+ally
+
+es “1250
+ital,
+ema 130
+" 010
+“1890
+a
+—o
+Pad “WF70
+ae a
+: ae : : : Sage = Z 1650
+10/702 41/47/2000 01/04 02/24 04/40 05/28 07/13 03/30/2004
+
+DATE = 10/12/2001 fags Wednesday, CURSOR PRICE = 669.99 4 OPEN=0.0 HIGH=0.0 LOW=0.0. CLOSE=0.0
+ar PLAY ACuRy Fa GENUS FE EAR TReSUN F2 MaRS Fa JUPITER FS oO SATURNFE. BRSHUSE? -HEPTUHEF&: PLUTOFS HOOH Pid. HORE Fit
+
+PRCEWDAL -LEOS 48LB4 207 G99 RU SOSH -1PHL OU.8F ONS BSPG 2.729 ASSYLEE OP BG RL PENA BY BLaG Wis 90.95
+. FESR O2HR PLES. 56S OGG -O403-15.F2 LOR G3 “DEAE NR2I Ot a2 Hi (5.6? ~Q.GOE GB.FP SHYT 189.99 3.482 186.08
+
+Heliocentric Venus conjunct or 120 degrees from Uranus.
+
+31
+a
+
+os
+
+g
+®@h € A R
+
+—_
+
+T1? He
+
+3 =
+ee 8 & g
+
+decitabine Iecberbebebententeleber kinda beeteteleteleritiktetelmkelettebebedetet Hatta tirte terrae ty sy Coe ea oe eee
+sie ee me at ceo ae en” ne ee ea oe: ¥
+
+3
+4
+it
+ih
+4
+
+i] i 4
+hmm iin w mad }
+ee
+
+&
+ool
+
+i i
+
+eee ed oe & 2
+
+a
+
+a
+‘
+eS oe
+i
+sed oe Caen Me coe ee ee Re ee ee
+ry
+
+a ®
+
+2 ®
+
+saa ite at Sah te
+Eg
+
+=
+
+?
+
+5 Ey
+: 2
+ieee EE a pe wy a] ee yp ey My ee
+f
+
+* ; ? + ' 8 }
+see te ons a a aca le ca cata at tte tm na eae af ctr see mt sf he et see fan aa tte ei om
+
+a i § i i i a
+
+}
+ene, cee eae a ne ee Pes Seek Seve
+
+i
+i
+é
+4
+i
+i
+t
+&
+i
+f
+i
+ete wee de nef be ee i ae
+
+emma <0 t i 8 i 1 t t
+ee aR ie ee ee: eee EN BLES OOS: SC SO Sen
+a t t ' i i a ¥
+
+i 3
+
+i £
+ee eee ee oe ee ee ee Se Se ee
+i ‘ aT ee OE ‘ t i i \ f
+ee ae aS C—O ne ee OR OC, Oe Cer See
+
+000
+
+1 Pesan ae
+
+sm ae bs os se bea ot Bis sin Be San
+
+i
+%
+
+£3
+g t a i
+—— EF ' 1 i € !
+i i i : iL
+i
+
+‘
+
+'
+
+i
+
+ileal z } i t coe 3
+on ee Np on pe pee me a pm eR pe ee a ioe
+i ; ey i i i 4 i # 4
+
+a
+z
+i
+z
+a
+i
+Deer me tae sag ame mes ni ane tee res ate tae te ee ee omg ae mee Gane te one es emg ane sons te ani es cae es ang sows a cab sing sae te:
+i
+“4
+i
+2
+53
+
+ar i ] i : 8
+a ee fey eS SE On Se ce
+ay
+
+a
+a
+
+=
+
+Pn ee
+
+rs hae oman
+
+Bhbr Ab “Ts lo bs. Tae Ale kee bis. fo doo fa
+
+i
+3
+
+3
+
+BONDS
+
+Bg
+a
+
+ae
+
+UST.
+
+'
+£
+53
+
+} ] ' i 4 i i i 4
+i # t i J i i i 4
+me) z E ‘ a I i 5 2
+PR ae pe ee Ae ee ag : =— fs teiladiais talaieaie came
+i # f i a i Ls i ‘ §
+SET ome es erp mee me per mes ag am ae eg oem mame Se a mmm oes te oa SOY Pk nee are ee eG ei i tne ce tte
+i : i i a i é i a 4 i : t
+a al a aa RS ee a eee gcc re ee ee
+Lt f 1 4 i z ' casas SC H f y
+we . pe Oe ee a eS Po ee
+8 b i i 2. on s
+AD etme woes ome ees me so cme st a0 cet ES eres Ene es a nee Ea in Tap OE ae Gee ss ser ed anon ae em
+' i } 4 i f i $ ae ' i 4
+i 5 i 2 i z 3 jrone=-- one 3 Es i i $
+Paes cM rr rae ee ee ee
+i t £ é i talc a i 8 ' g &
+i a i i CC —. i i j i 8 i i 4
+SRR A a GR Bp BB ny ARREST ig, a eg BE sh Sy RE Sb RE mp Re ag Be
+f a t t pce i ‘ t 4 i t x
+4 a Se TS, SURI AI "i ei a: Maa leis Sa ae aia ads Gala
+i a i i i i — i i a i i a
+den eta doable he a wad dw aout Ee a a Abie at oo aera A Mow we Ais wm ad ne
+i a i 5 i 5 & i 3 = 8 i 3 3
+et ee ee, Seen vee ee Oe See os rn
+f 3 ' t a i E Ee! 3 { i fi x
+mee ee ee we te Die aed ee eid a Ae
+¥ ' y # i € ¥ f) 3 a = ¥ #
+f $ 4 t a t z ‘ i ' 7 Depew z
+Sas ane as en Res Sas elas ee RR A i Cal
+A i i a i 4 i i i s i SpA arenenenenae
+SE STR NR mS me me Rg se ate Sa me me mm gm nme ep me me a et eg mm mh mm mm oe nie gr
+a Rs DS I I Ms ls es Ss Cie as Cs Be
+x i F £ r & # i t 8 i F a
+g i i fa i & ' i é a t iN 3 Se
+|: i Ss i i i Pe is ns ie te te oa ans Aiea
+
+32
+
+Mh
+
+6
+
+“Bhs la he WS |
+
+co
+
+tely 30 days.
+
+approxima
+
+calendar day counts rather than trading day counts. The Sun moves 360 degrees in
+
+Time by degrees refers to the Sun moving x amount of degrees. In essence this is
+a year and takes 365.25 days to do this. A time by degrees count of 30 is
+Soybeanshaye3700 CAL s0- 3440970570702, 3, SC 1 Bot: 490 Top: 785 Tt: 1
+
+Time by Degrees _
+Soybeans: ~
+Sun every 30 degrees 1730
+
+700
+
+“1670
+
+it, , : I ty.
+Nala ;
+
+iy | bee
+
+1550
+
+“20
+
+490
+
+EL 05/28 TILE 08/04 ao7e7 TEE aia EER
+
+DATE = 01/21/93, Wednesday, PR = 491.749 OP=644 Hl=646.25 LO=693.25 CL=641 Curs-$Q=-2 10.751
+
+33
+| bi il yime Cycles
+(es ties = i
+ERS [ee
+
+eee) 00 CAL, S0- Dado NT TTIOF21. 2a, 9G 1 Bot: 45 Top: #70 io
+
+Time by Degrees
+Soybeans
+Sun every 30 degrees 715
+i From most recént high
+Hy, N a - 1685
+Math ha fos
+yar wl |
+625
+ee er Hh
+Pye Mt Ht
+" ovp - 595
+Hah t565
+\ Wis)
+“05
+14/410 KUED 01) 42 02/20 03/26 04/29 06/02 07/06/93
+
+DATE = 08/09/98, Sunday, PR = 478.374 OP=0.0 Hi-0.0 L0=0.0 CL=0.0 Curs-S0=-242.877
+
+34
+
+Soybeanstayss 00 CAL, 50- THOTGTTINO ASS, Sc 1 Bot: is Ton: 730 81:1
+
+; 730
+Time by Degrees “1705
+Soybeans l ih |
+Sun every 30 degrees , Ih - (675
+From most recent Low \ | K Hf h
+| hi i i I Mh 1645
+Hb i. i.
+l it 1585
+| H ,
+' 1555
+\ yes a
+i! th 1525
+i
+i ; ) i if Ny i “1495
+1465
+: : : : : : : : 435
+10/06 11/09 42/7 15,796 41/46 02/19 03/95 04/28 06/04/97
+
+DATE = 07/05/97, Saturday, PR = 436.749 OF =0.0 HI-0.0 LO=0,0 CL=0.0 Curs-S0=-28,2508
+
+35
+
+SoybeancDays37A0 Ci, SU-DadeTs0s 1603, 302, S05 Bot: 360 Top: 5075
+
+Time by Degrees
+Soybeans
+
+Sun every 30 degrees
+From most recent Low
+
+yeaa ale
+
+| hha he
+
+alt
+
+O75
+
+“1495
+
+--/480
+
+190
+
+APS
+
+11/06 42740794 01/43 02/46 03/22 04/95
+
+360
+
+DATE = 08/05/95, Saturday, PR = 36 1.249 OP=0.0 HI=0.0 LO-0.0 CL=0.0 Curs-S0=-35.0520
+
+36
+
+Soybeansbaye3 00 CAL: $- “24409306 160456, 472, Sc: 1 Bot: <0 Top: 605 11 1
+
+685
+(660
+Time by Degrees | 1630
+Soybeans '
+Sun every 30 degrees 1600
+f \ : 1570
+4 | be H
+| q he | 7 : 540
+; i 1 aed
+[ 1490
+agit Met OP Lang :
+er 1450
+1420
+: : : : : : ! : 390
+03/03 04/06 05/46 06/13 Or/ 4? 03/20 09/23 10/27/93
+
+DATE = 06/16/03, Wednesday, PR = 450.472 0P=459,.29 Hl=-4d69 LO=457.75 CL=463 Curs-50=0.0
+
+37
+
+Saineanstaus? 00 CAL, $d- 3440710050415, 345502 54465506160456. Px SG 0.25 Bat: 413 Ton: 496.75 WE 1
+
+Soybean rees | | ms
+he
+
+fh, yl sin
+
+| i | | li i i
+Ny i °
+ee a
+
+DATE = 10/05/92, Monday, PR = 415.343 OP=4 16.25 HI=922.5 LO=4415.5 CL=4 19.25 Curs-3Q=0.0
+
+38
+
+SPH CAL, S6- Se 09, Sc 2 Bot: 1000 Top: ayie 4
+
+ae l
+
+Time by Degrees
+
+S+P
+Sun every 30 ¢
+High to Low
+
+07730
+
+DATE = 09/01/2000, Friday, PR = 1330.09 OP =15-17.08 HI= 1930.09 LO=49 13.93 CL=1320.27 Curs-30=0.0
+
+aT AE STOMP TOUTE TG, Se 1 Bot 170 Tap: 562 THT 4
+
+Time by Degrees
+
+S+P
+Sun every 30 degrees | | I
+
+1562
+
+1140
+
+1510
+
+“11480
+
+1450
+
+1420
+
+4390
+
+1360
+
+1330
+
+1300
+
+1270
+
+aa YEE aa7i0 aa 05/27 ED LE SELL
+
+DATE = 02/26/2000, Monday, PR = 1323.98 OF=1333.36 Hl= 1300.82 L0= 1529.02 CL= 1348.09 Curs-SQ=0.0
+
+40
+
+SPH CHL St 344e00072401554.17, Se TBot: 1270 Top: 1562 Wt: 4
+
+Time by Degrees
+$+P
+Sun every 30 degrees |
+
+=="
+
+01/12 023/45 03/20 aaa 05737 06/50 aarag TYE)
+
+1562
+
+1540
+
+S10
+
+1480
+
+14450
+
+--1420
+
+1390
+
+“1360
+
+“11330
+
+-- (1300
+
+1270
+
+DATE = 03/2472000, Friday, PR = 1994.13 OP=1520.39 HIF 1992.97 LO= 1516.85 CL= 1527.96 Curs-S0=0.0
+
+Al
+
+at a e a0 TAL, 50- -243, F500 309200. 076, St: 7 51 Bot: 165 Tor: 11 iit 1
+
+ai
+
+- (300
+“1285
+1270
+1255
+“240
+1225
+yeu
+195
+
+180
+
+165
+
+DATE = 14/08/92, Sunday, PR = 305.815 OF=0.0 HI=0.0 L0=0.0 CL=0.0 Curs-S0=23. 7387
+
+co)
+
+Cotter centinupus
+
+2 BS
+: Vy in 30 increments
+
+——_—_
+=
+
+z g z 8 g fe
+ma a Bm fm a
+PP n Pe Ts
+1 4 2 + 1 1
+: + 2 5 +
+i i : * ‘ :
+
+H : : ‘
+
+i : : ' : :
+
+: i i ‘ ;
+
+i : : : : :
+we eB shea ae he ae mre wi Romine a ae see a * om beim
+
+' : : : '
+: : : '
+; : : :
+i 5 :
+: 7
+i
+
+t i :
+ae : é 4 y
+
+i
+De ee eet Seer ere eee eee Er
+
+Powwow watens
+
+A ed
+
+4
+
+Layee was
+
+7 5
+eer eee rer ee |
+
+Belg we meee ee rent etn in in ar “ ve hw emer
+ee : : : 4 : : 3 :
+: : 2 4 i = : :
+: : : 3 : i :
+i a & a ere ra ciccmemcenccneny
+i : * 3 3 ° =] j
+ee een nd cn cae Bae we wes ae ae ine ot he a nm mt owe om am te tthe tae Be a i on one oe se at Fata AS a Ea ma]
+: ¢ ¥ : ry a oe
+i : ‘ * * 4 4
+: : : : — :
+: é : aa
+; 4 ; 2 ene:
+rss erate ce se on we oi Be ae aes ae ee bas a we fer an wt a ns an a ae rn Bann De REO ee cig ER et
+: : 3 3 4 :
+8 :
+‘ 5
+:
+
+LieNow-9
+
+Soy Beans
+
+aca ey Ho eg eg a a LT
+
+be fry [re faa ioe fr bo bo fro ra Les pos 1 Soh hehe eo tae fa [7 [a7 oa |e2
+
+kat
+
+Thee
+
+lssar Fests z
+
+ie bes
+
+Tass ee
+
+A f 8
+BORE 8 5
+Pal : ops
+- a Do Pi
+33 oe Et Po
+Ea . : ' :
+Rcduccckece
+a ‘
+
+:
+
+;
+
+400,00
+Li-Mal-oe
+
+i
+H
+3
+3
+
+i
+3
+5
+3
+4
+3
++
+4
+j
+4
+2
+#
+
+i
+f
+5
+4
+%
+
+en nt a oe er do sa ct ga i at Et wn Pc a ws a a a me ae OE
+
+i
+x
+ee 0 ee ee ee
+
+ST HSS ESTES WSS EE PTS ESTE
+
+Soy Beans July 19
+
+By los BS esse be bu brs
+
+43
+end
+
+Soy: B
+
+u : ‘ : ‘
+bP aE rer ee Cee cs a Sn nO ne Pres Oe ee es ee eo
+: : : :
+
++ 4 * 6 af cr
+,
+
+a
+qa
+
+eans July 1999
+~b "s
+
+da
+:
+
+L.
+ig
+
+SOYBEAN OIL CONT. CHART WEEKLY
+
+MARCH 1995 - GURRENT
+TIME BY DEGREES DISTANCE
+
+:@70DEGREESOR =” i
+
+270 CALENDAR DAYS —
+
+44
+
+:
+eee ee
+
+ge
+Planets by Degrees
+
+Planets by degrees is the concept of a planet moving x degrees either geocentric or
+heliocentric. When the bigger planets are used timing is approximate so other technical
+signals are needed for entry.
+
+| : re)
+dibitendoe moves : phy e
+: afore
+Nf
+ofABe poe an
+yer wv arnt
+
+125%
+
+APDTSE
+
+_*
+On
+5 :
+Fats
+
+rh
+is
+bd
+£
+a.
+—
+ec -Soey
+
+2iRB 3
+rte
+
+ante
+
+ang ey jee
+cd aaa ae
+
+, swiss Franc Weekly -Heliocentric Jupiter every 15 degrees
+B80. = :
+
+; oF : ie : uy : 24 A ; 78 | | Supl
+a | ; ao
+a |" | : : ; : > | cups
+: ta : ath : : : : ; : 1 14g
+734- ve vee ee ae ‘ 5 en 2 vee i vem : we iol ww ae ene whe ~ aa ~ we 4 ee ri 7 1GH
+: Pp | ie
+: a : : ; SN
+LT eae | he
+al I Wa | ail i i q ‘I
+x t 4 3 5 ? i Fa 4 ] 3
+7 ae | ‘ey | lh a
+a S$ # i t t z ye + 4
+7 ee a \ ae :
+2 rn
+ee
+50 aor Tul : da - at Ta ot - ar : aH -_ 0
+
+45
+kK ‘ Jipl
+
+TT en el
+i ‘Be
+| , | : ; | | i ly oh ‘hh 4
+| a pha | ,
+; | Binet Meinyf : | Swiss Frane
+ie \ hheet---- [| Weebly. so. |
+qo Jupiter every
+‘ | ; : : | : lis degrees
+ft pe fE
+Sane oe ree
+Oct Apr dul Oct Apr
+
+a7 38
+
+El 76 ay 26 405 143 420 441
+
+T TT T SwissFranc | | | | el
+yop Meek Pp |
+; Jupiter eve jl
+often th Ais degrees) -.-| 4} bt
+| | | | oy Fall
+aie | Hf! oi Ww
+il Ny | ill hag ‘
+ton som a swe 4 : on ome . sie use aan a ee ne rj et ee oe fr seat nate
+i wa flake | gi why
+Pb Veh |
+| yn ne a en
+7 tip dod
+LB, G8 tg BB, Pos,
+sa Apr Jul Oct a0 Apr Jul
+
+46
+44
+
+23
+
+35 Ga42
+
+75 oF oe
+
+405 443
+
+420
+3
+
+134
+
+80.
+
+73 lt
+
+BE pe be fp ed ew onto Mba
+
+BIG em be
+y
+
+=
+oo
+=e
+ae
+——
+pe
+de
+loo
+7
+
+Phin
+
+had ;
+
+|
+|
+|
+
+4
+3
+4
+
++
+
+ti
+
+ek
+
+t
+wer RS, Gh,
+
+io
+|
+|
+
+Jupiter every
+
+Swiss Fraric
+Weekly :
+
+f HOY
+hehe
+
+iy! |
+
+|
+|
+|
+|
+
+t 3 q
+ba t y
+itp, RE,
+
+-15-de rees|..... an oo
+
+Jagi
+1G
+
+50 +
+
+Oct Apr
+
+Oct
+
+4410
+
+20
+
+B84 be - nar n
+
+E
+ka i ©
+Tee tet etintd Ntnt ti® ittin
+£
+t
+
+neran
+ti “tina “act Sst
+J auauste
+— :
+= é
+oe
+vanes 3
+3
+
+Jupi
+
+60
+
+Fhe
+=}
+
+47
+444
+
+ax
+56
+a.
+J : : : =
+=> o : ‘ = =
+Agi eE yan wo Be ee Be 42
+oan . : —
+oa 0 i = 7
+=> he : — J
+a a : : camel oa .
+i Rage ep ttt ty ee es sa cae|
+coo, ‘ . aid
+3 Cm : ¢ i a4
+o a= ' ‘ i =
+Y 3 i sepeertonnen od
+agp | _—
+aS gy 2 Bie we we CE eo i]
+= o> | ee °
+ors | = «|
+; = J
+: t cepa OT
+: = ‘
+wee 7 aS an - 48
+— : |
+— : : a
+— eo i a
+come t t
+wwe TE fa
+cee ‘ : >
+2 puncte t H
+;~r, 5 f
+: “mot ' 4
+nn ae 5
+: ares ener sora “1x
+: — z
+. gy t NT
+: ele E 3
+E pense z 3
+i en E g
+— oot. kin mm - N
+~~ i ]
+
+Oct
+
+Jul
+
+i
+Apr
+
+2.00
+
+4704...
+
+2 a nem we og - ee o
+mo :
+pees : 7 4
+ronnmapssee o
+— t z 7
+Tp i 3
+aR om meat ne oo wy pe mo - wy wT
+pe y a
+— : ? 3
+cae ‘ ‘
+§ i
+_ : a
+= 3 :
+= 2 :
+=
+Rem te i
+T
+iO
+)
+<
+
+Jupi
+45H
+
+Apr
+
+Oct
+
+Apr
+
+95
+
+Jul
+
+94
+
+a —_ 4
+oa : —=
+x * = ad
+£ ee
+Ss are j wee
+Co eee!
+, canara
+‘ “=
+es.
+‘ =
+ea ee Sn ren:
+; aa oa
+t aT
+{ pel 4
+6 3 ~
+e i ~~ i
+= g oil ? wy]
+hm pe be 4
+} mo:
+: =
+t Rad
+£ ae
+: =
+=
+: ao
+é le
+Soe ee a a wg gn a ne ae nas al
+~ oD : =
+as ‘ _
+x= r —
+iol po 2 : —= 7
+cd TS ne mina
+> i : : =
+Lo) an : =
+oto. : =
+cis. : =
+; =
+om Oe eT, ne fo pe pe we oe
+oo : =
+a y : : =
+"Om. ae
+~~ = Ty £ ewes
+— 0 5 i =
+ort»
+
+la
+
+A
+
+Apr ot
+
+Oct
+
+Jul
+
+93
+
+i oe
+~ we de ee o ~ an we he semarbacne ee
+i a =
+: 3 : —
+wv dw wa med oc |
+: : ee
+A t en
+H i Tee
+: : le
+i E —_—_
+roe ool
+4 tog Se Se ee fe ae ver one
+—_—— ? :
+eet? . ‘ on
+x : :
+ps soe 4
+:
+ib T
+rel
+a Q
+= =
+
+48
+96 406
+
+290:
+
+to, t : a A ® 2 q g a Fa
+ne 5 4 ir : 4 3
+
+, ' E i 5 H t
+i
+‘ 4 i t i t
+
+146
+
+a :
+we jae
+
+218 Corn Weekly” ee
+
+Jupiter every |
+15 degrees
+
+po a i
+
+Va? 144
+
+365:
+
+£ a i t
+a g i
+
+253. ~
+
+‘
+OB. - pw ee
+
+140 +
+
+g
+t
+
+rd
+Hie q
+
+byl
+
+Corn Weekly|
+Jupiter every
+
+' 45 degrees
+
+|
+:
+ia
+L
+|
+|
+
+\ ie
+
+‘
+i
+3
+3
+3
+4
+i
+i
+
+4
+$
+3
+3
+3
+:
+é
+‘
+f
+$
+5
+
+|
+
+:
+,
+iF
+
+49
+
+Jul 0
+
+Jupi
+454
+
+Jdupi
+
+156
+g 27 St
+
+300-—
+
+: Corn Weekly :
+| il Heliocentric Jupiter |
+| i every15degrees
+
+: f '
+DEOL ire ne sn ne ve fom a PEM oa ee oa a ae wee a we lf an ve mf aed fb
+3 $
+
+5 i 3 2
+joe fe PA ee an ae rf fn [dn a fe ae ae me ean oe ve ma wr Be
+
+i ‘
+
+t ‘
+
+3 ‘ : i 3 t
+3 } ‘ { i : ; 3
+3 | ‘ i : ' 4 t 3 3
+: } : £ f A i 3
+
+; : lid i] : : : : z t
+
+2 : j 5 i A 3 Fi
+225 age mw ne nw ww mH Te we de ep en ee y :
+
+2 : ! t 4 i z 4
+
+3 : t $ ' , z car
+
+2 : t 3 A H j
+
+‘ : : 3
+
+8 : 3 3
+
+: : 3 t :
+
++ 3 ; : 3
+
+oy
+1 1 na pi 1 a a i
+
+goo bi a i a
+
+50
+} rader 21
+BP1 CAL, Geo 90 deg Saturn aspects Sc:0.002 Bt: 1.475 Tp: 1.779 Pl Ang: 0.0009765625
+
+An example of retrograde / direct cycles for longer term forecasts.
+
+cementite eae ry
+vane 4 Pwo
+
+1.779
+
+S755
+
+AF AS
+
+21.6275
+
+“63S
+
+LSOS
+
+i)
+
+ATS
+
+L475
+
+‘S84 08114 990203 990725 990516 990706 990826 9001 991206 bO01ee  OOusTF
+
+Hr'+0,00
+
+aie = 990709, Day = fri, Price = 1.5469 OP=1.9526 HI=1.5951 LO=1.5476 UL=1.5485
+bing ME=129.02 UE=148.2 SU-108.95 MA=21147 JU=31.64 SR=44.97 08 =975.9 1 ME=309.45 PL=248 M=56.92 N=134.36
+Asp Dist ME=84.05 UE=103.23 $U=61.98 MA=166.5 JU=13.33 SA=8.0 UR=09.06 ME= 101.54 PL=156.97 M=11.95 N=89.39
+
+51
+
+Retrograde - Direct Planets as a Cycle Timer
+
+This is a simple technique that anyone can use. The planets when viewed from earth
+will at certain times appear to go backwards. This means that they will cover the
+same degree of the circle going forward (direct) and backwards (retrograde) and
+then direct again.
+
+To use this in trading have a look at the degree of a planets position when a major
+swing high or low is made and then expect a reversal of trend when the planet again
+crosses this degree.
+
+An example using Saturn retrograde / direct on the S+P.
+
+Saturn was at 45.25 degrees while retrograde on October 18th 1999
+
+which was a low. The next time that Saturn crossed this exact degree while direct
+was on the 28-29th of March 2000 with the actual high being on Friday the 24th of
+March giving us three trading days from the top.
+
+Another example of retrograde / direct cycles for longer term forecasts.
+is seen in the chart of the British pound.
+
+At point 1 Uranus is at 315.91 degrees while retrograde. At point 2
+Uranus is again at 315.91 degrees while direct.
+
+© Tite Hew : “ banntrader 2.1. Gannsott Publishing Go. 509.684.7637
+SPH1 TAL, Geo 90 yey Uranus aspects: Sc: 4Bt: 1050 Tp: 1658 PL fing: 1
+An example of Saturn retrograde Tf diréct. 1658
+
+Saturn was at 45.25 degrees while retrograde on October 18th 1999 1610
+which was alow. The next time that Saturn crossed this exact degree
+while direct was on the 28-29th of March 2000 with the actual high, |
+
+being on friday the 24th of March giving us three trading days ii.
+
+1530
+from-thetop.
+
+1450
+
+reve Pa
+EW) i ‘il
+
+Saturn 45.25 degrees retrograde
+
+1290
+
+Saturn 45.25 degrees
+
+direct ~/7210
+
+1130
+
+: : : : : : : : : : : 1050
+990726 990821 990995 8991012 = 991107 = 991205) = 991220 00012400219 000516 ~~ 000411 Hr +0.00
+
+Date = 000329, Day = Wed, Price = 1124.35 OP=1507.73 Hl=1521.45 (0=1497745 1=150852
+
+Ging ME=341.33 UE=349,79 Stl-0.1 MA=34.72 JU=38.62 $8=45.25 UR=319.56 ME=306.75 PL=252.69 M=295.22 N=120.58
+
+Asp Dist ME=21.77 JE=30,23 SU=49.54 MA=75.16 JU=79.06 SA-05.69 UR=0.0 NE=13.41 PL-66.87 M=24.34 N=160.82
+
+k
+
+52
+SPH1 GAL, Geo 360 deg Planets:only-Sc: 2 Bt: 1200 Tp: 1504 PL fing: 4
+
+Uranus 315.56 degrees
+
+f Uranus retrograde / direct and the S+P__
+
+1504
+1480
+
+7/1400
+
+320
+
+1260
+
+-1240
+
+1200
+
+‘990602 990628 990724 D9Ne19 990014 OTNIN 991105 991201 991227 O0DI22 00217
+
+Hr-+0.00
+
+Date= 990779, Day = Mon, Price = 1210.79 0P=1418.78 Hl=1420.14 L0=1404.6 O=1407.65
+GLng ME=127.8-4 HE=155.12 SU=116.39 MA=215.46 JU=32.08 SA=45,72 UR=315.56 NE=303. 16 PL=247.82 M=196.52 N=133.03
+
+53
+
+Retrograde/ direct Saturn.
+
+| AM Psi
+
+, " 0 i Mt
+
+erste,
+
+The British pound made a low at point 1 when Saturn was at
+
+\ 44.97 degrees. Due to.retrograde direct motion Saturn would cross this
+| degree two more times.
+
+Points 1, 2. and-3 are where Saturn is at 44.97 degrees
+
+1.6397
+
+Ore?
+
+L652?
+
+6577
+
+“A617?
+
+SOF?
+
+ASF F?
+
+ASSP?
+
+1.5527
+
+‘ouF14 990800 990004 SONTIN -99TN26 9011 O01217 — ONUTI2 000207 bON304 000730
+
+Hr +8.00
+
+Date = 990709, Day = fri, Price = 15475 OP=1.5526 HI=155951 L0=19476 1=1.5485
+Bing ME=129. 02 UE=148.2 $0=106.85 MA=211.47 JU=31.64 $A=44,97 UR=315.91 NE=303.43 PL=248 M=56.92 N=134.36
+
+54
+Jupiter was direct when the Deutsche Mark made its high. The cursor marks the
+day of the cash high. By the time the futures had opened price had pulled back
+but we will use this day as it was the real high of the 24 hour market.
+
+Jupiter was direct at 254.49 degrees.
+
+The next time Jupiter passed the same degree while retrograde
+and then direct are marked on the chart. As you can see each pass of Jupiter over
+the same degree created a good trade.
+
+eutScne Mar
+
+0.777
+
+Retrograde - Direct Jupiter
+The cursor marks the day of the cash high “0.765
+
+254.49 Jupiter was direct at 254.49 degrees.
+The next time it passed the same degree while
+retrograde and then direct are marked on the chart. 0.745
+
+Based sive unye tate mreonst neh 9 mae on Pv a cach i
+
+Noreen cere ee openness nmnnninmenersenetcn tg iy
+
+yt muh, |, tam
+a a ony
+
+DLG8S
+
+294.49
+
+10.225
+
+DMark 10.665
+
+L645
+
+: : : : : : : : : : : 0.625
+950305 950331 950426. 950522 950617 950713 950808 950905 950929 951025 957120 Ar +0.00
+
+Date =950508, pay Wed, Price = 0.626 OP=0.7294 Hi=0.7414 LO-0./116 00.7161
+
+Gling ME=321.4 UE=306.95 Sl=347.44 Ma= 134,78 f225400 SA 345.3 UR=299_13 NE= 294,87 PL=240.49 M=67.41 N=2 18.24
+
+Asp Dist ME=66.91 UE=52.06 $0692.95 MAET19.4 ue SA=90.81 UR=44.64 NE=40.58 Pl= 14 M-172.92 N=36.25
+
+55
+The S+P made its low while Saturn was at 7.4 degrees retrograde.
+
+The S+P made a secondary high as Saturn passed over 7.84 degrees while
+Direct. The chart is marked at 7.46 the actual pass of 7.4 was during the night.
+
+ols n ae
+360 deg Planets only § Sc 2 Bt: 560 Tp: 864P! fing: 1
+
+a a
+
+Je eo S+P secondary high the cursor marks
+a - al Saturn at 7.46 while direct
+Pos ao the actual high was 7.84 degrees.
+al 3 a ‘Mg
+
+lit
+
+564
+
+1840
+
+- 1800
+
+760
+
+ell
+
+yen
+yee
+
+th t
+rr low Oe
+Saturn is at 7.4 degrees while retrograde a
+
+680
+
+640
+
+~ 600
+
+560
+
+Send dense TGURTS  SeNNTN OIE SeTIT SOTO? 961203 _ S7OTIe 970273
+
+‘7031
+
+Hr +0.00
+
+ate = 970308, Ray = Sat, Price = 773.899 OP-0.0 Hi-O. 4 10=0.0-=0.0
+
+6lng 822345.00 PE=341. 65 Ge 347.05 MAST 22 276.41 SR 7.48 UR=306.99 NE& 299.17 Pl 245.47 M=340.13 N=179.53
+
+56
+
+A cycle can create a break out situation and retrograde direct cycles are no
+exception.
+
+Saturn returns to same degree as the low and triggers the break out.
+
+S&P 500 Continuo CAL, Geo 360 deg Planets only Sc:¢ Bt: 840 Tp: 1144 PI Ang: 1
+
+4144
+A “WHA20
+a oe ‘4080
+
+al aa jason
+Saturn returns to- same degree Ya
+
+as the low and triggers the break-out es ee rs a
+a a ee 4 i a -- 4040
+
+spite eee - ey (
+
+--/1000
+
+960
+
+920
+
+~ 1880
+
+a “ : : : : : : : : : : 340
+OF0723 970818 970913 869971009 «= 971104 86971190 «= 871226 = 980121 = 980216 «= 980514 = 980409) Ar + 0.00
+Date = 980128, ay Wed, Price = 934.9 0P=974 Hl=984.9 LO=972.7 01=982.1
+blag ie 282.7 DE=289.91 5300, 4 MR 397.45 2 8815.18 UR= 908.69 MEH 299.98 PL=247.43 M=311.69 N=162.26
+
+57
+Here is another example, this time using Corn.
+
+Mars retrograde degree at the low was also the secondary high on December Corn
+when Mars crossed this same degree while direct. The curved line is Mars converted
+to longitude and overlaid on the price chart.
+
+a tyde
+| ie eee = seeleay
+
+Planets only Sc: 0.25 Bt: 2
+
+Tp: 276.25 Pl fing: 1
+7
+
+eFb.25
+
+27S
+
+“265.25
+
+Corn
+Retrograde - Direct Mars
+Low to secondary high
+
+1255.25
+
+1248.25
+
+42S
+
+1255.20
+
+225.25
+
+1218.25
+
+121075
+
+203.29
+
+: : : : :
+04/20 05/24 0/27 o7/a4 09/03
+
+40/07 44740 43/44/2004
+
+DATE = 06/25/2004 Hay = Monda’
+& % RCURY FA EHUS Fe
+HAND YET BOR Oe
+
+ARTH-SHR FA Habs FY AUPITER FS
+
+£ 8.56 HB 258.02 -2Ha? B65 -f4 BELGE
+
+CURSOR PRICE = 258.914 SPENS 204-23. HIGH=204.29 LOW=202,25 CLOSE=203
+
+UR AWS F? HEPTUHE FR: PLUTO PS
+
+KOON Fit) HODE Fit
+“AHH FENG -OLP2 BORER M148 8892 20.82 148.8 MASE 5538
+
+58
+
+This time Mercury retrograde was a low on Soybeans. When Mercury crossed the
+same degree again it was the weekend, on the next trading day Soybeans made its
+
+$ 01 ‘SOVBEANS CAL, Geo 360 deg Planets only $c. HW 405 P: a1 Pl ng: i
+
+é 551
+540
+Mercury retrograde Low | ?
+
+High Mercury direct at the 1525
+
+| | | } loss
+
+1480
+
+same degree
+
+Mh gt fy : I
+ei i \, a iy IP Hy Naas
+
+420
+03/19 04/22 05/96 06/29 03/02 09/05/2004
+= 1070872007, Day = Monday, CURSOR PRICE = 400. G8? OPEN=0.0 HIGH=0,0 LOW=0.0 CLOSE=0.0
+Et fy EMU F2 AR TH-SUN FE WARS FY FITER FS SATURM FE URANGS FP HEFTUHE FE = FLUTE FS HOODH Fil NODE FIG
+
+8 ~ARGE PPLIG LOE 198.28 0 BBP2S -2.BSY 104, @ “W682 PULHF -~LBNG J2L41 -DP45 JDR.02 0.124 25298 10008 BXer -D.6ih 90.83
+
+59
+Reprint from The Ticker and Investment Digest
+
+(Now known as The Wall Street Journal)
+Vol. 5 DECEMBER 1909 = No.2
+
+William D. Gann
+An Operator Whose Science and Ability Place Him in the Front Rank-
+
+His Remarkable Predictions and Trading Record.
+
+Sometime ago the attention of this magazine was attracted by certain long pull stock
+market predictions which were being made by William D. Gann. In a large number
+of cases Mr. Gann gave us in advance the exact points at which certain stocks and
+commodities would sell, together with prices close to the then prevailing figures
+which would not be touched.
+
+For instance, when New York Central was 131 he predicted that it would sell at 145
+before 129.
+
+So repeatedly did his figures prove to be accurate, and so different did his work
+appear from that of any expert whose methods we had examined, that we set about
+to investigate Mr. Gann and his way of figuring out these predictions, as well as the
+particular use which he was making of them in the market.
+
+The results of this investigation are remarkable in many ways.
+
+It appears to be a fact that Mr. Gann has developed an entirely new idea as to the
+principles governing stock market movements. He bases his operations upon certain
+natural laws which though existing since the world began, have only in recent years
+been subjected to the will of man, and added to the list of so-called discoveries.
+
+We have asked Mr. Gann for an outline of his work, and have secured some
+remarkable evidence as to the results obtained therefrom. We submit this in full
+recognition of the fact that in Wall Street, a man with a new idea, an idea which
+violates the traditions and encourages a scientific view of the proposition is not
+usually welcomed by the majority, for the reason that he stimulates thought and
+research. These activities said majority abhors.
+
+Mr. Gann's description of his experience and methods is given herewith. It should
+
+be read with a recognition of the established fact that Mr. Gann's predictions have
+proved correct in a large majority of instances.
+
+60
+"For the past ten years I have devoted my entire time and attention to the
+speculative markets.
+
+Like many others, I lost thousands of dollars and experienced the usual ups and
+downs incidental to the novice who enters the market without preparatory
+knowledge of the subject.
+
+"T soon began to realize that all successful men, whether lawyers, doctors, or
+scientists, devoted years of time to the study and investigation of their particular
+pursuit or profession before attempting to make any money out of it.
+
+"Being in the brokerage business myself and handling large accounts, I had
+opportunities seldom afforded the ordinary man for studying the cause of success
+and failure in the speculations of others. I found that over ninety per cent of the
+traders who go into the market without knowledge or study usually lose in the end.
+
+"T soon began to note the periodical recurrence of the rise and fall in stocks and
+commodities. This led me to conclude that natural law was the basis of market
+movements. I then decided to devote ten years of my life to the study of natural law
+as applicable to the speculative markets and to devote my best energies toward
+making speculation a profitable profession. After exhaustive researches and
+investigations of the known sciences, I discovered that the Law of Vibration enabled
+me to accurately determine the exact points to which stocks or commodities
+
+should rise and fall within a given time. The working out of this law determines the
+cause and predicts the effect long before the Street is aware of either. Most
+speculators can testify to the fact that it is looking at the effect and ignoring the
+cause that has produced their losses.
+
+"It is impossible here to give an adequate idea of the Law of Vibration as I apply it
+to the markets, however, the layman may be able to grasp some of the principles
+when I state that the Law of Vibration is the fundamental law upon which wireless
+telegraphy, wireless telephone and phonographs are based. Without the existence of
+this law the above inventions would have been impossible.
+
+"In order to test out the efficiency-of my idea I have not only put in years of labor in
+the regular way, but I spent nine months working night and day in the Astor
+Library of New York and in the British Museum of London, going over the records
+of stock transactions as far back as 1820. 1 have incidentally examined the
+manipulations of Jay Gould, Daniel Drew, Commodore Vanderbilt, and all the
+other important Wall Street manipulators from that time to the present day. I have
+examined every quotation of Union Pacific prior to and from the time of E.H.
+Harriman's securing control, and can say that of all the manipulations in the
+history of Wall Street, Mr. Harriman's was the most masterly. The figures show
+that, whether unconsciously or not, Mr. Harriman worked strictly in accordance
+with natural law.
+
+61
+"Tn going over the history of markets and the great mass of related statistics, it soon
+becomes apparent that certain laws govern the changes and variations in the value
+of stocks and there exists a periodic or cyclic law, which is at the back of all these
+movements. Observation has shown that there are regular periods of intense activity
+on the Exchange followed by periods of inactivity. Mr. Henry Hall, in his recent
+book devoted much space to 'Cycles of Prosperity and Depression’ which he found
+recurring at regular intervals of time. The law which I have applied will not only
+give these long cycles or swings, but the daily and even hourly movements of stocks.
+By knowing the exact vibration of each individual stock I am able to determine at
+what point each will receive support and at what point the greatest resistance is
+
+to be met.
+
+Those in close touch with the market have noticed the phenomena of ebb and flow,
+or rise and fall in the value of stocks. At certain times a stock will become
+practically stationary or inactive with a very small volume of sales. I have found
+that the Law of Vibration governs and controls these conditions. I have also found
+that certain phases of this law governs the rise in a stock and an entirely different
+rule operates on the decline.
+
+"While Union Pacific. and other railroad stocks which made their high prices in
+August were declining, United States Steel common was steadily advancing. The
+Law of Vibration was at work, sending a particular stock on the upward trend,
+whilst others were trending downward.
+
+"T have found that in the stock itself exists its harmonic or inharmonic relationship
+to the driving power or force behind it. The secret of all its activity is therefore
+apparent. By my method IJ can determine the vibration of each stock and by also
+taking certain time values into consideration I can in the majority of cases tell
+exactly what the stock will do under given conditions.
+
+"The power to determine the trend of the market is due to my knowledge of the
+characteristics of each individual stock and a certain grouping of different stocks
+under their proper rates of vibration. Stocks are like electrons, atoms, and
+molecules, which hold persistently to their own individuality in response to the
+fundamental Law of Vibration. Science teaches 'that an original impulse of any kind
+finally resolves itself into periodic or rhythmical motion,’ also 'just as the pendulum
+returns again in its swing, just as the moon returns in its orbit, just as the advancing
+year ever brings the roses of spring, so do the properties of the elements periodically
+recur as the weight of the atoms rises.'
+
+"From my extensive investigations, studies and applied tests, I find that not only do
+the various stocks vibrate, but that the driving forces controlling the stocks are also
+in a state of vibration. These vibratory forces can only be known by the movements
+they generate on the stocks and their values in the market. Since all great swings or
+movements of the market are cyclic they act in accordance with periodic law.
+
+62
+"Science had laid down the principle that 'the properties of an element are a
+periodic function of its atomic weight.' A famous scientist has stated that 'we are
+brought to the conviction that diversity in phenomenal nature in its different
+kingdoms, is most intimately associated with numerical relationship. The numbers
+are not intermixed, chaotically and accidentally, but are subject to regular
+periodicity. The changes and developments are also seen to be in many
+
+cases undulatory.'
+
+"Thus, I affirm, every class of phenomena, whether in nature or in the stock
+market, must be subject to the Universal Law of Causation and Harmony. Every
+effect must have an adequate cause.
+
+"If we wish to avert failure in speculation we must deal with causes. Everything in
+existence is based on exact proportion and perfect relationship. There is no chance
+in nature, because mathematical principles of the highest order lie at the foundation
+of all things. Faraday said:
+
+'There is nothing in the Universe but mathematical points of force.'
+
+"Vibration is fundamental; nothing is exempt from this law; it is universal,
+therefore applicable to every class of phenomena on the globe.
+
+"Through the Law of Vibration every stock in the market moves in its own
+distinctive sphere of activities, as to intensity, volume and direction; all the essential
+qualities of its evolution are characterized in its own rate of vibration. Stocks,
+
+like atoms, are really centers of energies, therefore they are controlled,
+mathematically. Stocks create their own field of action and power; power to attract
+and repel, which principle explains why certain
+
+stocks at times lead the market and ‘turn dead' at other times. Thus to speculate
+scientifically it is absolutely necessary to follow natural law.
+
+"After years of patient study I have proven to my entire satisfaction as well as
+demonstrated to others that vibration explains every possible phase and condition of
+the market."
+
+In order to substantiate Mr. Gann's claims as to what he has been able to do under
+this method, we called upon Mr. William E. Gilley, an Inspector of Imports, 16
+Beaver Street, New York. Mr. Gilley is well-known in the downtown district. He
+himself has studied stock market movements for twenty-five years, during which
+time he has examined every piece of market literature that has been issued and
+procurable in Wall Street. It was he who encouraged Mr. Gann to study out the
+scientific and mathematical possibilities of the subject. When asked what had been
+the most impressive of Mr. Gann's work and predictions, he replied as follows:
+
+"It is very difficult for me to remember all the predictions and operations of Mr.
+Gann which may be classed as phenomenal, but the following are a few: In 1908
+
+63
+when Union Pacific was 168-1/8, he told me that it would not touch 169 before it had
+a good break. We sold it short all the way down to 152-5/8, covering on the weak
+spots and putting it out again on the rallies, securing twenty-three points profit out
+of an eighteen-point wave.
+
+"He came to me when United States Steel was selling around 50 and said "This Steel
+will run up to 58 but it will not sell at 59. From there it should break 16-3/4 points.
+"We sold it short around 58-3/4 with a stop at 59. The highest it went was 58 3/4.
+From there it declined to 41 1/4 - 17 1/2 points.
+
+" At another time wheat was selling at about 89 cents. He predicted that the May
+option would sell at $1.35. We bought it and made large profits on the way up. It
+actually touched $1.35-1/2.
+
+"When Union Pacific as 172, he said it would go to 187 7/8 but not an eighth higher
+until it had kad a good break. It went to 184-7/8 and came back from there eight or
+nine times. We sold it short repeatedly with a stop at 185 and were never caught. It
+eventually came back to 172-1/2.
+
+"Mr. Gann's calculations are based on natural law. I have followed his work closely
+for years. I know that he had a firm grasp of the basic principles which govern stock
+market movements and I do not believe any other man on earth can duplicate the
+idea or his method at the present time.
+
+"Early this year he figures that the top of the advance would fall on a certain day in
+August and calculated the prices at which the Dow-Jones averages would then
+stand. The market culminated on the exact day and within four-tenths of one
+percent of the figures predicted."
+
+"You and Mr. Gann must have cleaned up considerable money on all these
+operations," we suggested.
+
+"Yes, we have made a great deal of money. He has taken half a million dollars out of
+the market in the past few years. I once saw him take $130, and in less than one
+month run it up to over $12,000. He can compound money faster than any man I
+ever met."
+
+"One of the most astonishing calculations made by Mr. Gann was during last
+summer (1909) when he predicted that September wheat would sell at $1.20. This
+meant that it must touch that figure before the end of the month of September. At
+twelve o'clock, Chicago time, on September 30th (the last day) the option was selling
+below $1.08, and it looked as though his prediction would not be fulfilled. Mr. Gann
+said, 'If it does not touch $1.20 by the close of the market it will prove that there is
+something wrong with my whole method of calculation. I do not care what the price
+is now, it must go there." It is common history that September wheat surprised the
+
+64
+whole country by selling at $1.20 and no higher in the very last hour of the trading,
+closing at that figure."
+
+So much for what Mr. Gann has said and done as evidenced by himself and others.
+Now as to what demonstrations have taken place before our representative:
+
+During the month of October, 1909, in twenty-five market days, Mr. Gann made, in
+the presence of our representative, two hundred and eighty-six transactions in
+various stocks, on both the long and short side of the market. Two hundred and
+sixty-four of these transactions resulted in profits, twenty-two in losses.
+
+The capital with which he operated was doubled ten times, so that at the end of the
+month he had one thousand per cent on his original margin.
+
+In our presence Mr. Gann sold Steel common short at 94-7/8, saying that it would
+not go to 95.
+It did not.
+
+On a drive which occurred during the week ending October 29, Mr. Gann bought
+Steel common at 86-1/4, saying that it would not go to 86. The lowest it sold was 86-
+1/8.
+
+We have seen him give in one day sixteen successive orders in the same stock, eight
+of which turned out to beat either the top or the bottom eighth of that particular
+swing. The above we can positively verify.
+
+Such performances as these, coupled with the foregoing, are probably unparalleled
+in the history of the Street.
+
+James R. Keene has said, 'The man who is right six times out of ten will make his
+fortune."
+
+Here is a trader, who, without any attempt to make a showing (for he did not know
+the results were to be published), established a record of over ninety-two per cent
+profitable trades.
+
+Mr. Gann has refused to disclose his method at any price, but to those scientifically
+inclined he has unquestionably added to the stock of Wall Street knowledge and
+pointed out infinite possibilities.
+
+We have requested Mr. Gann to figure out for the readers of The Ticker a few of the
+most striking indications which appear in his calculations. In presenting these we
+
+wish it understood that no man, in or out of Wall Street, in infallible.
+
+Mr. Gann's figures at present indicate that the trend of the stock market should,
+barring the usual rallies be toward lower prices until March or April, 1910.
+
+65
+He calculates that May wheat, which is now selling at $1.02, should not sell below 99
+cents and should sell at $1.45 next spring.
+
+On cotton, which is now at about the 15 cent level, he estimates that, after a good
+reaction from these prices, the commodity should reach 18 cents in the spring of
+1910. He locks for a corner in the March or May option.
+
+Whether these figures prove correct or not, will in no sense detract from the record
+which Mr.Gann has already established.
+
+Mr. Gann was born in Lufkin, Texas, and is thirty-one years of age. He is a gifted
+mathematician, has an extraordinary memory for figures, and is an expert Tape
+Reader. Take away his science and he would beat the market on his intuitive tape
+reading alone.
+
+Endowed as he is with such qualities, we have no hesitation in predicting that within
+a comparatively few years William D. Gann will receive full recognition as one of
+Wall Street's leading operators.
+
+Note: - Since the above forecast was made, Cotton has suffered the expected decline,
+
+the extreme break having been 120 points. The lowest on May wheat thus far has
+been $1.01-5/8. It is now selling at $1.06-1/4.
+
+66
+Repeating aspects, Gann Planets and Soybeans
+
+If you want to trade like Gann you have to learn his method and his method is the
+planets and their positions when highs and lows are made.
+
+Gann used repeating aspects in ‘Robert Gordons great Campaign in cotton’ from
+his book ‘The Tunnel thru the air’
+
+He used the planets to form the same shape or pattern again that was observed at
+the markets high or low but used different planets to achieve this.
+
+June 25th 1927.
+October cotton declined to 16.80
+Bought 500 October at 16.83 and 500 December at 17.15.
+He figured that it would run up for about thirty days.
+
+July 25th 1927.
+Sold 500 October cotton at 19.00
+Sold 500 December at 19.20
+Went short 500 December at 19.20.
+Decline followed as he expected.
+
+To understand the reason for the timing of these trades just imagine a
+triangle and at each corner there is a planet. This is called a grand trine.
+What is happening in this case is that there are two slow planets that
+don't move much and they are 120 degrees apart(trine)
+
+Then a fast planet, Mercury in this case comes around so that it forms a
+
+triangle with the other planets (at the low of the market)
+
+it moves away so that there is no grand trine anymore but a month later
+
+the Sun comes around to where Mercury use to be and forms the triangle again (at
+the high of the market)
+
+So from the above you can see the planets form the same shape again but use
+different planets. The next example is from May soybeans. I will show you how an
+opposition with a conjunction in the middle was found at both the low and the high
+of the swing.
+
+May soybeans had a low of 460 on 13th Dec 1999 and ended on 28th January 2000
+at 538. On the hexagon chart 460 and 538 are beside each other.
+
+On Dec 13th Mars was conjunct (joined with) Uranus, This was happening exactly
+at 90 degrees to Venus and Saturn which were both opposite each other.
+
+This is what it looked like.
+
+67
+Low on Beans 13th December 1999
+
+Mars
+Uranus
+
+Saturn Venus
+
+High on beans 28th January 2000
+
+Mercury
+Uranus
+
+Saturn Moon
+
+So here we have Mercury replacing Mars and the Moon replacing Venus.This was
+the only time in the whole price move where any planets could recreate the original
+pattern that was at the low, couple that with exact price targets and thus a swing
+was created in beans just as W.D.Gann said it would.
+
+68
+hemenis
+
+Repeating aspects
+
+69
+
+SEES
+
+Astrolag 5.41)
+
+Mon December 13, 1999
+
+12:@8pm COT -8:0@ GMT>
+
+122°28W 47°36N
+
+Null houses.
+Tropical, Geocentric.
+Jutian Day
+
+ist
+2nd
+
+Node:
+
+Fire:
+Air
+
+Car:
+
+Yang?
+Me8, Ne 3, A: 6, De &
+Ang: 1, Suc: 7, Cad: 3
+
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+hause:
+house:
+
++ 261.320 +
+
++ 325.214 =
+
+> 243.776 + 1412?
++
+
+= 2451526, 2917
+
+9.868
+38.088
+68.480
+98.980
+
+126,908
+153. a@a
+180.998
+219.908
+248,900
+270,988
+300. 068
+339, 968
+
+9°80"
+1*51’
+
+2°20’
+1*1?7?
+1*22?
+2°32?
+B*40"
+
++ 3@2.572 + O*14’
++ 258.761 +10°51’
+
+126.831R + 9°00
+
+S, Earth: t,
+4, Water: 1
+
+1, Fix: 7, Mut: 3
+
+3, Vine 2
+
+Learn: 3, Share: 8
+
+PICKAMAWOAI TESS SOSH
+* Astrolog 41D with Swiss Ephemetis
+
+Nul! houses.
+
+1st house:
+2nd house:
+3rd house:
+4th house:
+Sth house:
+8th house:
+7th house:
+8th house:
+Sth house:
+18th house:
+Lith house:
+
+Sun: 368.160
+Moon: 223.321
+Mere: 316.944
+Venu: 274,886
+Mars: 349.676
+Jupit 27.539
+Satu: 40.546
+Uran: 316.385
+Nept: 364.211
+Plut: 252.291
+
+cio
+
+Repeating aspects May Soybeans
+
+26th Jan 2000
+
+13th Dec 1999
+
+70
+
+Astrolog 5.41D
+
+Fri Jonuary 28, 2898
+12:88pm <DT -8:49 GMT?
+122*20. 47*36N
+
+Tropical, Geocentric.
+Julian Day = 2451572.2917
+
+12th house: 330.000
+
+9°a0°
+$*13?
+1*52’
+gro?’
+aus?
+1°88”
+2°19?
+a°33°
+ory?
++16°56"
+
+PoE LT 1 # ib
+
++
+
+Node: 123,596R + 8°00’
+
+Fire: 3, Earth: 2,
+
+Air +4, Water: 2
+
+Car: 2, Fix: 7, Mut: 2
+Yang: 7, Yine 4
+
+M8, Nt 3,-A+ 8, Dt 3
+Ang: 2, Suc: 7, Cad: 2
+Learn: :3, Share: 8
+
+DHEGEDS MOM HESS SOSH
+
+Dow Crash Dates
+
+Non bh WY
+
+9-11-86
+
+Jupiter Opposite Sun
+
+Pluto Conjunct Venus
+Pluto/Venus Sextile Neptune
+Jupiter Square Uranus
+
+Sun Square Uranus
+
+Jupiter Retrograde
+
+10-19-87
+
+. Same
+
+. Same
+
+. Same
+
+. Jupiter Trine Uranus
+. Sun Sextile Uranus
+
+aDAm bh WN =
+
+. Same
+
+September 11 1986 Petrolog Std
+
+122°26K 47*36N
+Null houses.
+
+ist house:
+
+Thu September 11, 1986
+12:'G8pm (DT -8:0@ GMT?
+
+Tropical, Geocentric.
+Julian Day =. 2446685. 2917
+
+9.000
+2nd-house: 38.
+
+house: 60,030
+house: 90.080
+house: 120,000
+house: 150.600
+house: 180.000
+house: 216,808
+
+Sth house: 248.860
+19th. house: 270.008
+
+Sun: 168.743
+Moon: 264.984
+Merc: 174, 127
+Venu? 213.696
+Mars: 267.351
+
+dupit 347.741R
+Satu: 244,672
+Uran+ 258.453
+Nept: 273.642R
+Plut: 215.472
+Node: 22.383R
+
+1ith house: 366.080
+12th house: 336.990
+
+- 8*8g?
+~ 44a"
++.1°187
+—.2°4r?
+- 421?
+~ 1*31°
++ 1e4n?
+- args’
++ 1°74"
++16*@5’
++ 8°08"
+
+CREF RWOOUO KEG.LRb EOOHAS
+
+> 4, Earth: 4,
+
+71
+
+Air + @, Water: 3
+
+Ang: 3, Sue: 2, Cad: B
+Learn: 3, Share:
+
+@ Astrolog 5.41D with Swiss Ephemens
+
+Octoher-19 1987
+
+Astrolog S.4HD «
+Mon October 19, 1987 ee
+12:80pm <DT -8:60 GHT>
+122* 26H 47*26N
+
+Hull houses.
+
+Tropical, Geocentric.
+
+Julian Day = 2447888, 2917
+
+ist house: 9.920
+2nd house: 38,006
+3rd house: 60.008
+4th house: 98.900
+Sth house: 128.808
+6th house: 159.060
+7th house: 194.080
+Sth house: 219.000
+Sth house: 240.000
+1Gth house: 274.060
+
+Lith house: 303.000
+L2th house: 338.900
+Sun: 285.853 + a*30’
+Moon: 171.261) + 1°91?
+Mere: 222.574R - 2°58"
+Venut 221.112 + B°22+
+Mars: 187.065 + 6°58’
+Jupit /24.514R -. 1°35"
+Soetu: 257.419 +:1°14
+Uran: 263.683 -. @*10°
+Nept: 275.518 +-9@*59"
+
+Plut: 219.337 +15*41"
+Node: 1.B44R +: 6*80’
+
+Fire: 4, Earth: 2,
+
+Air + 2, Water: 3
+
+Car: 5, Fix: 3, Mut: 3
+Yang: S, Yin' &
+
+M: &, N: 3, At 3, Dt 8
+Ang: 5, Suc: 3, Cad: 3
+Learn: 3, Share: 8
+
+DGCKHLAOWVO KRASh SOGHK-S
+
+£
+
+4
+
+a
+
+A note for people trading the Australian share market the day of the low was when
+
+Mars moved up and was opposite Jupiter.
+
+72
+255
+
+Crash day September 11 1986
+
+‘\e4?
+
+“242
+
+mrad
+
+“ese
+
+ee?
+
+eed
+
+el?
+
+Bo0311  8o0406  BoNs02  RO0528 Bb0G2a BOUTIN Bo0e14 960909 861005 861031 Boti26
+ate = 860911, Day = Thu, Price = 221.247 OP=247.06 HiF247.06 [0=234.67 01=235.18
+
+73
+
+ig ’
+es
+S&P 500 Ind34/98 CAL, Scale-=1 Bot = 200 Top = 352
+
+"
+eat tak
+
+wt
+
+Crash day October 19/1987
+
+Pyyy, arwlyye
+
+era
+
+a2
+
+20
+
+300
+
+“280
+
+260
+
+“220
+
+200
+
+Q700i4  a70ei0 870726. 870021 870016 a7 10id e710? 8703 971229 eRO1D4 990219
+
+Bate = 371019, Day = Mon, Price = 207.84 0P=282.7 Hl-2d2.7 LO=224.85 O=224.84
+
+74
+
+Repeating Aspects
+
+Dow low Oct 18" 2000 Venus was opposite Saturn. The next planet that could
+oppose Saturn was Mercury, this did not cause a cycle. The final opposition possible
+
+was Mars opposite Saturn. This was a major turning point.
+
+75
+
+Wed Ootober 18, 2000 ‘4
+12:08pm <DT ~8:8@ GMT?
+122*28H 47*36N
+
+Null houses.
+
+Tropical, Geocentric.
+Jufian Day = 2451836. 2917 |:
+
+ist house: 9.960
+2nd house: 33.680
+3rd house: 60,000
+4th house: 93.860
+Sth house: 126.988
+6th house: 15¢.06@
+7th House: 183.608
+Sth house: 218.990
+9th house: 240.068
+1th house: 274.860
+1ith house: 360.460
+12th house: 330.080
+
+Sun: 265.689 + 8°80’
+Moon: 95.569 ~. 17137
+Merc: 225.7968R - 3°19’
+Venu: 239.428 ~ 1°@1’
+Mars: 169,989 + 17177
+Jupi 7@.617R -. @°57/
+Satur 59,.841R -. 2°18?
+Uran: 316,921R -— 6°43"
+Nept? 303.793 + O*11°
+
+Chir: 254.818 + 4*59"
+Node: 109.615R + 8°80’
+
+Fire: 2, Earth: 2,
+
+PRCKEAEAOCUO KRSLEb SOGHAS
+
+Ang: 3, Suc: 5, Cad:
+Learn: 5,. Share: 7
+
+| Astrolog 5.41D with Swiss ‘Ephemeris
+
+Ble Er
+
+phies _ Abiniale.
+
+$+P high Jan31 2000
+ars opposite Saturn
+
+Astrolog 5.41D
+
+Repeating aspects
+
+76
+
+Wed January 31, 2661
+12:48pm <DT -8:@9. GNT>
+122*20W-47*36N
+
+Null houses.
+
+Tropical, Geocentric.
+Julian Day =. 2451941.2917
+
+9.688
+20. 468
+
+ist house:
+end house:
+2rd house:
+4th house:
+Sth house:
+8th house:
+7th house:
+Sth house:
+Sth house:
+10th. house:
+dith. house:
+12th house:
+
++, 311.978
+
+32.482
+1329.738
++ 368.238
++ 232.454
+
+- 6°60"
+5°80"
+e*59’
+
+a
+pn
+.
+S
+~
+
++19*23¢
+: 266.679 + 5°12°
++ 164.655R + G°0@’
+
+w
+
+8
+
+2:
+
+3
+PRECKEAPAWOOUOD LABSSh OSHA g
+
+1.2, Earth! 2,
+
+Learn: 4, Share: 8
+
+Repeating aspects
+
+The Dow made its major high on January 14" 2000 with Sun conjunct Mercury
+
+square Moon conjunct Jupiter.
+
+On March 22" 2001 which was a multi month low, three of the original planets
+were again involved in a conjunction that was also square.
+
+Null
+
+ist
+2nd
+
+7th
+8th
+Sth
+16th
+11th
+12th
+
+Sunt
+Moon:
+Merc:
+Venu:
+Mars:
+Jupi:
+
+Satu:
+Uran:
+Nept:
+Plut:
+Node:
+
+Fire:
+Air:
+
+houses,
+
+house:
+
+3rd house:
+Sth house:
+Sth house:
+6th house:
+
+Astrolog 5.410
+Fri January ‘14, - 208
+12:68pm -<DT -8:80 GMT)
+122°26W 47°36N
+
+ia
+
+Tropical, Gaocentric.
+Julian Day = 2451558, 2917
+
+4.604
+house: 38,800
+68.608
+
+98.80
+
+129.980
+150.088
+
+house: 160.008
+house: .218.408
+house: 240,000
+house: 276,688
+
+house: 380,088
+
+house: ‘330. 408
+293.918 - 0°’
+26.777 - S*15?
+293.120 — 1°57"
+257.719 + 1°36"
+338,268 - O¢S4-
+26.985 - 1°12’
+40.295 - 2°23
+315.512 - g°3g"
+303.681 + 8°14"
+251.996. +10°53"
+124.337R.+ @°aQ’
+5, Earth: 3,
+2,. Waters 1
+
+24, Fixe 4, Mut: 3
+
+7, ¥ine &
+Ne o4, A! 8, BD: 3
+
+Ang? 4, Sue: 4,. Cad? 3
+Learn: 4,° Share: 7
+
+PCKEHRAIWIUD KRSXShSOGHAS
+
+77
+astralog: 5.41D
+
+Thu: March 22; 2001
+12:00pm" (DT. +8: GMT>
+122° 20W .47°36N
+
+Null. houses.
+
+Tropicas, Geocentric.
+Julian Day =..2461991. 2917.
+
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+
+2.213 = B°Ra’
+
++
+
+PEREIRA AHRSLSPSOGHAS
+
+* 161.467R + @° eB’
+
+24, Earth: 1,
+> 3, Water: 3
+
+Learn: 5, Share: 6
+
+78
+The Bradley Siderograph
+
+The planets have been used as a market timing tool for many years. In the 1940’s an
+American astrologer Donald Bradley developed a technique for combining the
+planets into a single line calculation that he hoped would indicate the major highs
+and lows for the year in the U.S. Stock Market.
+
+This he named ‘The Bradley Siderograph’
+
+The details are published in his book 'Stock Market Prediction’ subtitled "The
+Planetary Barometer and How to Use It' available from Llewellyn Publications.
+
+The basic formula for the calculation follows. You will see that it is very time
+consuming to do by hand but there are several computer programs that are
+available that will even allow you to change Bradleys formula, so that you can
+weight the inputs that you feel are the most relevant.
+
+Bradleys basic formula is this, for every planet, measure the distance between that
+planet and every other planet (excluding the Moon), and see if it's within a 15 degree
+orb of a Conjunction, Sextile, Square, Trine, or Opposition. If so it is given a
+weighted value all depending on the aspect and it's distance from exact. Squares and
+oppositions are minus, sextiles and trines are plus, conjunctions have different
+weightings depending on the planets involved.
+
+When there is an aspect within orb, take the distance between the two planets (in
+degrees), subtract the number from 15 and then divide the result by 15, next
+multiply the result by 10.
+
+An aspect which is exact gets a value of 10 and 0 if at a 15 degree orb. The
+weightings increase as the aspect becomes more exact.
+
+This calculation is done for 36 planetary combinations, excluding the Moon.
+
+The 36 combinations are separated into intermediate and long term cycles, with the
+10 combinations of Jupiter through Pluto considered the long term, the other 26
+represent the medium term cycles.
+
+Next add the sum of the declinations of Venus and Mars, assign a positive value for
+northern declinations, negative for southern declinations. Add the values for both
+Venus and Mars and divide by two.
+
+Add together all the long-term weights for the 10 long term cycles, (divided by two),
+and multiply this number by 4. Then add all the weights for the 26 intermediate
+term cycles and the Venus and Mars declination and this final number is the
+Siderograph on any one day.
+
+79
+Dow Industrials with Bradley Siderograph 99
+
+Qo ao oO a) a
+o qQ Se ma ao Oo Qo a
+Ww o w So ao So = oO
+= = = = rt = = ©
+5 - ae : t GEGL/LE/ZL ,
+od : ; : :
+Sa GAB YZ ZL ;
+g — 3 : ;
+es GOB EVZL ange WL
+a ae | ! BES EL/L I
+‘ ————= ‘ :
+: SS ‘ : B66 L/G/LL OO0e WL
+i ome : : o
+ae eeslzz0l — B
+: = : :
+Sa 666 1/2/01. = oooz WoL
+66GL/PZ/6 =
+a S
+a 666/01/6 = onde V6
+a | : BG L/27/9 =
+ae : GBBLEL wn oooz We
+—— ! GEG |/OE/Z e"
+a =
+/ B66V/OL2 g nog Le
+: ; co
+SO GBB LZi2 =
+i —a =
+= ! | G66 /BL/9 = oooz Wg
+i | eaeL iH 4
+— GEGL/LZ/S = goog WS
+: : : : =
+: | GBB 12/5 =
+—- GE6LEZF O00e/ We
+a = t i oo
+Oe 666 Gtr ra
+666 L/SZ/E noo We
+ee GABUZLE
+| . 6E6L/9Z/Z ooozr Wz
+| GEG LIZZ
+| 686 1/62/ poner
+? z i ao Qa
+; 666 L/S L/L S S
+Fi ‘ : a oa
+AGEL ° °
+
+80
+Bradley 360
+© Tenorio Research, 1999
+
+4 Nn
+\ it Ni
+yi if \ we i 9127198 vw wy 4
+aw \ aor vO w1a9 vy me Se
+4 IX \ iV
+anose/ V
+TTT
+
+i
+Mh ia¢) Qo oO >
+'Q) ® 10] oO oO
+©) Oo 10>) 2) Oo
+- - ™ N MN
+
+81
+spies UN
+
+$L24
+
+\y’ i \C \
+Ltn!
+
+Tenorio Research 3/2/01
+DTT te
+SS SAS S & §
+SF PY YF VM PF YF F EC YY YF EF
+
+Charts Courtesy of Tom Drake (Tenorio Research)
+
+The chart above shows the Bradley Siderograph from the heliocentric view. The
+lines with dates marked is the Bradley, the other is the S+P 500 Share Price Index.
+
+82
+Transits to Natal Charts
+
+A Natal (Birth) chart can be created from several points in the market life of a
+commodity, stock or index. Such points would be the first trading day, the date of a
+major high or low, the incorporation date of a company or when there was major
+news that effected that entity such as a currency being allowed to free float as
+opposed to being of fixed value.
+
+What we are looking for is a build up of energy from the current planets as they
+pass over or make angles to the natal chart.
+
+One transit is not enough, I like to see at least three points on the natal chart that
+are being stimulated by the current planets transits.
+
+Here are two real life examples from Soybeans.
+The first chart is the 1997 Soybean high and the second chart is the Soybean high
+
+September 7 1999. Chart three is an overlay of charts One and two showing their
+interlocking similarities.
+
+2 Astrolog 5.410 with Swiss ‘Ephemeris =
+
+Astrolog 5.41B
+
+Wed May.7, 1997
+12:B8pm (DT -8:08 GMT>
+122°26M 47*36N
+Null houses.
+Tropical, Geocentric.
+
+dutian Day = 2458576. 2917 fb.)
+
+op
+
+Soybean high
+May 7 1997
+
+GAr iGa
+BTauga
+
+lst house:
+2nd: house:
+
+3rd house:
+4th house:
+Sth house:
+6th house:
+7th house:
+8th house:
+Sth house:
+14th house:
+Lith house:
+12th house:
+
+6Genaa
+eCanea
+GLeo8a
+Bvirea
+@Libea
+9Sc08a
+GSaQ6a
+BCapae
+BAQUOa
+@P isda
+
+Sun:
+Moon:
+Merc:
+Venu:
+Mars
+Jupi:
+Satur
+Uran:
+Nept:
+Plut:
+Node:
+
+Fire:
+
+Air:
+Car: 3, Fix: Ss
+
+Learn: 7,
+
+T7TawiS - @°aa’
+29Taul4t - 4°3a/
+29Ari31R - 2°83
+2BTau24 - @*1i*
+17V¥ir2a + 1°43"
+28Aqui4 - @°38"
+LHariS@ - 2°14
+BAqUYa - B*37'
+29CapS7R + 8°25"
+4Sag42R +12°57/
+26¥ir2GR + 8°20"
+
+3, Earth: 6,
+2, Water: @
+
+Share:
+
+PGES RAOICUIO TRSSb SOOHK
+
+83
+
+Be
+
+i Astrolog 5.4
+x
+i Sah: BRAS ARCOCaCORe Rete
+
+i Astrolag 5.410
+sovbeat nae 4999 Tue September 7, 1999
+12:@Gpm CDT -8:48@ 6MT>
+
+eptember 122°26H.47*36N
+
+Null houses,
+
+Tropical, Geocentric.
+Julian. Day =~ 2451429. 2917
+
+house: GAri8a
+house: 9Tauea
+house: . GGemaa
+house: 8Canéd
+house: GLeodd
+house: @Virg@
+house: GLibaa
+house: 8Sc088
+house: 8S5a988
+house: 8Capad
+house: GAQUBR
+house: 6Pis8@
+
+. LYVir4s + 078g?
++ 18Le0@8 +.8°297
++ -i3¥ir56 + °1°427
+t t9Le0@QR - 7*217
+35ag89 - 1749"
+4Tau4¥iR - 17287
++ 17Tau@7R - 2°30"
+> 13AQqUHOR - a*42/
+1AQUSER +
+7SagSi
++ 1iLeol@R +.9*0R’
+
+: 5, Earth: 4,
+Air :.2,- Water: @
+Car: 8, Fix: 7, Mut: 4
+Yang: 7, Yin 4
+M: 4, Ne 7, Ae 4, Dt 7
+Ang: @, Suc: 7, Cad: 4
+Learn:.?,. Share: 4
+
+PHECEH RAO KRS6Sb SOOHKS
+
+84
+:
+
+Seybean high gatrolog 5.410
+, . nner rin
+
+May 7 1997 combined with Wed: May 7 1997
+
+12:88pm (OT -9:0@ GMT)
+122*20W 47°36N
+
+Outer ring:
+
+Tue September 7, 1999
+12:0@pm (DT -5:0@ GMT)
+73*88N 4O*4SN
+
+Null houses.
+
+Tropical, Geocentric.
+Jutian Day = 2451429. 1667
+
+house: GAriGa
+house: 8Tauad
+house: GGemag
+house: @Cange
+house: @Leo8@
+house: @¥ired
+house:. BLibea
+house: @Sc08a
+house: 8Sag@0
+house: 6Capee
+house: GAQquUaa
+house: @Pisea
+
+8*GR"
+8*20/
+1*42?
+7°22?
+1749"
+1*28’
+2*30°
+
+» A4Vir3s
+> 16Le025
+© 13Vir42
++. 19LeoG1R
+3SaQ04
+YTauyiR
++ 1? Tou@7R
+» LBAQUYOR - Ot42?
+1AquSeR + 8°16’
+7SagS1_ +11*187
+» dtLeal@R.+ 9720"
+
++ S, Earth: 4,
+
+ee
+
++
+
+EGR HRAOOUO KRESS SOOHAS
+
+Learn: 7, Share: 4
+
+There is a build up of important Super Timing patterns plus Saturn is transiting
+natal Sun (restriction) Mars transits natal Pluto (negative) Venus opposite
+natal Jupiter (negative)
+
+The Sun conjunct Mercury is trine natal Sun, conjunct transiting Saturn and
+adding more power to the transit.
+
+85
+: 2  Astrotog 5.41 D with Swiss Ephemetis
+
+Projected soybean high =| Bry"N40°s°" Zana
+
+12:@8pm (OT -8:20 GHTD
+May 5 2000 122°20H1 47*36N
+Null houses.
+Tropical, Geocentric.
+Julian Day = 2451870, 2917
+
+house: 9Ariag
+house: 8Tauga
+house: 9Genaa
+house: 8Cangda
+house: GLeo@a
+house: 9¥ir@a
+house: @Libeg
+house: 9Sco080
+house: @Sagaa
+house: 8Capsa
+house: GAQUGa
+12th house: GPiséa
+
+Sun: i5Tau34 - 3*36"
+Moon: 7Gem4S - 3°58
+Mere: -11Tau36. - a*34?
+Venu: STawtS 1*i1?
+Mars: 1Gem2'¢ 9°26"
+
+Jupi+ 17Tauig - @°52/
+Satu: 19Tau4? - 2°60"
+Uren: 2@Aquae - a°41°
+SAqust +°0°13"
+
+: 12Sagi4R +11°19"
+
+> 28Can24R + 6°00"
+
+Earth: 5,
+Water: 1
+Fix: 7, Mut: 3
+Yint &
+' 8, At 9, Dt 2
+lat Suc: 7, Cad: 3
+Learn: 8, Share: 3
+
+PEKKA KASS SOGHAS
+
+Using the same 1997 high chart I predicted that May 5th would be another Soybean
+high, the actual high was May 3".
+
+The reasons for this were because of the general look of energy to the combined
+natal-transit chart.
+
+87
+2 ( Astrolog 5:41D with Swiss phemeris
+Bs OS Ge
+
+Astroleg 5.41D
+
+Inner ring:
+
+Wed: May 7, 1997
+12:38pm (DT -8:68 GMT?
+122* 26H. 47*36N
+
+Outer ring:
+
+Fri May 5, 2008
+12:86pm <DT -5:8@ GNTD
+73* 88H 4O745N
+
+Null houses.
+
+Tropical, Geocentric.
+
+Julian Day = 2451676. 1667
+
+house: Ar igB
+house: @Tauad
+house: @Genaa
+house: 8Canga
+house: GLeot®
+house: OVirga
+house: GLibGG
+house: @$co08d
+house: @Sag0a
+house: @Capod
+house: GAqUeGa
+house: @Pisag
+
+8°06"
+3°57?
+B*35"
+1*11’
+@°267
+952?
+
+* 15Tau2?
+SGemSs
+
+> 41Tau2a
+STaw3é
+1Gem18
+
+i+ i?Taui7
+* 18Taut? 2°80"
++ 2BAQUES at4ie
++ BAQUSY @*13°
+2 12Sagi4R +11°19"
++ -28Can25R + 8*60’
+
+tbe bb
+
+Learn: 8, Share: 3
+
+Once again there were strong Super Timing patterns on May 5 plus Jupiter was
+square its 1997 high and Uranus was now transiting Jupiter (negative) plus Sun-
+Jupiter was conjunct the natal Sun and trine the natal Mars. (normally positive)
+
+88
+
+op
+tes
+x
+B
+KR
+1
+&
+Th,
+x
+%
+%
+#
+o
+a
+8
+%
+Ss
+2
+kh
+x
+Ra
+y
+Nn
+
+[662
+640
+
+“1610
+
+580
+
+“4550
+
+S520
+
+-1490
+
+“1460
+
+450
+
+1400
+
+IEUED ED THLE aa7aa ait ie7ii ES a3/ 4673000
+
+a70
+
+DATE = 097271/2000, Day = Thursday, CURSOR PRICE = 374.624 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+
+Soybean high May 3 2000
+
+89
+
+IBM natal Feb 14 1924
+
+90
+
+Astrolog 5.416
+
+Thu February 14, 1924
+
+12: @8pm <DT -8:86 GMT>
+122* 20 47*36N
+
+Nuff houses.
+
+Tropical, Geocentric.
+Julian Bay =-2423838. 2917
+
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+
+- pag
+5*98"
+8739"
+9739"
+aris’
+ari:
+
++ 108:525R
+> 152.642
+
+24, Earth:
+: 3, '
+
+ap
+oe
+54
+ak
+Rf
+wy
+=
+mn,
+a:
+8
+Pad
++
+©
+2
+g
+g
+¢
+at
+hk
+*
+2
+€|
+R
+
+Learn: 5, Share: &
+
+Astrolog 5.410
+
+Tue July 13, 1999
+12:88pm <DT -8:8@ GNT>
+122* 20M. 47*36N
+
+Null houses.
+
+Tropical, Geocentric.
+Julian Day = 2451373. 2917
+
+ist house: 9.9260
+2nd house: 38.960
+3rd house: 60,400
+4th house: 90.928
+Sth house: 120.600
+6th house: 154,000
+7th house: 180.600
+house: 219,026
+house: 240,000
+house: 270.680
+house: 320,080
+house: 330.600
+
++ 118,945
+120.346
+
+*- 129. 464R
+
++ 158.688
+
+> 213,140
+32.197
+45.295
+
+* 315.771R
+
+* 383. 314R
+
++ 248.679) 42
+134, 134R + @*@0"
+
+ire: 4, Earth: 3,
+
+Air + 2, Hater: 2
+
+vl
+tee rbaiord b+
++
+
+PIGGEAPAO0UOH KASSb SOGRHas
+
+D: 7
+Ang: Suc: 8,.Cad: 2
+Learn: 7, Share: 4
+
+91
+Astrolog 5.410
+
+. Inner rimg:
+
+1999. high Jue July 13, 1999
+
+ars Jupiter opposition is tee epm eT ero? aN?
+Outer ring:
+
+Thu February 14, 1924
+12:BGpm CDT -8:86 GMT?
+122° 20. 47°36N
+
+Muli houses.
+
+Tropical, Geocentric.
+Julian Day = 24238398. 2917
+
+house: 4,086
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+house:
+16th house:
+1ith house:
+12th house:
+
+Sun: 324.835
+Moon: 76.114
+Merc: 308.851
+VYenut 1.958
+Mars: 256.654
+Jupi+ 256.968
+Satus 212.324R
+Uren: 346.232
+Nept: 136. 845R
+Plut: 180.525R
+Mode: 152.642R
+
+Fire: 4, Earth:
+Ain:
+Car:
+
+Learn: :S, Share: 6
+
+92
+* Astralog 5.41D with Swiss Ephemeris
+
+Astrolog 5.410
+
+Thu October 21, 1999
+12:08pm <DT -8:80 GMT>
+122° 26H 47°36N
+
+Hull houses.
+
+Tropical, Geocentric.
+Jubian Day = 2451473.2917
+
+ist house: 8.900
+2nd house+: 30.436
+3rd house. 68.840
+4th house: 96,0008
+Sth house: 126.600
+6th house: 159.690
+?th house: 186.000
+Sth house: 216.008
+9th house: 240.908
+16th house: 272.088
+Lith house: 388.008
+12th house! 333.098
+
+Sum: 247,933 + @*69’
+Moon: 346.999 - 3783°
+Merc: 231.848 - 2*43°
+Venu: 161.767 ~ 6742’
+Mars: 273.425 - 1*45’
+Jupii 30.196R - 1*32%
+Satu: 44. 946R - 2*37°
+Uran: 312.863R — a*41’
+Nept: 301.604 + @*15?
+Plut: 248,806 +11°80?
+Node: 128,.836R + 8°20"
+
+PACED PAHO PRS Eb SIGH AS
+
+Fire: 2, Earth: 4,
+Air
+
+Car:
+
+Yong:
+
+M4,
+
+Learn: 4, Share:
+
+IBM Low
+Mars was opposite Jupiter at the high and is now trine.
+
+The Sun takes up Mars position at the high by being opposite Jupiter
+making this a repeating aspect.
+
+This move in IBM has been a combination of techniques, repeating aspects and
+transit to natal chart. This blend of techniques is fairly common.
+
+In Summary there has to be a build up of energy to the natal chart from current
+transits plus the Super Timing patterns. I will often combine natal charts from
+major highs and lows over many years to get the right picture that will also blend in
+with the current transits. This tips me off when to expect bigger reversals than
+
+normal.
+
+93
+Jupiter Ingress and Soybeans
+
+There are many different types of fixed cycles one of these is when Jupiter is at 90,
+180, 270 and 360 degrees. These degrees are the ingress points that lie on the
+cardinal cross. The following charts show some examples of Soybeans over the years
+since 1951.
+
+A simple entry method would be a moving average cross over or a trend line break.
+I have marked the first two charts in the series with a trend line so that you can get
+an idea of what I mean.
+
+Soubeanshay6a 0 Ci, Geo 560 deq Flanels only Se 0.25 BC 235 re 708.757 ing 5
+
+308.75
+Nov Soybeans 1951 (302.5
+The Vertical line and Cursor gs
+
+mark Jupiter at 360 degrees
+
+280
+
+t hee?.s
+Pah
+
+I, rl 1272.5
+
+e65
+
+iM i Hh lhe fe
+| | ut it Wa uh (257.5
+fi IP gg HH
+--|250
+425
+: : : : : : : : 235
+02/48 03/94 04/37 05/34 07/04 08/07 09/40 40/14/54
+a/21ot Day = Saturday, CURSOR PRICE = 308.79 OFEN=289 HIGH=290.25 LOW=287.¢0 CLOSE=288.5
+ACURE Ft YEHUS FE 7) TH-SUH FR AHRS FY AUPITER FS SATURH FS UE AHI FP HEPTUNE FR PLUTO FS MOON FL HODE FL
+
+364? B48 GABP LSPS 05d 0.0 3822 ~L109 J68.8F 2.074 17RGR 2.513 96.02 8.32 197.82 1.5BR 138.08 8882 208.0 -3.098 348.99
+
+94
+SoybeansDay6? 60 CAL, “Geo 760 deg Planets only $c 1 a ee Tp: 315 Pl ang: 0.5
+
+Nov Soybeans 1954
+The Vertical line and Cursor
+mark Jupiter at 90 degrees
+
+hha
+
+PP dye die ee ot
+
+s15
+
+0
+
+1260
+
+1250
+
+eco
+
+Wit TALES TEES aa7a aa750 a5 703
+
+i670
+
+aFiarse
+
+BRIE = Bs/2sfot, Day = Sunday, CURSOR PRICE = 330.703 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+
+PE. VENUS Fe EAR TH-SUN FA HAR S FY MUPITER.FS SATURN FG ERRHGS FF
+
+HEPTEXE FB
+
+PLUTD FS
+
+HOON Fil. NODE FLA
+
+To PRM DORR BSEN L387 GLBL 0 OPS 2490 BSS “0094 20411 BRS 10034 DMGE.203.77 1748 1824 9.894 SOB Let? Bare
+
+95
+
+Soubeansbayet 00 CAL, Gea 360 deg Planets only Sc 6.25 Et: 355 Tp: 428.75 Pl fing: 0.5
+
+Nov Soybeans 1957
+
+The Vertical line and Cursor
+
+mark Jupiter at 180 degrees again (45
+due to retrograde - direct motion
+
+I
+\ i
+hal Wha Wy
+
+F tb
+
+A uy ih Ml p77
+
+428.75
+
+1422.5
+
+(407.5
+
+--400
+
+(392.5
+
+1385
+
+1370
+
+1562.5
+
+355
+
+Me tet bi aL aug Lava 1347
+
+09/46 40730 14733 2727750
+
+TEED
+
+dUPITER FG  SATERN FE URANUS FF HEPYHHE FG | PLUTOFS
+
+CURSOR PRICE = 355 OPEN=404.5 HiGH=402.5 LOW=401.25 CLOSE=40 1.79
+
+HOOH FL’ WADE Fit
+
+HO GWB57 110? 48007 1182 B47? LBRL 18775 DEBU RAUL 1795 150.08 10.974 2n63 At4 22819
+
+96
+
+Ee
+
+ach
+
+eles Weis BE
+oe 00 CAL, Geo 300 deg Planets only Sc 0. 125 Bt 345 Tp: 381. 875 Pi fing: 0.5
+
+Eee | ean
+EE TE
+
+om]
+
+iz
+
+i
+Wi
+
+|
+at
+
+|
+
+fi . (363.75
+
+381.875
+
+SFB S
+
+545
+
+1371.25
+
+“1567.5
+
+ad
+
+iC AGH? 2.88 or BS -B.499 340.92 0. 305.89 -9.999 269.99 8.438 285.69 0.489 230.00 DAH B19.02 1801 158.45 1259 2858 -2.808 176.52
+
+im
+rr i (* , 560
+Nov Soybeans 1960 h (356.25
+The Vertical line and Cursor bso
+mark Jupiter at 270 degrees ;
+54875
+: : : : : : : : 345
+06/45 09/18 10/22 44/25 42/29/59 02/04 03/06 04/09/60
+DATE = 05/04/60, Da Day = Tuesday, CURSOR PRICE = 342.764 OPEN=339.5 HIGH=360 LOW=399.25 CLOSE=399.75
+Br @ PLOMEY ROURY F. WEMUS Fe EARTH*SUN FA MARS FY AUPITER FG 0 SATHRH FB URARHS F? NEFTUHE FG = PLUTO FS RDG Fit NODE Fit
+
+97
+Ss ae
+
+Scapeasanta a0 Stites Geo S eg Planets only Sc. 0.25 Bt 345 Tp: 448. 75 al fing: 0. 5
+
+448.75
+Nov Soybeans 1963 ee
+The Vertical line and Cursor 435
+mark Jupiter at 360 degrees ens
+
+420
+
+y
+A He Mates
+| Wey ah pg
+ott uf rk -
+Ia ahha 405
+ft Hh,
+te ii I
+at thy Pk 397.5
+ul / hat iW
+het 390
+1382.5
+: : : ; ; ; : : aP5
+03/49 09/22 40/26 11/29/62 041/02 02/05 03/41 04/49/63
+DATE = 04/04/05 = Thursday, CURSOR PRICE = 377.961 OPEN=4 41.5 HIGH=4 12.25 LOW=4 40 CLOSE=4 10.3
+HE 3}, Dau VENUS FE Wet SUN FS WARS FE JUPITER FG 86 SATURN FE UR ANEES FP HEPTHHE FE  PLUTOFS ABOH F2i Hebe P14
+Hrei¢ 1289 -i Mi JIB4G -TB2 10t 1.0 407.28 BBY 0.09 -LQBS 3803" -P.NSH 251.58 BASU 26.09 1.922 2501 1285? 143.67 2.299 119.79
+
+98
+490.438
+
+Nov Soybeans 1969 | 488.875
+
+Jupiter is at 180 degrees |
+
+retrograde at the 1st point \ ! ia
+
+and then 180 degrees direct | slegs.105
+
+at the 2nd point
+
+48525
+It | | | Wr”
+m Ait r My |! 479.5
+| , !
+
+PSPS
+
+| st jr
+
+475,875
+: r : : : : : : : 472
+03/15 04/46 05/22 06/25 07/29 09/04 10/03 14/03/69
+DATE = 03/29/69 Day = Saturday, CURSOR PRICE = 422.109 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+fr PLEMET conv ae WEHES Fo Ene TH-SUH F9 MARS FY JUPITER FG SATURN FE URAHUS FP MEPTUHE FE = PLUTO FS WOOH Fit NODE Fit
+
+GEOCENTR IC = I5H.29 ant BUIR P51? B62 0.0 S8EBY O6BY 1804? 4.57% 86.03 -2 BRL LBL G? BFS SOBME 1.784 277.61 19.964 1dr 9 J.hg2 365.97
+
+99
+Soubeanstayé3700 0 GAL Geo 360 deq Planets only Sc: 0.25 BE:520 Tp: “SORTS PT fing: 05
+
+Nov Soybeans 1972
+
+Jupiter is at 270 degrees
+
+“555
+
+24.5
+
+S20
+
+TOE
+
+10/05 11/08 12/10/71 04/45
+
+03/18
+
+a7 YSTTEE
+
+DATE
+
+388,98
+
+DEMS FZ EAR TH-SUN FI WARS
+
+"1899 3559.3 -$.H2H 316.8 0.0 27.09 1805 BEO.SY O.581 58.63 -L.HS? 1581 D.hfe 2h 1.89 181.51 4658 216.87 -8.8? 304.59
+
+MUPITER FS = SATURN FE
+
+= 02/06/72, Day = Sunday, CURSOR PRICE = nfo. 249 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=
+
+BRANUS FF
+
+0.0
+HEPTUHE FS = FLUTOFS HDOHFi2 NODE Fit
+
+100
+Sapeansbay3 a0 Ca, Geo 360 deg Planets only $c 0.5 Bt: 540 Th: bee. 5 Pl Ainge 0.5
+
+687.5
+675
+1 (660
+Nov Soybeans 1972 |
+Jupiter is at 270 degrees “1645
+retrograde and then 270 lssp
+direct I
+ye 6
+| ins - [600
+|
+i, a 1585
+te re ed
+th at bt yd Vans, Is [hue " 1570
+ih eb hg
+i h 555
+aay TE aS 7386 ED aa7a LE 1008 TED aa
+
+DAT! = Ge/2 402 Day = Monday, CURSOR PRICE = 540 OPEN=963.75 HIGH=366 LOW=—365.75 CLOSE=564.25
+aie B PLUTO FS AOOH FAX MODE Fit
+
+CERVFL  VEHUS FZ
+
+EAR TH-SUN F2 MARS FH
+
+MUPITER FG SATURN FH
+
+URAHUS FP
+
+NEPTUHE F8
+
+hie 440.94 “23H O22 “BOSD A2L5E oO $96.34 1485 A708) Dik 7ESG L591 194.85 O.652 240.59 1.669 180.01 16.088 BHD? -1.498 Bo8.Pe
+
+101
+
+CoubeansDays3 00 CAL, beo 360 deg Planets only Sc 2 Bt: re as 15 Pi fing: 0.5
+
+j Nov Soybeans 1975
+Jupiter is at 360 degr
+
+La
+
+yh
+“y
+
+ees
+
+if
+Ay"
+r
+
+,
+wal
+
+1495
+
+11445
+
+A585
+
+1325
+
+1265
+
+4205
+
+1145
+
+085
+
+1025
+
+965
+
+905
+
+aafes 70709 qi IE TEL TED aa
+
+ED
+
+05709775
+
+CURM FL” VENUS F2 EARTH-SUH F3 MAES FA MUPITER FSG SATURN FE UR AHUS FP
+
+DATES a B5f 18225 Day = Tuesday, CURSOR PRICE = 909.998 OPEN= 1024.25 HIGH= 1023.25 tole 00%. wea CLOSE=100
+
+PLUTO FS
+
+He0H Hes MQOE Fit
+REECEMTRIC JGFE ‘ton BH.29 -$087 287.06 0.2 32459 ~L0RR 359.95 2.04 1198 “BBN Pi175 DS ahl.Pd 15P2 180.7 27.008 58.08 O.352 ged bY
+
+102
+
+relay ol aL “reo 360 deq Planets only Sc 2 Bt: 985 Tp: 1575 Pl ing: 0.5
+
+1575
+--|1525
+(1465
+|
+! I nl 11405
+t
+i | i Ma | 11345
+i 4 \
+fr if f ! [fees
+yr i l, R 1225
+| iH I
+i ar i [T-jrt6s
+rh gl rn ult
+a Ht hl Ayal 4,
+Nov Soybeans 1977 N ms
+Jupiter is at 90 degrees 4045
+: : : : : : : : 85
+02/34 s3/27 04/30 06/03 a7/a? 08/40 09/743 407 40/7?
+DATE = 08/20/74 = Saturday, CURSOR PRICE = 935 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+aay NEMS F2 EARTH “SUN F2 MARS FY JUPITER FS 0 SATURN FG URANUS FP HMEFTUHE Fo = PLUTO FS HOOH Pit NODE PL
+
+Ho 1?0.5B -3. poly TANT 0.041 247.98 OF fee -B482 69.98
+
+“UGHS THi.34 1.025 L622 DL 253.3% LAYER 23846 16.554 21716 Lea? 197.58
+
+103
+
+els
+
+ee lielh a0 TL beo 60 He Planets only Sc: 2 Bt: o50 Tp: a Pi fing: 0.5
+
+Nov Soybeans 1930
+Jupiter is at 180 degrees
+
+wll
+Py | ye
+\ iF th AP a /
+
+1450
+1570
+1310
+4250
+11190
+Ik 1130
+1070
+
+1010
+
+950
+
+ah gt tyr Hh nM
+06/05 o7/o9 03/42 09/45
+= ‘A077 eo Day = Monday, CURSOR PRICE — 994.992 OPEN= 1393.9 HIGH= 1296 LOI=134 1.5 CLOSE= 1344.2
+Bed cuRY Fi VENUS FZ EARTH-SUN F3 WARS FA AUPITER FS
+
+fo Fil NODE Fi2
+
+TAIL GROG] -2I98 274? LN BENE BP 60.G -ONGH LBD 1.099 284.55 2114 FIU5R 9.29 BBOFR LLG 200.28 18598 B472 -2.SRG 136.08
+
+Goybeansbay63/00 CAL, Geo 360 deg Planets only Sc 0.5 Bt: 566 Tp: 715.5 Pl Ang: 0.5
+
+| 713.5
+701
+1686
+Nov Soybeans 1987 | e741
+Jupiter is at 360 degrees
+1656
+| ! | (641
+“Heb
+f Y
+| I | 1611
+yh hi
+as ee LL ee Js
+| I Lay fo nye
+‘hy wal nye
+i | r h 584
+. . . . . ‘ . . . 566
+09/23 70726 11729786 04/702 02/05 03/11 04/44 05/18/87
+DATE = 93/0 Ye, Da Day = Sunday, CURSOR PRICE = noe. 124 OPEN=0.0 HIGH=0.0 LOW=0.9 CLOSE=0.0
+ir @ a RCURY F- VENUS F2 EAR THSIN FI MARS F JUPITER FG SATURN FE URANUS FF MEFTUHE F8 = PLUTO FS MBOH FLL ODE FL2
+Eta fe 336.72 3.685 1 ar BE LORS JUB3F 80 JB1 A058 359.2 1.05% 2624? 1538 B66. 92 $408 2P7.58 1.029 219.84 16859 FEG8F -L.09e 43.34
+
+105
+Haya)
+
+| 1540
+h 1525
+
+(510
+
+c
+
+Soybeans 1992 \A
+Jupiter is at 180 degrees h
+
+id
+wt
+
+ao BULB LL hate S2874 -H.85 19743 0.0 404.8 B08 170.98 LOPS Fi.BN -L.0NL BBY? -2NEE BARES O70? 29289 1408 124 On? BYFe
+
+: : : : : : : hk : 405
+03/14 ae 05/21 06/24 07/28 03/34 10/04 11/07/92
+DATE = = 40/10/92 = Saturday, CURSOR PRICE = 405.437 OPEN=0.0 HIGH=0.0 LOW=0.0 CLOSE=0.0
+RE 2, Day RENUS F2 PART THSUN FI HARS FY dUPITER FG 0 SATURN FE URANUS FP NEPTUHE FG = PLUTO FS HGBH FIL Hb Fin
+
+106
+Soybeansiayo3/00
+
+= 360 deq Planets only Sc: 0. 5 ‘Bt: "390 Tp: 937.5 PI Ang: 0.5
+
+Soybeans 1992
+
+Jupiter is at 180 degrees
+
+chart continued
+
+o57.9
+S25
+
+\ 510
+
+es
+alt
+
+I 1465
+450
+455
+1420
+
+390
+
+TED
+
+49/05 12/00/92 04/140
+
+02/43
+
+03749
+
+ais aS7 3673
+
+DATE = 907 40793
+: PLE
+
+= Saturday, CURSOR PRICE = 390.437 OPEN=0.0 HIGH=0.0 LOW=0,0 CLOS
+
+ies WENES F2
+
+ARTH-SUN FA MARS Fa AUPITER FS
+
+SATURN FE
+
+URANUS FP
+
+E=0.0
+HEPTUHE FE = PLUTO FS WOGH Fit NODE Fit
+
+“unt S28.74 -B.58 197.43 D0 10.G G05 179.98 4.078 J1L.84 -L.0N1 BRUA? “Nad She.g2 FOF 891.3 14.208 Fay Whe Bee 78
+
+107
+
+Caqheanslayet70 00 CAL, Geo 360 deg Planets only Sc. TBE 330 Tp Ter PI Ang 0.5
+
+625
+
+Soybeans 1996 J6o0
+Jupiter is at 270 degrees
+
+S70
+
+340
+
+MH th se
+
+4 hh bed
+im ih ah ye “ps0
+Hel by
+ly 1450
+4 I, pr pre
+h \e hy
+t Ht -- 1420
+i Is " I | Hh
+1390
+- 1360
+: : : : : : : : 330
+06/97 07/34 09/03 40/07 44/10 12/44/95 01/47 02/20/96
+DATE = = 01/03/96 Day = Wednesday, CURSOR PRICE = 330 OPEN=999 HIGH=904.9 LOW=547.9 CLOSE=360.5
+cuby FLO WEHUS F2 are “SUN FI MARS FY dUPITER FG | SATURN FB URANUS FP HEPTHHE FR | PLUTOFS HBOH Fit MODE Pia
+
+ff “ES Mase
+
+3018-0865 315.89 ~1.802 282.38 0.0 286.12 -1.0P8 OPD.G4 O.24i JUSGR -2.408 299.49 -9.599 BHYrd GMBH A419 4288 FRG -HOE9 2083
+
+108
+
+Day Trading the S+P with Astrological Aspects
+
+Aspects occur during and out of market hours. To use an overnight aspect, add
+either twelve or six hours to bring the time into market hours.
+
+An aspect timed for two minutes to eleven on Thursday night is used the next day
+
+at two minutes to eleven on Friday morning. An aspect at twenty past six Friday
+morning is used by adding six hours and bringing it up to twenty past twelve Friday
+afternoon.
+
+The charts that follow are from one week in March 2001. I have used an aspectarian
+to give me the exact times based on these charts which have New York time even
+though the pit is in Chicago.
+
+2 0 120132.7' 21:03 igMi20 i224 16 © 26719.6 1 24
+
+MEME Sx 1622097 O55 07> 223 YEE 17-0408 645 DOY 12:13 DEY 21-41
+DOW 759 PNT 1654 D S+ 1:56 DP 1043 PAS 1804 DOP 656 VSP 210 Dy) 558 Due? 17211 DAW 21-54
+OAD 1003 BE O85 2:12 DOD 13-51 DPR 230 OAD 7-04 47H 503 > fF 1icad OD 21-53 EY]
+Oxf 1049 0N 204D MA S45 07%) 17:07 BEER SLY e26 Oa 607 SoD 2021 Duh &24
+Do 13-57 OAD £33 DES 105 DAP 1S01 OOD 1:57 OF? 11-26 Do 124 PC ed 1-04 > 2 73
+DM 2236 NY £08 DOA 1212 DAY 21-46 PRP 4:12 OF 0 1501 FFB 11:51 DA 14 PRY LcO7 YOO 1034
+DO? 654 DY 1606 BERR OF D 1234 OQ 1614 OF 13-11 SLY 3:32 YOY 1:26 OSD 11-09
+O38 1:46 OOF 13-06 $ Sk 2045 DAH SI Doc" 1602 Dw 21208 CF | 1425 DRY 333 BAD 40K $id’ 1206
+SLY E55 DAW 1642 YF2 22-05 DLO 3-34 Dor 1814 YOR Ié41 DwY 279509) £503 5+ 1403
+Do% 432 DEC 20-43 DOC 23:27 ORD £04 DAP 2059 GAC 036 OND 1456) v 1047 DAT 42 SL 1511
+DAH 12:10 9X) 2210 ED 1 7-45 GE DAY 439 DO} 16-03 DL 11:06 OLD 15:43 9xY 2022
+23°C 13:03 BEB 09 503 SLY 812 De 47 ON G10 O'S 2245 DoF 11:25 DOW 1557 Pw! 2241
+O03 21:03) NR SIODOP 605 YAO 47 PLY 11 OSD oi DL? 2256 PL} 1631 OXY 17-00 POP 23-46
+
+3 DEP 553 COPD 1224 PA 142 OCD 147 DP & 11:37 ER DAY? 17-02 OL 1653
+DPE 44 OUD 7:06 DAY 1651 ODD 20:49 PH 1551 PLY 1211 3 X 029 Yue 22-06 PLY 1625
+DAY £59 D2 1142 DAY 17-34 POY 21:23 OH 1641 PLO 13-17 Oey 4205 DAC 23-07 Po} 23:29
+D¥P SOS DHL 17:58 PUY 1609 Cw! 21-46 9S) 22-01 Jw¥ 1642 ¥H 7-00
+BHP 7:33 DAC 256 DAY 23:02 OAR 23:17 DRY 2249 SAY 1842 VSO G45 OF) 445 > 0 401
+DAW 13:45 OXD 22-45 DM 23-03 OF Y 2016 DOA 1236 9L_A S11 07D 420
+DUP 1437 ot <460L9 450 DAA 23:10 Do¥ 106 De #10354 7:39
+OAD 1E299 05 13274 §49 vo" e349 x 1-05 BP DeeP 16-45 Jor) 15-44 Dor 17-05
+O53, 1910 TAY 525 DAZ 1250 DveY 10:28 OSD 13-28 DoY 04 BING 2216 DLY 17:33 DAY 1656
+Dxvzh 1F27 DAY 09 PAW 1600 YFP 11-49 DL 1441 OF D 446 Do 2051 OD 271-00
+OFD 21:16 OVD X04 PAP 1633 PIE 1402 DeYPis0z2O F B30 DvP 336 PHYS 21:19 De? 21-516
+Oy 21:53 DAF 1004 SHY 1653 YO! 17:26 Y Sk 1635 )S- a49 ve S16 Oo? 23:17
+
+DPY 13-56 OSD 23-12 DOW 23:45 YL Y 21:12 DRY 17-50 DOS 653 PEC 10 ET)
+
++E 32407) 1626 DO» 2336 BT E Pe 22-00 DxXE 1843 Do 11:12 Cyee2 S57 Fay o54
+O1D 646 DH 17:26 RE OAD 1:47 BB $49 1659 OS 11:46 DvwA 938 DerPP £20
+SEY 603 DOH 2250 Se 133 DFP £13 0S 00 OLD 1903 9 4 1403 Yup gaz POY 1423
+2é2 926 EE > * 1:40 SOY 7:19 Pwo" 539 PRC 2057 ONY 1529 OW) 253 Pero" 1615
+DEY 1534 Ovo 41 DRY £51) 2 13:16 DWE s42 Du 22-22 O10" 1043 OAD 20000
+
+109
+tO)
+1255.00
+
+1250.00
+
+1245.00
+
+all ot | — ee
+| Hr 1. L oo
+
+| 42:1 1225.00
+
+mine a] | .
+Mh in i 10,32 1220.00
+
+LU 1
+
+|
+
+12 13 14 15 16
+
+12 13 14 15 16 10 11
+03-02 Friday 03-05
+
+Only the aspect at 12.10 took place during market hours the rest were exactly six or
+twelve hours before.
+
+110
+11.08
+
+10.33
+
+AM
+
+all the other times were
+
+previous
+
+r twelve hours
+
+from six 0
+
+The 1.08 aspect was the only one during market hours
+
+echoes
+
+111
+E-tint S&P S00 (Man 20013, & minute : : Ae fee : Quote.com
+
+1270.00
+
+| | 11.53
+| h al My Hill 4285.00
+
+mt My al My Ine
+i
+
+M ‘tT
+it an Rezo
+11.42
+
+lh cos
+
+TF
+
+12 43 14 15 16 10 1 12 13 14 15 16
+03-06 Tuesday 03-07
+
+es
+=)
+5
+—
+ae
+
+112
+11.25
+12
+
+E-Mini S&P 500 ¢Jun 2001), 8minuie
+
+of 22 duote.corm
+
+hh i 1280.00
+i ee
+| Pig hil me
+1270.00
+1265.00
+th 1260.00
+| 12.03
+\ | 1255.00
+vy LAT iat Hl | 1250.00
+ol po Al Hl
+12:24 ‘Hy }
+11.03 |
+eS pata erigay)
+
+115
+Summary of the Fixed Cycles used in Part One
+
+U.S. Bonds - Venus Heliocentric 56, 176, 296 degrees
+
+U.S. Bonds - Mercury conjunct, square or opposite Jupiter
+S+P -Heliocentric Venus 120 degrees or conjunct Uranus
+S+P - Venus and Mars separated in steps of 30 degrees
+Wheat weekly charts — Sun conjunct Saturn
+
+Soybeans weekly charts - heliocentric Venus 120 degrees or conjunct Jupiter
+Venus or Mars ingress - All Markets
+
+Time by Degrees -Sun in 30 degree multiples- All Markets
+
+Planets by Degrees - Jupiter every 15 degrees both helio and geocentric, All Markets
+Summary of techniques used in Part One.
+
+Retrograde — Direct planets — All Markets
+
+Repeating Aspects — All Markets
+
+Transits to Natal charts — All Markets
+
+116
+Chart Patterns
+
+Pattern 3
+
+Pattern 3
+
+A pattern 3, which is a five wave triangle, is a highly
+reliable end pattern and occurs frequently. Wave ais by
+far the longest price wave. Wave a may consist of three
+waves or five waves.
+
+Wave b, wave c, wave d and wave e
+e will have similar price range,
+e will possibly skew, and
+* will show similar subdivisions.
+
+Wave e will be very brief timewise unless wave e is in
+itself a smaller five wave triangle. The entry to a pat-
+tern 3 is a break of wave d.
+
+a. c Cc
+WAV
+‘
+
+Aa An
+as b d ¥ ms
+r mA
+! a 1 A
+
+\ \
+
+; . / ‘
+1 ‘ i ‘
+
+i
+
+’ B
+
+Stop loss
+
+Sell
+Entry
+
+117
+
+This is a useful pattern to monitor, the following charts are examples showing both
+clear pattern 3 samples and also “fuzzy” examples that I personally class as a
+pattern 3.
+
+1410.00
+
+foe
+ii | ff, i! 1400.00
+Pe
+
+mt } Pattern 3 Emini ,
+
+1209613 14°45 46:40 44. 12 413 944 15. 461-910
+05-23 Tuesday. ‘ : 05-24
+
+Ig
+
+—c
+
+CME:SP992Z (Delay 0}, 60 minute
+
+Looe eeececcce eee ececceecseeseeceeeaaneeeceareseeaaecescnaeeteneeesetaa[tteeeenpeees . 4430.00
+Lecce ceceeeeseceeeeee see eeeeeseseeeeeteee sai eeeeeeesaeeiaereaeetea ee | 44 420.00
+Lecce ceceeceeeceeeececeecceeuecseaseenseteneecsecsesttsetecea| cee] ccecscecseeceeeeeeanetenerees 1 ! 44410.00
+
+: 1407.00
+
+Lecce cececceeeceeeeeceeeeceeteeteeescenseteesceeeeeea | [PELL cc ccccsseeeeeccceeteeeeveneseeaeseaeeeasersaeessaeseseceeaeeede 1400.00
+
+Le cccscececeesfeceeceeceeccepeceecscstececceecse| [tec ceeceeeeseceeceeeeeeeeesessestreeeeeeeeeeeeeestenstssettereresttersertllereeeeeeed 1390.00
+i bocce dene eeceeeeceaeeeeeeeeaeeeceeeecaeeeseneeecasaeeeseeescuseesieteeneeaaes vieeeeneed 1380.00
+cee eed detec ccgueeeceeceaeeesaeaeeeectaneesencueeeeeesassegeeecnaeeeesevsieeeeeiseerenieees jesse 370.00
+cee ceeeeee esse eee ceeecceaecnuaeecseeeceaeecenseeecteeeseeeeseeessaeecseescteseeeeeeesaeeseseieeseqseniseeeneeeneeeas feos 360.00
+3 15 59] 75
+Dec
+
+118
+ie 1.4590 1.4922 .60'Min Bar -6-Dec-2000->13-Dec¢2000
+
+' (A 2 _.
+i. ei 1800
+
+5 °4.4450
+
+wht
+
+ogi? OTaz ose 4442 42Nt2 432
+
+119
+“hy c
+; f e 4.5650
+1
+at "HF _ Hy
+L | lL | 1.5600
+P yr "|
+if L
++5550
+4.5500
+Pattern 3 result British Pound
+FT 4.5450
+” wl
+ie 15322
+| 1.5400
+|
+2 215-30 3. 3/1530 4 4th15-30
+Way
+
+aun 02/09/2001 C=4563 -? O=4575 H=4585 L=4530 V=0 Mov Ave lline 4746 Bollinger Bands 4317 4575
+i x ae 5100
+1
+“tt 1; “Pash N sone
+pee pry -
+\| —_— ——lh, | ; _
+‘Ola 13° =
+Hilla SO ly
+} I bt = os {Ht hh 4800
+hae a ee
+H t ii | } heen J 2 q 4700
+Hy! F NN ie H
+H Ht {---4600
+| pay ai
+<< £ 4500
+P tR 3.85
+i \ / \ a A A A QP ' i ‘. . 5
+| yd VARA ARR i a aa \
+‘ oe I YO ae Nf ae
+RSI 23.76
+30
+
+120
+
+Gow Jones Industrial Average (sim), 10 minute: -
+
+Qugiecom
+
+10920.00
+
+10900.00
+
+10880.00
+
+—
+
+=
+
+10860.00
+
+10840.00
+
+— =
+——
+—
+
+10820.00
+
+10800.00
+
+10780.00
+
+ot
+
+|
+i:
+
+| 10740.00
+
+a
+
+12
+
+14
+
+10 12
+02-15 Thursday
+
+14
+
+10 12
+02-16 Friday
+
+14
+
+10 12
+02-20 Tuesday
+
+14
+
+10
+02-21
+
+121
+122
+que
+
+i yep
+rep
+
+a) —aE
+a
+
+aan 08
+fh Ky
+| it ! | |
+fo he aly? ss
+Ai Wi
+Mi / | | aan
+yh
+
+Can you see the pattern 3?
+
+125
+Pattern 3 can be a high or a low.
+
+There was a pattern 3 high at the beginning of the chart on the 5" and 6"
+as well as the low marked as it was in progress.
+
+EUR-USD (ie eeeaeeeceee O.0507 0.8413 6O'Min Bar 5-Jun-2004->12-Jun-2004
+
+5 0.8550
+
+I 0.8500
+
+My ? Ay 460
+tha
+oe bee brs bers T7708 i h
+
+@ 1999-2000 Tradermade Intemational Ltd. All Rights Resenred.
+
+This was the result of the lower pattern 3 on the hourly Euro Currency Unit.
+
+Wk
+
+9 0.8500
+
+4 0.8450
+
+ya
+
+OG/06 OF 06 o8/06 441/06 412006 413/06
+@ 1909-2000 Tradermade Intemational Ltd. All Richt: Reserved.
+
+126
+The Swiss Franc hourly chart shows two examples of pattern 3 as a low.
+
+The second example is valid but it would be better to trade the more obvious
+examples until you have a lot of experience working with the pattern.
+
+USD-CHE [ibe ere cea e sig
+
+1.7292 -41.6909 60 Min-Bar 4Deo¢2000->11-Dbeo2000
+
+Me Ml acle | i
+
+ht | f lh, i :
+wih, ;
+
+naz O5/12 OBZ oFM2 os? 4AM2
+@ 1999.2000 Tradermadetntermational Lid. All Rights. Reseed.
+
+GBP/USD., 1 hour, # 300
+
+30Jul 31Jul O1Aug O7FAug O8Aug 09Aug 10Aug
+
+Augi200 4
+
+25Jul 26Jul 27 Jul O2Aug O3Aug OBAUg
+
+1.4372
+1.4360
+1.4347
+1.44334
+1.4322
+4.4309
+4 A207
+41.4284
+| AQF 4
+1.42659
+1.4248
+
+741.4233
+
+4.42214
+1.4208
+1.4195
+4.4183
+4.4170
+4.4158
+4.4146
+4.4132
+4.4120
+4.4107
+
+In this chart of the hourly British Pound there is a pattern 3, can you see it?
+
+127
+
+GBP/USD., 1 hour, # 300
+
+1.43972
+1.4960
+4.4347
+1.4334
+1.4922
+71.4309
+hy 1.4297
+| 4.4284
+fa eee | on || Oana Him. 420 4
+Hl 1.4250
+
+h Uf 71.4246
+1.4233
+71.4224
+1, ”) 4 Hy 1.4208
+l 4.4195
+
+; 4.4183
+i 1.4170,
+F 1.4158
+7144146
+5 1:32
+
+1 3 4.4120
+
+4.4107
+
+n rn
+
+25Jul 26Jul 27Jul 3Osul 34dul O1Aug O2Aug O3Aug O6Aug OFAug Oo8Aug O8Aug 10Aug
+Aug/2004
+
+128
+
+Failed Signals
+
+The following charts demonstrate trend line breaks that work well or fail.
+
+When a break of a trend line or a well defined support-resistance point breaks and
+then the market reverses back in its original direction this failed break is in it self a
+signal to get back on the original trend.
+
+When the breakout price bar shows a large range this bar can be used as a stop
+and reverse level. If the breakout bar just drifts through the trend line it is much
+more risky and stops have to be under the recent congestion area.
+
+Also the larger the time frame the more reliable the signals and profit potential.
+These charts haven’t got every break or failure marked for clarity so you will find
+other valid examples on the same charts.
+
+Fri Mar 03 13:02 Dynex Currency - Opal Asset Management Monaco Tel +377 93 30 57 96 USDACHF hourly
+1.70
+
+4 6829
+18633
+1 Bore
+1 BRS
+
+4 8597
+
+1.69
+
+1.68
+
+11.87
+
+1.86
+
+[1.85
+
+*
+
+PG an : Breakout >"
+hho eae Loo, re ne re ee 1.64
+
+1.63
+
+28102 29/02 01/03 02/03 03/03
+
+129
+Thu Oct 28 00:12 Dynex Corporation - Contrarian Forex Portfolio Manager USDICHF Daily
+1.60
+
+1.48
+
+4.46
+
+1.44
+
+130
+coe Gaiote.com
+
+Soybeans Guegoot(Delayi0h @minutle
+
+H 452
+
+PS i Wr
+7 P| Breakout [ea
+i ! {—~
+th lyf y i (hy a FH Nr : 444
+
+fl i Failute ll
+
+| 440
+
+Ale 436
+
+| IL
+
+14) 11 12 13 14 11 12 13 14 11 12 13 14
+05-14 Monday 05-15 Tuesday 05-16 Wednesday 05-17
+
+131
+Com Gul20ol) iDelayi0} 120 minuie
+
+232
+
+IN
+Me
+i
+
+228
+
+1 |
+
+WBN
+N\
+
+224
+
+1 rn
+PedKOuUrL
+
+|
+
+220
+
+HT
+
+216
+
+212
+
+Pi
+
+204
+
+12 20 «26
+
+5 12 19 26
+
+Mar
+
+133
+Organization
+
+The purpose of good organization is to,
+
+a) Keep you focused.
+
+b) Tell you when you are likely to trade.
+
+c) Make sure you never miss a trade.
+
+d) Keep you aware of your current financial position.
+
+Your organization is in two areas, business management and trading.
+
+Business
+
+a) Keep a daily ledger showing the current state of your trading account
+including cash and open positions.
+
+b) Graph your equity weekly.
+
+c) Check your brokers statements every time you receive them.
+
+e) Write down all your orders to your broker and log the time and date they were
+placed.
+
+f) Tape all your telephone conversations with your broker in case of later disputes.
+
+Trading Routine
+
+a) Getting your price data.
+b) Updating your time cycle data.
+c) Reviewing your charts with your trading methods.
+d) Writing down your trading plan which consists of
+l.entry 2.exit 3. stop levels.
+e) print price charts of your trades marking entry and exit, note why you traded.
+
+On the following pages I have reproduced part of a trading routine that you could
+modify to suit your situation. A good idea is to laminate a print out of your routine
+and keep it at your desk for reference as you work.
+
+The second page which is a list of your markets can be printed fresh each day so
+that you can add your notes on current cycles, price levels for entry, exit and stops.
+It is a simple tool but it certainly helps clarify your mind and allow you to focus on
+your trading.
+
+134
+Daily Routine
+
+Data Collection
+5 minute Charts SP
+
+SP
+
+Cc
+
+N)
+
+WwW
+
+Bonds
+metastock conversion
+
+Market Analysis
+
+Trend line hits on 60 minute charts and failure to go through
+Confirmed Trend line breaks on 60 minute charts
+Failure signals
+
+Triangle patterns
+
+Pattern 3
+
+Congestion break out
+
+Elliott Wave on the currencies
+
+50% retracement levels
+
+Contract month divergence
+
+Time cycles Due today
+
+Check forecast
+Sunday -Update astro wheels for every market and add to folder
+
+135
+SP Trading Plan
+
+OEX Trading Plan
+
+SF Trading Plan
+
+BP Trading Plan
+
+Bonds Trading Plan
+
+Corn Trading Plan
+
+Soys Trading Plan
+
+Gold Trading Plan
+
+136
+What is Realistic
+
+I will assume that most traders enter the markets to make money rather than the
+other possible reasons of a more psychological nature
+
+Traders tend to focus on entry and exit methods rather than risk reward, also they
+tend to over estimate the amount of money they can earn from the amount of capital
+that they have available.
+
+How many points do you need to make $ 500
+
+Emini 10
+Currencies 40
+Grains 10 cents
+Gold § dollars
+Bonds 16
+
+Stocks 5
+
+OEX options 5
+
+How many points do you need to make $ 1000
+
+Emini 20
+Currencies 80
+Grains 20 cents
+Gold 10 dollars
+Bonds 32
+
+Stocks 10
+
+OEX options 10
+
+How many points do you need to make $ 5000
+
+Emini 100
+Currencies 400
+Grains 100 cents
+Gold 50 dollars
+Bonds 160
+
+Stocks 50
+
+OEX options 50
+
+137
+How many points do you need to make $ 10000
+
+Emini 200
+Currencies 800
+Grains 200 cents
+Gold 100 dollars
+Bonds 320
+
+Stocks 100
+
+OEX options 100
+
+How many points do you need to make $ 100000
+
+Emini 2000
+Currencies 8000
+
+Grains 2000 cents
+Gold 1000 dollars
+Bonds 3200
+
+Stocks 1000
+
+OEX options 1000
+
+All of the above calculations take no account of business overhead such as
+Commissions
+
+Losing trades
+
+Data feeds
+
+Telephone
+
+Computers
+
+Rent
+
+Taxes
+
+On the next charts I’ve marked the sort of moves possible in the markets so you can
+compare them with the number of points you need to make for different monetary
+goals.
+
+Two immediate conclusions can be drawn from this,
+
+don’t leave your day job until you have plenty of trading experience and
+
+you will need to eventually trade multiple contracts to make any kind of decent
+living.
+
+138
+RECU 1-Daily 08/31/2001 C=90970 -75% O=91440 H=91570 L=90640 V=0 MovAvglline 90438 Bollinger Bands 93010 87866 ~— Losqgg
+Poem’
+— 94000
+Euro Currency
+a 93000
+—— ‘ - { 92000
+1 S *. te Thea { 91000
+J No. eo cents Approx 9 cents rey
+- tt o
+z 1 ath ths" ov er Sar’ 90000
+I ': J ms ~ i Rui rn aq “oO 89000
+¥ Mey u
+hy l i r | u ~ ; | LY
+A alias ht 8000
+< 4-8 7000
+cs “ 86000
+04
+a 85000
+84000
+PercentR 36.14 100
+yes AA an aa LX PO. F
+po PM peo et f J SA tse
+Ami wf WA \, fos, ne Vy nw rc ¥ me
+a we LL 4 Vom? Semen, ed “ ywnZ
+RSI 61.73
+
+RGCV1-Daily 08/31/2001 C=2751 -18 O=2763 H=2765 L=2735 V=0 MovAvglline 2748 Bollinger Bands 2808 2688
+
++3000
+Approx $30 2950
+overs days vane
+Approx $16
+over.3.wee $950
+4 ——+-2800
+iH
+es 4 Hts ttl ose
+\ pg
+: 1-1 i 2700
+a <= { : >
+i ptels os, “Th! : ad Y “
+7) pa : : ao 2650
+T } +1 sa
+=> 2! an 2600
+ae
+Percent R 43.35 a"
+YY i Nn f My i % pm A 2 caus Ayer at
+‘ not A i oe soon mt ‘ ey 50
+: ' a 5 ‘ ’
+\- a f- Va LA. aw Af SS
+RST 53.42
+
+139
+
+RIYUi-Daily 08/31/2001 C=8432 +39 O=8439 H=8455 L=8399 V=0 MovAvglline 297 Bollinger Bands 8483 8110
+
+*
+
+ae
+
+~Approx 6cents
+__over 5 weeks
+
+ral “sy, fe i a oN? \
+Sat Wet 7 Lat ¥ Xeon tnd are NE LS
+
+RSI 65.87
+
+RSPUI-Daily 06/31/2001 C=113550 +620 O=113000 H=114400 L=112750 Ve0 Mov Avg lline 117935 Bollinger Bands 122014
+Ss , 136000
+\ Approx 200 points S¥P 500
+—~ over 2 months
+132000
+\
+s *, 128000
+\ \
+124000
+\ 5
+| os
+3 fs, 120000
+YI clays
+“LS
+po 116000
+1 h
+_ I 112000
+a, eet
+Percent R 5,34
+A afr AA pe, my ‘, “ - 100
+Pa . i \ ra ‘f Us Hl ey { \ Aydt ~~ 7 } 6p
+i iv wa ms, 2 % Po Pi ; . ii
+{ i Vy SK NA FN A] MG Lama dS
+aA! Le a Ve Ved aa a
+RST 32-2
+30
+hm 60
+ae NN NTO ee 30
+
+HLOMEGA RESEARCH
+
+140
+
+SXI-Daily 08/31/2001 C=486"0 +5°0 O=482"4 H=487°0 L=479°4 V=0 MovAvglline 494°5 Bollinger Bands S1A“§  470°4
+Approx-$4——_—_§!——-537"4
+
+over-_month 525
+iy
+ELL a
+i ny 512°4
+oft | 500
+
+_ SC SOYbeans
+= 7 475
+L f a
+| ss ; 46274
+Jyyt ~ 450
+“yl
+1 al if 43774
+Su
+: 425
+4124
+a8
+Percent R 61.94 _ nN _ AL L100
+# A £N wo “i iw of iy 4 i’ \ vi ‘.. t i \ x “ “ £50)
+na A Nad vi \ VA Ff VSN a.
+fot FOS VY Vi nel Nad . Yee
+
+RSI 47.08
+
+1-Daily 08/31/2001 C=232"2 +2°2 O=230°4 H=232%6 L=229°4 V=0 MovAvgiline 230°0 Bollinger Bands 236°0 22470
+
+aon
+
+prox 45 cents
+overt-month
+an cnt 23F A
+t
+1g ttle
+ez | +225
+| H a
+es
+£ 2124
+é
+f
+f 200
+CORN 7
+\, ee
+Percent R $2.72 _— 100
+“ & a. ; na nd a
+fs 4 Av MANY _ é SA ‘ fy f ', fi fax 59
+qT a E rf rf
+rn ra ™, i \. Ae Lops, oe ¢ Los f wea ml VA ¥
+MU OY ne a Lh AA Le Ne v ¥
+RSI 94.86
+
+141
+A Glossary of Astrological Terms
+
+Air: One of the four Elements. (Fire, Earth, Air, Water)
+
+Applying: When the distance between two Planets in aspect is narrowing towards an
+exact aspect, the aspect is said to be an applying aspect. An orb of 179 degrees would
+be moving toward [applying aspect] the exact aspect value of 180 degrees and an orb
+of 182 degrees would be moving away from [separating aspect] the exact orb of 180
+degrees.
+
+Ascendant: Follow the horizontal line on the natal chart wheel to the left where it
+intersects with the wheel. The Zodiacal Sign located here on the Cusp of the first
+House is the Rising Sign, and this sign and its number of degrees are called the
+Ascendant. It represents your way of expressing yourself in action. This is one of the
+four main horoscope angles of the chart wheel, which are considered sensitive
+points. These four angles are located at the very leftmost point (Ascendant), the very
+rightmost point (Descendant), the top (Midheaven or MC), and the bottom (Nadar
+or IC [Imum Coli]) of the chart wheel.
+
+Aspect Configurations: Patterns of aspected Planets, such as a Stellium, Grand
+Trine, Grand Cross, T-Square, or Yod. These patterns point to major issues,
+talents, and challenges within one's nature.
+
+Aspect: The angular separation between two bodies, measured along a great circle,
+is termed Aspect. Each one of a set of specific number of degrees has an Astrological
+name and symbol and describes a way in which the energies of the two bodies
+influence each other. In additions, certain groups of aspects have specific names
+
+eg Stellium, Grand Trine, Grand Cross, T-Square, Yod, etc
+
+Asteroids: The effects of the Asteroids have been studied, much as the effects of the
+Planets, and they may well be the remains of an exploded planet. Ceres, Pallas,
+Juno, and Vesta were the first four asteroids discovered, but there are hundreds.
+
+Astrological Chart: Any chart calculated for a specific time and place. A Natal chart
+is calculated for the time and place of a person's birth: A Transit chart calculates
+the position of the Planets at a specific time and place (such as an specific event). A
+Progressed chart calculates the position of the Planets at specific time and place and
+places these "progressed" positions of the Planets within the Natal chart. This gives
+valuable information on how the present positions of the Planets are affecting any
+person's unique natural patterns.
+
+Astrological Sign: There are 12 Signs of the Zodiac.
+
+142
+Benefics: An old term applied to the Planets Sun, Venus, and Jupiter by traditional
+Predictive Astrology;thought to bring "good luck".
+
+Birth Data: The personal information required to calculate a Natal chart; the year,
+month, day, exact time, and geographical location of a person's birth.
+
+Cardinal: The four basic Elements (Fire, Earth, Air, and Water) can each act in one
+of three basic ways, or Modes,Cardinal, Fixed, or Mutable.
+
+Chart Ruler: The Planet that rules the Sign on the Ascendant of your Natal chart is
+called the Chart Ruler and ts placement in your chart strongly affects all other parts
+of the chart.
+
+Chiron: A minor Planet discovered in 1977, Chiron is located between the orbits of
+Saturn and Uranus. It appears to be associated with expanding consciousness and
+powers of healing and properties like the Moon.
+
+Daily Motion: Each Planet moves at a different speed through the sky and each has
+an average amount of movement per day.
+
+Descendant: The point in a natal chart opposite to the Ascendant.
+
+Declination: The number of degrees a body is North or South of the Equator is its
+declination. Parallels are aspects in declination, and the effect is considered to be
+similar to a conjunction.
+
+Detriment: (see below, Dignity:)
+
+Dignity: A Planet's dignity basically refers to the strength of its position in the chart.
+A Planet is strong, or said to be Dignified, when in a sign that it rules it is said to be
+
+exalted when in specific signs, or to be in its fall or detriment when in other certain
+signs.
+
+Elements: Fire, Earth, Air, Water.
+
+Fixed: The four basic Elements (Fire, Earth, Air, and Water) can each act in one of
+three basic ways or Modes, Cardinal, Fixed, or Mutable.
+
+Geographical Coordinates: The geographical coordinates, the longitude and latitude
+of a geographical location, are necessary to construct a chart and may be found in
+an Atlas.
+
+Geocentric Planets: As seen from the center of the planet.
+
+Glyph: An astrological symbol. Throughout this booklet you will see the glyphs for
+the signs of the Zodiac, for the Planets, and for aspects.
+
+143
+Grand Cross: An aspect configuration in which four planets form four squares and
+two oppositions in the chart. This configuration shows inner power and strength,
+and where and what will intensely challenge them to be developed.
+
+Grand Trine: An aspect configuration in which three planets are trine each other,
+usually in the same element.
+
+This configuration indicates an easy energy, "good luck" without effort. If no other
+aspect challenges here, there may be an inclination to move on one's charm or luck
+rather than to develop inner potentials.
+
+Heliocentric Planets: As seen from the center of the Sun.
+
+Horoscope Angles: There are four main horoscope angles in the chart wheel, which
+are considered sensitive points. These four angles are located at the very leftmost
+point (Ascendant), the very rightmost point (Descendant) , the top (Midheaven or
+MC), and the bottom (Nadar or IC [Imum Coli]) of the chart wheel.
+
+House System: The band of sky in which the Planets move is called the Zodiac. The
+Zodiac is divided into 12 signs, each of which contains 30 degrees (1/12th of a circle).
+Each sign represents a specific energy pattern and has a corresponding House. The
+House represents the field of experience, the arena, in which the energy pattern
+
+of the Sign acts in your life. Each House has a Planet which is its natural ruler and
+your Natal chart will have your own planet that rules each sign.
+
+There are at least fourteen methods of calculating houses. The methods are named
+after the inventors of the system. Some of the most used house systems are; Koch,
+Campanus, Placidus, Equal, Porphrey and Eridan.
+
+IC: See Nadir:
+
+Kite: An aspect configuration where a Planet opposes one of the Planets in a Grand
+Trine. This opposing Planet can supply the challenge and the channel for the Grand
+Trine energies.
+
+Malifics: Old time predictive astrology considered Mars and Saturn to be bad luck.
+If you do not work with the insistant energy of these Planets, the friction caused by
+your resistance can be felt in your life as pain, bad luck, etc., but it's as much the
+lack of awareness that causes the problem as it is the energy pattern itself.
+
+Midheaven (MC): One of the four mundane points in the chart, the midheaven is
+located at the highest point overhead; the cusp of the 10th house.
+
+Mutable: The four basic Elements (Fire, Earth, Air, and Water) can each act in one
+of three basic ways, or Modes, Cardinal, Fixed, or Mutable.
+
+144
+Mutual Reception: When each of two Planets is in the Sign ruled by the other, a
+relationship is formed that acts much like a conjunction. (example; The sun [ruled
+by Leo] is in Cancer and the Moon [ruled by Cancer] is in Leo.)
+
+Nadir (IC or Imum Coli): Cusp of the 4th house. This is one of the horoscope angles.
+The IC is thought to be a transformation point in the chart.
+
+Natal Chart: An Astrological chart calculated for the time, date, and geographical
+location of a specific person.
+
+Native: A term sometimes used by astrologers to refer to the person for whom a
+reading is being given.
+
+Node: The location of the nodes can be calculated for each planet, but in practice the
+term usually refers to the North and South nodes of the Moon. The Location of the
+nodes of the moon give information about our life's work. The North Node
+represents the ideals toward which we are moving, and the South node represents
+the gifts we bring from the past; the things that we already know how to do well.
+
+Orb: The number of degrees from exact allowed for an aspect.
+
+Part of Fortune: A calculated point in space said to indicate, by House placement,
+where a person's talents lie.
+
+Planet Positions: The Sign and House position of a Planet within an astrological
+chart.
+
+Progression: The Natal horoscope reveals the energy patterns imprinted on us at the
+time of birth. There are several methods by which the planetary positions are moved
+(progressed) forward (or backward) in time, and their energy patterns can be seen
+to activate Natal patterns. This Technique shows inner growth potentials.
+
+PRIMARY PROGRESSION: One degree is added to the natal Planet's position for
+each year of real time.
+
+SECONDARY PROGRESSION: One day's planetary movement equals one year of
+real time.
+
+Quadrant: The circle of the 360 degree chart is divided into four quadrants. Each
+quadrant represents an arena of experience. First equals intuition, second equals
+emotion or feelings, third equals sensation and fourth equals thinking.
+
+Relocation: The computation of a chart for a given time, using a different
+
+(relocated) longitude and latitude. (For example: if one lives in a different place than
+the birthplace.)
+
+145
+Retrograde Planets: When a Planet appears to move backward as seen from the
+earth it is said to be retrograde. This will be marked on a Natal Chart, for example,
+by a R after the Planet, sign, and degrees notation. The energy patterns of a
+retrograde Planet tend to be experienced more on an internal level than those
+experienced by direct movement.
+
+Ruler: Each Sign of the Zodiac and each of the 12 Houses are associated with a
+specific Planetary energy, and is said to be ruled by that Planet. The Planet that
+rules the sign on the Ascendant is called the Chart Ruler.
+
+Separating: When the distance between two Planets in aspect is widening away from
+the exact, it is said to be a separating aspect.
+
+Sidereal Zodiac: The measuring system in which a Planet is measured in
+relationship to a background of fixed stars.
+
+Solar Arc: An angular distance between the Natal Sun and the secondary
+progressed Sun that is used for a technique called solar arc directions.
+
+Stellium: An aspect configuration where at least 4 planets are located within 8
+degrees of the next Planet, and in the same Sign, indicating a strong area of focus in
+the chart.
+
+Synastry: The art of chart comparison between 2 people in order to understand
+relationships.
+
+Transiting Planets: Transits refer to the current position of the planets. These
+positions relative to the Natal placement of Planets give information about what
+energy patterns in the Natal Chart are now being activated.
+
+T-Square: A configuration of Planets in aspect; two opposing Planets are square a
+third Planet. All are usually in the same mode. This configuration indicates a high
+degree of motivation and ability to achieve, and a difficulty staying balanced. The
+focal point of the aspect holds the key to what issues are involved.
+
+Tropical Zodiac: The measuring system in which planetary longitudes are
+measured against the point in the sky where the Sun is on the first day of Spring.
+This is the system most used in Western Astrology.
+
+Uranian Astrology: A system of Astrology that uses sensitive points in the chart to
+understand the horoscope. In addition to the traditional sensitive points (Sun,
+Moon, Planets, Ascendant, Moon's Nodes), this system also uses the Transneptunian
+Planets, midpoints, and a 90 degree wheel. The Transneptunian Planets are;
+Cupido, Hades, Zeus, Kronos, Appollon, Vulcanus, and Poseidon. This system
+appears to be particularly effective in Medical Astrology.
+
+146
+Vertex: An experimental horoscope angle, or sensitive point. As the horizon divides
+the chart into up and down, the vertex divides it into back and front.
+
+Zodiac: The band of sky in which the Planets move is called the Zodiac. The Zodiac
+is divided into 12 signs, each of which contains 30 degrees (1/12th of a circle). There
+are two Zodiac systems, the Tropical Zodiac and the Sidereal Zodiac.
+
+Tropical Zodiac: The measuring system in which planetary longitudes are measured
+against the point in the sky where the Sun is on the first day of Spring.
+
+Sidereal Zodiac: The measuring system in which a Planet is measured in
+relationship to a background of fixed stars.
+
+147
+First Trade Dates
+
+NYSE
+Alcoa (AA) - 6/11/51 10:00am EDT
+Allied Signal (ALD) - 9/19/85 10:00am EDT
+American Express (AXP) - 5/18/77 10:00am EDT
+AT&T (T) - 9/4/01 10:00am EST
+Bethlehem Steel (BS) - 2/27/36 10:00am EST
+Boeing (BA) - 9/4/35 10:00 EDT
+Caterpillar (CAT) - 12/2/29 10:00am EST
+Chevron (CHV) - 6/24/61 10:00am EDT
+Coca Cola (KO) - 9/26/24 10:00am EDT
+Disney (DIS) - 11/12/57 10:00am EST
+Dupont (DD) - 5/25/22 10:00am EDT
+Eastman Kodak (EK) - 4/12/05 10:00am EST
+Excel Communications (ECI) - 5/10/96 9:30am EDT
+Exxon (XON) - 3/25/20 10:00am EST
+General Electric (GE) - 5/27/26 10:00am EDT
+General Motors (GM) - 12/20/16 10:00am EST
+Goodyear (GT) - 8/5/27 10:00am EDT
+Intl. Bus Machines (IBM) - 2/14/24 10:00am EST
+International Paper (IP) - 6/23/41 10:00am EDT
+J.P. Morgan (JPM) - 4/1/69 10:00am EST
+Mcdonalds (MCD) - 7/5/66 10:00am EDT
+Merck (MRK) - 5/15/46 10:00am EDT
+Minn. Mining & Man. (MMM) - 1/14/66 10:00am EST
+Philip Morris (MO) - 3/15/23 10:00am EST
+Procter & Gamble (PG) - 9/12/29 10:00am EDT
+Sears (S) - 3/3/10 10:00am EST
+Texaco (TX) - 10/28/26 10:00am EST
+Union Carbide (UK) - 3/1/26 10:00am EST
+United Technologies (UTX) - 9/5/34 10:00am EDT
+Westinghouse (WX) - 5/11/45 10:00am EDT
+Woolworth (Z) ~- 6/18/64 10:00am EDT
+
+Nasdaq
+Amazon.com (AMZN) - 5/15/97 9:30am EDT
+Apple Computer (AAPL) - 12/12/80 10:00am EST
+At Home (ATHM) - 7/11/97 9:30am EDT
+DoubleClick (DCLK) - 2/20/98 9:30am EST
+E*Trade (EGRP) - 8/16/96 9:30am EDT
+Excite (XCIT) - 4/4/96 9:30am EST
+Infoseek (SEEK) - 6/11/96 9:30am EST
+Inktomi (INKT) - 6/10/98 9:30am EDT
+Intel (INTC) - 8/7/81 10:00am EDT
+
+148
+Intervoice (INTV) - 5/8/85 10:00am EDT
+Lycos (LCOS) - 4/2/96 9:30am EST
+Microsoft (MSFT) - 3/13/86 9:30am EST
+Sportsline (SPLN) - 11/13/97 9:30am EST
+Yahoo! (YHOO) - 4/12/96 9:30am EDT
+
+149
+Futures and Options Glossary
+
+Commonly Used Terms
+ABANDON: The act of not exercising or selling an option before its expiration.
+
+ADVANCE/DECLINE LINE: The total of the difference (daily) between the
+number of advancing and declining stocks.
+
+ACTUALS : The actual commodity, not the futures contract.
+
+ARBITRAGE: The simultaneous purchase of one commodity against the sale of
+another with the hope of profiting from distortions in normal price relationships.
+
+ASSIGNMENT: The receipt of an exercise notice by an option writer (seller) that
+obligates him to sell (in the case of a call) or to purchase (in the case of a put) the
+underlying security at the specified strike price.
+
+AT THE MARKET: Orders which are to be executed immediately by the floor
+broker at the best possible price.
+
+AT THE MONEY: An option is at the money if the strike price of the option is
+equal to the market price of the underlying commodity.
+
+BACK TESTING: Refining a system on historical data and applying it to new data
+to see how well the strategy works.
+
+BASIS: Point difference over or under a designated future at which a cash
+commodity is sold or quoted.
+
+BEAR: One who believes prices will decline.
+
+BEAR MARKET: A market characterized by declining prices. Generally
+considered to be a 20% decline.
+
+BEAR TRAP: A false signal which would make one believe that the upward trend
+of a stock or commodity has reversed , when in fact it has not.
+
+BID: An offer to buy a commodity that is subject to immediate acceptance.
+
+BOLLINGER BANDS: Trading bands above and below a simple moving average.
+The standard deviation of closing prices for a period equal to the moving average
+employed is used to determine the band width. This causes the bands to tighten in
+quiet markets and loosen in volatile markets. The bands can be used to determine
+overbought and oversold levels, locate reversal areas, project targets for market
+moves, and determine appropriate stop levels.
+
+150
+BULL TRAP: A false signal which would make one believe that the downward
+trend of
+a stock or commodity has reversed , when in fact it has not.
+
+BUYING HEDGE: Going long positions equal to the amount of the cash commodity
+which will eventually be needed for production.
+
+BUY ON CLOSE: To buy at the end of a trading session at a price within the
+closing range.
+
+BUY ON OPENING: To buy at the beginning of a trading session at a price within
+the opening range.
+
+CALL: An option contract giving the owner the right, but not the obligation, to buy
+a specified amount of an underlying commodity at a specified price within a set
+timeframe.
+
+CARRYING CHARGE: The cost to store and insure a physical commodity.
+CFTC: The Commodity Futures Trading Commission.
+
+CLOSE: The time at the end of the trading session when all orders are filled within
+the closing range.
+
+CLOSING RANGE: The range of prices in which transactions take place at the
+closing of the market. Buy and sell orders at the close should have been filled at any
+point within this range.
+
+CONTRACT: In futures markets, a standardized traded instrument that specifies
+the quantity and quality of a commodity (or financial asset) for delivery (or cash
+settlement) at a specified future date.
+
+CONTRARIAN: One who trades on contrary opinion.
+
+CONTRARY OPINION: The view that one can profit by doing the exact opposite of
+the majority of traders.
+
+COVER: To sell futures contracts in order to offset previous buying.
+
+COVERED CALL OPTION WRITING: A strategy in which one sells call options
+while at the same time owning an equivalent position in the underlying commodity.
+Also, a strategy in which one sells put options while at the same time is short an
+
+equivalent position in the underlying commodity.
+
+DAILY RANGE: The difference between the high and low during one trading day.
+
+151
+DAY ORDER: An order that expires on the close of trading if not filled during that
+day.
+
+DAY TRADE: A trade that is liquidated on the same day that it is initiated.
+
+DELIVERY NOTICE: A notice of intention to deliver a stated quantity of a
+commodity in settlement of a futures contract.
+
+DELTA: The amount an option will change in price for a one point move in the
+underlying commodity.
+
+DISCOUNT: When a future is trading for less than the price of the underlying
+commodity, it is considered to be trading at a discount.
+
+DIVERGENCE: The failure of a market or of an indicator to follow suit when a
+related market or indicator sets a new high or low. Divergences can sometimes
+signal market tops and bottoms.
+
+DIVERSIFICATION: Trading multiple markets in an effort to reduce one’s risk.
+DOWNTREND: Declining prices in any given market.
+
+DRAWDOWN: Equity reduction in a trading account. The maximum drawdown is
+the largest difference between an equity’s peak and it’s low.
+
+EQUITY: The dollar value of an account.
+
+EXPIRATION DATE: The date on which an option and the right to exercise it,
+cease to exist.
+
+FADE: Trading the opposite direction of a market signal.
+
+FALSE BREAKOUT: A short lived price movement that goes through the previous
+high, only to fall significantly.
+
+FILL OR KILL: An order that must be filled immediately or canceled.
+
+FIRST NOTICE DAY (FND): The first day on which notice of intentions to deliver
+actual commodities against futures contracts can be made.
+
+FLOOR BROKER: A member who executes orders for the accounts of other
+members on the trading floor.
+
+FLOOR TRADER: A member of an exchange who trades on the floor for personal
+gain. Usually called a "local."
+
+152
+GAP: A price zone in which no trades have occurred.
+
+GOOD TILL CANCELED ORDER (GTC): An open order that remains in force
+until the trader either cancels the order, the futures contract expires, or the order is
+filled.
+
+IMPLIED VOLATILITY: The expectation of future price volatility implied by
+option prices.
+
+INSIDE DAY: A day in which the total range of price is within the range of the
+previous days price range.
+
+IN THE MONEY: A call option is “in the money” if the strike price is less than the
+market price of the underlying commodity. A put option is “in the money” if the
+strike price is greater than the market price of the underlying commodity.
+
+INTRINSIC VALUE: The amount by which an option is in the money.
+
+ISLAND REVERSAL: A trading range where there is an exhaustion gap down,
+then prices move in a narrow range, then there is a breakaway gap up. This leaves a
+sort of island of prices in the middle.
+
+LAST TRADING DAY (LTD): The final day in which trading may occur for a
+particular delivery month. After the last trading day, any remaining commitment
+must be settled for delivery.
+
+LEVERAGE: The ability to control a dollar amount of a commodity in excess of the
+actual capital employed.
+
+LIMIT ORDER: An order in which the trader sets a limit to the price, as contrasted
+with a market order on which no limit is set.
+
+LIMIT PRICE MOVE: The maximum amount that a particular market can move
+in a single day.
+
+LIQUIDATION: The closing out of a previous position by taking an opposite
+position in the same contract.
+
+LIQUIDITY: The degree to which a given market is liquid. A market with a larger
+number of trades is called a liquid market, and this makes entering and exiting this
+market easier for a trader.
+
+LOCAL: A floor trader who trades for his or her own account.
+
+LONG: A position established by buying a futures contract. The holder of this
+position may also be referred to as a “long”.
+
+153
+LOT: Another term for contract.
+MARGIN: The amount of capital required to trade a futures contract.
+
+MARGIN CALL: A demand by a broker for additional funds sufficient to raise
+your deposit on a commodity futures contract above the minimum acceptable level.
+
+MARKET IF TOUCHED (MIT): An order that may be executed only if the trigger
+price is reached.
+
+MARKET ORDER: An order that is to be filled as soon as possible at the best
+possible price.
+
+MARKET NOT HELD ORDER: This is a market order. However, the speculator is
+giving the floor trader the discretion to execute the order when he/she feels it is most
+profitable. If the floor trader feels that the market will decline, he/she may hold the
+
+order to try to get a better fill. There are no guarantees that this order will be filled.
+
+MONEY MANAGEMENT: Risk control commonly used to cut losses and maintain
+equity.
+
+MOVING AVERAGE: A method of smoothing prices to more easily discern market
+trends, within a fixed number of days.
+
+MOVING AVERAGE CONVERGENCE/DIVERGENCE (MACD): The crossing of
+two exponentially smoothed moving averages. They oscillate above and below an
+equilibrium line.
+
+NAKED OPTION: A short option held by a trader who does not own the
+underlying commodity.
+
+NEARBY: The nearest active trading month of a futures or options on a futures
+contract. Also known as the lead month.
+
+OFFER: The price at which an investor is willing to sell a futures or options
+contract. As opposed to a bid.
+
+OPEN INTEREST: The total number of futures contracts entered into during a
+specified period of time. When a contact month first begins trading, the open
+interest is zero. An indicator of the depth or liquidity of a market (the ability to buy
+or sell at or near a given price).
+
+OPENING RANGE: Range of closely related prices at which transactions took
+place at the opening of the market. Buy and sell orders at the opening might be
+filled at any point within such a range.
+
+154
+OPEN ORDER: An order given to a broker that is good until canceled or executed.
+
+OUT OF THE MONEY: A call option is out of the money if the strike price is
+greater than the market price of the underlying commodity. A put option is out of
+the money if the strike price is less than the market price of the underlying
+
+commodity.
+
+PREMIUM: The price a speculator pays the writer of an option above the option’s
+intrinsic value.
+
+PRICE LIMIT: The maximum price advance or decline from the previous day’s
+settlement price permitted for a commodity in one trading session by the rules of the
+
+exchange.
+
+PUT: An option contract that gives the holder the right to sell the underlying
+security at a specified price for a fixed period of time.
+
+PUT/CALL RATIO: The amount of put options divided by the amount of call
+options.
+
+FY KAMIDING: Lhe practice of using accrued paper profits to margin additional
+Trades.
+
+RANGE: The difference between the highest and lowest prices recorded during a
+given trading session, week, month, or year.
+
+REACTION: A price movement in the opposite direction of the trend.
+
+RESISTANCE: The price at which a rising market is expected to encounter
+increased selling pressure sufficient to reverse an advance.
+
+RETRACEMENT: A price movement counter to a preceding trend.
+REVERSAL DAY: A day on which a market reaches a new high and then reverses
+
+direction, closing below one or more previous daily closes.
+
+RISK/REWARD RATIO: The ratio of the estimated potential loss in relation to the
+potential gain.
+
+SETTLEMENT PRICE: The price at which the clearing house clears all
+transactions at the close of the day. Settlement prices are used to determine gains,
+losses, margin calls, and invoice prices for deliveries.
+
+SHORT: A trader who has sold futures, speculating that prices will decline.
+
+155
+SHORT HEDGE: The sale of a futures contract in anticipation of a later cash
+market sale. Commonly used to lessen the possible decline in value of ownership of
+an approximately equal amount of a physical commodity.
+
+SLIPPAGE: The difference between the theoretical execution price and the actual
+fill.
+
+SPECULATION: Buying or selling in hopes of making a profit.
+
+SPECULATOR: One who trades a commodity with a higher than average risk in
+return for a higher than average profit potential.
+
+SPIKE: A price that is sharply above (or below) the preceding day’s price.
+
+SPOT DELIVERY MONTH: The nearest delivery month among all those traded at
+any point in time. The actual contract month represented by the spot delivery
+month is constantly changing throughout the calendar year as each contract month
+reaches its last trading day.
+
+SPOT PRICE: Cash price.
+
+SPREAD: The purchase of one futures contract or option and sale of another, in the
+expectation that the price relationships between the two will change so that a
+subsequent offsetting sale and purchase will yield a net profit.
+
+STOP AND REVERSE: A stop that when hit, is a signal to close the current
+position and open an opposite position. One holding a short position would buy that
+position and then go long on the same commodity.
+
+STOP ORDER: A buy order placed above the market (or sell order placed below
+the market) that becomes a market order when the specified price is reached.
+
+STOP LIMIT ORDER: Much the same as a stop order. It is an order which
+becomes a limit order once the target price is touched.
+
+STRADDLE: An options strategy where the purchase or sale of an equal number of
+puts and calls is made. The strike price and expiration date is the same for all.
+
+STRANGLE: An options strategy which combines a put and a call, with different
+strike prices with the same expiration.
+
+STRIKE PRICE: The price for which the underlying commodity may be purchased
+
+in the case of a call, or sold in the case of a put, by the option holder upon exercise of
+the option contract.
+
+156
+SUPPORT: A barrier to a price decline. A point at which a falling market is
+expected to encounter increased buying pressure sufficiant to reverse the decline.
+
+TICK: The minimum possible price mevement in a market.
+
+TOPPING OUT: A term employed to denote loss of upside energy at the top after a
+long price run-up.
+
+TRADING RANGE: A sideways price band that encompasses all price movements
+during a specified period.
+
+TREND: The tendency of markets to move in a general direction, either up or down.
+
+TRENDING MARKET: Price moves in one direction and it usually closes on an
+extreme for the day.
+
+TRENDLINE: Normally drawn by connecting a series of descending peaks or
+ascending troughs. The more times a trendline has been hit increases the
+significance of a break in the trendline. It can be either support or resistance.
+
+UPTREND: A tendency for rising prices in a market.
+
+VEGA: The measurement of how much an option’s price changes for a 1% change
+in volatility.
+
+VERTICAL SPREAD: An options strategy which is also a spread where the options
+have different strike prices but the same expiration dates.
+
+VOLATILITY: Price variability in a given market. A volatile market is one in
+which there are wide price fluctuations.
+
+VOLUME: The number of purchases and sales of a commodity made during a
+specified period.
+
+WHIPSAW: Repeated, abrupt reversals in a trend.
+
+157
+Books by Myles Wilson Walker
+
+C Wave Method —How To Identify High Profit Elliott Waves in Real Time (1996)
+Super Timing — W.D. Ganns Astrological Formula for Stocks and Futures (1999)
+
+Super Timing Volume Two — Bonus CD included with each copy of Super
+Timing (2000)
+
+The Book Of Eclipses — Limited Edition (2000)
+
+SUPER TIMING
+
+W.D. Ganns Astrological Formula for Stocks and Futures.
+
+In SUPER TIMING this formula is shown in detail. All of Ganns public predictions
+were analysed to reveal the one common factor.
+Supertiming explains all of Ganns predictions by using the one formula.
+
+It shows you which planet will be signaling the next trend turn and it works on all
+markets.
+
+As well as Ganns timing method there is the price target method
+
+which is demonstrated by his predictions and from real life examples in recent
+markets (this is not a planets longitude converted to price)
+
+There are still many people who think that W.D. Gann used only
+
+swing charts, angles or fixed time periods.
+
+None of these can be used to consistently explain all his public predictions.
+
+The real answer is in Super Timing where you will learn the pattern combination
+that is found in all of Ganns predictions both long and short term. You will see how
+this works on a swing basis as we work through whole sequences of short term
+trades that Gann actually did. Nothing has been omitted
+
+You will see why he entered the market when he did and the reason he took profits
+only to re enter at a better price the next day.
+
+The markets covered are coffee soybeans and cotton but
+
+the same method works on any market and more importantly
+
+it is still working today.
+
+When you take the time to study Super Timing you will prove to yourself that this
+really is the best timing method available.
+
+The method is actually quite easy to learn as there is no complex Astrology (it is
+based only on the positions of the planets as seen from earth and their angular
+relationships)
+
+I have a freeware program for you that will do all the calculations
+
+There is also Ganns price target system that solves the price part of the formula.
+
+158
+Super Timing
+Table of contents:
+
+Introduction.
+
+W.D.Gann and Astro-The proof.
+
+Ganns first trade on August 15th 1902.
+
+The W.D.Gann Astrological method solves the following trades.
+
+Wheat September 30th 1909.
+
+Cotton high 1923.
+
+Cotton low 1953.
+
+Cotton top in 1952 and the low in 1953.
+Comparision of the Coffee low in 1953 and the high in 1954.
+Coffee high 1954.
+
+Soybean high September 14th 1941.
+Soybean low October 17th 1941.
+
+Soybeans sold November 14th 1941.
+Soybean high November 23rd 1948.
+Soybeans sold April 27th 1954.
+
+Cotton high 30th November 1923.
+
+Gann finished cotton trades and closed.
+Soybeans sold April 27th 1954.
+
+Soybeans buy/close May 5th 1954.
+Soybeans sold again May 7th 1954.
+W.D.Ganns scientific forecasts.
+
+The Morning Telegraph artical on Gann December 17th 1922.
+Dow Low August 24th 1921.
+
+Dow top August 14th 1922.
+
+Dow top October 8-15th 1922.
+
+Panicky decline November 10th -14th 1922.
+
+Summary of Ganns Sequence of stock market predictions September 3rd 1929 to
+July 21st 1933.
+
+Top September 3rd 1929.
+
+Low October 3rd 1931.
+
+Low February 10th 1932.
+
+Low February 10th 1932.
+
+High March 8th 1932.
+
+Low July 8th 1932.
+
+High September 20-21st 1932.
+
+Low October 4-5th 1932.
+
+Low March 1st 1933.
+
+High July 17th 1933.
+
+Low July 21st 1933.
+
+Price and planetary activity at the same point.
+
+159
+Complete Coffee trades 1954.
+Coffee high 1954.
+Coffee buy/close April 14th 1954.
+Coffee sold again April 15th 1954.
+Coffee trades finish April 21th 1954.
+
+Examples of the price target method from recent markets.Currencies,
+
+grains crude oil.
+
+Ganns trading strategy.
+
+Robert Gordons great campaign in cotton.
+
+The Super Timing tutor that shows the beginning and end of the
+
+major U.S. bullmarkets and how each ending is predicted by the beginning astro.
+Planetary cycles for Soybeans, Wheat, Corn, Currencies, Crude Oil, S+P, Dow,
+Nasdaq, U.S.Bonds.
+
+Plus how to find the Dynamic cycles for any stock or commodity.
+
+The Super Timing Annual Forecast
+
+Included with each book is a bonus CD - SUPER TIMING VOLUME TWO
+200+ pages with lots more information about W.D. Ganns methods
+
+160
+Links on the Web
+
+Myles Wilson Walker email ellsann@ihug.co.nz
+http://homepages.ihug.co.nz/~ellsann
+
+http://www. Tradersworld.com
+
+161
