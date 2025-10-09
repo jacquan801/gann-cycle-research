@@ -1,4 +1,4 @@
-name: OCR PDFs to text
+name: OCR PDFs to text (parallel)
 
 on:
   workflow_dispatch:
@@ -12,26 +12,18 @@ jobs:
   ocr:
     runs-on: ubuntu-latest
     timeout-minutes: 120
+    strategy:
+      fail-fast: false
+      matrix:
+        shard: [0, 1, 2, 3]   # run 4 shards in parallel
+    env:
+      TOTAL_SHARDS: 4
 
     steps:
       - name: Checkout (with LFS)
         uses: actions/checkout@v4
         with:
           lfs: true
-
-      - name: Debug env & LFS
-        run: |
-          set -e
-          echo "=== Git ==="
-          git --version
-          echo "=== LFS ==="
-          git lfs version || true
-          git lfs env || true
-          echo "=== Tree ==="
-          ls -lah
-          echo "=== PDFs ==="
-          ls -lah pdfs || true
-          du -sh pdfs || true
 
       - name: Pull LFS content
         run: |
@@ -46,28 +38,37 @@ jobs:
           sudo apt-get install -y --no-install-recommends \
             ocrmypdf tesseract-ocr tesseract-ocr-eng poppler-utils qpdf ghostscript
 
-      - name: OCR PDFs needing text
-        id: ocr
+      - name: Shard selection
+        id: shard
         shell: bash
         run: |
           set -euo pipefail
-          shopt -s nullglob
+          SHARD=${{ matrix.shard }}
+          TOTAL=${{ env.TOTAL_SHARDS }}
           mkdir -p texts
+
+          # Build ordered file list and select this shard's subset via modulo
+          mapfile -d '' FILES < <(find pdfs -maxdepth 1 -type f -name '*.pdf' -print0 | sort -z)
+          SEL=()
+          i=0
+          for f in "${FILES[@]}"; do
+            if (( i % TOTAL == SHARD )); then SEL+=("$f"); fi
+            ((i++))
+          done
+
+          echo "This is shard $SHARD of $TOTAL. Total PDFs: ${#FILES[@]}, this shard will process: ${#SEL[@]}"
+          # Write selection to file for the next step
+          printf '%s\0' "${SEL[@]}" > shard-files.list
+
+      - name: OCR this shard
+        shell: bash
+        run: |
+          set -euo pipefail
           MIN_BYTES=800
           changed=0
 
-          need=0
-          for f in pdfs/*.pdf; do
-            base="${f##*/}"
-            stem="${base%.pdf}"
-            out="texts/${stem}.txt"
-            if [ ! -s "$out" ] || [ "$(wc -c < "$out")" -lt "$MIN_BYTES" ]; then
-              need=$((need+1))
-            fi
-          done
-          echo "Needing OCR/text: $need files"
-
-          for f in pdfs/*.pdf; do
+          # Iterate selected files only
+          while IFS= read -r -d '' f; do
             base="${f##*/}"
             stem="${base%.pdf}"
             out="texts/${stem}.txt"
@@ -77,7 +78,7 @@ jobs:
               continue
             fi
 
-            # Try embedded text first
+            # 1) Try embedded text
             if pdftotext -enc UTF-8 "$f" "$out.tmp" && [ "$(wc -c < "$out.tmp")" -ge "$MIN_BYTES" ]; then
               mv "$out.tmp" "$out"
               changed=1
@@ -86,20 +87,20 @@ jobs:
             fi
             rm -f "$out.tmp" || true
 
-            # Decide OCR mode: redo if some text, else force
+            # 2) Choose OCR mode: redo if some text, else force
             if pdftotext -enc UTF-8 "$f" - | head -c 1000 | tr -dc '[:alnum:]' | grep -q . ; then
               MODE="--redo-ocr"
             else
               MODE="--force-ocr"
             fi
 
-            # ocrmypdf (fast profile)
+            # 3) ocrmypdf (fast profile)
             echo "ocrmypdf $MODE: $f"
             ocrmypdf --optimize 0 --oversample 150 -j 2 --tesseract-timeout 900 \
               --sidecar "$out" $MODE "$f" out.pdf || true
             rm -f out.pdf || true
 
-            # Repair + retry if needed
+            # 4) Repair + retry if still small
             if [ ! -s "$out" ] || [ "$(wc -c < "$out")" -lt "$MIN_BYTES" ]; then
               echo "Repair & retry: $f"
               qpdf --linearize --decrypt "$f" repaired.pdf || cp "$f" repaired.pdf
@@ -108,7 +109,7 @@ jobs:
               rm -f repaired.pdf out.pdf || true
             fi
 
-            # Fallback (pdftoppm + tesseract)
+            # 5) Fallback: pdftoppm + tesseract
             if [ ! -s "$out" ] || [ "$(wc -c < "$out")" -lt "$MIN_BYTES" ]; then
               echo "Fallback tesseract: $f"
               rm -f "$out" || true
@@ -124,17 +125,59 @@ jobs:
             else
               echo "FAILED: $f"
             fi
-          done
 
+          done < shard-files.list
+
+          # Stash whether this shard changed anything
           echo "changed=$changed" >> "$GITHUB_OUTPUT"
 
-      - name: Commit & push results
+      - name: Commit shard results
         if: steps.ocr.outputs.changed == '1'
         run: |
           set -e
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
           git add texts/*.txt || true
+          git commit -m "Add/update OCR text (shard ${{ matrix.shard }})" || true
+          git push || (sleep 3 && git pull --rebase && git push || true)
+
+  manifest:
+    runs-on: ubuntu-latest
+    needs: ocr
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout latest (with LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Build manifest
+        shell: bash
+        run: |
+          set -euo pipefail
+          mkdir -p texts
+          python - <<'PY'
+import json, glob, os
+items=[]
+for t in sorted(glob.glob('texts/*.txt')):
+    try:
+        s=open(t,'r',errors='ignore').read()
+        items.append({"file":os.path.basename(t),
+                      "bytes":len(s.encode('utf-8','ignore')),
+                      "sample":s[:400]})
+    except Exception:
+        items.append({"file":os.path.basename(t),"bytes":0,"sample":""})
+open('texts/index_texts.json','w').write(json.dumps(items,ensure_ascii=False,indent=2))
+PY
+
+      - name: Commit manifest
+        run: |
+          set -e
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git pull --rebase || true
           git add texts/index_texts.json || true
-          git commit -m "Add/update OCR text sidecars (CI)" || echo "Nothing to commit"
-          git push
+          git commit -m "Update texts/index_texts.json" || true
+          git push || (sleep 3 && git pull --rebase && git push || true)
