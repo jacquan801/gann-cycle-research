@@ -1,12 +1,13 @@
 name: OCR PDFs to text
 
-permissions:
-  contents: write
-
 on:
   workflow_dispatch:
   schedule:
     - cron: "0 6 * * 1"  # optional weekly run
+
+# Ensure this workflow can push commits back to the repo
+permissions:
+  contents: write
 
 jobs:
   ocr:
@@ -19,9 +20,24 @@ jobs:
         with:
           lfs: true
 
+      - name: Debug env & LFS
+        run: |
+          echo "=== Git/LFS versions ==="
+          git --version
+          git lfs version || true
+          echo
+          echo "=== LFS env ==="
+          git lfs env || true
+          echo
+          echo "=== Repo listing ==="
+          ls -lah
+          echo
+          echo "=== PDFs folder ==="
+          ls -lah pdfs || true
+          du -sh pdfs || true
+
       - name: Pull LFS content
         run: |
-          git lfs version || sudo apt-get update && sudo apt-get install -y git-lfs
           git lfs install
           git lfs pull
 
@@ -45,7 +61,7 @@ jobs:
           for f in pdfs/*.pdf; do
             b="${f##*/}"; b="${b%.pdf}"
             t="texts/$b.txt"
-            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+            if [ ! -s "$t" ] || [ "$(wc -c < "$t")" -lt $MIN_BYTES ]; then
               need=$((need+1))
             fi
           done
@@ -54,11 +70,14 @@ jobs:
           for f in pdfs/*.pdf; do
             b="${f##*/}"; b="${b%.pdf}"
             t="texts/$b.txt"
-            if [ -s "$t" ] && [ $(wc -c < "$t") -ge $MIN_BYTES ]; then
+
+            # Skip if already good enough
+            if [ -s "$t" ] && [ "$(wc -c < "$t")" -ge $MIN_BYTES ]; then
               continue
             fi
 
-            if pdftotext -enc UTF-8 "$f" "$t.tmp" && [ $(wc -c < "$t.tmp") -ge $MIN_BYTES ]; then
+            # 1) Try embedded text first
+            if pdftotext -enc UTF-8 "$f" "$t.tmp" && [ "$(wc -c < "$t.tmp")" -ge $MIN_BYTES ]; then
               mv "$t.tmp" "$t"
               changed=1
               echo "pdftotext OK: $f"
@@ -66,18 +85,21 @@ jobs:
             fi
             rm -f "$t.tmp" || true
 
+            # 2) Decide OCR mode: redo if some text, else force
             if pdftotext -enc UTF-8 "$f" - | head -c 1000 | tr -dc '[:alnum:]' | grep -q . ; then
               MODE="--redo-ocr"
             else
               MODE="--force-ocr"
             fi
 
+            # 3) ocrmypdf (fast profile)
             echo "ocrmypdf $MODE: $f"
             ocrmypdf --optimize 0 --oversample 150 -j 2 --tesseract-timeout 900 \
               --sidecar "$t" $MODE "$f" out.pdf || true
             rm -f out.pdf
 
-            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+            # 4) Repair + retry if needed
+            if [ ! -s "$t" ] || [ "$(wc -c < "$t")" -lt $MIN_BYTES ]; then
               echo "Repair & retry: $f"
               qpdf --linearize --decrypt "$f" repaired.pdf || cp "$f" repaired.pdf
               ocrmypdf --optimize 0 --oversample 150 -j 2 --tesseract-timeout 900 \
@@ -85,15 +107,16 @@ jobs:
               rm -f repaired.pdf out.pdf
             fi
 
-            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+            # 5) Fallback (pdftoppm + tesseract)
+            if [ ! -s "$t" ] || [ "$(wc -c < "$t")" -lt $MIN_BYTES ]; then
               echo "Fallback tesseract: $f"
               rm -f "$t"
               pdftoppm -r 170 -png "$f" p || true
               for p in p-*.png; do tesseract "$p" stdout --psm 6 -l eng || true; done > "$t"
-              rm -f p-*.png
+              rm -f p-*.png || true
             fi
 
-            if [ -s "$t" ] && [ $(wc -c < "$t") -ge $MIN_BYTES ]; then
+            if [ -s "$t" ] && [ "$(wc -c < "$t")" -ge $MIN_BYTES ]; then
               changed=1
               echo "OK: $f -> $t ($(wc -c < "$t") bytes)"
             else
@@ -101,6 +124,7 @@ jobs:
             fi
           done
 
+          # Build a small manifest
           if ls texts/*.txt >/dev/null 2>&1; then
             jq -n '[inputs | {file:input_filename|sub(".*/";""), bytes:(input|length), sample:(.[:400])}]' texts/*.txt > texts/index_texts.json || true
             if [ ! -s texts/index_texts.json ]; then
@@ -129,4 +153,3 @@ PY
           git add texts/*.txt texts/index_texts.json || true
           git commit -m "Add/update OCR text sidecars (CI)" || echo "Nothing to commit"
           git push
-
