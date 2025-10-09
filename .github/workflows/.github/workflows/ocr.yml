@@ -1,0 +1,135 @@
+name: OCR PDFs to text
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 6 * * 1"  # optional weekly run
+
+jobs:
+  ocr:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+
+    steps:
+      - name: Checkout (with LFS)
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Pull LFS content
+        run: |
+          git lfs version || sudo apt-get update && sudo apt-get install -y git-lfs
+          git lfs install
+          git lfs pull
+
+      - name: Install OCR dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y --no-install-recommends \
+            ocrmypdf tesseract-ocr tesseract-ocr-eng poppler-utils qpdf ghostscript jq
+
+      - name: OCR PDFs needing text
+        id: ocr
+        shell: bash
+        run: |
+          set -euo pipefail
+          shopt -s nullglob
+          mkdir -p texts
+          MIN_BYTES=800
+          changed=0
+
+          need=0
+          for f in pdfs/*.pdf; do
+            b="${f##*/}"; b="${b%.pdf}"
+            t="texts/$b.txt"
+            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+              need=$((need+1))
+            fi
+          done
+          echo "Needing OCR/text: $need files"
+
+          for f in pdfs/*.pdf; do
+            b="${f##*/}"; b="${b%.pdf}"
+            t="texts/$b.txt"
+            # Skip if already good
+            if [ -s "$t" ] && [ $(wc -c < "$t") -ge $MIN_BYTES ]; then
+              continue
+            fi
+
+            # 1) Try embedded text first
+            if pdftotext -enc UTF-8 "$f" "$t.tmp" && [ $(wc -c < "$t.tmp") -ge $MIN_BYTES ]; then
+              mv "$t.tmp" "$t"
+              changed=1
+              echo "pdftotext OK: $f"
+              continue
+            fi
+            rm -f "$t.tmp" || true
+
+            # 2) Decide OCR mode: redo if some text, else force
+            if pdftotext -enc UTF-8 "$f" - | head -c 1000 | tr -dc '[:alnum:]' | grep -q . ; then
+              MODE="--redo-ocr"
+            else
+              MODE="--force-ocr"
+            fi
+
+            # 3) ocrmypdf (fast profile)
+            echo "ocrmypdf $MODE: $f"
+            ocrmypdf --optimize 0 --oversample 150 -j 2 --tesseract-timeout 900 \
+              --sidecar "$t" $MODE "$f" out.pdf || true
+            rm -f out.pdf
+
+            # 4) Repair + retry if needed
+            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+              echo "Repair & retry: $f"
+              qpdf --linearize --decrypt "$f" repaired.pdf || cp "$f" repaired.pdf
+              ocrmypdf --optimize 0 --oversample 150 -j 2 --tesseract-timeout 900 \
+                --sidecar "$t" $MODE repaired.pdf out.pdf || true
+              rm -f repaired.pdf out.pdf
+            fi
+
+            # 5) Fallback (pdftoppm + tesseract)
+            if [ ! -s "$t" ] || [ $(wc -c < "$t") -lt $MIN_BYTES ]; then
+              echo "Fallback tesseract: $f"
+              rm -f "$t"
+              pdftoppm -r 170 -png "$f" p || true
+              for p in p-*.png; do tesseract "$p" stdout --psm 6 -l eng || true; done > "$t"
+              rm -f p-*.png
+            fi
+
+            if [ -s "$t" ] && [ $(wc -c < "$t") -ge $MIN_BYTES ]; then
+              changed=1
+              echo "OK: $f -> $t ($(wc -c < "$t") bytes)"
+            else
+              echo "FAILED: $f"
+            fi
+          done
+
+          # Build a small manifest
+          if ls texts/*.txt >/dev/null 2>&1; then
+            jq -n '[inputs | {file:input_filename|sub(".*/";""), bytes:(input|length), sample:(.[:400])}]' texts/*.txt > texts/index_texts.json || true
+            if [ ! -s texts/index_texts.json ]; then
+              python - <<'PY'
+import json,glob,os
+items=[]
+os.makedirs('texts', exist_ok=True)
+for t in sorted(glob.glob('texts/*.txt')):
+    try:
+        s=open(t,'r',errors='ignore').read()
+        items.append({"file":os.path.basename(t),"bytes":len(s.encode('utf-8','ignore')),"sample":s[:400]})
+    except Exception:
+        items.append({"file":os.path.basename(t),"bytes":0,"sample":""})
+open('texts/index_texts.json','w').write(json.dumps(items,ensure_ascii=False,indent=2))
+PY
+            fi
+          fi
+
+          echo "changed=$changed" >> "$GITHUB_OUTPUT"
+
+      - name: Commit & push results
+        if: steps.ocr.outputs.changed == '1'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add texts/*.txt texts/index_texts.json || true
+          git commit -m "Add/update OCR text sidecars (CI)" || echo "Nothing to commit"
+          git push
