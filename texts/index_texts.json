@@ -1,82 +1,402 @@
 [
-  "(1909) Scientific Stock Forecasting.txt",
-  "(1909) Ticker and Investment Digest.txt",
-  "(1918) Truth of the Stock Tape - Annual Forecasts 1919-1922.txt",
-  "(1922) The Morning Telegraph.txt",
-  "(1923) Truth of the Stock Tape.txt",
-  "(1931) The Human Body.txt",
-  "(1931) Usage of Gann SQ9 & Hexagon Chart.txt",
-  "(1941) How To Make Profits Trading In Puts & Calls.txt",
-  "(1953) The Magic Word.txt",
-  "(1954) May Coffee Santos D - Heliocentric And Geo.txt",
-  "(1955) Master Calculator for weekly Time Periods.txt",
-  "(1955) Stock Market Forecasting Courses.txt",
-  "0470432020 Using Gann Theory.txt",
-  "11998.txt",
-  "1929 Annual Stock Market Forecast.txt",
-  "242038318-Walker-Myles-Wilson-How-To-Indentify-High-Profit-Elliott-Wave-Trades-in-Real-Time-pdf.txt",
-  "30.txt",
-  "344593197-Walker-Myles-Wilson-Super-Timing-W-D-Ganns-Astrological-Method-pdf.txt",
-  "348268558-Market-Cycle-Timing-and-Forecast-2016-2017.txt",
-  "362111686-Universal-Clock-by-Jeanne-Long.txt",
-  "410231948-Walker-Myles-Wilson-The-Power-of-the-Hexagon-pdf.txt",
-  "Bill Mclaren. Gann Angles and the Square of Nine.txt",
-  "Bryce Gilmore - An Introduction To The Methods Of Wd Gann.txt",
-  "Carl Futia. Predicting Market Trends with Periodic Number cycle.txt",
-  "Chartbk.txt",
-  "Cooley, Granville - The Patterns of Gann.txt",
-  "Costa, Neil A. - How Would W. D. Gann See the Stock Market In 2001.txt",
-  "Daniel_Ferrera_Outlook_2010.txt",
-  "Fibonacci_and_Gann_Applications.txt",
-  "GANNS_LAW_OF_PRICE_MOVEMENT.txt",
-  "Gann a S&P500_2008-08-08.txt",
-  "Gann, W.D. (1950)_On Tops and Bottoms.txt",
-  "Gann, W.D. - Corn Cycles.txt",
-  "Gann, W.D. - December Cotton Monthly 2.txt",
-  "Gann, W.D. - Gann Angles and the Square of Nine.txt",
-  "Gann, W.D. - Gann's 28 Trading Rules.txt",
-  "Gann, W.D. - July Cotton Monthly 19141934.txt",
-  "Gann, W.D. - July Wheat Trendline Indicator 19351936.txt",
-  "Gann, W.D. - March Cotton 19511953.txt",
-  "Gann, W.D. - March Cotton Monthly 19261955.txt",
-  "Gann, W.D. - May Soybeans 1952-54.txt",
-  "Gann, W.D. - MaySoybeans TimePeriods 19511954.txt",
-  "Gann, W.D. - NovBeansWeekly 19471954.txt",
-  "Gann, W.D. - OctEggs 19481954.txt",
-  "Gann, W.D. - Path of Planets 4 19351941.txt",
-  "Gann, W.D. - Squareof144.txt",
-  "Gann, W.D. - Squareof90.txt",
-  "Gann, W.D. - Time and Price Calculator squareof52.txt",
-  "Gann, W.D._On Cycles & Trading - Forecasting Rules.txt",
-  "GannGridsUltraV5.0Manual.txt",
-  "Gann_-_How_To_Trade.txt",
-  "Gann_News_Clippings.txt",
-  "Ganns_Law_of_Vibration.txt",
-  "Gerald Marisch. The W.D. Gann Method of Trading.txt",
-  "Gilmore Geometry of Markets vol 2.txt",
-  "Gilmore, Bryce - Dynamic Time and Price Analysis of Market Trends.txt",
-  "Gilmore, Bryce - Geometry of Markets.txt",
-  "Integration.txt",
-  "Intro to gann trading by myles.txt",
-  "Jacobs - Gann Tutorial.txt",
-  "Kakasuleff, Chris - Gann and the Circle.txt",
-  "Kakasuleff, Chris - Predicting Market Trends Using the Square of 9.txt",
-  "Krausz - W.D. Gann Treasure Discovered.txt",
-  "Myles-Wilson-Introduction-to-Astro-Tech-Trading.txt",
-  "Neil A Costa. W.D. Gann - Market Master.txt",
-  "Pardo, Robert - Gann Lines and Angles.txt",
-  "Part I.txt",
-  "Part II.txt",
-  "TRADING THE GANN SQUARE OF NINE.txt",
-  "The.New.Commodity.Trading.Guide.txt",
-  "Tradersworld - Gann Masters.txt",
-  "Trading_Doc__Market_Cycles___Fibonacci__Gann__Elliott__Benner_Cycles___Financial_Astrology___Philip_Rio_forex.txt",
-  "USING PLANETARY HARMONICS TO FIND KEY REVERSALS THE MARKET.txt",
-  "W.D. Gann Master Commodities Course.txt",
-  "Walker, Myles Wilson - Super Timing Trading With Cycles (2003).txt",
-  "gannbo1.txt",
-  "gfer.txt",
-  "gmaaeng16apr21.txt",
-  "j347ab77.txt",
-  "the cycles the codes.txt"
+  {
+    "file": "(1909) Scientific Stock Forecasting.txt",
+    "bytes": 47098,
+    "sample": "SCIENTIFIG STOCK\nHORECASTING\n\nOR\n\nLARGE PROFITS ON\nSMALL RISKS\n\n\fTHE\n\nTICKER\n\nINVESTMENT DIGEST\n\n{nvestment: The placing of capital in\na more or less permanent way, mainly\nfor the income to be derived there-\nfrom.\n\nVol. 5\n\nDECEMBER, 1909\n\nSpeculation: Operations wherein In-\ntelligent foresight is employed for the\npurpose of deriving a profit from price\nchanges.\n\nWILLEAME D. GANN\n\nAn Operator Whose"
+  },
+  {
+    "file": "(1909) Ticker and Investment Digest.txt",
+    "bytes": 17020,
+    "sample": "Reprinted From\n\n\n              \"The Ticker and Investment Digest\"\n                              (later became the Wall Street Journal)\n\n                                            December of 1909\n\n\n\n                                     William D. Gann\n                        An Operator Whose Science and Ability Place\n                                  Him in the Front Rank\n                       "
+  },
+  {
+    "file": "(1918) Truth of the Stock Tape - Annual Forecasts 1919-1922.txt",
+    "bytes": 53839,
+    "sample": "\fANNUAL FORECASTS\n\nIn the following pages I am reproducing my Annual\nForecasts issued since 1918. They appear exactly as when\nthey were sent out one year in advance.\n\n1919 A BULL YEAR FOR STOCKS\n\nHistory repeats itself in the stack market as well as in the lives of men.\nMy study of the measurement of time cycles indicates that 1919 falls in the\ncycle of advancing prices. This year will go down in "
+  },
+  {
+    "file": "(1922) The Morning Telegraph.txt",
+    "bytes": 5095,
+    "sample": "Reprinted from\n\n\n                            \"The Morning Telegraph\"\n                                          Sunday, December 17, 1922\n\n\n\n                                 GANN FORETOLD RUN OF STOCKS\n\n\n\nWall Street Scientist Forecasted Top of Bull Market 1-Year in Advance.\n\nHIS INDICATIONS UNCANNY\n\nby: ARTHUR ANGY\n(Financial Editor, The North Side News)\n\nW.D. Gann has scored another astounding hi"
+  },
+  {
+    "file": "(1923) Truth of the Stock Tape.txt",
+    "bytes": 316372,
+    "sample": "                            [dust jacket]\n\n\n\n\n    TRUTH\n      OF\nTHE STOCK TAPE\nA STUDY OF THE STOCK AND COMMODITY MARKETS\n\n   WITH CHARTS AND RULES FOR SUCCESSFUL\n\n                   TRADING AND INVESTING\n\n                                  By\n\n                        William D. Gann\n                          ____________\n\n      A practical book written by a successful Wall Street man who has\n   p"
+  },
+  {
+    "file": "(1931) The Human Body.txt",
+    "bytes": 3527,
+    "sample": "Gann Course:\n\n                                              The Human Body\nThere are seven openings in the head – two eyes, two ears and two nostrils, equally divided, three on each\nside. From this we get our Law of Three and know the reason why the change comes after two and in the\nthird period. The seventh opening in the head is the mouth and everything goes down. Study your seven-year\nperiods"
+  },
+  {
+    "file": "(1931) Usage of Gann SQ9 & Hexagon Chart.txt",
+    "bytes": 10702,
+    "sample": "Square of Nine\nThe Square of Nine can be considered as an exotic section in relation to Gann analysis.\n\n\n\n\nSquare of Nine Structure\n\nStarting from the center(1) and following the numbers as they unwind, an infimite spiral becomes\napparent. Looking at lower right corner of the grid, you see the squares of odd\nnumbers...3,5,7,9,11..giving.. 9,25,49,81,121, with each square being a distinct Square wi"
+  },
+  {
+    "file": "(1941) How To Make Profits Trading In Puts & Calls.txt",
+    "bytes": 63442,
+    "sample": "       DEDICATED TO THE MEMBERS OF WHEELS\n                    IN THE SKY\n\n\n\n\n            www.groups.yahoo.com/group/wheelsinthesky\n\n\n\n\n  “The first thing they need to do is think and ‘see’ through their eyes like a\n             child would do…by this I mean, keep an open mind”\n                               ---Stephen Lewis\n\nThe 2 Gann “Master Courses” are also dedicated in recogniti"
+  },
+  {
+    "file": "(1953) The Magic Word.txt",
+    "bytes": 210323,
+    "sample": "                                            Foreword\nEveryone who writes a book has some definite aim or objective. Some write to relieve pent-up\nemotions, some for financial gain, others for fame and ambition, but the writer who does the\ngreatest good for his readers and for himself, is the man who writes with a sincere desire to help\nothers. The greatest good that we can do for others is to show"
+  },
+  {
+    "file": "(1954) May Coffee Santos D - Heliocentric And Geo.txt",
+    "bytes": 4864,
+    "sample": "MAY COFFEE SANTOS D\nMarch 19, 1954\nHigh 8729\n\nUsing a scale of one point to one degree, 8729 equals 29° Gemini.\n\nUsing a scale of 30 points to one degree, equals 21° Capricorn.\n\nUsing the Jupiter scale of 12 points to one degree, equals 7° 30' Aries.\nUsing one cent to one degree, equals 27° 16' Gemini.\n\nThe dollar value is $28,171.00, which equals 11° 45’ Capricorn.\n\n‘The average price of"
+  },
+  {
+    "file": "(1955) Master Calculator for weekly Time Periods.txt",
+    "bytes": 4727,
+    "sample": "MASTER CALCULATOR FOR WEEKLY TIME PERIODS\n70 DETERIINE TEE TREND OF STOCKS AND COMMODITIES\n\ndy-W. D. GAME\n\nThis Master Calculator shows Weekly Time Periods of 7 days each or a totel of\n52 weeks in one year. This represents S64 calender days, therefore at the end\nof each year there is a gain of one day and at the end of 7 years a gein of\n\n7 days, the time period coming out one week before the dete "
+  },
+  {
+    "file": "(1955) Stock Market Forecasting Courses.txt",
+    "bytes": 480052,
+    "sample": "No. 3 MASTER FORECASTING METHOD\n&\nUNPUBLISHED STOCK MARKET FORECASTING COURSES\n\nW. D. GANN\n\nSECTION I_ THE ORIGINAL NO. 3 MASTER FORECASTING METHOD\n\n2,\n—\n\n2\n“e\n\n«\n\n>\n\ni?\nwe 4\n\nYo\n\n*\n\n=\n\n¢\n\nCHAPTER 1 LEARN BEFORE YOU LOSE OR WHY YOU LOSE MONEY\nON STOCKS & HOW TO MAKE PROFITS\nAn important marketing brochure discussing the Master Time Factor\nand advertising the original release of this most imp"
+  },
+  {
+    "file": "0470432020 Using Gann Theory.txt",
+    "bytes": 664076,
+    "sample": "9:6;      ?/0*-'(,%@/&4\n\n\n\n\n              \u000e\u000f\u0010\u0011\u0012\u0013\u000e\u0012\u0014\u0015\u0014\u0010\u0011\n                                \u001f!\"#\n                             $%&&'!(\")*+,-\n7>727=5                        (1&\n                                *.)%0&-/2./%20\n\n\n                          \u0016\u0017\u0018\u000e \u0013\u0017\u0019\u0013\u001a\u001b\u000e\u001c\u000f\u001d\u001b\u001e\n\f\f012293457604\n          3783\n\f012345463789 1 3\u000e6\u000f5\u0010\u0011\u001213\u00136\u0013\u001451\u000f45\u0013\u00146345\u001553453\u0014\u00152\u0016\u000f6\u001363\u0017\u00181\u0019\u0015\u001a3\u001063\u00145\n\u001b36\u001454\u0012\u0014\u001a\u00145\u0013\u001c\u000e6\u0014 1\u001d\u001e\u00185\u001363\u001f1\u0014 !\u001956\u0018\u001a\"2"
+  },
+  {
+    "file": "11998.txt",
+    "bytes": 54475,
+    "sample": "Australian\n           d       d e\n\nDESIGNERS & PUBLISHERS\n118 -120 George Street\nQUIRINDI NSW 2343\nAUSTRALIA\nPh: +61 2 6746 3411\nFx: +61 2 6746 3455\n                       s k\n                           AD\n                           tDo p\n                          DESIGN\n                                        ABN 93 572 811 728\n\n\n\n\nEmail: designer_publisher@bigpond.com\n\fCopyright © 2004 Paul ‘"
+  },
+  {
+    "file": "1929 Annual Stock Market Forecast.txt",
+    "bytes": 60668,
+    "sample": "\f\f                          General Outlook for 1929\nThis year occurs in a cycle, which shows the ending of the bull market and the beginning of a prolonged\nbear campaign. The present bull market campaign has lasted longer than any previous campaign in the\nhistory of this country. The fact that it has run longer and prices have advanced to such abnormal heights\nmeans that when the decline sets in,"
+  },
+  {
+    "file": "242038318-Walker-Myles-Wilson-How-To-Indentify-High-Profit-Elliott-Wave-Trades-in-Real-Time-pdf.txt",
+    "bytes": 99634,
+    "sample": "         How To Identify\n             High-Profit\n        Elliott Wave Trades\n            in Real Time\nPinpointing Optimal Entry/Exit Points with the C Wave Method\n\n\n\n\n                   Myles Wilson Walker\n\n\n\n\nwww.fx1618.com\n\f                              About the Author\n\n\n\n      Myles Wilson Walker has been trading full time since 1986 for himself and\n   others. Initially skeptical about the va"
+  },
+  {
+    "file": "30.txt",
+    "bytes": 462448,
+    "sample": "THE OFFICIAL MAGAZINE OF TECHNICAL ANALYSIS\n\n\n\n\nTradersworld\n                                                                                                                    TM\n\n\n\n\nSPRING 2001                                                                   ISSUE #30\n                                                                                                        com\n                    "
+  },
+  {
+    "file": "344593197-Walker-Myles-Wilson-Super-Timing-W-D-Ganns-Astrological-Method-pdf.txt",
+    "bytes": 196830,
+    "sample": "SUPER TIMING\n\nT Ware ¢. Or Gh (w \\\ndat, 55? So’ (n))\nlens. opp’ 95! (€\\\n\nW.D.GANNS ASTROLOGICAL METHOD\n\nMYLES WILSON WALKER\n\nSuper Timing -W.D.Ganns Astrological method.Copyright@1999 by Myles Wilson\n\nWalker. All rights reserved.\nThe 1908 price target method copyrightQ1999 by Myles Wilson Walker. All rights\n\nreserved.\n\n\f\fee 2 Be\n4 a ee\n% ss cas\ne e\n—\n\nTable of contents:\n\nIntroduction.\n\nW."
+  },
+  {
+    "file": "348268558-Market-Cycle-Timing-and-Forecast-2016-2017.txt",
+    "bytes": 16205,
+    "sample": "Market Cycle Timing and Trend Direction are the keys to unlock\ntrading and investing success\n\n\n\n\nCycles may be defined as any phenomena repeating after fairly regular time\nintervals.\n\nGenerally cycles are found in anything to which numerical measurements may be\nassigned at intervals in time. Edward Dewey of the Foundation for the Study of\nCycles said that every field studied had been found to have"
+  },
+  {
+    "file": "362111686-Universal-Clock-by-Jeanne-Long.txt",
+    "bytes": 174205,
+    "sample": "Universal Clock™\n\nroerecasting Time and Price\nin the\nFootsteps of W. D. Gann\nBOOK i\n\nJeanne Long\n\nP.A.S. PUBLICATIONS FT. LAUDERDALE, FL\n\fTABLE OF CONTENTS\n\nINTRODUCTION ccc cesesnessstsssnenseaseesercsnresseneessseeesssnenetteeneasesaserneneenne cases IV\nCHAPTERS\n\n1 FOLLOWING iN THE FOOTSTEPS OF W.D. GANN wos. cseeseeseeeees 1\n\n2 THE ARCHEOASTRONOMY LEGACY ou... ceeeccescstsseeetsreseeneesetsns"
+  },
+  {
+    "file": "410231948-Walker-Myles-Wilson-The-Power-of-the-Hexagon-pdf.txt",
+    "bytes": 111166,
+    "sample": "_ THE POWER OF\nTHE\nHEXAGON\n\nMyles Wilson Walker :\n\fThe Power of the Hexagon.\nCopyright © 1999-2006 by Myles Wilson Walker. All rights reserved.\n' The Methods of using the Hexagon detailed in this book are the intellectual _\nproperty of Myles Wilson Walker and may not be used in any other trading or\ncomputerised System without the Authors written permission.\n\nThis copy is one of a Limited Edition "
+  },
+  {
+    "file": "Bill Mclaren. Gann Angles and the Square of Nine.txt",
+    "bytes": 7044,
+    "sample": "                      Gann: Angles and the\n                        Square of Nine\n                                       By Bill McLaren\n\n\nI\n    believe it is prudent that I begin by prefacing this article with a few cautions. First, there is\n    an abundance of misinformation related to the theory of Gann analysis that is available to\n    the novice trader. Other schools of trading thought involv"
+  },
+  {
+    "file": "Bryce Gilmore - An Introduction To The Methods Of Wd Gann.txt",
+    "bytes": 18409,
+    "sample": "                AN INTRODUCTION TO THE METHODS OF WD. GANN\n                         By Bryce Gilmore - www.bryce-gilmore.com\n                                             .\n                                         Author of\n                                 Geometry of Markets I & II\n                      Dynamic Time and Price Analysis of Market Trends\n                             WaveTrader/CycleT"
+  },
+  {
+    "file": "Carl Futia. Predicting Market Trends with Periodic Number cycle.txt",
+    "bytes": 100109,
+    "sample": "The Cyclic Forecast __\n\nPREDICTING\nMARKET\n\nTRENDS\nWITH PERIODIC\nNUMBER CYCLES\n\n\fINTRODUCTION\n\nIn this special repért you will learn about one of the most ac-\ncurate: forecasting tools that. has ever been developed for predicting\ntrend changes in stocks and commodities. Very few people have ever\nheard of \"periodic number cycles,\" and even fewer have seen them in\naction or know how to use them. Yet"
+  },
+  {
+    "file": "Chartbk.txt",
+    "bytes": 1055,
+    "sample": "Table of Contents for \"Chart Reading For Professional Traders\"\n\fChart Reading pg. 39- demonstrates how to draw circular arcs on any chart to\npredict when move will culminate as arc \"goes vertical\"\n\fChart Reading pg.66- demonstrates powerful \"zero price\" angle\n\fChart Reading- shows how to use hourly charts to pin point\nmajor moves to the hour and often the minute!\n\fChart Reading pg. 149- shows time"
+  },
+  {
+    "file": "Cooley, Granville - The Patterns of Gann.txt",
+    "bytes": 744811,
+    "sample": "The PATTERNS of GANN\nB y G ra nville Coole y\n\n1999\n\n\n\nPreface\n\nIntroduction to the Series\n\nBook I-The Cycle of Mars\n\nBook II-The Great Cycle\n\nBook III-The Book With No Name\n\nBook IV-On The Square\n\nBook V-The Cycle of Venus\n\nBook VI-The Triangular Numbers\n\nBook VII-The Cycle of Mercury\n\nBook VIII-The Single Digit Numbering System\n\nBook IX-Gann and Fibonacci\n\nBook X-The Cubes and the Hexagon\n\nBook X"
+  },
+  {
+    "file": "Costa, Neil A. - How Would W. D. Gann See the Stock Market In 2001.txt",
+    "bytes": 10693,
+    "sample": " Market Masters - stock, stocks, share, shares, stock trading, share trading, tr...nalysis, charts, stock charts, candlestick charts, kagi charts, Gann, W.D. Gann\n\n\n\n    \"How Would W. D. Gann See the Stock\n             Market in 2001?\"\n\n                                                                         Neil A Costa\n\nWilliam Delbert Gann was reputed to have made US$50 million from trading the"
+  },
+  {
+    "file": "Daniel_Ferrera_Outlook_2010.txt",
+    "bytes": 93032,
+    "sample": "                         General Outlook for 2010\n\nThe basic forecast for the stock market in 2010 is lackluster at best. The\nmarket may finish the year in positive territory, but currently would be more\ninclined to forecast a flat to negative market. In the prior outlook for 2009,\nwe discussed and illustrated periodicity. The analogous time period selected\nbased on periodicity was the 1867 to 190"
+  },
+  {
+    "file": "Fibonacci_and_Gann_Applications.txt",
+    "bytes": 491753,
+    "sample": "\fFibonacci and Gann Applications in Financial Markets\n\fWILEY TRADING SERIES\n\n\nSingle Stock futures: A Trader’s Guide\nPatrick L. Young and Charles Sidey\nUncertainty and Expectation: Strategies for the Trading of Risk\nGerald Ashley\nBear Market Investing Strategies\nHarry D. Schultz\nThe Psychology of Finance, revised edition\nLars Tvede\nThe Elliott Wave Principle: Key to Market Behavior\nRobert R. Pre"
+  },
+  {
+    "file": "GANNS_LAW_OF_PRICE_MOVEMENT.txt",
+    "bytes": 5131,
+    "sample": " GANN'S LAW OF PRICE MOVEMENT APPLIED TO TODAY'S MARKET\n                By Gregory L. Meadors (Part 1)\n                           http://www.tradesforaliving.com\n\nAs a young stockbroker, W.D. Gann already suspected that there were unseen\ncauses, operating behind the scenes that were responsible for price movements in\nstocks and commodities. He liked to think that these hidden causes were part of a"
+  },
+  {
+    "file": "Gann a S&P500_2008-08-08.txt",
+    "bytes": 5559,
+    "sample": "                  Teoria poziomów wg Ganna a S&P 500\n                         Przyczynek do dyskusji.\n                                  Dominik Tomczyk\n\nWilliam D. Gann (1878-1955) był traderem, który opracował wiele unikalnych technik\nanalitycznych indeksów giełdowych.\n\nWszystkich, którzy są zainteresowani jego metodą odsyłam do artykułu Krzysztofa\nBorowskiego, Wybrane zagadnienia teor"
+  },
+  {
+    "file": "Gann, W.D. (1950)_On Tops and Bottoms.txt",
+    "bytes": 6620,
+    "sample": "Gann on Tops and Bottoms\n\n\n[The following are excerpts from Gann commodity courses. Apart from Gann's normally cryptic style, they\n   are rendered the more cryptic by my having pulled them out of the context of the courses in question.\n                      There are, nonetheless, several useful indications in the material.\n      [With this post, I wish to remember my chat friend and Gann analyst "
+  },
+  {
+    "file": "Gann, W.D. - Corn Cycles.txt",
+    "bytes": 678,
+    "sample": "See iecmeane) <a elie, spd pints\na VO ee oe aainer gel\n(psd as seeey aes? eee\nRE et near J afN Mle cs epee oT Peep |\n7 poe .s INN. a] ay 1am — - Th acne > ae\n* we om aan fe fetal = ir = = = =p : sean\ni iptamteens cas! See eenscces mane ten. Ge ines pp Coripeer:\nany ae ff oop bos i VEN Tt\nLow read ae Ee EA ie KC et\nwie | as anes # yA. “Ra\nLovie ; op AWM OYAS \\\\ SE\ncine ce ieee anna ay = eee ere"
+  },
+  {
+    "file": "Gann, W.D. - December Cotton Monthly 2.txt",
+    "bytes": 1487,
+    "sample": "7 = of. © tend rifii 7 ay ze =\n1 — he sy! is\na | uf 3\niy Hn, | — “£2.44 58\nZ. oa 4 sa ‘kB, et mm\n- . !\n‘ Ee 7 abe 1\n-| 4°44\n| Lo bl «\nt ‘ Lalit\n1 ~) | | 91 | “i Ap La\nz \\L\n| i it a 7 \\V\nmy > ee 5] wy toe ani Pig 73 i\nNN ov ee mee Rhr4 OF4, Ly) oS\n7 : YY y 2 - \"4 | i F T 7 Wee te ES\nNEX \\ ~ | = i i ca 9 ee SEG\nay its | ‘ ! : bathe me : Lg\n= i 1 oN Y | z ii ii : : : 4 we LEI hye."
+  },
+  {
+    "file": "Gann, W.D. - Gann Angles and the Square of Nine.txt",
+    "bytes": 7044,
+    "sample": "                      Gann: Angles and the\n                        Square of Nine\n                                       By Bill McLaren\n\n\nI\n    believe it is prudent that I begin by prefacing this article with a few cautions. First, there is\n    an abundance of misinformation related to the theory of Gann analysis that is available to\n    the novice trader. Other schools of trading thought involv"
+  },
+  {
+    "file": "Gann, W.D. - Gann's 28 Trading Rules.txt",
+    "bytes": 3754,
+    "sample": "Gann's 28 Trading Rules\n\n\n\nThe Rules given below are based upon W. D. Gann's experience :\n\n1. Amount of capital to use: Divide your capital into 10 equal parts and never risk more than\none-tenth of your capital on any one trade.\n\n2. Use stop loss orders. Always protect a trade when you make it with a stop loss order.\n\n3. Never overtrade. This would be violating your capital rules.\n\n4. Never let a "
+  },
+  {
+    "file": "Gann, W.D. - July Cotton Monthly 19141934.txt",
+    "bytes": 1121,
+    "sample": "; | : 7 ul\ni 4 i\n~) pf HE\ni] |\nT t\ni HES\nee\nT ;\nfe ee\nae\n| 4d\n|\nee\n| i |\njf]\n4 |\nee oe\nif |\nif ‘\nry |!\n——\n\nNN\na)\n\n|\n\nya\n| _ji93\n\nigh\nAWat\nTVG\n- x\nfa\n\nt\n\nates\n3\n=\nai\n|\nid\n\nasy\n\nFree ¢-hooks at Wheels in The|Sky\n\n://groups.yahoo.com/grou /wheelsinthesky/\n\n{\ni\n|\n\nta\n\n%\n¥\niz\n\nvt\nlati L978\n\n4\n|\n1\niT\n|\nv!\n—-8\n=<;\n¥\n€\nRe\n\ni j — ; - | 1\nof Bal td | peed ee ane ee :\nSpree Berroa RTP\n“ee Jo"
+  },
+  {
+    "file": "Gann, W.D. - July Wheat Trendline Indicator 19351936.txt",
+    "bytes": 1235,
+    "sample": "EN in RE a BO Se de? ca sie Senne ai pte eee pay ts a 4 ar eo Mypyvk pee , E 7 ; - - — _ F 2 a i ‘ ry : sepa Pope pr ee EY\nSEES are a opi i fis iar be biocerga Get ahi tn PES zee\nmeee ene lees roetaget ae eureaoea aes totgeocveweeee feast teeeeasten taser ee eae eT eae ea BaD ar are\nSate ECEneee Soe et tet eee eee Ee rete Ras Spann EEG seses asec Sneademaein ci cn A “ “Te : in Fux i yu fas"
+  },
+  {
+    "file": "Gann, W.D. - March Cotton 19511953.txt",
+    "bytes": 1181,
+    "sample": "SERS HS\n\n \n\n \n\n \n\n \n\n \n\n#\nES\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\ni\nbesprtpy\ni !\n\nr\nmth\na\nAe\nTho\nqt\nITT +\n1 1\n=f} ,\nai A\niti}\niD\n7\n\n \n\n \n\nane\nwet\n\nketo e\n¢\n\n \n\niv\n\n \n\n \n\neh\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\ncs\neS\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nbY\nSoteey,\noS\n\n \n\na\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nf\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\nyo\n\n \n\nS\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\ny\n¥\n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n \n\n "
+  },
+  {
+    "file": "Gann, W.D. - March Cotton Monthly 19261955.txt",
+    "bytes": 894,
+    "sample": "ea\nBeer\nHELE\nTPB\n\nparce chen whe Cee\npeed Sat Hae Eee\npee pease ee\n\nPETRIE ECD\n\n4\n|_|\n\n= a\n\nt\n\n \n\nTawi Yt\n\n|\n\n   \n  \n \n   \n\n \n\n  \n\n \n\n \n\nERS\n\naS 7\n\ni AE\n— i a\nBit tne RE ae |e ! t\nNY “l = ' -f oe M i\nae Aan a LT “8 ‘ay. . | eal\n\n41 ¥\norihtt |\n\n \n\n \n\n: ge SEES REST ESTEE EES FS: [PERSE Es pak\nade UTTESEES TEE ET PP bo Ee Pa Pops eles [| Lt}\n2 daa ESE Ee irs Bd BS ea SG PS\nD hb at HEE pte E"
+  },
+  {
+    "file": "Gann, W.D. - May Soybeans 1952-54.txt",
+    "bytes": 1709,
+    "sample": "(“Fr\naa os eH de 4\nBe gee been BB EE BEER ECOB EEE ES SeEeNEESEan resis Wi zruup/netintheky/-} b= as Brace\npee eee se nttp: ‘groups.yahoo,comh/g Arle fetnbealedat oe cane we ezee\nmeeEPERET Po HS eee eee neecad- \\caen aces 2 cote\nSapp ee EEE BEECH EE nanny me jaa arcane om ae : eet : ge oe\noul el | Eo date eee Hae BeCCr Pre rer [Z| [a mE I aa af A cH vice Brececciss\n7 eae charath rats [aby Thee"
+  },
+  {
+    "file": "Gann, W.D. - MaySoybeans TimePeriods 19511954.txt",
+    "bytes": 3172,
+    "sample": "ff i Se ee SS SS SS Sa\nad a £9 Ed SE ed Sd ee ee\nB30 SRE SS Seas SSS aS Se Sse eee ee Sa eel aS BS SE eS:\nSS Pot bre ee Be Se ee es ee eee ee ee eee\nBABS S ERAS aes Ses SSS ee Sas el SSeS SS SSS\nwet TE oT Te ee ee ee ee eee ee ee\nSERRE RR TER BE WSS ae eS Sea ae soe Selle ase esa mes:\n2by ee ee ee ee eee\n1m Eo BOB ee Se  ugunilocee occa an lS See SSeS SS\nee a We eS SS Sala en\nfae ee MY PN dime Sb"
+  },
+  {
+    "file": "Gann, W.D. - NovBeansWeekly 19471954.txt",
+    "bytes": 2903,
+    "sample": "ae TD Hy via e Ma ra YF SET sa LPNS aye : sen -\nfad RE SESS eae\npie IN PELE ZN\nEt Feo a Nee mea 3\n=e AT SS IY PERRET\nCET HEE ERR SST c ORL) nS\naor Sat ae\n\nLady\n\n \n\n \n\n|\nEh\na\ny\nA\nZn\nRe\nope\n; te\nti\nA\nG\ni\n\n \n\n \n\n \n\n \n\n \n\n \n\nPAS hn\nneh ny Sees pie iid eZ\n\nre TSN ISAS es eo een depen Te GT\nHr fA RDC | OTe Ne ey or\n\n1953\n\n  \n\n \n\n  \n\n \n\n \n\n \n\nJaf aT.\n\nroe ,\nISG TRON Ter Dee?\nMe Sieg Kr hee He RE EE,\n\n \n\n"
+  },
+  {
+    "file": "Gann, W.D. - OctEggs 19481954.txt",
+    "bytes": 3509,
+    "sample": "pte ns\nHn * PEPE T ae ~f Ef oh [Ee 4\nfo bape ce no ceases et ce Cees eseenra: Cee eee mare\na el ee ein eae ed eo tO ft ne 2% Aa BAG Ls. SAS Sn rie gee Gee ee HED: Omen\nabe ea lel rl ee eee Rel lw el REEL RUIN Ne afer Reo\n. re ee Sah eh 3 : = ‘ees sss ae N 2 Ws SSSA Raa a oS HE poof ar Ce a ee\nSag renee eapugunenca ueaeuue day ty cuueeus SPER Si ee\npea a cee ar — 7 Racers ss a SS Sega td — TN"
+  },
+  {
+    "file": "Gann, W.D. - Path of Planets 4 19351941.txt",
+    "bytes": 2057,
+    "sample": "Ese:\nSloss 3H) ESI is\ncoacte ie\ndatiaste |. + Be beresles serasietr aisiiaas\nee Siar emerens stir\nearees SEE iseergera ieeseaaea EH ESS\nSerepparste panos ch te Screteseee Gis\nSaee RM ee ae i a T ret ory IE] nia aS\nx elesetnelisoh splagestbred Reali sede LE ak AN EE pl GSEs eereeeatacaeel eet au\nise ieee Ss i\\ ace Serie, Tin (AGEL Yi Loe Bega eer ceuaeamant SS ee\naes cd | iL me Hit CEE EE PEGE As A"
+  },
+  {
+    "file": "Gann, W.D. - Squareof144.txt",
+    "bytes": 1895,
+    "sample": "SSIES geass Pr pee eet eee ge | IE at ee od mut a = a [et rrtttr: i iat 1 a a POE E i Hi | stag lll hg te ub Ee ty\nBRA Geo se dabsakiial Wheels In The S “hy Tif SB] BRR [ORDO AT TE Sey oP: lize: aml ea eat a\n| seeseente enter ee biet! rrr tit Here\nCOS SSS ye eee He ea {n/N\naba a ANS RSS St PRE Ae\nSENN SSC eee toe\nTia PSE SS Alte Eee ee\nBie le “E | NIN | frida Scale Sameer aaace Ala lid ad =\nso"
+  },
+  {
+    "file": "Gann, W.D. - Squareof90.txt",
+    "bytes": 338,
+    "sample": "<L={ 1 roel: || = HIME AND PRICK CALCURLATOR-; SQUARE OF 90 _sasptnibessiresteitints|\n=taN IN AR ARS ant\nEDRDIC KORE\nEsty Aastass\nqe axe Gb (ZADNCABN Als\npsa ae sap\nsae CENAIN ANE +\nee tT\nERUNDND SE\nBaie Y a\nADU DINZRUKE\nIEOZSIOR DN EE\nee al VAAN 3 wp 32\nSee” + ewe VAAN LAN ol 3 Ne. -\n“Dopeeps bets aa are rr iis era\nTHI METRITE aed\n"
+  },
+  {
+    "file": "Gann, W.D. - Time and Price Calculator squareof52.txt",
+    "bytes": 942,
+    "sample": "Seared FaEErad REESE a scons neseeeessesesaaaes!\nS EESEEESS EE GSEESSEECHEESS HEC REED tecteesgerseenaatgcorars Hneelsintheaky/:--¥=\"\n“of a aero sot err =\nco ae aa ee er Te am\nSee et Neate cece ceiee Sis eenaee = Cae!\nsu usaseangen\\ ence peste bieordstite sh rr fea teapategssyc tuseaved ENE y oe eae a\ntea tas ENS OA EN Ie A =\nEP KSC Se oC\nGad ani cin ey Ces FS AT ACRE\nmomen ae ANT IN PS Aaa NA\n"
+  },
+  {
+    "file": "Gann, W.D._On Cycles & Trading - Forecasting Rules.txt",
+    "bytes": 20465,
+    "sample": "Gann on Cycles:\n\n\"My calculations are based on the cycle theory and on mathematical sequences. History repeats itself. That is\nwhat I have always contended, -- that in order to know and predict the future of anything you only have to\nlook up what has happened in the past and get a correct base or starting point. My authority for stating that\nthe future is but a repetition of the past is found in t"
+  },
+  {
+    "file": "GannGridsUltraV5.0Manual.txt",
+    "bytes": 96286,
+    "sample": "                    Gann Grids Ultra 5.0 Charting Application\n                                        By Pivot Point Research\n\n\n\nOverview …………………………………………………………...1\n\nSystem Walk Through……………………………............................3\n\nGetting Started....................................................................................5\n\nNavig"
+  },
+  {
+    "file": "Gann_-_How_To_Trade.txt",
+    "bytes": 5692,
+    "sample": "HOW TO TRADE\nAfter you hevethoroughly mastered #11 of the lessons, be sure you are right\nbefore you make a trade. Never guess. Trade on scientific indicetions only.\n\nWHAT YOU MUST KNOW BEFORE YOU START TRADING:\n\nYou must know exactly how to apply all the rules, how to draw the geometrical\nangles or moving-arérage iines from tops and bottoms; how to squaro Time with\nPrices how to brine + te import"
+  },
+  {
+    "file": "Gann_News_Clippings.txt",
+    "bytes": 32904,
+    "sample": "         \"The Ticker and Investment Digest\"\n                        (later became the Wall Street Journal)\n                                      December of 1909\n\n\n                               William D. Gann\n                  An Operator Whose Science and Ability Place\n                            Him in the Front Rank\n                 His Remarkable Predictions and Trading Record\n\nSometime ago "
+  },
+  {
+    "file": "Ganns_Law_of_Vibration.txt",
+    "bytes": 42593,
+    "sample": "     TECHNICAL ANALYSIS\n     JAMES SMITHSON\n\n\n\n\n     Rediscovering\n10\n     Gann’s Law of Vibration\n                      OCTOBER 2008 / VOL. 4 ISSUE 10\n\fJames Smithson discusses the discovery and use of Gann’s ‘Law of\nVibration,’ a method for accurately forecasting the trends of the stock\nand commodities markets\n\n\n\nIntroduction                                                   Gann’s maj"
+  },
+  {
+    "file": "Gerald Marisch. The W.D. Gann Method of Trading.txt",
+    "bytes": 232706,
+    "sample": "7esotri\nsasicro\n98/0L/0e\nvestcre\nVestcsZ\n9esosse\neer te-e\nCOsuure\nens iere\nVasErse\nvastcset\nsesvt¢crse\ncesotst\neesteso\nCasot/se\n. \"} cests7ea\n. “4 Carstcrad\nee7ots9\nSerstsc/se\n\n: “* | eerotrey\nbiota ‘} cevtgce\nAes ss b eevezrz\nserstcst\nwestcsz\nvasocst\nvarsteso\nwesocss\nvestese\nwarstira\nvesOgsy\nvartsss\nvesoc/r\nvestese\nversezsz\nwasicst\ncastcsz\nfevocet\ncesteso\n£B7or7e\ncestcve\nsastcre\ncasocr9\nf"
+  },
+  {
+    "file": "Gilmore Geometry of Markets vol 2.txt",
+    "bytes": 320938,
+    "sample": "TABLE OF CONTENTS\n\nGEOMETRY OF MARKETS - II\n\nTable of Contents\n\nCOPYRIGHT RESTRICTIONS 0... ccc ccc ce re ene ee eee eee eee teeter ree eeeeeees iii\nDEDICATIONS «0... .ccccccccccccccecceeveeee esse eeeeee settee eee nne eset e ne en een eee geet v\nPREFACE .......ccccccc cece cceeueeneeeeeeeeeeeeeeeeees vec ceuuaeeeeeueeeeeeuaeetennees vii\nTABLE OF CONTENTS  ...... cc ccc ce cee teen renee e eens "
+  },
+  {
+    "file": "Gilmore, Bryce - Dynamic Time and Price Analysis of Market Trends.txt",
+    "bytes": 297131,
+    "sample": "\\\ni\n\n@ |\nDynamic Time\nand Price\nAnalysis of -\n“Market Trends.\n\nme ite A es. ies ee a |\nAcuil\n\nT\n\nBy\nBryce Gilmore\n\nt\n\nAdvanced technical analysis\nmethods and techniques\n\n| @\n...\n\n\fDynamic Time & Price Analysis of Market Trends\n\nTable of Contents\n\n1. Sacred Geometry\nCanon of Proprortion\nGeometric Ratio Series (1.618)\nHarmonic Ratio Series of the Square (1.414)\nThird Dimension of the Square (1.732"
+  },
+  {
+    "file": "Gilmore, Bryce - Geometry of Markets.txt",
+    "bytes": 334005,
+    "sample": "GEOMETRY OF MARKETS\n\nTable of Contents\n\n1. THE THEORY BEHIND TIME RELATIONSHIPS IN MARKETS ..........60-e eee enes 1\nINTRODUCTION ...... 20... ccc ccc teen e rent e eee ees 1\nPLANETARY CYCLES ..... 0... ccc ce ce nett eee nneee 2\nSEASONAL CYCLES OF AN EARTH YEAR (4 SEASONS) ............---- 2\nASTROLOGICAL CYCLES ....... 0. ccc cee ence eeenes 4\nMOST IMPORTANT SEASONAL DATES OF THE YEAR ..........."
+  },
+  {
+    "file": "Integration.txt",
+    "bytes": 10814,
+    "sample": "                             Integration of Gann, Elliott, and Fibonacci Techniques\n                                                     by Peter Matske\n\n\nIf your trading is based only upon study indicators you may find that adding additional techniques may be of\nbenefit. Most studies are based upon price, in fact very few consider time at all, other than to smooth or average\na number. The techniq"
+  },
+  {
+    "file": "Intro to gann trading by myles.txt",
+    "bytes": 147915,
+    "sample": "By Myles Walker\n\fNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any\nform or by any means, electronic, mechanical, photocopying, recording, scanning or otherwise,\nexcept as permitted under Sections 107 or 108 of the 1976 United Stated Copyright Act, without\neither the prior written permission of the Publisher. Requests to the Publisher for permission\ns"
+  },
+  {
+    "file": "Jacobs - Gann Tutorial.txt",
+    "bytes": 167700,
+    "sample": "Chapter 1\nIntroduction\n\nIn this first lesson you should understand W.D. Gann, the man. Who the man was, what he did, and how he\ndid it. I have included below two articles: The Remarkable W.D. Gann written by John J. Gann, Jr., who was\nW.D. Gann's grandson and another article W.D. Gann A Legend written by Les Clemens. Both articles are\nexcellent.\n\nYour assignment is to read these two articles. It i"
+  },
+  {
+    "file": "Kakasuleff, Chris - Gann and the Circle.txt",
+    "bytes": 9865,
+    "sample": "                      Gann and the Circle\n                                 By Chris Kakasuleff\n\n\n\nI\n   n order to pin point the manifestation of events upon the physical earth plane, you must rst\n   have a working knowledge of the astronomical mathematical formula. The 360 degree cycle\n   popularized by W. D. Gann is our reference point. What did the wizard of Wall Street teach\nus about the gre"
+  },
+  {
+    "file": "Kakasuleff, Chris - Predicting Market Trends Using the Square of 9.txt",
+    "bytes": 10094,
+    "sample": "                 Predicting Market Trends\n                  Using the Square of 9\n                                   By Chris Kakasuleff\n\n\n\nT\n       he square of nine popularized by W. D. Gann is very reliable in determining market trends.\n       It is a useful market tool in almost all markets including stock indexes, stocks, commodities,\n       and options. The numbers in the square of nine can "
+  },
+  {
+    "file": "Krausz - W.D. Gann Treasure Discovered.txt",
+    "bytes": 296442,
+    "sample": "annie\n\nW. D. GANN TREASURE\nDISCOVERED\n\n_\n“y\n\nfea\n\nFOR” | a |\nSTOCKS. & Cowmoomes\na dads vo sad -_\n\nCARE: 4 ye ne te nit . vasa: hime: aa. Ut PHOG aha: “ :\nMULTIPLE TIME FRAME APPLICATIONS. . LOAD\n(CHARTED BY. THE FIBONACCI TRADER™ COMPUTER PROGR AM.\n\n\fPress on. Nothing in the world can take the place of\npersistence. Talent will not; nothing is more common\nthan unsuccessful people with tale"
+  },
+  {
+    "file": "Myles-Wilson-Introduction-to-Astro-Tech-Trading.txt",
+    "bytes": 147915,
+    "sample": "By Myles Walker\n\fNo part of this publication may be reproduced, stored in a retrieval system or transmitted in any\nform or by any means, electronic, mechanical, photocopying, recording, scanning or otherwise,\nexcept as permitted under Sections 107 or 108 of the 1976 United Stated Copyright Act, without\neither the prior written permission of the Publisher. Requests to the Publisher for permission\ns"
+  },
+  {
+    "file": "Neil A Costa. W.D. Gann - Market Master.txt",
+    "bytes": 15704,
+    "sample": " Market Masters - stock, stocks, share, shares, stock trading, share trading, tr...nalysis, charts, stock charts, candlestick charts, kagi charts, Gann, W.D. Gann\n\n\n\n                         \"W.D. Gann - Market Master\"\n\n                                                                         Neil A Costa\n\nWilliam Delbert Gann was born on 6 June 1878 in Lufkin, Texas. His father, Samuel Houston Gan"
+  },
+  {
+    "file": "Pardo, Robert - Gann Lines and Angles.txt",
+    "bytes": 29767,
+    "sample": "Stocks & Commodities V. 3:5 (177-183): Gann Lines and Angles by Robert Pardo\n\n\n\n\n                                  Gann Lines and Angles\n                                                      by Robert Pardo\n\n\n    \"Integrated use of Gann Lines and Angles. . . appreciably\n   enhances the accuracy of the identification and verification of\n   potential turning points. \"\n\n    INTRODUCTION\n   Gann Lines"
+  },
+  {
+    "file": "Part I.txt",
+    "bytes": 63779,
+    "sample": "\fSPECULATION A PROFITABLE PROFESS ION\n\n& Course of Instructions\non Stocks\n\nby\nW.D.GANN\n\fSPECULATION A PROFITABLE PROFESSION\n\n4 Course of Instructions With Rules for Trading in Stocks\n\nFOREWORD\n\nBe ready for opportunities. Knowledge more important than\ncapital, To succeed in any business you must be prepared, and in\npreparing for a speculative or investment business you must look\nup the greatest ad"
+  },
+  {
+    "file": "Part II.txt",
+    "bytes": 2032,
+    "sample": "\ft\n\nTAC\n\nne\n\n(Ges\n\nre |\n\n6.7\n\nVs)\n\nif\ni\nL\n\nyl\n\naritees\nforay\n\nI\n\nLOC\n\nFke 7\n\ni\n!\n\n7 Lo\nle: H Bio\n\nLr yt\n\nNl\nte\noi fp COLT\n\niq\n\n\fKLEKEHAN\n\n<T\n\n=\n\nd\n\n\f5 =\npa a\n\nCAS st\n\nAFD Sop poe\n\nAFT SOTO\n\nae\n\nAIRCR\n\na,\n\nM\n\nWIS\n\npoo)\n\n“§F6O}—\n\nce). a\ney\n\n- a\nmis\n\n\f“Peer -f. oo\nact tee red\n\nTIC PRON #6\n\n\falGe4\ncc\nLhe ni\n\npradiy «|\n\n\f\fia I\nTT |\nT t 1\nrae an\ni 7[ H\nLJ : . ‘ a\n| o Pale LC\n/| mi . | wh\n— L"
+  },
+  {
+    "file": "TRADING THE GANN SQUARE OF NINE.txt",
+    "bytes": 114100,
+    "sample": "\fThis material is protected under the Digital Millennium Copyright Act of 1998 and various\ninternational treaties. This material may not be replicated and redistributed. You may\nmake one or more copies for archival purposes if those copies are for your own use, but\nit is illegal to email this material or to make it available for downloading by any person\nother than yourself.\n\n\n\n\n                  "
+  },
+  {
+    "file": "The.New.Commodity.Trading.Guide.txt",
+    "bytes": 381544,
+    "sample": "The New\nCommodity\nTrading Guide\nBreakthrough Strategies for\nCapturing Market Profits\n\n\n\nGEORGE KLEINMAN\n\n\n\n\n                              From the Library of Kerri Ross\n\fVice President, Publisher: Tim Moore\nAssociate Publisher and Director of Marketing: Amy Neidlinger\nExecutive Editor: Jim Boyd\nEditorial Assistant: Myesha Graham\nOperations Manager: Gina Kanouse\nDigital Marketing Manager: Julie Phi"
+  },
+  {
+    "file": "Tradersworld - Gann Masters.txt",
+    "bytes": 162466,
+    "sample": "Chapter 1\nIntroduction\nIn this first lesson you should understand W.D. Gann, the man. Who the man\nwas, what he did, and how he did it. I have included below two articles: The\nRemarkable W.D. Gann written by John J. Gann, Jr., who was W.D. Gann's\ngrandson and another article W.D. Gann A Legend written by Les Clemens. Both\narticles are excellent.\n\nYour assignment is to read these two articles. It is"
+  },
+  {
+    "file": "Trading_Doc__Market_Cycles___Fibonacci__Gann__Elliott__Benner_Cycles___Financial_Astrology___Philip_Rio_forex.txt",
+    "bytes": 23233,
+    "sample": "Philip Riou (2003): Market Cycles & Fibonacci, Gann, Elliott, Benner Cycles & Financial Astrology\n\nThe relevance of trading with TIME-cycles alone is far less accurate than forecasting with PRICE. But its relevance\nwill increase if, as the forecasted times approach, price patterns and momentum indicators show signs of reversal.\nAlso, when trading markets like futures and commodities, the capital r"
+  },
+  {
+    "file": "USING PLANETARY HARMONICS TO FIND KEY REVERSALS THE MARKET.txt",
+    "bytes": 14544,
+    "sample": " USING PLANETARY HARMONICS TO FIND KEY REVERSALS IN\n                    THE MARKET\n                                           By THOMAS LONG\n\n\nThe question of whether the positions and geometries of the planets of our solar system affect market\naction has been a long and hotly debated issue. In recent years, I have been perfecting a method by\nwhich I believe to have put the question to rest. The c"
+  },
+  {
+    "file": "W.D. Gann Master Commodities Course.txt",
+    "bytes": 841973,
+    "sample": "                THE W.D. GANN\n  MASTER COMMODITIES COURSE\n\n\n\n\nProudly presented for the educational benefit of the members of\nWheels In The Sky. A forum where one can learn about Gann\n             and other famous market forecasters.\n\n\n        www.groups.yahoo.com/group/wheelsinthesky\n\f                                 THE W.D. GANN MASTER COMMODITIES COURSE\n                                        "
+  },
+  {
+    "file": "Walker, Myles Wilson - Super Timing Trading With Cycles (2003).txt",
+    "bytes": 3727,
+    "sample": "      The Aspects of Super Timing                                                      Page 1 of 5\n\n\n\n\n                                              Super Timing\n\n\n\n\n                                      Trading with cycles\n      The advantage of using cycles is that you can trade with more confidence.W.D.Gann\n      always stated that\n      time is more important than price and when time and price"
+  },
+  {
+    "file": "gannbo1.txt",
+    "bytes": 66266,
+    "sample": "FACE FACTS AMERICA!\nLOOKING AHEAD TO 1950\n\nby W.D. Gann\n\n\nWith the greatest war in the history of the world raging and man’s inhumanity to man the greatest\nthat has ever been known, with the Germans ruthlessly destroying women and children and\nshowing no mercy, it becomes the duty of everyone who can by word, deed or act do anything to\naid the United States to protect America’s interest in the"
+  },
+  {
+    "file": "gfer.txt",
+    "bytes": 640636,
+    "sample": "MYSTERIES OF GANN\nANALYSIS UNVEILED!\n\nat?\n\nVS LGM AM, Yo =\nDANIEL T. FERRERA\n\n\fTHE MYSTERIES OF GANN\n\nANALYSIS UNVEILED!\n\nBy\n\nDANIEL T. FERRERA\n\n2001\nSACRED SCIENCE INSTITUTE\nIDYLLWILD, CA,\n\n\fCOPYRIGHT\n\nFirst Edition\n© Copyright 2001\n\nDaniel T. Ferrera\n\nAll rights reserved. No part of this work covered by the copyright hereon may be\nTeproduced or used in any form or by any means — graphic, or m"
+  },
+  {
+    "file": "gmaaeng16apr21.txt",
+    "bytes": 20520,
+    "sample": " Everything moves in cycles as a result of the natural law of action and reaction. By a study of the past, I have discovered what cycles repeat in the\nfuture\"; \"It is not my aim to explain the cause of cycles, the general public is not ready for it and probably would not understand or believe it if I ex-\n      plained it....everything works according to past cycles, and that history repeats itself"
+  },
+  {
+    "file": "j347ab77.txt",
+    "bytes": 2110,
+    "sample": "THE CYCLES\n   AND\nTHE CODES\n   from W.D. Gann's Novel\n\n\nThe Tunnel Thru The Air\n\n             or\n\n\nLooking Back from 1940\n\n\n\n\n BY MYLES WILSON-WALKER\n\f          The Cycles and The Codes\n\nFrom W.D. Gann’s Novel The Tunnel Thru The Air or looking back from 1940\n\n\n\n          Copyright © 2021 by Myles Wilson-Walker. All Rights Reserved\n\fLimit of Liability/Disclaimer of Warranty: While the publisher"
+  },
+  {
+    "file": "the cycles the codes.txt",
+    "bytes": 2110,
+    "sample": "THE CYCLES\n   AND\nTHE CODES\n   from W.D. Gann's Novel\n\n\nThe Tunnel Thru The Air\n\n             or\n\n\nLooking Back from 1940\n\n\n\n\n BY MYLES WILSON-WALKER\n\f          The Cycles and The Codes\n\nFrom W.D. Gann’s Novel The Tunnel Thru The Air or looking back from 1940\n\n\n\n          Copyright © 2021 by Myles Wilson-Walker. All Rights Reserved\n\fLimit of Liability/Disclaimer of Warranty: While the publisher"
+  }
 ]
