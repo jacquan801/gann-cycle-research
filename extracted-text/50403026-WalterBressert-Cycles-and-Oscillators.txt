@@ -1,0 +1,2182 @@
+
+--- Page 1 ---
+  
+      
+   
+ 
+ 
+
+ 
+ 
+
+ombinations to mechanically |
+ley are occurring, uses cycles to
+e fu ie markets.
+
+ 
+
+Walter Bressert
+9440 Doubloon Drive
+Vero Beach, FL 32960
+407-388-3330
+407-388-3389 Fax
+
+bottoms
+
+--- Page 2 ---
+ 
+
+CYCLES, PATTERNS AND OSCILLATORS
+IN THE STOCK MARKET
+by Walter Bressert
+
+The order of the Universe shows itself in the thousands of cycles observable in nature and documented by the
+Foundation for the Study of Cycles. It shows in the minute structures of molecules, atoms and sub- atomic particles. It
+also shows in the ordered structure of the solar system and, as scientists are now discovering, in the interrelationships
+of galaxies. The smallest particles to the largest clusters of galaxies follow some kind of order...so why not the
+markets.
+
+Prices move in a manner that may initially appear to be random, but with study, show an underlying order. Cycles,
+waves, Gann squares, angles, Fibonacci relationships in both time and price, planetary influences and other
+observable phenomena are reflections of this underlying order. Unfortunately, we do not know its causes, nor do we
+have a solid grasp of the rules ... but anyone who studies the markets with an open mind will see that there is indeed an
+order to all markets, especially in the formation of highs and lows, which are focal points or high energy levels of a
+market.
+
+There are some who arbitrarily dismiss cycles and the natural order of the markets on the premise that such concepts
+smack of pre-determination and violate man’s God-given free will. But with his free will man can choose to participate
+in the markets or not, just as he has the choice to participate, or not, in the cycles of good times and recession through
+his investments. By knowing the approximate timing of cycles man can use them to his advantage.
+
+The predictable cycles of the seasons are there for man to use, and planting corn in November because prices are high
+would be a waste of time and money. Through observation we know better. Buying stocks or gold at the top of a
+market is something we all want to avoid, but unfortunately the fundamentals are almost always the most bullish, and
+most tempting, at tops. Without study we are oblivious to the natural order of the markets, which must be actively
+sought out and discovered. True, we do not know ail of the rules of the markets, but we do know that we want to buy
+bottoms and sell tops. We also know that we can rack up sizable profits by trading with the trend.
+
+Fortunately for us, the energy of the markets is visible in the movement of price, which when charted, shows repeating
+patterns of time and price in cycles and Elliott Waves. Market oscillators also reflect this energy as overbought and
+oversold levels. More often than not, these overbought and oversold levels are also cycle highs and lows . By
+identifying the lengths of the most powerful and consistent cycles, called dominant cycles, we can often anticipate tops
+and bottoms as well as the direction of the trend, or longer cycle. Much of this is explained in my book, ‘The Power
+of Oscillator/Cycle Combinations".
+
+The 4-Year Cycle in the Stock Market
+
+     
+      
+   
+ 
+  
+
+    
+ 
+  
+   
+    
+  
+  
+  
+   
+  
+
+TABLE 1
+4 YEAR DJIA 917-195 ASED ON. Q RICE:
+% | | MONTH| MONTH] MONTH
+traced back to 1789, and is the dominant 1 1 8
+longer-term cycle affecting the stock market, .
+‘ a 66 = 44 23 2
+setting trends that often last for three or more totiasae. iaeqil 1
+
+   
+ 
+     
+
+1926-3/30
+1929-11/13
+
+1929-9/3
+
+years.
+193@-4/17
+
+   
+   
+  
+ 
+
+ 
+ 
+ 
+  
+  
+  
+   
+   
+ 
+ 
+  
+
+ 
+  
+  
+  
+  
+  
+   
+ 
+ 
+
+1932-7/8 1937-3/10
+Table 1 lists the 4-Year Cycles since 1917, based 1938-3/31 1939-9/12
+on the daily close. The column headings are octave jane
+self- explanatory. The averages at the bottom of isasceyt3 i9s31/8.
+the chart show that the 4-Year Cycle averaged 1953-9/14
+49 months from low-to-low, 36 months from ieneste, ies
+low-to-high, and 13 months from high-to-low. 1966-10/7 1968-12/3
+The average advance from low-to- high was retire reat
+107%, or more than a doubling of the level at 1978-2/28 1981-4/27
+
+1982-8/12 1987-8/25
+which the cycle began. 1987-10/19 19900717
+
+1990-10/11 t
+
+2 Walter Bressert
+
+—
+
+--- Page 3 ---
+RSI3M3 OSC/CYCLE COMBO FOR BUYING TRADING CYCLE BOTTOMS
+in T-bonds
+
+1) The low must be 15 to 30 market days from the previous Trading
+Cycle bottom.
+
+2) The Trading Cycle high must have occurred with the oscillator above the
+sell line at 60.
+
+3) The oscillator must drop below the buy line at 40 and turn up before or
+as the price low is made
+
+4) The Trigger Entry is a rise above the price high of the upturn day.
+
+5) The protective stop should be placed below the Trading Cycle low.
+
+CompuTrac/SNAP version 3.6
+
+ip
+
+hn r i
+
+ 
+
+   
+
+   
+
+'
+\
+TOS EYEE FE TR SN ART DEC FEB APRN GT EC FE PR OCT EC FED APR UNIS OCT
+3 Vode° 1 ”
+
+rm eechees mor nes eaafeensomahemas macnn se deenseaspemsseaJeoasartomsnojeasnsenssc2},eosn)een.ses}oen.sofemass
+eee|19 7el1071 [10 7211973[1074|1075|1976|1977|1978|1079/1960|1981|1982|1983|1964]1995|1¢46|1987|1988]1080|1990|1091 1992]
+
+ 
+
+--- Page 4 ---
+CCI 30 OSC/CYCLE COMBO FOR
+4-YEAR CYCLE BOTTOMS OF S&P INDEX _
+
+The oscillator/cycle combination that confirmed the bottom of every 4-Yeai
+cycle has 5 steps that must be met:
+
+1) The price low must be 32 or more months from the previous 4-Year Cycle
+bottom.
+
+2) The Detrend must drop below the Buy line at -70 and turn up.
+
+3) The CCI must drop below zero. A drop below the Buy Line at -100, which
+occurred at 6 of the 9 bottoms, would be comforting but is not necessary.
+
+4) The CCI must then rise above the Crossover.
+5) Following the requirements of 1 through 4 being met, the Trigger entry
+of buying the price high of the month that exceeded the high of the Crossover
+
+month confirmed every 4-Year Cycle bottom. It is the safest entry, but not
+always the one with the lowest dollar risk.
+
+CCI58 OSC/CYCLE COMBO FOR TRADING CYCLE LOW IN T-BONDS
+
+1) Prices must be in the Trading Cycle Timing Band (15-30 market days from
+the previous Tradung Cycle low.
+
+2) The cci58 must have dropped below the Buy Line at -25 and turned up.
+
+3) The Trigger Entry is to place a buy stop above the high of the upturn
+day.
+
+4) The protective stop should be placed below the price low of the Trading
+Cycle.
+
+DJIA RSI3M3 OSC/CYCLE COMBO FOR PRIMARY CYCLE BOTTOM
+
+1) Prices are declining into the 13 - 20 week trough to trough timing
+band (and can extend to up to 25 weeks).
+
+2) The oscillator drops below the Buy Line at 55.
+3) The oscillator turns up.
+
+4) Place a Trigger Entry buy stop above the price high of the upturn
+
+week.
+
+ADDITIONAL INFORMATION
+
+NOT INCLUDED IN THE ORIGINAL
+
+Walt Bressert
+
+ 
+
+--- Page 5 ---
+Averages, however, are not very helpful in trading a market, so let's look at a market qualifier -- those cycles that
+exceeded the high of the previous 4-Year Cycle versus those that did not. As you can see in the Tables 2 and 3 below,
+there is a distinct difference between those cycles in Table 2 that exceeded the high of the previous 4-Year Cycle and
+those cycles in Table 3 that did not.
+
+Column 3 in both charts shows the % advance from the low of the cycle to the high. The average % advance in Column
+3 is grossly distorted by the 372% rise from the 1932 depression low. The average advance with this cycle omitted is
+only 52%, less than half the 127% rise for those cycles in Table 2 that exceeded the previous cycle high.
+
+DOW CYCLES EXCEEDING PREVIOUS FOUR YEAR HIGH
+
+        
+    
+      
+  
+ 
+ 
+    
+  
+  
+          
+
+  
+   
+      
+  
+    
+
+   
+   
+    
+ 
+ 
+   
+ 
+  
+  
+
+   
+     
+    
+   
+  
+    
+    
+
+    
+    
+ 
+
+    
+
+ 
+  
+ 
+
+    
+   
+ 
+
+  
+   
+
+YEAR| YEAR % MONTHS| MONTHS] MONTHS] DROP | % MOVE
+TABLE 2 CYCLE| CYCLE | ADVANCE] LOWTO| LOWTO| HIGH TO| BELOW | ABOVE 4
+Low | HIGH | FROM Low] Low HIGH | LOW | PRV.LOW| YR HIGH
+“1 2 3 4 s 6 1 8
+1921 1926 35 $4 1 NO
+1926 1929 44 42 2 NO
+1942 1946 34 49 5 NO
+1949 1953 51 43 8 NO
+1953 1956 18
+1957 1961 6
+1962 1966 44 8 NO
+1982 1987 62 60 2 NO 166%
+1987 1990 36 33 3 NO 10%
+1991 2 2 2 2 2 2 2
+ee tos Pe tee tele |
+1978 1981 38% NO 1%
+[___|AVERAGE| 127% | Si | 45 | 6 | [65% J
+TABLE 3 PRICES DID NOT EXCEED PREVIOUS FOUR YEAR HIGH
+
+ 
+   
+  
+
+YEAR YEAR % MONTHS | MONTHS; MONTHS DROP
+CYCLE] CYCLE | ADVANCE | LOWTO| LOWTO/| HIGH TO| BELOW
+LOW HIGH | FROM LOW Low HIGH Low PRV. LOW
+1 2 3 4 6 z
+23 21
+
+1917
+
+ 
+   
+
+    
+ 
+ 
+   
+
+1919
+
+1929 1930 5 27
+1932 1937 56 12
+1938 1939 18 31
+
+ 
+
+1946 1948
+1966 1968
+1974 1976 21
+[AVERAGE 9a% [aa ae
+
+   
+ 
+
+  
+ 
+
+  
+ 
+
+Since the current 4-Year Cycle has already exceeded the high of the previous 4-Year Cycle, we will compare aspects of
+the two types of cycles and also establish time and price projections for the cycle high.
+
+Time and Price Expectations for
+the Next 4-Year Cycle High
+
+The smallest advance of all years in Table 2 was the 38% rise from the 1978 low. The cycles that began in 1970 and
+1978 are separated from the other cycles because they occurred in a broad trading range. Of the cycles that were not
+in a trading range, the smallest advance was 73%, which was met or exceeded in all 9 years not in a trading range.
+
+To look at it another way, of the 11 cycles that exceeded the high of the previous cycle, one rose a minimum of 38%,
+which would be 3260 if calculated from the October '90 low of 2365. Ten of 11 (90%) of the cycles advanced 67-86%
+or more above the cycle low, which equates to a price objective of 3950 to 4375.
+
+Column 5 in both tables shows the number of months from low-to-high. Here again, there is a great difference between
+the two types of cycles. Those that exceeded the previous cycle high averaged a rise of 43 months from the cycle
+bottom, while those that did not exceed the previous high averaged a rise of only 26 months. Focusing on Column 5 in
+Table 2, three cycles rose for 31 to 33 months, and the rest topped 42 to 60 months after the cycle began.
+
+Using these time periods from the October 1990 cycle bottom projects a top of the 4-Year Cycle no earlier than April
+1993 (31 months) to June (33 months). A continued rise after June 1993 is likely to be followed by a rise to at least
+March 1994 (42 months), and possibly as late as November 1994 (50 months) ... So the initial time period for the top of
+the 4-Year cycle is April 1993 through November 1994.
+
+Our Time and Price Window for the top of the current 4-Year Cycle is then April 1993 to November 1994 at 3950 to
+4375.
+
+Walter Bressert 3
+
+   
+
+TAG XIV
+
+1992
+
+ 
+
+--- Page 6 ---
+ 
+
+4
+
+Will the Fundamentals
+Support this Projection ?
+
+Based on the current fundamental picture with the focus on the national debt, bank failures, real estate problems, etc.,
+this projection may seem unrealistic. But if you visit the library and look at the front page of the Wall Street Journal for
+the two years following the cycle bottoms in.'74, '78, '82 and "87, you will find different fundamentals, but similar gloom
+and doom predictions being made as the stock market was rising, and you will find almost NO predictions that were
+even close to the price and time levels of the actual tops of each cycle.
+
+The fundamentals of supply and demand move the markets, but the focus of the fundamental news is always the most
+bullish at tops and the most bearish at bottoms, and it will probably always be that way. Cycle analysis can give you
+the confidence to sell tops and buy bottoms with the expectation that the fundamental picture will change to move
+prices in the direction of the cycle. :
+
+Based on this analysis there are more than two years before the 4-Year Cycle is due to top. The long-term trend is up,
+but a lot can happen between now and then.. We have another way of looking at the market between now and
+September '92 based on the historical performance of the stock market relative to the Presidential election.
+
+The Presidential Election and the DJIA
+Through September '92
+
+A recession and bearish stock market at the time of a Presidential election can result in a loss to the party in the White
+House at the time of the election. Not surprisingly, every effort is usually made to time the stimulation so the economy
+and the stock market will be up at the time of the election.
+
+Table 4 shows the % advance in the DJIA from September to September of the election year, which will be September
+1991 to September 1992 for the upcoming election. Column 1 is the year in which the 12-month time period ended.
+The percentage moves for the advance from the September close to the highest daily close through the following
+September are in Column 2. The months in which the highs of the 12-month period were made are in Column 3, and
+the number of months from the September close to the highest high of the 12-month period are in Column 4.
+
+a
+
+TABLE 4
+
+Looking at Column 2 you can see that of the 19
+years--
+
+-- All 19 years rose a minimum of 2.1%. From the
+September '91 close of 3017 a 2.1% rise would to HIGH
+be 3080;
+
+-- 90% of the years advanced 3.8%, which would
+be 3131;
+
+-- 80% rose 5.2%, which would be 3174;
+
+- 70% advanced a minimum of 7.4%, which
+would be 3240. :
+
+4
+1
+1
+2
+2
+2
+3
+4
+7
+9
+
+These are minimum price objectives that should
+be reached on or before September '92.
+
+Looking at Column 3 you can see that --
+
+-- 7 of 19 years, or 37%, made the highs of the
+12-month period by January, while
+
+-- 11 of 19 years,.or 58%, made the highs June
+through September.
+
+ 
+
+Odds are that if new highs are made after
+January, the high of the 12-month period is likely
+to be made June through September.
+
+Walter Bressert
+
+--- Page 7 ---
+Time and Price Patterns
+
+Patterns of time and price can help set expectations for the highs of this 12-month period.
+
+Five years made highs in Oct/Nov, and four of these rose only 2.1 - 5.2 % above the September close ... so if there is
+to be an Oct/Nov high it is likely to be made at 3080 to 3174 basis the daily close.
+
+Six of the eight years that made highs December through August rose 7.7 to 12.4%, which would be 3249 to 3391 this
+year; and of six years that rose more than 12.4%, ALL rose to 20 - 29%, or 3620 to 3904.
+
+Time and Price Objectives
+So, our time and price objectives for the high of this election year time period has three tiers:
+
+1) If the high of the 12-month time period is to be seen in Oct/Nov, a minimum high of 3080 to 3174 should be seen.
+if this price range is not met in Oct/Nov or if the DJIA exceeds 3174, then
+
+2) the high would be expected to occur at 3249 to 3391, in the Dec/Aug time period. And if 3391 should be
+exceeded, then
+
+3) arise to 3620 to 3904 is likely to be seen in the month of September.
+
+These objectives and the Window for the 4-Year Cycle help determine longer- term expectations, but it is the weekly
+Primary cycle that is of interest to most traders and mutual fund switchers.
+The Weekly Primary Cycle
+
+All markets have a powerful and consistent weekly cycle that sets the intermediate-term trend. By identifying this cycle
+it is possible to:
+
+1) anticipate tops and bottoms, and
+2) determine the trend.
+
+An historical review of the DJIA and the S&P Index shows a cycle of approximately 20 weeks as measured from
+low-to-low. However, cycles in the market do not move in sine waves, but often extend, contract and sometimes seem
+to skip a beat. Markets also act differently in bull and bear markets, leaning to the right in bull markets to produce right
+translation, ‘
+
+and leaning to the left in bear markets to produce left translation.
+
+“A
+
+Timing Bands for a Bull Market
+
+By studying the historical performance of bull and bear markets this shifting of highs and lows can be used to our
+benefit. The stock market has been in an extended bull market that is likely to continue over the long term. The
+following Timing Bands, derived from the bull market, have been 80% accurate in the past and are likely to be as
+accurate in the future:
+
+Low to High ... expect the cycle to top 9 to 16 weeks from a cycle bottom.
+
+High to Low ... Once the cycle has topped, expect the cycle to bottom 1 to 9 weeks from that top.
+
+Walter Bressert 5
+
+ 
+
+ 
+
+--- Page 8 ---
+   
+
+Ch.
+TAG XIV
+1992
+
+Low to Low ... measuring from the low that began the cycle, the next low should normally occur 13 to 20 weeks from
+that low. The most probable time for the cycle to bottom is the overlap area of the high-to-low and low-to-low Timing
+Band.
+
+These Timing Bands are for bull markets. Remember that these are 80% bands, and about 20% of the time the market
+will top or bottom outside of the bands.
+
+Following a top or bottom these Timing Bands will give you a reasonable expectation of when to expect the next high
+or tow of the cycle, and oscillators will help you identify the top or bottom as it occurs.
+Time and Price Windows
+
+Price can be combined with time to produce a Time and Price Window in much the same manner as the objectives
+were established for the 4-Year Cycle high. These Time and Price Windows are shown on the chart below as boxes at
+the tops and bottoms of the price bars.
+
+The actual tops and bottoms of the weekly Primary Cycle are identified and illustrated by the cycle glyphs just below
+the price bars of the cash S&P Index. The tops and bottoms of the cycles are shown by the dashed lines in the lower
+panels with the oscillators.
+
+S & P CASH - Weekly Range Chart 5
+
+ 
+
+| ¢ D
+I | | | | 20
+I | : | | |
+
+RSI 33
+
+‘
+
+JX, [Ned Ks | (\.. [Nx IN sey
+BON J [ee ND ay?
+pA
+
+CCI 58 | | | | I | _
+
+MAY YUL ES NOV JAN MAR MAY 18ub SEP NOV JAN MAR MAY ser sEP NOV YAN: ggo
+
+6 Walter Bressert
+
+--- Page 9 ---
+The middle panel, RS! 33, is a modified Relative Strength Index, and the lower panel, CCI 58, is a modified Commodity
+Channel Index. The CCl is a longer-term oscillator that shows the cycle highs and lows more clearly than the sensitive
+RSI, which usually turns earlier, and also more frequently.
+
+Buy/Sell Lines
+Both oscillators have Buy and Sell Lines which are levels that serve as filters to help identify cycle tops and bottoms.
+As a general guideline an oscillator will rise above a Sell Line and turn down at or before a cycle top: and an oscillator
+will drop below a Buy Line and turn up at or before a cycle bottom.
+A glance at the oscillators will show that there are often two oscillator highs in each 20-Week Cycle, and that it is
+
+usually the second one that occurs at the top of the cycle. This is the result of bull market right translation. In bear
+markets left translation would usually result in the cycle topping with the first oscillator high.
+
+Four Steps to Identify
+Cycle Tops and Bottoms
+We now have three of the four steps to identify the tops and bottoms of the cycle;
+
+1) Prices should be within the Time and Price Window, (or at least within the Timing Bands). This eliminates most of
+the early turns in the oscillators.
+
+2) One or both oscillators should have risen above a Sell Line for a cycle top, or dropped below a Buy Line for a
+cycle bottom.
+
+3) An oscillator should turn down at the cycle top, or turn up at the bottom.
+
+These three rules alone will help identify cycle tops and bottoms, but the real key is the mechanical Trigger Entry,
+which is usually a sell stop below the price low of the downturn week, or a buy stop above the high of the upturn week.
+
+4) Place a sell stop to go short below the price low of the downturn week, or a buy stop to go long above the high of
+the upturn week.
+
+Notice how the longer term CCI 58 and the shorter term RSI 33 complement each other in the identification of the cycle
+tops and bottoms. At Highs A and B it is the CCI 58 that clearly identifies the tops, and at Lows C and Dit is the RSI 33
+that better identifies the cycle bottoms.
+
+These are Oscillator /Cycle Combinations (OSCARs)that can be historically tested. High probability OSCARs can be
+cataloged and used to identify cycle tops and bottoms as they occur and to trade the markets.
+
+Similar patterns can be developed and used on daily and intraday data.
+
+This overview should give you an idea of how cycles, patterns and oscillators can be used to determine trend to identify
+cycle tops and bottoms as they occur.
+
+Walter Bressert 7
+
+ 
+
+ 
+
+TAG XIV
+1992
+
+--- Page 10 ---
+Chart 6
+
+   
+
+8 Walter Bressert
+
+--- Page 11 ---
+Chart 7 CYCLES
+
+PRIMARY
+CYCLE
+
+% PRIMARY
+CYCLE
+
+TRADING
+CYCLE
+
+TC
+crest
+
+ALPHA/BETA 0S4 : AS
+CYCLE : ac
+
+crest
+Bc :
+crest .
+
+ 
+
+Walter Bressurt 9
+
+TAG XIV
+1992
+
+--- Page 12 ---
+TOPS AND BOTTOMS OF INDIVIDUAL CYCLES ARE OFTEN
+DISTORTED, OR LOST, IN THE COMPOSITE CYCLE
+
+Chart 8
+
+Composite Cycle
+
+   
+
+10 Walter Bressert
+
+--- Page 13 ---
+Chart 9
+
+A SIMPLE CYCLE
+Figure 3
+_~ THE TREND OF THE LARGER CYCLE
+7 Fiqure 4
+
+SIMPLE CYCLE
+
+AA ITN
+
+  
+
+SMALLER CYCLE
+
+    
+   
+
+COMBINED WITH ot
+TREND | : ats: :
+RIGHT TRANSLATION LEFT TRANSLATION
+As the Trend of the Larger As the Trend of the Larger
+Cycie Moves UP Cycle Moves DOWN
+(BULL MARKET) (BEAR MARKET)
+Figure 5
+
+ 
+
+TAG XIV
+1992
+
+Walter Bressert 11
+
+--- Page 14 ---
+PRIMARY CYCLES
+
+Chart 10
+S & P
+
+    
+
+S&P /DJIA 22-Week Primary Cycle
+
+~—BONDS Weekly Range
+
+ 
+
+z 1
+
+ 
+
+T-BOND 21-Week Primary Cycle
+
+SGCLD week | Range
+
+ 
+
+GOLD 18-Week Primary Cycle
+
+2 Walter Bressert
+
+--- Page 15 ---
+ 
+
+TRADING CYCLES
+
+“— Chart 11
+= & P FUTURES — — Daily
+
+ 
+
+4 ft; I Pfs
+
+“hE
+
+ 
+
+GOLD 15 Market Day Trading Cycle
+
+ 
+
+TAG XIV
+Walter Bressert 13 1992
+
+--- Page 16 ---
+THE COMPONENTS OF INDIVIDUAL CYCLES CAN BE MEASURED
+AND QUANTIFIED TO PROVIDE TIMING BANDS
+
+Chart 12
+
+ 
+
+lg PRIMARY CYCLE _____y!
+TROUGH TO TROUGH
+
+1) trough to trough (T-T)
+2) trough to crest (T-C)
+3) crest to trough (C-T)
+
+ 
+
+t ¢——_______._ PRIMARY CYCLE oS
+TROUGH TO TROUGH
+
+1) PC T-T
+
+2) First 1/2 PC T-T
+
+3) First 1/2 Pc T-c
+
+4) First 1/2 PC C-T
+
+5) Second 1/2 Pc T-T
+6) Second 1/2 PC T-c
+7) Second 1/2 PC C-T
+
+ 
+
+14 Walter Bressert
+
+--- Page 17 ---
+ 
+
+THE SEVEN CYCLIC COMPONENTS OF THE TRADING CYCLE
+
+The interplay between the Trading Cycle and the Alpha and Beta
+Cycles has 7 cyclic components that project time periods for cyclic
+crests and troughs to occur. Most markets will follow the Trading
+Cycle, Alpha Cycle/Beta Cycle pattern shown in Example 1-5.
+
+Chart 13
+(4) : : (6)
+—_—_—— OO
+Alpha : : Beta
+Cycle : : Cycle
+‘ Trough : : Trough:
+1) Trading Cycle Trough to Trough : to Crest 1 (5) to Crest 7):
+: Alpha ; : Beta
+: : Cycle ; : Cycle :
+2) Alpha Cycle Trough to Trough : Crest to: : Crest to +
+
+‘Trough; > Trough :
+
+i
+" Hy
+
+3) Beta Cycle Trough to Trough
+
+4) Alpha Cycle Trough to Crest
+
+5) Alpha Cycle Crest to Trough
+
+' htt
+
+6) Beta Cycle Trough to Crest BETA
+
+CYCLE : CYCLE
+Trough to : Trough to
+7) Beta Cycle Crest to Trough Trough : Trough
+
+(2) : (3)
+
+—<—
+TRADING CYCLE
+Trough to Trough
+
+(1)
+
+ 
+
+ 
+
+TAG XIV
+Walter Bressert 15 1992
+
+--- Page 18 ---
+ 
+
+1992
+
+Lappy
+
+THE PROBABILITY OF MAKING A SUCCESSFUL Chart 14
+TRADE IS MUCH GREATER LATER IN THE
+TIMING BANDS THAN EARLIER
+
+While Timing Bands are ranges within which prices have
+topped better than 7 times out of 10 in the past, the proba-
+bility of making a successful trade is much greater later in
+the Timing Bands than earlier.
+
+Normally, 70% of the cyclic tops and bottoms will occur
+within the range of the Timing Band; 20% will occur before
+the Band, and 10% will occur after the Band. So, by the time
+the last day of the 70% Timing Band has been reached, 90% or
+
+more, or the cycles would have already topped, or bottomed.
+
+70% Timing Band
+qeeniieeenne
+
+FR So
+20% 70% » 10%
+
+90%
+
+ 
+
+Chart 15
+
+T- - Ww - E
+
+     
+
+1
+
+TN Sayeed |
+
+ 
+  
+ 
+
+i |
+: | 1 |
+| | |
+roe .
+
+sessremepeagasynprceyrenspervereves posseteenepeerr soe
+
+ 
+
+ 
+
+3 APR JUN AUG OCT DEC FEB APR JUN q
+1989 1998
+
+ 
+
+16 Walter Bressert
+
+--- Page 19 ---
+THE SEVEN CYCLIC COMPONENTS OF THE TRADING CYCLE
+
+The interplay between the Trading Cycle and the Alpha and Beta
+Cycles has 7 cyclic components that project time periods for cyclic
+crests and troughs to occur. Most markets will follow the Trading
+Cycle, Alpha Cycle/Beta Cycle pattern shown in Example 1-5.
+
+Chart 13
+(4): > (6)
+—_—_—— ————_:
+Alpha : ° Beta
+
+> Cycle : : Cycle
+
+* Trough : : Trough
+1) Trading Cycle Trough to Trough ; 10 Crest 15): to Crest (7):
+
+: Alpha : - Beta
+
+: : Cycle : * Cycle :
+
+2) Alpha Cycle Trough to Trough : cCrest to: : Crest to :
+
+Trough;
+
+3) Beta Cycle Trough to Trough
+
+4) Alpha Cycle Trough to Crest
+
+i
+
+I
+
+| | i if i
+1 les :
+
+5) Alpha Cycle Crest to Trough
+
+6) Beta Cycle Trough to Crest : BETA
+CYCLE : CYCLE
+Troughto : Trough to
+
+7) Beta Cycle Crest to Trough Trough : Trough
+
+(2) : (3)
+
+——<$<
+TRADING CYCLE
+Trough to Trough
+
+(1)
+
+ 
+
+ 
+
+TAG XIV
+1992
+
+Walter Bressert 15
+
+--- Page 20 ---
+TIME CYCLES/OSCILLATORS TO IDENTIFY TOPS & BOTTOMS
+
+Using oscillators within the cycle timing band periods greatly improve the accuracy of
+identifying cycle tops and bottoms.
+
+All markets have cycles. However, all too often, they contract, extend, or skip a beat.
+Predictability can be greatly improved by using cycle time periods, or timing bands,
+measured from historical highs and lows.
+
+For example, over the past 10 years 80% of the bottoms of the dominant weekly cycle in the
+S&P Index have occurred in a timing band 13 to 20 weeks from the previous cycle bottom;
+80% of the tops have occurred 9 to 16 weeks from the low that began the cycle; and 80% of
+the bottoms have occurred | to 9 weeks from the top. These timing bands are illustrated
+below:
+
+Q ----------- 2-2-2222 --- 16 weeks low to high
+waneneneee 9 weeks high to low
+
+20 weeks low to low
+
+ 
+
+Oscillators indicate overbought and oversold levels. Cycle tops and bottoms, by their
+nature, are overbought and oversold levels tied to specific time periods.
+
+By combining oscillators and cycles, tops and bottoms of cycles can often be identified
+within 1 to 3 bars of a top or bottom.
+
+The next page is a chart page showing the weekly and daily S&P Index, with oscillators
+stacked below each chart. The following charts are the same charts as those in the included
+Bressert TradePlan on disk except for the addition of cycles in the following charts.
+
+ 
+
+TAG XIV
+Walter Bressert 17 1992
+
+--- Page 21 ---
+ 
+
+TAG XIV
+1992
+
+Weekly S&P INDEX
+3/81 to 12/82
+With Centered Moving Average and Centered Detrend
+
+The lows and highs of the 20-Week Cycle are identified by the dots
+in both the chart and the Detrend. While the cycle highs and lows that
+
+show up in the Detrend match the price highs and lows of the chart
+above it, this is not always the case.
+
+SSPU-w Chart 16 a2zi210_—_—"6.4,
+
+nhl 133
+|
+
+ 
+
+123
+
+| 112
+
+  
+
+ 
+
+ 
+
++H
+{ TH,
+a -
+. 9
+i In ify | 3
+Hl | | II, ; + |
+| | | | -2
+| ij | III,
+! } | i Vl vs
+vun Aug Oct Oec Feb aer vun Aug Oct Oec “4
+S&P INDEX
+Weekly Cash - 3/83 to 2/90
+With 20-Week Centered Detrend
+sePpc-w Chart 17 so0a0e
+
+365
+
+   
+
+287
+226
+177
+140
+43
+17
+-8
+-34
+
+-80
+Aug Fen Aug Feo Aug Feb Aug Feb aug Feb Aug Feo Aug Feo
+
+A complete cycle phasing should be done over the longest possible
+data time series, normally 20 to 30 years, but this 6.7-year period,
+which has a smaller sample base, will serve to illustrate both a basic
+approach to cycle analysis and important characteristics of cycles.
+During this time period there were 16 cycles. The time periods from
+low-to-low are listed below from the longest to shortest time periods.
+
+13 15 16 17 18 18 21 21 -M- 22 22 24 26 28 29 30 33
+
+The median length, marked M, is between 21 and 22 weeks, or 21.5
+weeks for this time period. Since 1950 the median length has been 22
+weeks. Seventy-five percent of the lows occurred 15 to 26 weeks from
+the previous low, which is a 75% Timing Band that is very close to the
+
+. 15-25 week Timing Band from the 1950 time series.
+
+18 Walter Bressert
+
+--- Page 22 ---
+‘Od peTeqet
+ere smotT aTOAD Areutagd syuL *RAeYO |yQ Jo Teued wojRROq sy UT puUserjeq
+perzequep Aeq-sGTt Seu UT peTJTQUepPT osTe eze yoTym ‘saToAD butperzL ayy
+JO syzbueT eyR smoys AZazeyo sy jo Teued doj suL *9z7S068 YybnozyA gsT608eE
+wolgy p[tob jo yorazajuod Aqazesu eyR jo AZAzAeYyo ATTep e st°°°sg-d JIWHD
+
+Aew udyv Jaw aad uer 300 AON 3290
+ot
+
+ot
+
+OSE |
+
+hy
+
+t
+
+ 
+
+1 4 ° °
+£Ze “intra ,
+\oh"y teal . trey” A,
+rp6E f ‘pa att ‘! ' I .
+by bat 1, °
+tte ‘thy el L
+Ser ““sz5068 g-a709 SL wWeYyD
+pueijeq persquea Aeq-sT YAM
+68/S-88/6
+PTop AtTteaq
+
+ 
+
+1992
+
+TAG XIV
+
+19
+
+Walter Bressert
+
+--- Page 23 ---
+o
+
+ 
+
+ 
+
+&r ot hl ile | oz fl 9] OF. j sz oe COE OG ft BI lt
+~} 4. go gh dhhe we cay
+da cathe AON GL Hh ha APY fa L “id
+| YT Py yrmers
+° ot 6 € GI 5 ol él El a) oe | a 2 8
+
+ 
+
+G02006 M-SONOG 6L WeyD
+
+pueizjeq pezeAUeD YAeemM-TZ YUATM
+06/1T-c8/e puog-L ATY=emM
+
+TAG XIV
+
+ 
+
+Walter Bressert
+
+20
+
+1992
+
+--- Page 24 ---
+98
+
+06
+
+r6
+
+86
+
+2or
+
+ges
+
+g-SQNDa
+
+pueizeq pertequep Aed-TZ UTM
+06/z2-88/6
+spuog-L ATted
+
+ 
+
+Oc Heyy
+
+ 
+
+TAG XIV
+1992
+
+21
+
+Walter Bressert
+
+--- Page 25 ---
+ 
+
+TAG XIV
+1992°
+
+    
+
+42S .27
+392.s8s
+389.89
+327.19
+294.s8
+27 .S8
+12.94
+73.42
+-18.88
+
+  
+
+ee a -34.34
+Jun Sep Dec Mar Jun Sep Dec * Mar Jun Sep Dec Mar Jun Sep
+Top“2:OPEN HIGH Low CLOSE sma :28 Day: 9289918
+Rot“2:DET:HI DET:LO
+H: 42S .27 -+- 8.71
+
+3422 .38
+31855 .23
+2888s ..1S5
+
+Chart 22 DJ IA-U
+
+   
+     
+
+2621 .87
+2384.98
+246 .68
+119.89
+
+-8 .43
+—-13S .94
+—-263 ..45
+
+     
+
+Jun Sey Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep .
+Top’“2: OPEN HIGH Low CLOSE sma:28 Day: 928918
+Bot~“2:DET:HI DET:LO H: 263.45 — 3.87
+
+Chart 2
+
+DJIIA—-W
+
+ 
+
+3422 .38
+31SS .23
+2888.15
+2621 .87
+2354 .88
+262 .39
+
+   
+   
+
+111.88
+—-38.78
+-189 .28
+woe eet ee -339.79
+Jun Sep Dec Mar Jun Sep Dec Mar Jpn Sep Dec Mar Jun Sep
+Top~“Z2:OPEN HIGH Low CLOSE sma :18 Day: 928911
+
+Bot“2:DET:HI DET:LO
+H: -339.78 *—- S.36
+
+22 Walter Bressert
+
+--- Page 26 ---
+ 
+
+CHART D-16...showS a centered 20-Week Moving Average running
+through prices of a weekly S&P Index chart from 831202 through 870515
+in the top panel. The highs and lows of the 20-Week Primary Cycle and
+the Seasonal Cycle are indicated on the price chart. The lower panel
+is the 20-Week Centered Detrend with the Primary Cycle highs and lows
+also indicated. The 20-Week Cycle highs are all above the moving
+average and easy to identify. The 20-Week Cycle lows are all below the
+moving average and are also easy to identify.
+
+Weekly S&P Index
+12/83-5/87
+With 20-Week Centered Detrend
+
+Chart 24 ssPc-w a70515
+
+304
+
+ 
+
+ 
+
+Feo Mey Aug Nov Feo May Aug Nov Feo Mey Aug Nov * Feb Mey
+Weekly S&P Index
+12/83-5/87
+
+With 20-Week Real-Time Detrend
+
+Chart 25 S&PC-w a70s15
+
+304
+263
+
+|
+
+222
+
+   
+    
+
+161
+
+140
+
+35
+
+ 
+    
+
+nny . (i
+
+| ul
+Mth Henge,
+
+| :
+tn “yin : il Il I
+
+.
+s Ss | |
+
+-14
+Fep me aug °) Nov Feb Mey
+
+Feo MBy AUG Nov Fep May AUG Nov e y °
+
+        
+
+TAG XIV
+Walter Bressert 23 1992
+
+--- Page 27 ---
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+AGW qe4 AON 6nv AQW qe4 AON Bnv AQW Qed AON Bnv ACW ge4
+TI ‘| II. , : $ ou i
+Fu YE an rit il, I"
+
+| | (I | I! Ih it| | | li . |
+Ty AE HPT gg ey
+| :
+at |
+Ort
+Ter
+22a
+€ge
+asad
+yoe ““sts0ze M-Jd8S 9Z HeYD
+puetzed YSOM-OT UTM
+L£8/S-€8/2T
+d3S AT¥9°0M
+
+*uedsS-JTeH eB peTTeo ST pue ‘puaeitjzeq pezequaD e se owes sy
+Jeymeuos aToAD AeyuR JO SMOT pue syhTy ey WUHTTYbTY oF pues TTT aToko
+e jo ueds owt eyR JTeYy-eUO ST jZeYUR ebhereae HuTaouw wv"
+
+~
+be
+2
+D
+BH
+m
+§
+:
+x
+N
+
+ 
+
+--- Page 28 ---
+CHART D-16...shows a centered 20-Week Moving Average running
+through prices of a weekly S&P Index chart from 831202 through 870515
+in the top panel. The highs and lows of the 20-Week Primary Cycle and
+the Seasonal Cycle are indicated on the price chart. The lower panel
+is the 20-Week Centered Detrend with the Primary Cycle highs and lows
+also indicated. The 20-Week Cycle highs are all above the moving
+average and easy to identify. The 20-Week Cycle lows are all below the
+moving average and are also easy to identify.
+
+Weekly S&P Index
+12/83-5/87
+With 20-Week Centered Detrend
+
+Chart 24 S&PC-w a70515
+{ iy
+
+304
+
+     
+ 
+  
+  
+     
+
+|
++
+
+Feo May Aug Nov Feo May Aug Nov Feo Mey Aug Nov * Feo May
+Weekly S&P Index
+12/83-5/87
+
+With 20-Week Real-Time Detrend
+
+Chart 25 ssPc-w 870515
+
+304
+| 263
+{ 222
+161
+140
+
+35
+
+     
+
+Ms ("4
+
+|
+i
+{
+
+Ling yh
+
+   
+
+  
+
+TAG XIV
+Walter Bressert 23 1992
+
+--- Page 29 ---
+qe3 AON Bnv ACW qe4
+
+AQW qsa AON 6nv AQW gas AON 6nvy AOW
+
+ 
+
+ 
+
+ 
+
+L
+(POE ““sTs0L8 M-IATS 97 HeYD
+
+pueirzeqd YeemM-OT UTM
+L8/S-€8/2T
+d3S AT 320M
+
+-ueds-JTeH e& peTTeoO sT pue ‘pueitjeqd pezequeD e se ouleS Sy
+jeymeuos aToAD yey JO SMOT pue sYybtTy ayQ AUubTTYHTY oF puey TTT aToko
+e jo ueds aut eyj JTey-euo st yeyA ehezeae HhuTaow v~
+
+&
+l
+fa
+g
+a
+=
+xt
+AQ
+
+ 
+
+--- Page 30 ---
+Weekly S&P Index
+
+12/83-5/87
+With Levels and 10-Week Detrend
+Chart 27 SSPC-w 870515 304
+ot Tt |
+| 5 5 we 4+ 263
+|
+
+atta ad a
+
+222
+
+   
+
+ 
+
+Feo Mey Aug Nov Feb May Aug Nov Feb May aug Nov Feb May
+
+Current-time Detrends have another characteristic that turns
+detrending into an important oscillator by itself. The Detrend highs
+and lows tend to move to "Levels" above and below the moving average
+that are often indicators that a cycle high or low is forming, or
+about to form.
+
+Weekly S&P Index
+8/86-2/90
+With 10-Week Detrend
+
+Chart 28 SSPC-w » 900202
+
+360
+
+ 
+
+ 
+
+Walter Bressert 25
+
+TAG XIV
+1992
+
+--- Page 31 ---
+SEVEN TECHNIQUES TO ENHANCE
+OSCILLATOR PERFORMANCE
+
+1) PRICE/OSCILLATOR TURNS
+
+2) SMOOTHING THE OSCILLATOR
+3) LEVELS, OR BUY/SELL LINES
+4) CROSSOVER LINES
+
+5) THE ZERO LINE
+
+6) PRICE/OSCILLATOR PATTERNS
+
+7) SETUP/TRIGGER ENTRY PATTERNS
+
+ 
+
+26 Walter Bressert
+
+--- Page 32 ---
+SMOOTHING TURNS A SLOPPY OSCILLATOR INTO AN ACCURATE
+INDICATOR OF THE TRADING CYCLE BOTTOMS
+
+With RSI and Smoothed RSI
+
+ 
+
+Se “k | .
+| AE AN TN TET "
+
+   
+
+ 
+
+Walter Bressert 27
+
+--- Page 33 ---
+Daily T-Bonds
+With Trading Cycle Bottoms
+
+Chart 30 BONDS-D 900209 102
+
+98
+
+ 
+
+--Trading Cycle bottoms identified with Buy Lines and
+oscillator turns.
+
+--Longer-term RSI with Buy/Sell Lines help identify Primary
+Cycle tops and bottoms.
+
+   
+
+Chart 31
+
+TAS es poly pa fl
+
+“oe sro t oh i" ill
+a -
+
+ 
+
+28 Walter Bressert
+
+--- Page 34 ---
+Chart 32
+
+7 a thy “iy aly wht
+i Ti a ty ma ‘ial i tat uf gl a
+
+a ae
+
+400,88
+
+ 
+
+|Apr92 |May92 | Jun92 | Jul92 |Aug92 |Sep92
+
+ 
+
+Chart 33
+
+: : “aed :
+pm aescnnessassesnesesssenssessenes fpunmmnenanannnen sessnsoonesstesesenessseeatonenseie al soeeeseee u ull osensssonersoes secesssensceanseseoeeeeneseee ~senessnsessensceeennennseseeesed 4186.8.
+
+oe " i ft in
+
+ 
+
+|May92 | Jun92 | Jul92 |Aug92 = [Sep92
+
+ 
+
+TAG XIV
+Walter Bressert 29 1992
+
+--- Page 35 ---
+Chart 34
+LCZ-RO
+
+: : : , 2 ‘atl Me
+Diy |
+uuninuutnanannentgeninninninsnnnnunsjnaninuonunsnnann ca a HT nsnennnannnen’ Bop ED
+
+uf i
+, lad "i it op coat
+
+   
+     
+
+itt I yn YY L :
+
+rsigmg MOV_aVg
+
+    
+
+      
+
+|Apr92 |May92 | Jun92 | Jul92 |Aug92 |Sep92
+
+this. : hy oh
+Thy Ma ae a * eta 1.
+: : Hany
+
+re
+
+ssvsecageysescssanerccsanecconsscessnsessonsssccssoeesoepacecemersesh cope ganeeh
+
+cvseerep peep Besssseesersedbedoresscon
+
+ 
+
+|Apr92 |Aug92
+
+ 
+
+30 Walter Bressert
+
+--- Page 36 ---
+Sunn nEEEnST STEER" CE neh
+hy to: a a
+igh th an MH : oH my hy:
+
+i
+a re~- vod lig nn
+
+ 
+
+|Mar92 |Apr92
+
+ 
+
+Walter Bressert 31
+
+--- Page 37 ---
+ 
+
+DAILY T-BONDS
+With 10, 20 and 40-Day Stochastics
+
+Chart 37
+
+   
+
+PAA TIN
+
+Hh
+8 Al |
+
+\ an | F h
+
+Oct Nov Dec van Feo mar Aor May wun vul Aug Sep Oct Nov Dec Jan Fe
+
+32. Walter Bressert
+
+ 
+
+--- Page 38 ---
+DAILY T-BONDS (4-Week Cycle Lows)
+--Detrends show cycle bottoms
+
+--CCI, Smoothed, identifies cycle bottoms with Buy Line and
+oscillator turns.
+
+   
+         
+
+Chart 38
+
+ 
+
+ecesevesssueessasessucoqcecevencemmessesseclouescesmeuscesnsssesnoressusseatseestesbecnsanevesanseqrsscesussennsecensscsnnoborsssevenssecnsssnnassoagnancenasacgnecceeatonnscnasssessenenssesenesse
+
+ 
+
+preentonewiealtgs ef 85 -- BO
+peared “ir 4 v
+re
+
+onnsninennannnnminntiimmnnmnssitinnunigmamannit ig fe
+i Saal yaad! any a dgnelt ta bet
+
+| $ obengt hts “att :
+eee eee ee einen Dien A nn “mene
+
+: ,
+seca
+1
+
+ 
+
+        
+
+     
+
+ 
+
+   
+
+ 
+
+| |Mar92 |Apr92 |May92 | Jun92 | Jul92 |Aug92 |Sep92 |
+
+Walter Bressert 33
+
+ 
+
+TAG XIV
+1992
+
+--- Page 39 ---
+Chart 39
+
+3 Contract Buys at Trading Cycle Bottoms
+With CCI Setup and Trigger Entry
+
+B ¢C D E F G Hq I J K L
+PC STOP ENTRY — ENTRY NO.1 NO.1 $ NO.1 NO.2$ NO.3$ No. 3 TOTALS
+DIR PRICE PRICE DATE PRICE AMOUNT DAYS AMOUNT AMOUNT DATE AMOUNT
+1150
+90
+
+a
+a5
+
+1 OO 86.81 87.91 880930 88.91 1000 0 1280 881109 3430
+2 OP 88.59 89.50 881026 90.50 1000 2 310 881109 1400
+3. BIN 87.06 88.03 881130 89.03 1000 4 1410 2350 890209 4760
+4 OW 87.94 89.16 890112 90.16 1000 1 1340 1220 890209 3560
+5 ON N 0
+6 BIH 86.38 87.28 890323 88.28 1000 4 1560 10100 890810 12660
+7 UP 87.78 89.06 890418 90.06 1000 2 440 =: 10320 890810» :11760
+8 UP 88.22 88.91 890512 89.91 1000 0 3590 8470 890810 13060
+9 0 94.72 96.50 890626 97.50 1000 1 530 780 890810 2310
+
+10 OP 96.63 97.56 890725 98.56 1000 2 2070 0 890810 3070
+
+1. sODW 95.78 97.22 890817 0.00 L -4320
+
+12. BTM 95.09 95.75 890927 96.75 1000 5 2060 4130 891222 71190
+
+13. «OP N
+
+14 sOP N
+
+15 BIN N
+
+ 
+
+Different time frames used for different cycles.
+
+ 
+
+TAG XIV
+1992 34 Walter Bressert
+
+--- Page 40 ---
+ 
+
+Z-RO matG om
+
+Chart 41
+
+   
+
+ 
+
+TAG XIV
+Walter Bressert 35 1992
+
+--- Page 41 ---
+Weekly Japanese Yen 1/2/81-2/9/90 THE DETREND GIVES BETTER
+With 3-10 Moving Average and BUY PATTERNS
+16-Term Crossover Detrend
+
+Chart 42
+
+ 
+
+14 (84,08
+
+7
+nhs
+Ay 1m
+
+61,78
+6.22
+50.67
+M51
+49.56
+44.08
+4,36
+ads
+
+035
+et 1,66
+“4,66
+4,81
+Pd
+012
+. “173
+
+“4.58
+
+ 
+
+ 
+
+ 
+  
+
+Fun A
+Abii
+
+ 
+   
+ 
+ 
+  
+ 
+
+man
+
+fi LOE Ft
+my ET HH
+
+-1-50
+
+  
+
+ov sep dul May ar dan Mov dep ul | .
+
+ 
+
+36 Walter Bressert
+
+--- Page 42 ---
+Chart 43 ;
+
+    
+
+ 
+
+      
+
+i i : : i : i i i boob : | i
+Pewscupecaueeuecueewererer
+wva TDecdSG i Mart iJunds1i |Seror | Dec?
+
+  
+  
+
+     
+
+POM
+
+x toHaxrs se TIJunds2 [Sers2 ]
+
+ 
+
+TMaxrsG@ |Junse [Se
+
+ 
+
+ 
+
+ 
+
+TAG XIV
+Walter Bressert 37 1992
+
+--- Page 43 ---
+Weekly Japanese Yen - 9/86-1/90
+With 3-10 Detrend, MACD Detrend
+With Crossover and 10-Week Detrend Chart 45
+
+; att 48
+iM , 1 178
+
+7" Wtheagt 11,96
+
+f s ’ eT 6695
+"ys | 1 7d
+64 4,08
+
+ 
+
+155
+
+A \
+TART Te TENT Tn is 2.08
+SAAT RI 0.00
+
+ 
+
+ 
+
+oat a 2 ow
+
+pt WY |
+
+Tal a
+
+i | 20,5000
+
+ar Pa not
+
+Ho up i.
+
+1 1,000
+
+1 4.08
+
+ht
+
+: ty ctletle tal 009
+
+a 24
+
+f | ch | 4,08
+ov ar dul Ss ul 9 eh ov th
+
+--Use Buy/Sell Lines to identify high probability
+tops and bottoms
+
+--Longer-term MACD identifies cycle tops and
+bottoms
+
+ 
+
+38 Walter Bressert
+
+--- Page 44 ---
+WALTER BRESSERT & ASSOCIATES
+6987 N. Oracle Tucson AZ 85704
+602/544-0404 800/677-0120 FAX 602/544-0081
+
+CYCLEWATCH RESEARCH REPORT
+
+BEAR KISS IN THE DAILY S&P FUTURES
+
+The futures data we use is a “rollover”, with past history adjusted for the spread between the old and the new
+contract on the last day of the month preceding delivery. This makes the oscillators more consistent, but
+somewhat distorts prices prior to the current contract.
+
+This OSCAR usually occurs in the later stages of a downmove into a cycle bottom of the Trading Cycle or Alpha
+Cycle, and can be used as a signal to go short, as an indicator of a bottom and a buy signal, or both.
+
+The OSCAR is formed as follows:
+
+1) The daily 3-10 Oscillator in the S&P futures rises from below the Crossover for two or more days and turns
+down while still below the Crossover. This downturn is the Setup. Only the first downturn can generate an
+OSCAR, and the 3-10 must rise above the Crossover and drop back below it to set up another OSCAR.
+
+   
+
+ber EV ENTRY b Sy ENTRY
+rues ra heb te
+3-10 _ tebe el 3-10 4 Leet
+
+CROSSOVER +. . CROSSOVER
+
+ 
+
+2) The Trigger entry occurs with a drop in the S&P below the downturn day, which usually occurs within two
+days of the downturn day.
+
+In the DAILY S&P FUTURES CHART below, the a.rows show the downturn day for the 3-10 Oscillator in the
+lower panel, and the cyr > low that follows is indicated-- AC=Alpha Cycle low; TC=Trading Cycle low;
+PC = 22-Week Primary Cycie low; 1/2PC = 10-Week 1/2 Primary Cycle low. The arrows is the lower panel point
+to the 3-10 Oscillator high and downturn that set-up the OSCAR. Notice how 3 OSCARs occur in 4 months in
+the bear market into the Sept/Oct 1990 low, and only 2 OSCARs occur in the bull market.
+
+Chart 46
+
+   
+
+_—_
+BEAR KISS IN THE DAILY S&P FUTURES
+
+Walter Bressert 39
+
+ 
+
+TAG XIV
+1992
+
+--- Page 45 ---
+ 
+
+TAG XIV
+1992
+
+CYCLEWATCH RESEARCH REPORT
+BEAR KISS IN THE DAILY S&P FUTURES
+
+I
+
+The table below lists the 8 patterns completed with a Trigger Entry since August 1989, including the most
+recent pattern that had a Trigger Entry on June 20, 1991.
+
+BEARKISSINDAILY S&P FUTURES Chart 47
+
+ 
+
+ 
+
+1 2 3 4 5 6
+DATE LOW OF LOW OF NO. DAYS CYCLE
+DNTRN DY DNTRN DY MOVE % DROP DOWN BOTTOM
+890913 374.70 371.30 0.9% 2 TC
+891215 371.40 364.20 1.9% 2 TC
+900123 351.30 342.10 2.6% 5 AC,PC
+900615 378.30 367.60 2.8% 8 AC,1/2PC
+900802 363.60 346.10 4.8% 2 AC
+900920 321.20 306.10 4.7% 6 Ac
+901224 336.90 316.00 6.2% 13 TC,PC
+910619 377.05 370.10 1.8% 6 TC
+
+COLUMN 1 is the date of the day that turned the 3-10 Oscillator down, or the downturn day.
+COLUMN 2 is the low of the downturn day in the S&P.
+
+COLUMN 4 shows the % decline from entry (the low of the downturn day) to the cycle low. The declines were
+from .9% to 6.2%.
+
+COLUMN 5 is the number of days from the downturn day to the cycle bottom. The bottom occurred from 2 to
+8 market days following the downturn day for 7 of the 8 OSCARs, with one extending to 13 days. So expect a
+decline to last for 2 to 8 days.
+
+COLUMN 6 shows the type of cycle bottom, which was always a Trading Cycle low or an Alpha Cycle low.
+Three were also bottoms of the 22-Week Primary Cycle and one was the bottom of the 10-Week 1/2 Primary
+Cycle.
+
+Expect a Trading Cycle or Alpha Cycle bottom to occur 2 to 8 days after the Trigger Entry at a decline of .9 to
+6.2% from the Trigger Entry price. .
+
+A cycle bottom will often occur as the 3-10 turns up, although there can be one or two oscillator upturns before
+the cycle low.
+
+| recommend that you research the samples in the tables and become familiar with them before you trade
+them. The table does not show the OSCARs that set-up but did not trigger an entry. The number of samples in
+this OSCAR is small, and you should build up the sample size.
+
+Variations of this OSCAR occur in other markets, and in other oscillators. With a little research you can develop
+your own OSCARs.
+
+40 Walter Bressert
+
+--- Page 46 ---
+CY CLEWATCH "FUTURES" MONTHLY REPORT
+
+OSCILLATORS
+
+ 
+
+Chart 48 |
+
+Weekly DJIA Index (DJIA-W) ... The 22-Week
+Prirnary Cycle bottoms are indicated by the
+arrows. The oscillator is the modified RS! in the
+"The Power of Oscillator /Cycle Combinations”.
+It is an excellent short-term oscillator that often
+turns as the market turns. The timing is right for
+the PC to bottom, and an upturn of this
+oscillator to form a price/oscillator divergence
+would be a powerful indicator of the PC
+bottom.
+
+Dail P_Index (SPC-D) ... Trading Cycle
+lows are indicated by the arrows; Alpha Cycle
+lows by A ... The daily S&P Index has a 3-10
+oscillator plotted be@w’ it with a 16-day
+crossover. This is an excellent short-term
+oscillator that tends to turn as prices turn.
+
+The oscillator completed a sell pattern at X as
+the oscillator turned down below the crossover
+on 8/19. Based on similar patterns, odds are
+80% that the TC will bottom no later than 9/1
+above 406 ... A similar pattern occurred at Y as
+the last Trading Cycle and the 1/2 PC
+bottomed, and at Z ... Arise above 415.80, the
+high of the upturn week, after mid-morning
+Monday, will be confirmation that the TC and
+PC have bottomed. .
+
+ 
+
+Walter Bressert 41
+
+ 
+
+TAG XIV
+1992
+
+--- Page 47 ---
+   
+
+42 Walter Bressert
+
