@@ -1,0 +1,2132 @@
+Stock Market Prediction
+Student Name: Mark Dunne
+Student ID: 111379601
+Supervisor: Derek Bridge
+Second Reader: Gregory Provan
+Declaration of Originality
+In signing this declaration, you are conﬁrming, in writing, that the submit-
+ted work is entirely your own original work, except where clearly attributed
+otherwise, and that it has not been submitted partly or wholly for any other
+educational award.
+I hereby declare that:
+• This is all my own work, unless clearly indicated otherwise, with full and
+proper accreditation;
+• With respect to my own work: none of it has been submitted at any
+educational institution contributing in any way towards an educational
+award;
+• With respect to another’s work: all text, diagrams, code, or ideas, whether
+verbatim, paraphrased or otherwise modiﬁed or adapted, have been duly
+attributed to the source in a scholarly manner, whether from books, pa-
+pers, lecture notes or any other student’s work, whether published or
+unpublished, electronically or in print.
+Name: Mark Dunne
+Signed:
+Date:
+2
+Abstract
+In this report we analyse existing and new methods of stock market predic-
+tion. We take three diﬀerent approaches at the problem: Fundamental analysis,
+Technical Analysis, and the application of Machine Learning. We ﬁnd evidence
+in support of the weak form of the Eﬃcient Market Hypothesis, that the his-
+toric price does not contain useful information but out of sample data may be
+predictive. We show that Fundamental Analysis and Machine Learning could
+be used to guide an investor’s decisions. We demonstrate a common ﬂaw in
+Technical Analysis methodology and show that it produces limited useful infor-
+mation. Based on our ﬁndings, algorithmic trading programs are developed and
+simulated using Quantopian.
+Contents
+1
+Introduction
+3
+1.1
+Project Goals and Scope . . . . . . . . . . . . . . . . . . . . . . .
+3
+2
+Considerations in Approaching the Problem
+5
+2.1
+Random Walk Hypothesis . . . . . . . . . . . . . . . . . . . . . .
+5
+2.1.1
+Qualitative Similarity to Random pattern . . . . . . . . .
+5
+2.1.2
+Quantitative Diﬀerence to Random pattern . . . . . . . .
+7
+2.2
+Eﬃcient Market Hypothesis . . . . . . . . . . . . . . . . . . . . .
+8
+2.3
+Self Defeating Strategies . . . . . . . . . . . . . . . . . . . . . . .
+9
+2.4
+Conclusions . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+9
+3
+Review of Existing Work
+10
+3.1
+Article 1 - Kara et al. [10] . . . . . . . . . . . . . . . . . . . . . .
+10
+3.2
+Article 2 - Shen et al. [19] . . . . . . . . . . . . . . . . . . . . . .
+12
+4
+Data and Tools
+14
+4.1
+Data Used . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+14
+4.1.1
+Choosing the Dataset
+. . . . . . . . . . . . . . . . . . . .
+14
+4.1.2
+Gathering the Datasets
+. . . . . . . . . . . . . . . . . . .
+14
+4.1.3
+Limitations of the Data . . . . . . . . . . . . . . . . . . .
+16
+4.2
+Tools . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+16
+5
+Attacking the Problem - Fundamental Analysis
+18
+5.1
+Price to Earnings Ratio
+. . . . . . . . . . . . . . . . . . . . . . .
+19
+5.2
+Price to Book Ratio
+. . . . . . . . . . . . . . . . . . . . . . . . .
+20
+5.3
+Limitations of Fundamental Analysis . . . . . . . . . . . . . . . .
+22
+5.4
+Fundamental Analysis - Conclusion . . . . . . . . . . . . . . . . .
+22
+6
+Attacking the Problem - Technical Analysis
+24
+6.1
+Broad Families of Technical Analysis Models
+. . . . . . . . . . .
+24
+6.2
+Naive Trading patterns . . . . . . . . . . . . . . . . . . . . . . . .
+24
+6.3
+Moving Average Crossover . . . . . . . . . . . . . . . . . . . . . .
+26
+6.3.1
+Evaluating the Moving Average Crossover Model . . . . .
+27
+6.4
+Additional Technical Analysis Models
+. . . . . . . . . . . . . . .
+29
+6.4.1
+Evaluating the Indicators . . . . . . . . . . . . . . . . . .
+30
+1
+6.4.2
+Data Preparation . . . . . . . . . . . . . . . . . . . . . . .
+31
+6.4.3
+Error Estimation . . . . . . . . . . . . . . . . . . . . . . .
+31
+6.5
+Common Problems with Technical Analysis . . . . . . . . . . . .
+32
+6.6
+Technical Analysis - Conclusion . . . . . . . . . . . . . . . . . . .
+33
+7
+Attacking the problem - Machine Learning
+34
+7.1
+Preceding 5 day prices . . . . . . . . . . . . . . . . . . . . . . . .
+34
+7.1.1
+Error Estimation . . . . . . . . . . . . . . . . . . . . . . .
+35
+7.1.2
+Analysis of Model Failure . . . . . . . . . . . . . . . . . .
+36
+7.1.3
+Preceeding 5 day prices - Conclusion . . . . . . . . . . . .
+39
+7.2
+Related Assets
+. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+7.2.1
+Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+39
+7.2.2
+Exploration of Feature Utility . . . . . . . . . . . . . . . .
+40
+7.2.3
+Modeling
+. . . . . . . . . . . . . . . . . . . . . . . . . . .
+41
+7.2.4
+Related Assets - Conclusion . . . . . . . . . . . . . . . . .
+43
+7.3
+Analyst Opinions . . . . . . . . . . . . . . . . . . . . . . . . . . .
+43
+7.3.1
+Data . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+44
+7.3.2
+Data Exploration . . . . . . . . . . . . . . . . . . . . . . .
+44
+7.3.3
+Data Preparation . . . . . . . . . . . . . . . . . . . . . . .
+45
+7.3.4
+Error Estimation . . . . . . . . . . . . . . . . . . . . . . .
+47
+7.3.5
+Model Selection . . . . . . . . . . . . . . . . . . . . . . . .
+47
+7.3.6
+Analyst Opinions - Conclusion
+. . . . . . . . . . . . . . .
+47
+7.4
+Disasters . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+48
+7.4.1
+Data Preparation . . . . . . . . . . . . . . . . . . . . . . .
+48
+7.4.2
+Predictive Value of Disasters
+. . . . . . . . . . . . . . . .
+49
+7.4.3
+Disasters - Conclusion . . . . . . . . . . . . . . . . . . . .
+50
+8
+Quantopian Trading Simulation
+52
+8.1
+Simulation 1 - Related Assets . . . . . . . . . . . . . . . . . . . .
+52
+8.2
+Simulation 2 - Analyst Opinions
+. . . . . . . . . . . . . . . . . .
+54
+9
+Report Conclusion
+57
+2
+Chapter 1
+Introduction
+Predicting the Stock Market has been the bane and goal of investors since
+its existence.
+Everyday billions of dollars are traded on the exchange, and
+behind each dollar is an investor hoping to proﬁt in one way or another. Entire
+companies rise and fall daily based on the behaviour of the market. Should an
+investor be able to accurately predict market movements, it oﬀers a tantalizing
+promises of wealth and inﬂuence. It is no wonder then that the Stock Market
+and its associated challenges ﬁnd their way into the public imagination every
+time it misbehaves. The 2008 ﬁnancial crisis was no diﬀerent, as evidenced by
+the ﬂood of ﬁlms and documentaries based on the crash. If there was a common
+theme among those productions, it was that few people knew how the market
+worked or reacted. Perhaps a better understanding of stock market prediction
+might help in the case of similar events in the future.
+1.1
+Project Goals and Scope
+Despite its prevalence, Stock Market prediction remains a secretive and empir-
+ical art. Few people, if any, are willing to share what successful strategies they
+have. A chief goal of this project is to add to the academic understanding of
+stock market prediction. The hope is that with a greater understanding of how
+the market moves, investors will be better equipped to prevent another ﬁnan-
+cial crisis. The project will evaluate some existing strategies from a rigorous
+scientiﬁc perspective and provide a quantitative evaluation of new strategies.
+It is important here to deﬁne the scope of the project. Although vital to
+any investor operating in the real world, no attempt is made in this project
+at portfolio management. Portfolio management is largely an extra step done
+after an investor has made a prediction on which direction any particular stock
+will move. The investor may choose to allocate funds across a range of stocks
+in such a way to minimize his or her risk.
+For instance, the investor may
+choose not to invest all of their funds into a single company lest that company
+takes unexpected turn. A more common approach would be for an investor to
+3
+invest across a broad range of stocks based on some criteria he has decided on
+before.This project will focus exclusively on predicting the daily trend (price
+movement) of individual stocks. The project will make no attempt to deciding
+how much money to allocate to each prediction. More so, the project will analyse
+the accuracies of these predictions.
+Additionally, a distinction must be made between the trading algorithms
+studied in this project and high frequency trading (HFT) algorithms.
+HFT
+algorithms make little use of intelligent prediction and instead rely on being
+the fastest algorithm in the market. These algorithms operate on the order of
+fractions of a second. The algorithms presented in this report will operate on
+the order of days and will attempt to be truly predictive of the market.
+4
+Chapter 2
+Considerations in
+Approaching the Problem
+Throughout the project, there are three ideas that warn us that we might not
+ﬁnd a proﬁtable way to predict market trends.
+2.1
+Random Walk Hypothesis
+The random walk hypothesis sets out the bleakest view of the predictability
+of the stock market. The hypothesis says that the market price of a stock is
+essentially random. The hypothesis implies that any attempt to predict the
+stock market will inevitably fail.
+The term was popularized by Malkiel [13]. Famously, he demonstrated that
+he was able to fool a stock market ’expert’ into forecasting a fake market. He
+set up an experiment where he repeatedly tossed a coin. If the coin showed
+heads, he moved the price of a ﬁctitious stock up, and if it showed tails then
+he moved it lower. He then took his random stock price chart to a supposed
+expert in stock forecasting, and asked for a prediction. The expert was fooled
+and recommended that he buy the stock immediately.
+It is important for the purpose of this project to confront the Random Walk
+Hypothesis. If the market is truly random, there is little point in continuing.
+2.1.1
+Qualitative Similarity to Random pattern
+The stock market can certainly look random to the eye of a casual observer. To
+demonstrate this, we created a perfectly random process that had striking visual
+similarity to real stock market data. The random process used to generate this
+is deﬁned in equation 2.1 where a0 = 0, 0.995 ≤ρ < 0, q and r are random
+values taken from a standard normal distribution. b0 can be initialised at any
+desired number
+5
+an = an−1 ∗ρ + qn
+bn = bn−1 + ρ ∗rn
+f(n) = an + bn
+(2.1)
+A sequence generated using equation 2.1 is displayed in ﬁgure 2.1. The graph
+plots an example generation of f(0), f(1), ..., f(500).
+Figure 2.1: Example of a randomly generated pattern
+We then visually compare this random process to a real piece of market data
+in ﬁgure 2.2.
+6
+Figure 2.2: Centered APPL stock price, some time after 2010
+Presented with both of these diagrams, and without the aid of time scales or
+actual prices, most people would ﬁnd it impossible to diﬀerentiate the diagrams.
+Using visual inspection alone, either of these diagrams could just as likely be a
+real piece of stock market data.
+This gives us pause as there is little point in moving forward if the stock
+market is truly random and there is nothing to predict. However, this does not
+turn out to be the case.
+2.1.2
+Quantitative Diﬀerence to Random pattern
+In this section, we will demonstrate that prices, speciﬁcally the way they move,
+are fundamentally diﬀerent to random data.
+Karpio et al. [11] describe an asymmetry between gains and losses on the
+stock market. Their research looks speciﬁcally at indices like the Dow Jones
+Industrial Average.
+They describe how "you wait shorter time (on average)
+for loss of a given value than for gain of the same amount". This research was
+conducted in 2006, before the Great Recession. It is conceivable that the market
+conducts itself diﬀerently since then, and therefore we tried to replicate their
+ﬁndings.
+On every day from the year 2000 to 2014, we recorded the value of the Dow
+Jones index. We then counted the number of days it took for the value to gain
+or lose 5% of its original value. When it lost 5% of its value, it was put into the
+red set, when it gained 5% of its original value, it was put into the green set.
+7
+Figure 2.3 shows two overlaid histograms detailing how long it took the red and
+green sets to lose or gain 5% respectively.
+Figure 2.3: Gain-Loss Asymmetry on the Dow Jones
+Figure 2.3 shows that the green set, the instances that gained 5% of their
+original value, took longer on average to reach that point than the red set, the
+instances that lost 5% of their original value. This indicates that the market
+generally creeps upwards but is prone to sudden drops downwards, and supports
+the ﬁndings of Karpio et al. [11].
+This demonstrates that the stock market is fundamentally diﬀerent to ran-
+dom data. This gives us hope for the remainder of the project. If the market
+price is not random, then it might be worth investigating and trying to predict.
+2.2
+Eﬃcient Market Hypothesis
+Another concept to keep in mind while working on the project was the Eﬃcient
+Market Hypothesis. Informally, the Eﬃcient Market Hypothesis says that the
+market is eﬃcient at ﬁnding the correct price for the stock market.
+It comes in three ﬂavours. However it is still a matter of debate which one,
+if any, is correct.
+Weak-form Eﬃcient Market Hypothesis The weak form of the hypothesis
+8
+says that no one can proﬁt from the stock market by looking at trends and
+patterns within the price of a product itself. It is important to note that
+this does not rule out proﬁting from predictions of the price of a product
+based on data external to the price. We will see examples of prediction
+based on both in sample and out of sample data, and provide evidence in
+support of the weak form.
+Semi-Strong Eﬃcient Market Hypothesis The semi-strong form rules out
+all methods of prediction, except for insider trading. This means that if
+we are only to use public domain information in our prediction attempt,
+the semi-strong form says that we will be unsuccessful.
+Strong form Eﬃcient Market Hypothesis The strong form says that no
+one can proﬁt from predicting the market, not even insider traders.
+Clearly, if we are to predict the stock market using only public information,
+we must hope that at most the weak form of the Eﬃcient Market Hypothesis
+is true so that at least then we can use external data to predict the price of a
+product.
+2.3
+Self Defeating Strategies
+Finally there is the idea of a successful model ultimately leading to its own
+demise.
+The insight is that if there were a simple predictive model that anyone could
+apply and proﬁt from themselves, then over time all of the advantage will be
+traded and eroded away.
+This is the same reason for the lack of academic papers on the topic of
+proﬁtably predicting the market. If a successful model was made widely known,
+then it wouldn’t take long until it wouldn’t be successful any more.
+2.4
+Conclusions
+The three preceding ideas ask us to keep an open mind on stock market predic-
+tion. It is possible that we will not be able to do it proﬁtably.
+9
+Chapter 3
+Review of Existing Work
+In this section, we will review existing academic literature in regard to predicting
+the stock market.
+We will look at two articles, one in support of technical
+analysis methods and another in support of machine learning methods. We will
+see that both leave room for improvement.
+3.1
+Article 1 - Kara et al. [10]
+The ﬁrst article we will review is Predicting direction of stock price index move-
+ment using artiﬁcial neural networks and support vector machines: The sample
+of the Istanbul Stock Exchange by Kara et al. [10]. The article uses technical
+analysis indicators to predict the direction of the ISE National 100 Index, an
+index traded on the Istanbul Stock Exchange. The article claims impressive
+results, up to 75.74% accuracy.
+Technical analysis is a method that attempts to exploit recurring patterns
+and trends within the price of the stock itself. It goes directly against all forms
+of the Eﬃcient Market Hypothesis. As described previously, even the weak form
+of the Hypothesis rules out prediction using historic price data alone. The team
+uses a set of 10 technical analysis indicators which are listed below.
+• Simple 10-day moving average
+• Weighted 10-day moving average
+• Momentum
+• Stochastic K%
+• Stochastic D%
+• Relative Strength Index
+• Moving Average Convergence Divergence
+• Larry Williams R%
+• Accumulation Distribution Oscillator
+• Commodity Channel Index
+The daily values for the indicators are calculated and coupled with the daily
+10
+price movement direction, the dependent variable.
+Two types of model are
+tested; a support vector machine and a neural network.
+Results are cross-
+validated using a single-holdout method.
+This method of cross-validation is
+known to be inferior when compared to other techniques such as k-fold cross-
+validation [12], but it is unlikely that this would have a drastic eﬀect on the
+results presented in the article. The team’s neural network model had an accu-
+racy of 75.74% and their support vector machine had an accuracy of 71.52%.
+Such success using technical analysis is in sharp contrast with work that will
+be presented later in the report. One explanation for the diﬀerence in results
+is that the ISE National 100 index may be more accommodating to technical
+analysis indicators than the set of stocks reviewed later in this report. This
+is understandable as all stocks in this set are traded on the New York Stock
+Exchange, which is the most computerised exchange in the world. It is likely
+that there are less trading algorithms competing on the Istanbul stock exchange
+and it is therefore easier to leverage algorithmic approaches such as Technical
+Analysis.
+However, there is another ﬂaw however in the methodology of the article
+that is far more likely to have dramatically increased the performance of their
+algorithms. In section three of the article, the team describes how they prepared
+their research data. Speciﬁcally,
+The direction of daily change in the stock price index is catego-
+rized as “0” or “1”. If the ISE National 100 Index at time t is higher
+than that at time t −1, direction t is “1”. If the ISE National 100
+Index at time t is lower than that at time t −1, direction t is “0”.
+At ﬁrst this would appear sensible, but their features also make use of infor-
+mation from time t. For example, their moving average calculation is deﬁned in
+equation 3.1 where Ct is the closing price at time t.
+Simple 10-day moving average = Ct + Ct−1 + ... + Ct−10
+10
+(3.1)
+In 3.1, the simple moving average is calculated using the closing price at
+time t and t −1. In fact all features used in the article use some information
+from time t and t −1, as well as others. But recall that the dependent variable
+is a classiﬁcation of the diﬀerence between prices at times t and t −1. This
+means, in eﬀect, that they are using information about tomorrow to predict
+tomorrows price. In a real world situation, no trader or trading algorithm would
+have the same level of information about tomorrow when they are making their
+predictions. If we wish to build a stock market prediction model that is useful
+in the real world, then we must only provide the model with information it
+could have in actuality. In reality, no model would have access to information
+about tomorrow when making a prediction. This is ignored by the article which
+provides its models with features which contain a large amount of information
+11
+about tomorrow. This can not be ignored when considering the team’s reported
+success.
+Nevertheless, it can be argued that the work may still be useful. Although
+the impressive ﬁgure of 75.74% prediction accuracy would be impossible to
+replicate in a real world model because of the problems described above, perhaps
+it tells us something else. We could reinterpret the 75.74% accuracy result not as
+predictive accuracy, but how well the technical analysis indicators agreed with
+true price movement on a given day. In other words, even though the indicators
+ultimately had access to information which included the true price movement,
+they agreed with it 75.74% of the time.
+Using this somewhat liberal interpretation, Kara et al. [10] have not demon-
+strated the predictive power of technical analysis, but demonstrated that it
+might be worth investigating. Later in this report, we will apply the corrected
+methodology and attempt to build a model using some of the same features.
+3.2
+Article 2 - Shen et al. [19]
+The second article we will look at is Stock Market Forecasting Using Machine
+Learning Algorithms by Shen et al. [19].
+The article makes a case for the use of machine learning to predict large
+American stock indices, including the Dow Jones Industrial Average. The article
+boasts a 77.6% accuracy rate for the Dow Jones speciﬁcally.
+The team uses a set of 16 ﬁnancial products and and uses their movements
+to predict movements in American stock exchanges. Many of these products
+will be used later in this report. Some of the ﬁnancial products used are listed
+below.
+• FTSE index price
+• DAX index price
+• Oil price
+• EURO/USD exchange rate
+The article makes good use of explorative methods in their data preparation
+stage. They show using graphs there there is a some features may have predictive
+power because of their correlation to the NASDAQ index.
+They then go on to perform feature selection based on the predictive power
+of each feature on its own. The results presented in this section, the predictive
+power of single features, are very similar to results that we will show later in
+this report.
+After they have selected their top 4 features they compare a Support vector
+machine model to a Multiple Additive Regression Trees model for predicting the
+daily NASDAQ trend. Their winning model is the SVM with 74.4% accuracy.
+While the results presented by Shen et al. [19] in this article appear to be
+very much in line with results that will be later presented in this report, it is
+quite vague in terms of the methodology that was used. For instance, there is
+12
+no record of what model was used in the feature selection step or how cross-
+validation was carried out to calculate any of their results. However, their results
+will be supported by results in this report, so it is safe to assume that no critical
+errors were made in these steps.
+After they successfully train and test a model, they use it to simulate a real
+life trading environment. Their models perform extremely well on the simulated
+trading example with an average of an 8% return rate every 50 days. At this
+point, the results of Shen et al. [19] and the results of this report diverge. The
+simulation in the article fails to account for overlapping trading hours.
+For
+instance the FTSE, which is traded in London, and the Dow Jones, which is
+traded in New York, are both trading simultaneously for three to four hours
+each day. This is enough time for the New York stock exchange to inﬂuence
+the London Stock stock exchange. It follows then that it is incorrect to use the
+closing prices in London to predict New York’s movements.
+While training and testing the models, both the article and this report ig-
+nore the overlapping of trading hours. However, this should certainly not be
+ignored when estimating real world trading performance. Later in this report,
+we will simulate real world trading using Quantopian. In Quantopian we will
+have access to intraday prices which will allow us to correctly account for the
+overlapping trading hours.
+13
+Chapter 4
+Data and Tools
+4.1
+Data Used
+4.1.1
+Choosing the Dataset
+For this project, we chose the Dow Jones Industrial Average and its components
+as a representative set of stocks. The Dow Jones is a large index traded on
+the New York stock exchange. It is a price-weighted index of 30 component
+companies. All companies in the index are large publicly traded companies,
+leaders in each of their own sectors. The index covers a diverse set of sectors
+featuring companies such as Microsoft, Visa, Boeing, and Walt Disney.
+It is important to use a predeﬁned set of companies rather than a custom
+selected set so that we do leave ourselves open to methodology errors or accu-
+sations of ﬁshing expeditions. If we had selected a custom set of companies,
+it could be argued that the set was tailored speciﬁcally to improve our results.
+Since the aim of the project is to create a predictive model of stock markets in
+general, this is a claim that we want to avoid.
+The Dow Jones was chosen because it is well known, and has a relatively
+small number of components. The leading index, the S&P 500, has over 500
+components, but ultimately analysing 500 companies would be too computation-
+ally expensive for the resources at hand. The Dow Jones components provided
+a good balance between available data and computational feasibility. Although
+there were only 30 companies, for many of the experiments carried out in this
+report, datasets many thousands of examples in size were obtainable.
+4.1.2
+Gathering the Datasets
+A primary dataset will be used throughout the project. The dataset will contain
+the daily percentage change in stock price for all 30 components of the Dow
+Jones.
+Luckily, daily stock price data is easy to come by. Google and Yahoo both
+operate websites which oﬀer a facility to download CSV ﬁles containing a full
+14
+daily price history. These are useful for looking at individual companies but
+cumbersome when accessing large amounts of data across many stocks.
+For this reason, Quandl[5] was used to gather the data instead of using
+Google and Yahoo directly.
+Quandl is a free to use website that hosts and
+maintains vast amounts of numerical datasets with a focus speciﬁcally on eco-
+nomic datasets, including stock market data which is backed by Google and
+Yahoo. Quandl also provides a small python library that is useful for accessing
+the database programmatically. The library provides a simple method for cal-
+culating the daily percentage change daily in prices. This calculation is deﬁned
+in equation 4.1 where pt is the closing price on day d, and δpd is the resulting
+percentage change.
+δpd = pd −pd−1
+pd−1
+(4.1)
+To build the primary dataset, a simple program was built to query the
+Quandl API for each of the 30 Dow Jones components using the transformation
+outlined in equation 4.1. Before ﬁnally saving the data, the gathered data was
+augmented with an additional column containing the classiﬁcation of the daily
+percentage change. This augmentation is deﬁned in equation 4.2 where trendd
+is the price movement direction on day d and δpd as deﬁned in equation 4.1.
+trendd =
+
+
+
+
+
+Loss
+if δpd < 0
+Gain
+if δpd > 0
+Neutral
+if δpd = 0
+(4.2)
+The ﬁnal step is shifting all of the δpd and trendd data points backwards by
+one day. The data we have gathered for any day should be used to predict the
+trend tomorrow, not the same day. By shifting δpd and trendd backwards, data
+gathered in later sections will be paired with the correct dependent variable.
+For instance, data we gather for a Monday will be matched with, and try to
+predict, Tuesday’s trend.
+This dataset was then saved in CSV format for simple retrial as needed
+throughout the project. This dataset containing the daily trends of companies
+will serve as the core dataset that will be used in most experiments later in the
+report. When we want to use the dataset later with the extra data we collect
+for each experiment, we only need to do a simple database join operation on the
+company and date. The dataset contains 122,121 rows covering all 30 companies
+daily since January 1st 2000. Table 4.1 shows an extract of a number of rows
+from this dataset.
+15
+Figure 4.1: Data Extract of Primary Dataset
+Date
+Symbol
+δpd
+trend
+2000-01-05
+DD
+0.04230
+Gain
+2000-01-05
+DIS
+0.03748
+Gain
+2000-01-05
+GE
+-0.00749
+Loss
+2000-01-05
+GS
+-0.04248
+Loss
+2000-01-05
+HD
+-0.00097
+Loss
+2000-01-05
+IBM
+0.03515
+Gain
+With the primary dataset prepared, we will combine it as needed with ad-
+ditional datasets to carry out individual experiments.
+4.1.3
+Limitations of the Data
+Although the data gathered in the previous section is certainly a good start, it
+is admittedly far behind what any serious investor more than likely has access
+to.
+One obvious piece of missing data that is the intraday prices, i.e the prices
+minute by minute.
+It is possible that this data could be used to guide and
+investors decisions on the interday level. However, intraday prices are not as
+freely available as interday prices and are considered a commodity in themselves.
+To get hold of such a dataset would incur a large cost, one that is not within
+the budget of a project such as this. Later in the project we will evaluate a
+strategy in which this limitation becomes signiﬁcant.
+Another important piece of missing data is the order book. The order book
+is a record of live buy and sell orders for a particular stock. It consists of the
+amount of stock each trader is willing to buy or sell, as well as their price.
+Successful orders are matched oﬀagainst the order book by the exchange. The
+price of a stock is usually considered to be half way between the highest buying
+price and the lowest selling price. It is easy to imagine that the order book
+contains useful data. For instance, the weighted average of orders might be
+predictive of the price. However access to this data is extremely costly and
+far beyond what most casual investors can aﬀord, let alone the budget for this
+project.
+With no way around these limitations, we use the data provided by Quandl.
+4.2
+Tools
+Python and associated packages
+Python was the language of choice for this project. This was an easy decision
+for the multiple reasons.
+16
+1. Python as a language has an enormous community behind it. Any prob-
+lems that might be encountered can be easily solved with a trip to Stack
+Overﬂow. Python is among the most popular languages on the site which
+makes it very likely there will be a direct answer to any query [17].
+2. Python has an abundance of powerful tools ready for scientiﬁc comput-
+ing.
+Packages such as Numpy, Pandas, and SciPy are freely available,
+performant, and well documented. Packages such as these can dramati-
+cally reduce, and simplify the code needed to write a given program. This
+makes iteration quick.
+3. Python as a language is forgiving and allows for programs that look like
+pseudo code. This is useful when pseudo code given in academic papers
+needs to be implemented and tested. Using Python, this step is usually
+reasonably trivial.
+However, Python is not without its ﬂaws.
+The language is dynamically
+typed and packages are notorious for Duck Typing. This can be frustrating
+when a package method returns something that, for example, looks like an
+array rather than being an actual array. Coupled with the fact that standard
+Python documentation does not explicitly state the return type of a method,
+this can lead to a lot of trial and error testing that would not otherwise happen
+in a strongly typed language. This is an issue that makes learning to use a new
+Python package or library more diﬃcult than it otherwise could be.
+17
+Chapter 5
+Attacking the Problem -
+Fundamental Analysis
+The ﬁrst approach we take to solving the problem of market prediction is to use
+Fundamental Analysis. This approach tries to ﬁnd the true value of a company,
+and thus determine how much one share of that company should really be worth.
+The assumption then is that given enough time, the market will generally agree
+with your prediction and move to correct its error. If you determine the market
+has undervalued a company, then the market price should rise to correct this
+ineﬃciency, and conversely fall to correct the price of an overvalued company.
+Graham et al. [7] laid the groundwork for the ﬁeld with the book Security
+Analysis. He encouraged would-be investors to estimate the intrinsic value of a
+stock before buying or selling based on trends, a novel idea at the time. It stands
+as testament to his approach that his only A+ student was Warren Buﬀet, who
+methodically applied the strategy and has enjoyed renowned success since [18].
+This gives us some hope, but we should be cautious and remember that the
+market might behave diﬀerently today than it did before.
+It should be noted that Fundamental Analysis is compatible with the weak
+form of the Eﬃcient Market Hypothesis. As explained earlier, the weak form
+does not rule out prediction from data sources external to the price, which is
+what we will use to determine our fair market price.
+We will look at two of the most common metrics used in Fundamental Anal-
+ysis, Price to Earnings Ratio, and Price to Book Ratio to predict long term
+price movements on a year to year basis. This is the typical prediction range
+for Fundamental Analysis.
+Due to the prediction range of Fundamental Analysis however, this chapter
+will not focus only on the component companies of the Dow Jones. We would
+not be able to generate a suﬃciently large dataset by looking at recent year to
+year changes of only 30 companies. Instead, in this chapter we will take our
+sample companies from the S&P 500 index. This will provide a suﬃciently large
+dataset to do the analysis required in this chapter.
+18
+5.1
+Price to Earnings Ratio
+The ﬁrst metric for the value of a company that we will look at is the Price to
+Earnings Ratio. The Price to Earnings Ratio calculation is deﬁned in equation
+5.1.
+P/E Ratio =
+Share Price
+Earnings Per Share
+(5.1)
+Roughly speaking, what the P/E Ratio calculates is the price an investor is
+willing to pay for every $1 of company earnings. If this ratio is high, it might
+be a sign of high investor conﬁdence. If investor conﬁdence is high, that might
+mean they expect high returns in the following year. We should then expect
+to see a relationship between high P/E ratio and high returns in the following
+year.
+To investigate this relationship, we plotted the P/E ratio of 456 companies
+on the 31st of December against the change in stock price for the following year.
+We gathered these data points from the year 2000 to 2014. Figure 5.1 plots this
+relationship.
+Figure 5.1: Relationship between P/E Ratio and following year growth
+The best ﬁt line was calculated using the standard Least Squares method.
+If the P/E ratio was indeed predictive, we might have expected a better ﬁtting
+line.
+19
+We can investigate the data further using a boxplot.
+Figure 5.2 divides
+companies into two categories. The ﬁrst category, Gain Companies, are com-
+panies whose share price increased in a given year, and the second category,
+Loss Companies, are companies whose share price fell in a given year. The box
+plot shows the distribution of P/E Ratios for each category.
+Figure 5.2: Investigation of P/E Ratio predictive value using Box plot
+If the P/E Ratio was predictive, we would have expected a noticeable dif-
+ference in the P/E Ratio distribution of companies whose share increased, and
+those whose share price decreased. However, this is not the case. The P/E
+Ratio distribution between these categories is almost identical. We can there-
+fore conclude that the P/E Ratio has little predictive value when it comes to
+estimating company performance for the following year.
+5.2
+Price to Book Ratio
+The second metric for the value of a company that we will look at is the Price
+to Book Ratio. The price to Book Ratio calculation is deﬁned in equation 5.2.
+P/B Ratio =
+Share Price
+Book Value of Company
+(5.2)
+Informally, what the Price to Book Ratio calculates is the ratio between the
+value of a company according to the market and the value of the company on
+paper. If the ratio is high, this might be a signal that the market has overvalued
+a company and the price may fall over time. Conversely if the ratio is low, that
+20
+may signal that the market has undervalued the company and the price may
+rise over time. We should then expect to see a relationship between high P/B
+ratio and low returns in the following year.
+To investigate this relationship, we plotted the P/B ratio for of 316 compa-
+nies on the 31st of December against the change in stock price for the following
+year. We gathered these data points from the year 2000 to 2014. Figure 5.3
+plots of this relationship.
+Figure 5.3: Relationship between P/B Ratio and following year growth
+Just as in the P/B diagram, the best ﬁt line was calculated using the stan-
+dard Least Squares method. The slope of the best ﬁt line here is greater than
+that of the P/E ratio which is the opposite of what we might have expected. The
+data suggests that a high P/B ratio is somewhat predictive of a high growth in
+the stock price. This is an unexpected result and is directly opposed to available
+literature on the subject [9]. This suggests that a high P/B ratio may act as a
+signal of investor conﬁdence, a better signal than the P/E Ratio.
+To better understand the predictive value of the P/B Ratio we can use a
+box plot. Figure 5.4 divides companies into two categories, exactly as in the
+earlier P/E Ratio example. The box plot shows the distribution of P/B Ratios
+for each category.
+21
+Figure 5.4: Investigation of P/B Ratio predictive value using Box plot
+It is evident that ﬁgure 5.4 tells a very similar story to ﬁgure 5.2, the P/E
+Ratio box plot. We can see that companies that grew and companies that shrank
+had an almost identical distribution of P/B Ratios. If it were predictive, we
+would have expected diﬀerent distributions for each category. We can therefore
+conclude that the P/B Ratio also has little predictive value when it comes to
+estimating company performance for the following year.
+5.3
+Limitations of Fundamental Analysis
+There is an obvious problem in Fundamental Analysis. We are trying to quantify
+the true value of a company when almost every company has in some way or
+another some purely qualitative value.
+Fundamental Analysis methods do not attempt to capture these qualitative
+values. How should one quantify the value of a brand, the size of its customer
+base, or a competitive advantage? Until these values are quantiﬁed, it leaves a
+large gap in what an algorithmic style approach can achieve. What algorithm,
+for instance, would have valued WhatsApp at $22 billion while still making a
+year-on-year loss? [3]
+These are three examples of some of the many qualitative values a human
+investor might take into account when deciding who to invest in. In fundamental
+analysis we are limited to purely quantitative company metrics.
+5.4
+Fundamental Analysis - Conclusion
+We evaluated two Fundamental Analysis metrics and found no conclusive proof
+of their predictive value.
+22
+These predictions are also very long term, looking one year into the future.
+Predictions on this time scale are not the focus of the project. Instead we will
+focus on predicting daily trends in the market. Due to these issues that we
+moved away from Fundamental Analysis.
+23
+Chapter 6
+Attacking the Problem -
+Technical Analysis
+The second approach we take at market prediction is Technical Analysis.
+As described in the review of Kara et al. [10], this makes use of recurring
+patterns and trends within the price of a stock and goes directly against even
+the weak form of the Eﬃcient Market Hypothesis.
+Nevertheless, Technical Analysis remains popular in online non-academic
+literature. This is likely because it is simple, intuitive, and what many casual
+investors imagine a professional trader might use.
+The quintessential image
+of the work of a professional trader is analysing a historic price graphs using
+sophisticated diagrams and charts to predict the future price. This is Technical
+Analysis.
+6.1
+Broad Families of Technical Analysis Mod-
+els
+If a casual investor was to do some research into trading on the stock market
+using Technical Analysis they would, perhaps unknowingly, encounter two broad
+categories of models. We will demonstrate that one of these is implausible in
+theory and in practice, while the other, although sound in theory, does not work
+in practice.
+6.2
+Naive Trading patterns
+The ﬁrst family of Technical Analysis methods we will look at are those that
+do not work in theory or in practice. These methods are based on looking for
+very high level patterns in the stock market price and using these patterns in
+an attempt to predict the following price movements.
+24
+Among the most common of these patterns is the Head and Shoulders pat-
+tern, and it is one of the worst oﬀenders of poor methodology in Technical
+Analysis.
+Figure 6.1: Head and Shoulders Pattern [8]
+Figure 6.1 shows a bearish head and shoulders pattern.
+In this context,
+bearish is taken to mean falling share prices. The idea is that if a trader sees
+this pattern, they can expect the market price to fall. To spot this pattern, a
+trader should look for two smaller peaks (the shoulders) surrounding a larger
+peak (the head). However, Neftci [16] shows that the pattern does not, and
+indeed cannot, provide any useful information.
+The ﬁrst issue is that the pattern cannot be identiﬁed until after it has
+happened.
+Not until the price falls away below the right shoulder, does it
+become apparent that a head and shoulders pattern has occurred.
+But this
+information needed to identify a the head and shoulders pattern is exactly what
+it was supposed to predict. This leaves no useful information for the trader.
+Because of the lack of theoretical support, it is easy to ﬁnd many additional
+problems with the head and shoulders pattern. The most obvious problem is
+that because we cannot identify the pattern until after the fact, at no point can
+tell which way the market will move. Suppose we have observed a series market
+movements that appear to be similar to those in the diagram up to peak of
+the right shoulder. We have no way of telling whether the market will continue
+upwards, or follow the head and shoulders pattern downwards. If the pattern
+moved upwards when it was supposed to be at the right peak, the right peak
+could turn out to be a left shoulder of another possible head and shoulders, or
+even a head peak.
+A common error made using patterns like this is that the analyst does not
+recognise instances where the pattern failed, but instead would argue that the
+25
+pattern never existed.
+For example, if the price were to rise after the right
+shoulder, many analysts would tell you that it was not that the pattern failed,
+but that the head and shoulders pattern never existed in the ﬁrst place. After
+dismissing the incorrect instances of the pattern in this manner, the analyst
+will be left with only the correct instances. This is a systematic acceptance of
+conﬁrmation bias.
+In short, it is impossible to get any useful information from the head and
+shoulders pattern. However this does not appear to stop investors attempting
+to use it. A casual investor doing an internet search about trading patterns will
+more than likely bump into a blog post or an apparently authoritative source
+telling them how to use this pattern, or one like it, to proﬁt on the market.
+There is no shortage of similar patterns to be found in online literature, but
+almost all fall into the same problems as the head and shoulders pattern. All
+information available from these models is only useful in retrospect.
+6.3
+Moving Average Crossover
+Next, we move to Technical Analysis models that are sound in theory. These
+models work on a statistical basis rather than patterns and make explicit pre-
+dictions about the future. One of the simplest and most common models of this
+type is the Moving Average Crossover strategy.
+The moving average crossover strategy relies on the interaction between two
+moving averages of diﬀerent periods.
+One is a moving average over a short
+period, and the other is a moving average over a longer period. For example,
+the short moving average might be the mean price over a period of the last 10
+days, and the long moving average might be the mean price over a period of
+the last 20 days. When the short moving average crosses under the long, this
+can be interpreted as a negative signal that the market is trending downwards.
+Conversely if the short moving average crosses over the long, this can be inter-
+preted as a positive signal that the market is trending upwards. Accordingly,
+the points where these events happen are called the crossover points and can be
+categorised into negative and positive crossovers points.
+26
+Figure 6.2: Moving Average Crossover
+In ﬁgure 6.2, the red areas are where the short moving average is below the
+long moving average and the green areas are where the short moving average
+is above the long moving average. The diagram seems to give us hope for this
+strategy. The large green and red areas on the left of the diagram do indeed
+appear to be predictive of market upward and downward trends respectively.
+However, while it is attractive to look at the crossover points on the left of
+the diagram, one should not ignore the less signiﬁcant crossover points on the
+right of the diagram. These are crossover points just as much as the ones on
+the left area but these are not as predictive for market trends. The goal is to to
+choose long and short periods moving average to maximize the predictive value.
+6.3.1
+Evaluating the Moving Average Crossover Model
+To evaluate the predictive value moving average crossover model, we attempted
+to build a predictor using these crossover signals (positive and negative) as the
+input features and the market trend for the following day as the dependent
+variable we are trying to predict. We performed a rigorous evaluation of long
+and short term pairs on a training set, and tested the winning long/short term
+pair against an independent test set.
+To perform this analysis, the database previously assembled in the Data and
+Tools section was used.
+This database was then joined with 50 new moving average columns. The
+ﬁrst of these columns contained the 1-day moving average price, the second
+contained the 2-day moving average price, etc., up to the 50-day moving average
+price. This precomputation of the moving averages greatly decreased the time
+taken to train the model.
+The data was split into a training and test set. For simplicity, the data was
+27
+divided based on company. We chose 20 random companies and used them as
+the training set. The remaining 10 companies were used as a test set. This
+is similar to the single-holdout method, which under normal circumstances is
+not considered to be statistically credible. However there was suﬃcient data
+in this case for single-holdout to be viable. The training set contained 74,000
+trading days between all 20 companies the test set contained 38,000 trading
+days between the 10 companies.
+The model itself was purposefully kept extremely simple so as to remain
+true to the intended usage of the moving average strategy. When a positive
+crossover occurred (short crosses over long), the model predicted the stock price
+would increase tomorrow, and when a negative crossover occurred it predicted
+the stock price would fall tomorrow. Finding the optimal pair of long and short
+moving average periods is equivalent to ﬁnding the best hyperparameters for
+the model. This is model selection.
+We perform a grid search over all possible long and short period pairs. For
+each period pair, we ﬁnd the crossover points between them. For each crossover
+point, we make a prediction based on its positivity or negativity, and compare
+tomorrow’s predicted trend against the actual trend. We can then calculate the
+accuracy of this long/short period pair and remember it if it is the best so far.
+When we have iterated over all possible long and short pairs, we will have
+found the best period pair for predicting tomorrow’s trend in the training set.
+Table 6.3.1 displays the top 5 short and long period pairs and their test accuracy.
+Rank
+Short Period
+Long Period
+Training Score
+1
+8
+35
+0.5229
+2
+8
+34
+0.5219
+3
+8
+33
+0.5127
+4
+2
+37
+0.5073
+5
+2
+36
+0.5016
+The winning pair after model selection was 8, and 35 for the short and long
+period respectively.
+We then cross validated this against our test set.
+Our
+accuracy on the test set using the 8, 35 pair was 0.5157. This is slightly lower
+than our training score, as should be expected.
+However, both of these scores are still extremely poor. They perform only
+marginally better than a coin toss. We can put into context how well the model
+performs using the Kappa Statistic. The Kappa Statistic compares the model’s
+performance to a random version of itself. The Kappa Statistic is deﬁned in
+equation 6.1 where P(A) is the observed proportion of agreement and P(E) is
+expected proportion of agreement [6].
+K = P(A) −P(E)
+1 −P(E)
+(6.1)
+28
+This model scores a kappa of 0.0427, which is far from statistical signiﬁcance.
+The model performs no better than random in any signiﬁcant way. We must
+conclude that the Moving Average Crossover is not predictive in any meaningful
+way, at least for predicting the movement of companies on the Dow Jones.
+6.4
+Additional Technical Analysis Models
+Although we had no success using moving average crossovers, there are many
+other technical analysis indicators that are regularly used by traders. We will
+evaluate a further ﬁve of the most common indicators. These indicators are
+described below.
+Weighted Moving Average A weighted moving average is the average where
+later data points are given more weight than earlier data points. In terms
+of this experiment, the data points will be the prices of individual days.
+The intuition in using the weighted moving average indicator follows an
+idea of reverting to the mean, but in this case the mean is calculated using
+weighted prices. Equation 6.2 deﬁnes weighted moving average wman
+d, on
+day d using the previous n days where pd is the price on day d.
+wman
+d = n ∗pd + (n −1) ∗pd−1 + ... + 1 ∗pd−n
+n + (n −1) + ... + 1
+(6.2)
+Momentum A momentum indicator calculates the relative change in price over
+the last n days. This is based on a straight forward percentage change.
+Equation 6.3 deﬁnes momentumn
+d which calculates momentum on day d
+by looking at the price diﬀerence from n days ago.
+momentumn
+d = pd −pd−n
+pd−n
+(6.3)
+Bollinger Bands A Bollinger Band indicator calculates the number of stan-
+dard deviations a price is away from a moving average. The intuition is
+that if the current price is far away from the mean price, then it might
+signal an upward or downward trend is to follow. Equation 6.4 deﬁnes
+bollingern
+d where µn
+d is the mean price on day d of the last n days and σn
+d
+is the standard deviation in price on day d of the last n days.
+bollingern
+d = pd −µn
+d
+σn
+d
+(6.4)
+29
+Relative Strength Index The Relative Strength Index (RSI) attempts to
+capture the trading strength of a stock, i.e will how likely a stock price
+is to continue rising or falling. Borrowing from Wong et al. [20] for the
+intuition,
+Readings of 100 imply that there are pure upward price move-
+ments, while readings of 0 imply that there are pure downward
+price movements.
+Hence a reading close to 100 indicates an
+overbought market, while a reading around 0 indicates an over-
+sold market.
+Much like our other indicators then, RSI should act as an indicator that
+the market price is about to revert back to a some kind of mean.
+Calculation of RSI is done in two parts. First RSn
+d is calculated. RSn
+d is,
+informally, the average price increase over the last n days divided by the
+average price decrease over the last n days. RSn
+d is then used to calculate
+RSIn
+d which is the relative strength index on day d using the preceding n
+days.
+RSn
+d =
+1
+n
+dP
+k=d−n
+(pk −pk−1 | pk > pk−1)
+1
+n
+dP
+k=d−n
+(pk −pk−1 | pk < pk−1)
+(6.5)
+RSIn
+d = 100 −
+100
+1 + RSn
+d
+(6.6)
+6.4.1
+Evaluating the Indicators
+In the previous section, when looking at the moving average crossover strategy,
+we built an extremely simple model that predicted the trend based on a signal.
+This signal was relatively easy to deﬁne, there was a signal when the long and
+short moving averages crossed over on each other. However with the indicators
+mentioned above, the deﬁnition what constitutes a signal and what doesn’t is
+far more ambiguous. For instance, in regard to the Bollinger Band indicator
+there is no agreed upon threshold of what should signal an upward or downward
+trend.
+Training models for every possible set of signal thresholds and parameters
+would have been extremely computationally expensive. A diﬀerent approach
+was required. Instead of generating all signals thresholds and parameters and
+using a simple model, the raw values from the indicators were used in a more
+complex model. A more complex model should be able to hypothesise what
+these signals should be, which avoids having to predeﬁne them.
+30
+These models will employ machine learning techniques and will attempt
+to learn the important signals from our technical analysis indicators. If these
+models perform well, given the indicator data as input, it will mean that the
+indicators is indeed useful. If, on the other hand, these models are not successful
+it probably (but not certainly) means that the indicators are not useful.
+6.4.2
+Data Preparation
+Before we begin training the models, we must prepare the data to feed them.
+Because no thresholds had to be deﬁned, this step was relatively straight for-
+ward.
+The primary price database originally prepared in the Data and Tools chap-
+ter was used for this experiment. For each company, its price history was iterated
+over and the value of each indicator was calculated for each day. The results of
+these calculations were stored in a temporary collection.
+When iteration was completed, the data for each company was individually
+standardised so that both high and low priced companies could be used in
+training and testing the same model. Standardisation shifts and scales the data
+so that it has a mean of 0 and a standard deviation of 1. It should be noted that
+standardising in this manner is not correct methodology. Ideally, the training
+data should be standardised before the test data, and the test data should be
+standardised using calculations based on the training data.
+This is done to
+avoid leakage, i.e when the test data inﬂuences the training data. However, this
+would be diﬃcult to do in this situation as each each company needed to be
+standardised separately. Since this error is more likely to artiﬁcially increase
+the model’s performance, and our models will later fail to perform anyway, this
+error is ignored.
+With each of the indicators for each company standardised, the data is stored
+for later use in error estimation. There are 95,407 examples in the database.
+6.4.3
+Error Estimation
+In this step, we determine which class of model should be used on this data. We
+will compare three types of model, a k-Nearest Neighbours model, a Logistic
+Regression model, and a Naive Bayes based model. We also need to search a
+range of hyperparameters for each model. For instance, what value of k do we
+use in k-NN? To get an error estimation of each model type, we do a grid search
+over all hyperparameter values and test using nested kFold cross validation. In
+this case, we split the data into 10 outer folds and 10 inner folds. The inner
+folds determine the winning hyperparamter which is cross validated by the outer
+fold. In total, for each hyperparameter there are 100 models trained. Table 6.1
+details the models tested, the hyperparameters searched, and their estimated
+accuracy.
+Table 6.1: Error Estimation Scores
+31
+Model Name
+Model Speciﬁc Hyperparameters
+Estimated Accuracy
+LogisticRegression
+Norm penalization: l1 and l2
+0.5143
+KNeighborsClassiﬁer
+k: 5 to 15, weights: uniform and distance
+0.5034
+GaussianNB
+-
+0.5131
+It is evident from table 6.1 that none of these models were terribly successful.
+This is a strong sign that the input data, the indicator values, were not predictive
+of the following day’s price trend.
+This does not bode well for technical analysis; all technical analysis meth-
+ods that have been tested have failed. However it would seem that our work
+is supportive of most serious academic literature on the subject. Prominent
+economist Burton Malkiel summarises the academic attiude towards technical
+analysis quite well [14].
+Obviously, I am biased against the chartist.
+This is not only
+a personal predilection, but a professional one as well.
+Technical
+analysis is anathema to the academic world.
+We love to pick on
+it. Our bullying tactics are prompted by two considerations: (1) the
+method is patently false; and (2) it’s easy to pick on. And while it
+may seem a bit unfair to pick on such a sorry target, just remember:
+it is your money we are trying to save.
+Whether deserving of it or not, it would be right to analyse what went
+wrong. Does the fault indeed lie with lack of predictive power in the technical
+analysis indicators? Or, perhaps it is that our models were not complex enough
+to capture their signals.
+This question will be answered in the following chapter where we will ques-
+tion whether there is any useful information in the price history at all. Ulti-
+mately, we will provide strong evidence that there is in fact no useful information
+in price history. It follows logically then that any method that tries to leverage
+price history is doomed to fail. This includes technical analysis.
+6.5
+Common Problems with Technical Analysis
+For a casual investor, navigating online literature in this area poses a signiﬁcant
+challenge. An extremely common theme in this literature is the poor method-
+ology applied to evaluating trading patterns.
+We have seen two examples of conﬁrmation bias when we looked at the Head
+and Shoulders pattern and when we looked at Moving Average crossover points.
+In the former, patterns that didn’t ﬁt the narrative were simply ignored and in
+the latter people focused too heavily on the instances where it did work.
+Even when there is no conﬁrmation bias present, there is very rarely any
+proper separation of training and test set. Correct methodology would separate
+these examples so that one could accurately estimate how the model would
+perform given unseen examples, like it would have to do in reality. This problem
+32
+is prevalent when looking for long and short periods in moving average crossover.
+Many analysts ﬁnd the best long/short period pair for their given time period
+and expect that to be just as predictive in future periods. This is incorrect
+methodology. It is easy to overﬁt a model to perform well on a single piece of
+data, but this may not carry over to unseen examples.
+Above, we applied the correct methodology. In our experiments, the data
+was split into test and training sets and hyperparameters were determined
+through cross-validation. This gives us a true estimate of how our best esti-
+mator carries over to future data. This proper methodology is not common in
+online literature.
+6.6
+Technical Analysis - Conclusion
+It might have been expected that, given the popularity of Technical Analysis for
+stock market trading, there would have been a more positive result. However,
+somewhat surprisingly, the data shows that there is little predictive value to be
+found in Technical Analysis.
+33
+Chapter 7
+Attacking the problem -
+Machine Learning
+Our ﬁnal approach to attacking the problem of stock market prediction is to
+look at machine learning. With machine learning, we will be building models
+that learn to exploit relationships within the data that we might have otherwise
+missed using Fundamental Analysis or Technical Analysis.
+7.1
+Preceding 5 day prices
+In Technical Analysis, we attempted to ﬁnd patterns and trends in the data that
+we could use to predict the price movement, the trend, for the following day.
+Ultimately Technical Analysis failed to produce any notable results, but perhaps
+it was because the models are not complex enough to capture any hypothetical
+pattern that might exist in market data.
+Similarly to Technical Analysis, in this section we will try to apply machine
+learning techniques to the price of the stock itself. Again, the Eﬃcient Market
+Hypothesis says that it should not be possible to gain any predictive value from
+the price alone.
+The data that we will be using is the percentage change in closing price of
+the stock of the preceding 5 days. The dependent variable will be the trend of
+the 6th day, i.e whether the stock price fell or rose. This dataset is built using
+the dataset assembled in the Data and Tools section. Table 7.1 is an extract
+of the ﬁrst 4 rows in the dataset where trend is the encoding of the 6th day
+according to equation 4.2.
+Columns labelled day1 to day5 are the percentage change in closing price of
+the preceding 5 days. We will use the 6th day trend as the dependent variable.
+The dataset gathered contained 206635 examples. It was gathered from the the
+daily closing price of companies in the Dow Jones from the year 2000 to 2014.
+Before feeding the data into the models as discussed later, the data rows were
+34
+Table 7.1: Data Extract
+day1
+day2
+day3
+day4
+day5
+6th day trend
+0
+0.0492
+-0.0029
+0.0176
+0.0115
+0.0028
+Loss
+1
+-0.0029
+0.0176
+0.0115
+0.0028
+-0.0142
+Loss
+2
+0.0176
+0.0115
+0.0028
+-0.0142
+-0.0028
+Gain
+3
+0.0115
+0.0028
+-0.0142
+-0.0028
+0.0115
+Loss
+randomly permuted to remove any bias the model could learn from an ordered
+dataset.
+7.1.1
+Error Estimation
+After we have gathered the data, the next step in building our model is choosing
+which base model we should work with. This step is called Error Estimation. It
+involves training and testing the performance of various models on the dataset
+to see which one we should focus on optimizing.
+We tested each model by doing a nested kFold test. In this case, we split
+the data into 10 outer folds and 10 inner folds. The inner folds determine the
+winning hyperparamter which is cross validated by the outer fold. In total, for
+each hyperparameter there are 100 models trained.
+Table 7.2: Error Estimation Scores
+Model Name
+Hyperparameters Tested
+Nested KFold Accuracy
+LogisticRegression
+Norm penalization: l1 and l2
+0.5343
+KNeighborsClassiﬁer
+k: 1 to 10, weights: uniform and distance
+0.5172
+GaussianNB
+-
+0.5292
+Table 7.2 shows the accuracy scores of each model that we tried on the given
+data. A support vector machine based model was also tried, but it proved too
+slow to train with the computational resources at hand. However in smaller
+trials the SVM model did not seem to be signiﬁcantly better than any of the
+model types presented above.
+It is immediately clear that there is a problem here. None of the models
+tested scored signiﬁcantly above 0.5% accurate in our classiﬁcation test. A coin
+toss predicting the outcome of the dependent variable would have performed
+similarly to these models. Although some models appear to be slightly better,
+we cannot place too much value in the actual value cross validation score in
+error estimation. The nested kFold method does not give us the true accuracy
+of the model, only an estimate used to choose the best model type. Diﬀerences
+of 1% or 2% at this point do not point to any clearly superior model type. We
+conclude that none of these models will work at predicting the the trend on the
+6th day given the trends of the previous 5 days.
+35
+7.1.2
+Analysis of Model Failure
+The failure of all models there were tested gives us a strong indication that
+something is deeply wrong somewhere. In this section, we will show that there
+is good evidence that the problem is in fact that there is no information to be
+found from the previous 5 day prices. This is entirely supportive of the Eﬃcient
+Market Hypothesis.
+Model Complexity
+It is important here to clarify what is meant by model complexity. The com-
+plexity of a model is the size of the set of hypothesis that it can produce. A
+hypothesis is a guess that the model can make about the relationship between
+input features and the dependent variable. A linear model would guess, or hy-
+pothesize, that the relationship is a linear combination of the input features.
+A nearest neighbours model would guess that the relationship is going to copy
+previously seen examples. A model that can produce a larger number of hy-
+potheses is more complex than one which can produce a smaller set. It is also
+important to note that these hypothesis sets do not necessarily overlap. One
+model may be more complex than the other, but that is not to say that the best
+hypothesis does not belong to the model of lesser complexity.
+It is possible that the models in the previous section failed because the
+models tested were not suﬃciently complex, or that they did not cover the
+optimal set of hypotheses. However, the models and hyperparameters that were
+tested covered a large hypothesis base. If there were a good hypothesis to ﬁnd,
+it is reasonable that one of the models would have performed better than a coin
+toss.
+We can also inspect the eﬀect of model complexity visually using graphs.
+For convenience we choose to model the kNN model here. Analysis of the kNN
+model is simpler and no less consequential than the other models.
+The complexity of kNN can be varied by changing k, where k is the number
+of neighbours the model will consider to make its prediction. A low value of k
+means the model will look at only a few of the closest neighbours to attempt
+to infer the value of the input, and conversely a high value of k means that the
+model will consider a larger number of neighbours. Recall that our measure of
+complexity is the size of the hypothesis set. It follows that the complexity of
+kNN is inversely proportional to k. Given n examples, a uniformly weighted
+1-NN model is able to produce n diﬀerent predictions, but a n−NN model can
+only produce one prediction.
+36
+Figure 7.1: kNN Validation Curve
+Figure 7.1 plots the validation curve for the kNN model. To generate this
+graph, we generated 60 kNN models with diﬀerent k values. The training and
+test error for each value of k was then plotted. Since the complexity of the
+model varies with k as explained earlier, we can interpret the graph as being a
+performance comparison of models of varying complexity. On the left are models
+of high complexity and high variance (leading to high training score) and on the
+right are models of low complexity and high bias. Normally in such a graph we
+would expect the training and test errors to become closer somewhere in the
+middle, indicating the optimum trade-oﬀbetween bias and variance. However
+there is no such clear point in this graph. No matter what the complexity of the
+model, the Cross Validation Accuracy never rises signiﬁcantly above 0.5%. We
+can then conclude that the problem is not due to the complexity of the model.
+Training Data
+If the problem does not lie with the complexity of our models, then maybe the
+problem is due to the amount of training data that we have. Perhaps if we had
+more data, we could build better models.
+As mentioned previously, the dataset we used for training and testing these
+models had over 200,000 examples. This seems like it should be enough, but
+maybe the stock markets are so complex they need more.
+37
+To properly diagnose this, we can plot the learning curve. In the validation
+curve, we varied the complexity of the model. In the learning curve, we will
+vary the number of examples presented to the model. Because of computational
+resources available, we were forced to constrain the number of examples in the
+learning curve to approximately 20,000. This is much smaller than the 200,000
+examples in the dataset, but certainly not too small to ignore the ﬁndings. A
+50-Nearest Neighbours model was used because there appears to be a slight
+upwards bump in the validation curve around 50NN.
+Figure 7.2: kNN Learning Curve
+Figure 7.2 shows the eﬀect of varying the number of examples on the model.
+Normally in a learning curve graph, you would expect the test and training errors
+to converge. The intuition is that as the model is presented with more data,
+it is better equipped to produce better hypotheses. Because these improved
+hypotheses are more general we expect the training accuracy to decrease (less
+overﬁtting), but the test accuracy to increase (less underﬁtting). However we
+can see that this is not the case for our graph.
+The graph shows that for
+our model, the test and training accuracy remain apart and do not begin to
+converge no matter how much data they were given. We can then conclude that
+the problem is not due to lack of data for training and testing our model.
+38
+7.1.3
+Preceeding 5 day prices - Conclusion
+In this section, we attempted to train a model to predict the trend in the 6th
+day given the trends of the previous 5 days but all models were unsuccessful. We
+then analysed why they might have failed and concluded that it was a problem
+with neither the complexity of the models nor the amount of data we had to
+train the models.
+We must then conclude that the problem must lie in the data itself. It would
+seem that the preceding 5 day prices contain no information useful in predicting
+the following day trend. This supports our ﬁndings in the Technical Analysis
+approach and the Eﬃcient Market Hypothesis.
+Clearly we must begin to look at using external data.
+7.2
+Related Assets
+With the failure of using the price itself to predict stock movements, we turn to
+other sources of predictive value. Perhaps the most obvious source we should
+seek to use is the movement of assets related to the Dow Jones.
+Intuitive, one might suppose that when the price of Oil rises, that is a good
+sign for the Dow Jones and we can expect it to rise too. Similarly, if the price
+of Oil falls we might expect the price of the Dow Jones to fall with it. In this
+section, we will search for features that rise and fall with the Dow Jones index.
+7.2.1
+Data
+Since in the last section we showed that yesterday’s prices appear to have no
+inﬂuence on today’s prices, it is unreasonable to expect yesterday’s prices of
+related assets to inﬂuence today’s price of the Dow Jones.
+Because of this,
+instead of predicting based on yesterday’s prices, we will predict based on price
+movements in assets that are traded earlier in the same day. We will use the
+price movements of assets that are traded in Europe and Asia to predict the
+trend in the Dow Jones, which is traded in New York. If markets in Europe and
+Asia are trending heavily in one direction, it might follow that the Dow Jones
+will also trend that way when the markets open. What is important is that in
+the real world, we can observe the trends of our related assets before we need
+to make a trend prediction for the Dow Jones.
+However, some market times overlap. For instance, the London Stock Ex-
+change and the New York Stock Exchange are both trading at the same time
+for approximately 4 hours daily. It would be ideal then to have price data which
+can be cleanly partitioned into intraday prices before and after the Dow Jones
+begins. However, this data is not easily available in the public domain. Intraday
+price data is a commodity and not something which is distributed as freely as
+interday price data. Quandl, which has been our source of much of the data up
+to this point, does not oﬀer intraday price data.
+We are forced to use subpar data which does not allow for proper preparation.
+We will continue to use the data provided by Quandl from which we can extract
+39
+the daily closing price of each asset and index. It is conceivable that the trend
+in the New York Stock Exchange can aﬀect closing prices on the London Stock
+Exchange, even though it only opens in the ﬁnal 4 trading hours. This means
+that we have a dependent variable that potentially inﬂuences our independent
+variables. This is bad data preparation. Due to this issue we must be cautious
+and suspicious of positive results moving forward. It is unfortunate that later
+in the report, when we implement the trading algorithms in Quantopian, we
+will show that positive results mentioned in this section do indeed appear to be
+because of this error in the data.
+Temporarily ignoring the aforementioned issues, we gathered data for 8 fea-
+tures from Quandl. These features are detailed below.
+DAX The German DAX index is essentially equivalent to the Dow Jones ex-
+cept that its components are 30 major German companies traded on the
+Frankfurt Stock Exchange.
+DAX FUT We also considered DAX futures.
+Futures are a stock market
+derivative product.
+FTSE The FTSE is London’s equivalent to the Dow Jones or the German
+Dax. It is traded on the London Stock exchange, and its components are
+a selection of 100 large UK based companies. It is more commonly known
+as the FTSE100.
+N225 The Nikkei 225 is Japan’s equivalent.
+Its components are 225 large
+Japanese companies and it is traded on the Tokyo Stock Exchange.
+SSE The SSE Composite Index is an index covering all stocks that are traded
+on Shanghai Stock Exchange.
+AUD The Australian Dollar to US Dollar exchange rate.
+EUR The Euro to US Dollar exchange rate.
+OIL Brent Crude Oil futures prices.
+In this section, the value of the Dow Jones index itself is used as the depen-
+dent variable rather than price of its component companies. This was due to
+the fact that the features listed above are not speciﬁc to any one company. It
+could be argued that some features might inﬂuence some companies more than
+others, but determining the predictive value of each feature for each company
+would have made modelling the problem signiﬁcantly more complex and com-
+putationally expensive. For simplicity, the price of the Dow Jones index was
+used.
+7.2.2
+Exploration of Feature Utility
+The next step in creating a model to predict the daily trend of the Dow Jones
+Index is to determine the predictive value of the features. To do this in an
+40
+explorative and qualitative manner, we ﬁrst analysed the predictive value of
+each feature on its own. Eight models were trained, one for every feature. For
+each feature a, kNN model was trained to predict the trend for the Dow Jones
+Index and the result was cross validated. Figure 7.3 shows the cross validation
+results for each feature.
+Figure 7.3: Single Feature Prediction Results
+It is evident from ﬁgure 7.3 that there is indeed some predictive value in
+this dataset. There are three features that appear to be highly predictive. The
+German DAX, DAX futures, and the FTSE100 are all roughly 70% accurate
+without doing any work whatsoever. These results are quite similar to results
+presented by Shen et al. [19] as discussed earlier.
+7.2.3
+Modeling
+Now that we know that there is at least some predictive value in our dataset,
+we can begin to create our model.
+Error Estimation
+Similar to what we attempt to do with the model based on the historical prices,
+the ﬁrst step in creating our model is error estimation. In this step we estimate
+the performance of various classes of model.
+We used a nested kFold method to perform the error estimation. The inner
+kFold performed a Grid Search over a set of hyperparameters. The outer kFold
+was responsible for the cross validation of the set of hyperparameters found
+within the inner kFold. The Grid Search searched over two domains. The ﬁrst
+41
+domain was the hyperparameter determining how many of the k best features
+to keep. For instance, the search might determine that it was best to keep the
+top 3 most predictive features. The second domain were the hyperparameters
+speciﬁc to the model being tested. Table 7.3 details the model class tested, the
+model speciﬁc hyperparamters searched over, and the cross validation score.
+Table 7.3: Error Estimation Scores
+Model Name
+Model Speciﬁc Hyperparameters
+Estimated Accuracy
+LogisticRegression
+Norm penalization: l1, l2
+0.5717
+KNeighborsClassiﬁer
+0 < k ≤25, weights: uniform, distance
+0.7251
+GaussianNB
+-
+0.7208
+The scores from table 7.3 look hopeful. We can see that the kNN model has
+the best estimated accuracy, albeit not by much. This means that this is the
+model we should bring forward to Model Selection to further optimise it.
+Model Selection
+Now that we have our winning model class, kNN, we now need to determine the
+optimum hyperparameters for our model.
+A kNN model has two important hyperparameters, k and how to weigh
+examples in the neighborhood.
+k dictates how many neighbours the model
+should examine to make a prediction.
+We can then weigh those neighbours
+either uniformly or by their distance to the input. We can search over the same
+value space as we did in Error Estimation for kNN, 0 < k ≤25 and weights
+uniform or distance. We will also be searching for the best number of features
+to keep in the model. This can be treated as another hyperparameter.
+After performing a grid search over the value space and cross validating each
+combination of hyperparameters, we ﬁnd that the best combination of hyperpa-
+rameters gives us a cross validated accuracy of 74.63% at predicting Dow Jones
+Index daily trends. Table 7.4 shows the best combination of hyperparameters
+found.
+Table 7.4: Model Selection Results
+Hyperparameter
+Best value
+Number of features to keep
+3
+Number of neighbours to examine
+14
+Method of weighing neighbours
+uniform
+Table 7.4 indicates that the search determined that keeping only three of
+the original 8 features gave us the best cross validation score. This is in line
+with what we might have expected from the exploration of the predictive value
+of the features where we pointed out three features that appeared to be highly
+predictive already.
+42
+By training the model on the full dataset with the winning hyperparameters
+and inspecting the 3 features the feature selector decided to keep, we can see
+that they are indeed the three features we assumed would be predicted. The
+German DAX, DAX futures, and the FTSE100 are the features selected in the
+ﬁnal model.
+7.2.4
+Related Assets - Conclusion
+In this section we gathered data for 8 features that could conceivably have
+some predictive value for the Dow Jones.
+We explored the predictive value
+of each feature visually to gain some sense of the data and then followed the
+correct methodology to end up with an optimal model. The ﬁnal model had an
+estimated accuracy of 74.63%, which is signiﬁcant for stock market data.
+However, as warned by the data section, we should be cautious of such high
+accuracy ﬁgures. Due to lack of publicly available intraday price data, we might
+have a dataset that is artiﬁcially increasing our result. Later in the report, when
+we try to translate this model to a trading simulation, we will demonstrate that
+this error is most likely what is giving such a high accuracy score and that the
+model would not work as well in actuality.
+7.3
+Analyst Opinions
+With the apparent success of using related assets to predict daily movements in
+the Dow Jones, we continue our search for additional predictive features. In this
+section we will attempt to use analyst opinions to predict the same day trend.
+An analyst opinion is a prediction of a particular research ﬁrm on a particular
+stock. For instance, a large investment research ﬁrm such as JP Morgan might
+issue an opinion on Intel stock. They may upgrade or downgrade their estimates
+of stock performance and recommend buying or selling the stock at the current
+price.
+It would seem intuitive that these recommendations should be predictive.
+There are two reasons why that might be true. The ﬁrst is that these recom-
+mendations might truly be predictive of the price. One can imagine that large
+research ﬁrms such as JP Morgan would employ skilled analysts that are able
+to make accurate predictions. The second reason is less optimistic and assumes
+that these predictions are self-fulﬁlling prophecies. If multiple large investment
+ﬁrms upgrade or downgrade their opinion of a stock on the same day, it is cer-
+tainly conceivable that the opinions themselves are enough to shift the market
+regardless of their true predictive value.
+However, it should not matter to us why they are predictive. If these opinions
+can predict price trend, for whatever reason, then we should be able to build a
+model to utilise them.
+43
+7.3.1
+Data
+Conveniently, Yahoo Finance provides an open database of opinions issued by
+large research ﬁrms. The database covers all major stocks including the com-
+ponents of the Dow Jones, the 30 companies of interest to the project.
+One small diﬃculty in obtaining this data is that it is provided in a HTML
+table on the Yahoo Finance website. This means that it was not directly down-
+loadable as a csv ﬁle or an equivalent easy to use ﬁle format. Because of this, a
+small web scraper had to be constructed.
+The web scraper was constructed in python. The scraper began by sending
+30 HTTP get requests to Yahoo Finance, one for each company. The responses
+were then parsed using the BeautifulSoup4 HTML parsing library. After the
+HTML was parsed it was trivial to extract the data in a more usable format.
+The extracted data for all companies was cached in a single CSV ﬁle. In total,
+3584 analyst opinions were gathered from the year 2000 to 2014.
+Table 7.5
+shows an extract of the data collected.
+Table 7.5: Analyst Opinion Data
+Date
+Research Firm
+Action
+From
+To
+Symbol
+2001-04-25
+First Union Sec
+Downgrade
+Strong Buy
+Buy
+CSCO
+2001-04-25
+AG Edwards
+Downgrade
+Accumulate
+Maintain Position
+VZ
+2001-05-01
+Salomon Smth Brny
+Upgrade
+Neutral
+Outperform
+PG
+2001-05-07
+Prudential
+Downgrade
+Hold
+Sell
+JPM
+2001-05-08
+Mrgn Stnly
+Upgrade
+Neutral
+Outperform
+CSCO
+In this section, predictions will be tailored towards individual companies
+rather than the Dow Jones index as in the previous section. This is preferable
+because each opinion relates explicitly to a single company.
+Also note that these opinions are almost always issued before the market
+opens. It is therefore acceptable to use these opinions to predict the movement
+on the market for that day.
+7.3.2
+Data Exploration
+As we did in the previous section, to get a better sense of our data we will
+explore it a little further.
+The company with the most opinions in the gathered dataset is Intel (INTC)
+which had 326 individual analyst opinions. To get a sense of whether the data
+might be useful, we can plot these opinions in relation to the INTC price.
+First we ﬁltered the dataset so that we only consider INTC opinions. We
+then aggregated the opinions that were issued on the same day by diﬀerent
+research ﬁrms by summing the number of Upgrades and Downgrades. Finally,
+the aggregated opinions were merged with the INTC stock price. This data was
+plotted in ﬁgure 7.4. Green upwards pointing arrows signal an upgrade and red
+44
+downwards pointing arrows signal a downgrade. The size of the triangle repre-
+sents the number of coinciding opinions across all research ﬁrms on a particular
+day.
+Figure 7.4: Visualisation of analyst opinions and INTC price
+Figure 7.4 provides a visualisation of the relationship between opinion senti-
+ment (Upgrade or Downgrade) and price. The large red down pointing triangle
+on the left hand side of the diagram is a point representing 9 separate research
+ﬁrms all downgrading their opinion of INTC on the same day.
+The contin-
+ued sharp fall in price after this point is evidence that the opinions may be
+predictive.
+From visual inspection it would appear there may be some value in these
+opinions, but we cannot be certain until we attempt to build a model.
+7.3.3
+Data Preparation
+As evident from Table 7.5 all of the feature values in the dataset are labels and
+categories, not numerical data. This presents a problem. The machine learning
+library used in this project, sklearn, does not provide models which can handle
+non-numeric data. We must therefore transform our data into numeric form.
+The correct way to transform a label type feature is to use One-hot Encoding.
+One-hot Encoding will transform a single feature with n unique values into n
+diﬀerent features with binary values.
+45
+Figure 7.5: One-hot Encoding Example
+(a) Before
+(b) After
+Figure 7.5 demonstrates the concept of One-hot encoding. After One-hot
+encoding, the original feature is removed but no information is lost. To signify
+a value in the original column, a 1 is placed in the new corresponding column.
+For the opinions dataset, it was decided that the most important original
+columns were Research Firm, Action, and To.
+Research Firm might be
+important because an opinion from some ﬁrms may have more of an inﬂuence on
+the movement than others. The Action column is intuitively important because
+it summarises the sentiment of the opinion into Upgrade or Downgrade. The
+To column is the recommendation of the Research Firm. This is also intuitively
+important because it could be a recommendation to Buy or Sell.
+It was then necessary to One-hot encode each of these three features features.
+This resulted in a total of 266 new feature columns, one new column for each
+unique value in the original three columns.
+Now that all the features have
+been one hot encoded, we can aggregate rows where more than one research
+ﬁrm issued an opinion for the same company on the same date. We will use a
+sum operation to aggregate the rows across all columns. For example, if both
+research ﬁrms upgraded a company on the same day then we will merge these
+rows and place a value of 2 in the upgrade column.
+The entire data preparation stage can be done very concisely using the Pan-
+das python library. The code used for this step is shown in listing 7.3.3.
+Listing 7.1: Data Preparation Using Pandas
+dataset = pd . merge ( opinions , prices , on=[ ’ Date ’ ,
+’ Symbol ’ ] )
+X = dataset [ [ ’ Date ’ ,
+’ Symbol ’ ] ]
+\
+. j o i n (pd . get_dummies ( dataset [ ’ Research␣Firm ’ ] ) )
+\
+. j o i n (pd . get_dummies ( dataset [ ’ Action ’ ] ) )
+\
+. j o i n (pd . get_dummies ( dataset [ ’To ’ ] ) )
+\
+. groupby ( [ ’ Date ’ ,
+’ Symbol ’ ] ) .sum()
+y = [ frame [ ’ Trend ’ ] . values [ 0 ]
+for index ,
+frame in \
+dataset . groupby ( [ ’ Date ’ ,
+’ Symbol ’ ] ) ]
+46
+7.3.4
+Error Estimation
+With our data prepared, we must decide which class of model to use.
+We used a nested kFold method to perform the error estimation. The in-
+ner kFold performed a Grid Search over a set of hyperparameters. The outer
+kFold was responsible for the cross validation of the set of hyperparameters
+found within the inner kFold.
+The Grid Search searched over two domains.
+The ﬁrst domain was the hyperparameter determining how many of the k best
+features to keep.
+The second domain is the hyperparameters speciﬁc to the
+model being tested. Table 7.6 details the model class tested, the model speciﬁc
+hyperparamters searched over, and the cross validation score.
+Table 7.6: Error Estimation Scores
+Model Name
+Model Specifc Hyperparameters
+Estimated Accuracy
+LogisticRegression
+Norm penalization: l1, l2
+0.6627
+KNeighborsClassiﬁer
+0 < k ≤20, weights: uniform, distance
+0.6564
+MultinomialNB
+-
+0.6729
+The scores from table 7.6 look positive. We can see that the MultinomialNB
+model has the best estimated accuracy. This means that this is the model we
+should bring forward to Model Selection.
+7.3.5
+Model Selection
+The MultinomialNB model is a naive bayes classiﬁer and only has one hyper-
+parameter. The hyperparameter, called alpha in sklearn, controls the additive
+smoothing in the model. Additive Smoothing is a technique used to smooth
+categorical data [15].
+At the same time as we are searching over the model hyperparameter, we
+will again be searching for the best k features to keep. This is an important
+step in this case because we have a large number of features (266 in total) to
+begin with.
+Table 7.7: Model Selection Results
+Hyperparameter
+Best value
+Number of features to keep
+11
+MultinomialNB alpha
+0.7333
+Table 7.7 shows the best set of hyperparameters found in the search. The
+winning model had a cross validation accuracy of 67.40%.
+7.3.6
+Analyst Opinions - Conclusion
+In this section we gathered a list of analyst opinions and used them to build a
+model to predict the same day price movement for companies in the Dow Jones.
+47
+Although concise in its ﬁnal version, the data preparation for this section proved
+diﬃcult to get right. The ﬁnal model had an estimated accuracy of 67.40% which
+is an extremely positive result.
+Although the data used in this section does not have the same problems the
+data in the previous section had, we will see similar results when it is simulated
+in a realistic trading environment. The model does not fair as well in the real
+world as our results may suggest.
+7.4
+Disasters
+The ﬁnal source of predictive data we will consider are natural disasters in the
+United States.
+It is easy to imagine why these might be predictive of changes in the stock
+price. A large storm could damage machinery or interfere with manufacture and
+logistics. In turn, this could have an impact a company’s proﬁt and therefore
+the stock price.
+7.4.1
+Data Preparation
+The ﬁrst task was to gather a database of natural disasters in the United States.
+This data is provided by EM-DAT, The International Disaster Database [1].
+Disasters in this dataset are guaranteed to be relatively large.
+The website
+states the qualiﬁcations necessary for a disaster to be entered into the database
+In order for a disaster to be entered into the database at least one
+of the following criteria has to be fulﬁlled:
+• 10 or more people reported killed
+• 100 people reported aﬀected
+• A call for international assistance
+• Declaration of a state of emergency
+All disasters occurring in the United States from the year 2000 to 2014 were
+extracted. Before any further preparation, there were 423 entries in this dataset.
+Disasters with missing or invalid dates were then removed. Following this,
+disasters with anomalous durations were removed. Figure 7.6 shows that there
+were three clear outliers with durations exceeding 100 days. These were removed
+from the dataset. After all preparation was completed on this dataset, there
+were 395 disaster events remaining.
+48
+Figure 7.6: Anomolies in the disaster data
+Similarly to the Related Assets section, this data does not relate speciﬁcally
+to any one company. Because of this, we will look at price changes of the Dow
+Jones index, rather than any of its component companies.
+7.4.2
+Predictive Value of Disasters
+We will ﬁrst determine the predictive value of the disaster events. The goal
+of this experiment is to decide whether the price movements of the Dow Jones
+during disaster times are any diﬀerent to non-disaster times. If disasters con-
+tain any predictive value, positive or negative, we should be able to observe a
+diﬀerence in market behaviour during disaster times.
+For each disaster, we determined the percentage change in the value of the
+Dow Jones index over the duration of the disaster. Equation 7.1 shows how this
+was calculated. Pstart−1 is price of the Dow Jones the day the before the disaster
+began and Pend is the price of the Dow Jones the day the disaster ended. The
+varying length of disasters is controlled for by diving by the change in price by
+the length of the disaster. This equates to an average price movement for each
+day of the disaster.
+Disaster price change = p(end) −p(start−1)
+p(start−1)
+∗
+1
+DisasterDuration
+(7.1)
+Next, daily percentage changes in the Dow Jones were calculated for days
+where no disaster was occurring. At this point we have two independent, but
+comparable, datasets. One contains average daily price movements of the Dow
+Jones in times of Disaster. The other contains daily price movements of the
+Dow Jones in times of no Disaster.
+49
+To visualise these datasets, ﬁgure 7.7 shows a boxplot of their distributions.
+From visual inspection, we can see immediately that the data is probably not
+useful for prediction. If it were useful, we would expect to see a clear diﬀerence
+in their distributions. However, the disaster time price changes distribution is
+almost entirely contained within one standard deviation from the mean of the
+non-disaster time price changes.
+Figure 7.7: Disaster and no disaster price change distributions
+To quantify this, we perform a t-test. This results in a t-value of -0.4783 and
+a two-tailed p-value of 0.6324. Because the p-value is large, we cannot rule out
+the null hypothesis, that any diﬀerence in the distribution of disaster time price
+movements and non disaster time price movements is due to random chance.
+Because there is no signiﬁcant diﬀerence between these two datasets, we will
+not be able to use disasters to predict price movements in the Dow Jones index.
+7.4.3
+Disasters - Conclusion
+Failing to ﬁnd any predicted value in disasters might be expected in hindsight
+for three reasons.
+1. Although all companies are traded on the New York Stock Exchange and
+have headquarters located in the United States, they are all multinational
+corporations. Multinational corporations are unlikely to be substantially
+impacted by any single disaster.
+Furthermore, if there are any set of
+companies that are in a position to mitigate themselves from disaster, it
+is probably this set of companies. All of this companies are among the
+largest and most well resourced companies in the world.
+2. The second reason that these companies might be unaﬀected is that they
+are companies which are largely divorced from whether conditions. It is
+50
+hard to imagine that companies such as Microsoft, Visa, or Walt Disney
+are terribly concerned about extreme weather conditions except in very
+speciﬁc locations.
+3. Finally, it is possible that we simply did not have enough data to begin
+with. After preparation we had 395 examples spanning 14 years. Perhaps
+with more data we could target disasters by type or location to speciﬁc
+companies rather than the Dow Jones index as a whole.
+It is easy to
+imagine this might have more predictive value.
+51
+Chapter 8
+Quantopian Trading
+Simulation
+We have presented two apparently successful strategies in this report.
+The
+ﬁrst used correlated related ﬁnancial products to predict the price movement
+in the Dow Jones Index. The second used analyst opinions to predict the price
+movement in the component companies of the Dow Jones. These strategies had
+an estimated accuracy of 74.63% and 67.40% respectively. With accuracies as
+high as these, it would seem logical then that one could proﬁt their use on the
+real market.
+To test this we will use Quantopian [2]. Quantopian allows users to create
+trading algorithms and test them rigorously against historical data (a process
+known as backtesting). Quantopian enables users to perform a much more re-
+alistic simulation than one might otherwise be able to carry out. Quantopian
+will correctly model costs a real trading algorithm would incur such as commis-
+sion charged by the stock broker and slippage. Slippage is a diﬀerence between
+the expected price of a trade and the price the trade actually executes at [4].
+Slippage might occur when placing a large order that could shift the market, or
+when market volatility is high. Quantopian has the added beneﬁt on being able
+to use minute by minute or daily price. This will be useful when working with
+overlapping trading hours.
+Algorithms are constructed in Quantopian using their web-based python
+IDE. This is a slow and tedious process which is why Quantopian was not used
+before this point. The web IDE does not allow the same level of code hinting
+and inspection that modern tools like IPython Notebooks allow.
+8.1
+Simulation 1 - Related Assets
+The ﬁrst model we will simulate in a trading environment is the model based
+on related ﬁnancial assets.
+The only external data that can be imported into the Quantopian web IDE
+52
+are CSV ﬁles. This means that we can not easily import our ﬁnal fully trained
+model into Quantopian. Instead, we will take the optimal hyperparameters we
+learned from the model selection process and train a new model using these
+hyperparameters for the ﬁrst half of the backtest period. This isn’t optimal,
+but it is the best that can be done under the circumstances.
+An important diﬀerence between the training of this model and the training
+of the model earlier is that this model were given the price of London and
+German assets at the exact moment the Dow Jones index began trading. The
+earlier model was given access to the closing prices of the London and German
+assets.
+As discussed earlier, because of overlapping trading hours, access to
+the closing price might have provided more information than the models were
+entitled to in reality. This risk is mitigated in the Quantopian simulation.
+After the training period has been completed, the model will begin to make
+predictions. Quantopian allows the use of short selling, so that the algorithm can
+make use of negative predictions. If the prediction is that the price of the Dow
+Jones index will rise, the algorithm attempts to buy shares in the Dow Jones
+index. If the prediction is that the price of the Dow Jones index will fall, the
+algorithm attempts to sell shares in the Dow Jones index. The algorithm issues
+all orders in the opening minutes of the Dow Jones and liquidates all positions
+in the ﬁnal closing minutes of trading. Any proﬁt the algorithm makes will be
+determined by the diﬀerence in price at these two points.
+The algorithm was simulated from January 1st 2006 to March 2nd 2015.
+The performance charts generated by Quantopian are presented in ﬁgure 8.1.
+The benchmark performance line in red is the S&P 500 index. This is a general
+indicator of the performance of a passive buy and hold strategy. The lack of
+activity by up to the approximate half way point is the training period of the
+model.
+53
+Figure 8.1: Quantopian Simulation 1 Performance
+Although the algorithm did have a positive return of about 6%, this is prob-
+ably due to random chance more than any success of the model. It should also
+be noted that in the eyes of an investor, any return less than a low risk buy
+and hold strategy would be considered a loss. In the same time our algorithm
+generated a return of 6%, the S&P 500 generated a return of just over 100%.
+Clearly there is a big diﬀerence between the performance of the model trained
+earlier and the one simulated here. There are few diﬀerences between the mod-
+els, except that in the Quantopian simulation the problem of overlapping trading
+hours was corrected. One must conclude that this is to blame for the diﬀerence.
+It follows then that the model trained earlier scored so highly only because
+of this error. This is also true of the results presented by Shen et al. [19] as
+discussed earlier.
+8.2
+Simulation 2 - Analyst Opinions
+The next model that will be simulated is the model based on analyst opinions.
+Similarly to the previous section, we can not import the model that was
+trained earlier because of the limitations of Quantopian. Instead, we must train
+the model during the backtest.
+Trading logic is exactly equivalent to the previous algorithm, but is now
+applied to individual companies rather than the Dow Jones index. If the pre-
+54
+diction is positive for a company, then the algorithm attempts to buy a share in
+the company. If the prediction is negative, the algorithm attempts to sell shares
+in the company. The algorithm issues all orders in the opening minutes of the
+Dow Jones and liquidates all positions in the ﬁnal closing minutes of trading.
+The algorithm was simulated from January 1st 2006 to December 31st 2014.
+The performance charts generated by Quantopian are presented in ﬁgure 8.2.
+The lack of activity by up to the approximate half way point is the training
+period of the model.
+Figure 8.2: Quantopian Simulation 1 Performance
+With total returns of -52.7%, it is clear that 8.2 that the model performs
+poorly in a real world simulation.
+We oﬀer two explanations as to why this algorithm performs so poorly.
+1. By the time the algorithm places its orders, the market may have already
+shifted to reﬂect these analyst opinions. It is plausible that there are many
+similar traders that have already read these analyst opinions before the
+market opens. These traders are then ready to immediately place their
+orders when the market opens. Quantopian oﬀers no guarantees on when
+an order will be fulﬁlled. It is therefore possible that by the time our model
+places an order on the market, the price has already moved to reﬂect the
+opinions and they are no longer relevant. The algorithm is then eﬀectively
+trading on outdated information.
+2. Another possible explanation is that there are some traders taking ad-
+vantage of other traders that are employing a similar strategy. After all
+55
+the training has been completed, the model ultimately ends up using an
+extremely simple strategy; buy when there is a positive opinion and sell
+on a negative opinion. It does not take a terribly sophisticated model, or
+trader, to come up with such as strategy. It is therefore credible there are
+many traders also trying to apply the same strategy. It follows then that
+there will also be traders trying to take advantage of them. Such traders
+could artiﬁcially shift the market more than the opinion might originally
+merit, leave time for naive traders (including our model) to buy into the
+shifted price, and proﬁt by exiting the market soon after.
+This would
+eﬀectively invert any predicted proﬁt of the naive traders.
+56
+Chapter 9
+Report Conclusion
+A large body of work was presented in this report.
+Two of the most widely used methods, Fundamental Analysis and Technical
+Analysis showed little promise in the experiments carried out. Technical Anal-
+ysis speciﬁcally shows little to no potential of ever producing any statistically
+signiﬁcant result when the correct methodology is applied.
+Machine learning methods were then tested on a wide range of data sources.
+The result of some models looked hopeful, but ultimately failed when they were
+put through realistic trading simulations. This highlights that the stock market
+is prone to diﬀerences between theory and practice.
+If there is anything that this report shows, it is that proﬁtable stock mar-
+ket prediction is an extremely tough problem.
+Whether it is possible at all
+ultimately remains an open question.
+After completing the project, it is the ﬁrm belief of the author that the only
+viable trading strategy for a casual investor is a passive buy and hold strategy
+in index funds and ETFs.
+57
+Bibliography
+[1] EM-DAT
+the
+international
+disaster
+database.
+http://www.emdat.be/database. Accessed: 2015-02-26.
+[2] Quantopian. https://www.quantopian.com/. Accessed: 2015-03-15.
+[3] Facebook 22billionwhatsappdealbuys10 million in sales.
+[4] Investopedia.com.
+Apr
+2015.
+URL
+http://www.investopedia.com/terms/s/slippage.asp.
+[5] Quandl, January 2015. URL https://www.quandl.com/.
+[6] Michael Cunningham. More than just the kappa coeﬃcient: a program to
+fully characterize inter-rater reliability between two raters. In SAS global
+forum, pages 242–2009, 2009.
+[7] Benjamin Graham, David Le Fevre Dodd, and Sidney Cottle.
+Security
+analysis. McGraw-Hill New York, 1934.
+[8] Online Stock Trading Guide. Head and shoulders pattern, March 2015.
+[9] Gerald R Jensen, Robert R Johnson, and Jeﬀrey M Mercer. New evidence
+on size and price-to-book eﬀects in stock returns. Financial Analysts Jour-
+nal, 53(6):34–42, 1997.
+[10] Yakup Kara, Melek Acar Boyacioglu, and Ömer Kaan Baykan. Predicting
+direction of stock price index movement using artiﬁcial neural networks
+and support vector machines: The sample of the istanbul stock exchange.
+Expert systems with Applications, 38(5):5311–5319, 2011.
+[11] Krzysztof Karpio, Magdalena A Załuska-Kotur, and Arkadiusz Orłowski.
+Gain–loss asymmetry for emerging stock markets. Physica A: Statistical
+Mechanics and its Applications, 375(2):599–604, 2007.
+[12] Ron Kohavi et al. A study of cross-validation and bootstrap for accuracy
+estimation and model selection. In Ijcai, volume 14, pages 1137–1145, 1995.
+[13] Burton Gordon Malkiel. A random walk down Wall Street: including a
+life-cycle guide to personal investing. WW Norton & Company, 1999.
+58
+[14] Burton Gordon Malkiel. A random walk down Wall Street: the time-tested
+strategy for successful investing. WW Norton & Company, 2003.
+[15] Christopher D Manning, Prabhakar Raghavan, and Hinrich Schütze. In-
+troduction to information retrieval, volume 1. Cambridge university press
+Cambridge, 2008.
+[16] Salih N Neftci.
+Naive trading rules in ﬁnancial markets and wiener-
+kolmogorov prediction theory: a study of" technical analysis".
+Journal
+of Business, pages 549–571, 1991.
+[17] Stephen
+O’Grady.
+The
+redmonk
+programming
+lan-
+guage
+rankings:
+January
+2015,
+January
+2015.
+URL
+http://redmonk.com/sogrady/2015/01/14/language-rankings-1-15/.
+[18] Alice Schroeder. The snowball: Warren Buﬀett and the business of life.
+Random House LLC, 2008.
+[19] Shunrong Shen, Haomiao Jiang, and Tongda Zhang. Stock market fore-
+casting using machine learning algorithms, 2012.
+[20] Wing-Keung Wong, Meher Manzur, and Boon-Kiat Chew. How reward-
+ing is technical analysis? evidence from singapore stock market. Applied
+Financial Economics, 13(7):543–551, 2003.
+59

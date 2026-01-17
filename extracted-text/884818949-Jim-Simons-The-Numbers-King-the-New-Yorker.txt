@@ -1,0 +1,944 @@
+archive.is
+Jim Simons, the Numbers King | The
+New Yorker
+By D. T. Max
+49–62 minutes
+Play/Pause
+Volume
+A visit to a scientific-research center usually begins at a star
+professor’s laboratory that is abuzz with a dozen postdocs
+collaborating on various experiments. But when I recently toured the
+Flatiron Institute, which formally opened in September, in lower
+Manhattan, I was taken straight to a computer room. The only sound
+came from a susurrating climate-control system. I was surrounded by
+rows of black metal cages outfitted, from floor to ceiling, with black
+metal shelves filled with black server nodes: boxes with small,
+twinkling lights and protruding multicolored wires. Tags dangled from
+some of the wires, notes that the tech staff had written to themselves. I
+realized that I’d seen a facility like this only in movies. Nick Carriero,
+one of the directors of what the institute calls its “scientific-computing
+core,” walked me around the space. He pointed to a cage with empty
+shelves. “We’re waiting for the quantum-physics people to start
+showing up,” he said.
+The Flatiron Institute, which is in an eleven-story fin-de-siècle building
+on the corner of Twenty-first Street and Fifth Avenue, is devoted
+exclusively to computational science—the development and
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+1 of 30
+12/06/2025, 20:10
+application of algorithms to analyze enormous caches of scientific
+data. In recent decades, university researchers have become adept at
+collecting digital information: trillions of base pairs from sequenced
+human genomes; light measurements from billions of stars. But,
+because few of these scientists are professional coders, they have
+often analyzed their hauls with jury-rigged code that has been farmed
+out to graduate students. The institute’s aim is to help provide top
+researchers across the scientific spectrum with bespoke algorithms
+that can detect even the faintest tune in the digital cacophony.
+Daily
+Our flagship newsletter highlights the best of The New Yorker,
+including top stories, fiction, humor, and podcasts.
+I first visited the Flatiron Institute in June. Although the official opening
+was still a few months away, the lobby was complete. It had that old-
+but-new look of expensively renovated interiors; every scratch in the
+building’s history had been polished away. Near the entrance hangs a
+Chagall-like painting, “Eve and the Creation of the Universe,” by Aviva
+Green. Green’s son happened to be spending the year at the institute,
+as a fellow in astrophysics. “Every day, he walks into the lobby and
+sees his mother’s picture,” Jim Simons, the institute’s founder, told
+me.
+Simons, a noted mathematician, is also the founder of Renaissance
+Technologies, one of the world’s largest hedge funds. His income last
+year was $1.6 billion, the highest in the hedge-fund industry. You might
+assume that he had to show up every day at Renaissance in order to
+make that kind of money, but Simons, who is seventy-nine, retired
+eight years ago from the firm, which he started in the late seventies.
+His Brobdingnagian compensation is a result of a substantial stake in
+the company. He told me that, although he has little to do with
+Renaissance’s day-to-day activities, he occasionally offers ideas. He
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+2 of 30
+12/06/2025, 20:10
+said, “I gave them one three months ago”—a suggestion for
+simplifying the historical data behind one of the firm’s trading
+algorithms. Beyond saying that it didn’t work, he wouldn’t discuss the
+details—Renaissance’s methods are proprietary and secret—but he
+did share with me the key to his investing success: he “never overrode
+the model.” Once he settled on what should happen, he held tight until
+it did.
+The Flatiron Institute can be seen as replicating the structure that
+Simons established at Renaissance, where he hired researchers to
+analyze large amounts of data about stocks and other financial
+instruments, in order to detect previously unseen patterns in their
+fluctuations. These discoveries gave Simons a conclusive edge. At
+the Flatiron, a nonprofit enterprise, the goal is to apply Renaissance’s
+analytical strategies to projects dedicated to expanding knowledge
+and helping humanity. The institute has three active divisions—
+computational biology, computational astronomy, and computational
+quantum physics—and has plans to add a fourth.
+Simons works out of a top-floor corner office across the street from the
+institute, in a building occupied by its administrative parent, the
+Simons Foundation. We sat down to talk there, in front of a huge
+painting of a lynx that has killed a hare—a metaphor, I assumed, for
+his approach to the markets. I was mistaken, Simons said: he liked it,
+and his wife, Marilyn, did not, so he had removed it from their mansion
+in East Setauket, on Long Island. (Marilyn, who has a Ph.D. in
+economics, runs the business side of the foundation, and the institute,
+from two floors below.) An Archimedes screw that he enjoyed fiddling
+with sat on a table next to a half-filled ashtray. Simons smokes
+constantly, even in enclosed conference rooms. He pointed out that,
+whatever the potential fine for doing so is, he can pay it.
+Simons has an air of being both pleased with himself and ready to be
+pleased by others. He dresses in expensive cabana wear: delicate
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+3 of 30
+12/06/2025, 20:10
+cotton shirts paired with chinos that are hiked high and held up by an
+Indian-bead belt. He grew up in the suburbs of Boston, and speaks
+with the same light Massachusetts accent as Michael Bloomberg, with
+frequent pauses and imprecisions. He sometimes uses the words “et
+cetera” instead of finishing a thought, perhaps because he is
+abstracted, or because he has learned that the intricacies of his mind
+are not always interesting to others, or because, when you are as rich
+as Simons, people always wait for you to finish what you are saying.
+On a wall, Simons had hung a framed slide from a presentation on the
+Chern-Simons theory. He helped develop the theory when he was in
+his early thirties, in collaboration with the famed mathematician Shiing-
+Shen Chern. The theory captures the subtle properties of three-
+dimensional spaces—for example, the shape that is left if you cut out
+a complicated knot. It became a building block of string theory,
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+4 of 30
+12/06/2025, 20:10
+quantum computing, and condensed-matter physics. “I have to point
+out, none of these applications ever occurred to me,” he told me. “I do
+the math, they do the physics.”
+High-level mathematics is a young person’s game—practitioners tend
+to do their best work before they are forty—but Simons continued to
+do ambitious mathematics work well into adulthood. In his sixties, after
+the death of his son Nick, who drowned in Bali in 2003, he returned to
+it. “When you’re really thinking hard about mathematics, you’re in your
+own world,” he said. “And you’re cushioned from other things.”
+(Simons lost another son, Paul, in a bike accident, in 1996.) During
+these years, Simons published a widely cited paper, “Axiomatic
+Characterization of Ordinary Differential Cohomology,” in the Journal
+of Topology. He told me about his most recent project: “The question
+is, does there exist a complex structure on the six-dimensional
+sphere? It’s a great problem, it’s very old, and no one knows the
+answer.” Marilyn told me she can tell that her husband is thinking
+about math when his eyes glaze over and he starts grinding his jaw.
+Our discussion turned to the Flatiron Institute. Renaissance’s
+computer infrastructure, he said, had been a central part of its
+success. At universities, Simons said, coding tends to be an erratic
+process. He said of the graduate students and postdocs who handled
+such work, “Some of them are pretty good code writers, and some of
+them are not so good. But then they leave, and there’s no one to
+maintain that code.” For the institute, he has hired two esteemed
+coders from academia: Carriero, who had led my tour, had been
+recruited from Yale, where he had developed the university’s high-
+performance computing capabilities for the life sciences; Ian Fisk had
+worked at cern, the particle-physics laboratory outside Geneva.
+Simons offered them greater authority and high salaries. “They’re the
+best of the breed,” he said. Carriero and Fisk sometimes consult with
+their counterparts at Renaissance about technical matters.
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+5 of 30
+12/06/2025, 20:10
+Simons’s emphasis on what most of us think of as back-office
+functions is of a piece with the distinctive computational focus of the
+institute. The Flatiron doesn’t conduct any new experiments. Most of
+its fellows collaborate with universities that generate fresh data from
+“wet” labs—the ones with autoclaves and genetically engineered mice
+—and other facilities. The institute’s algorithms and computer models
+are meant to help its fellows uncover information hidden in data sets
+that have already been collected: inferring the location of new planets
+from the distorted space-time that surrounds them; identifying links to
+mutations among apparently functionless parts of chromosomes. As a
+result, the interior of the institute looks less like a lab than like an
+ordinary Flatiron-district office: casually dressed people sitting all day
+at desks, staring at screens, under high ceilings.
+Simons has amassed the same processing capacity as would
+normally be present in the computer hub of a mid-sized research
+university: the equivalent of six thousand high-end laptops. This is
+powerful, but not ostentatiously so. And, as Carriero conceded, it
+“cannot be compared to the corporate-wide resources of an Amazon
+or a Google.” But, because there are far fewer people at the Flatiron
+Institute, each researcher has immediate access to tremendous
+computing power. Carriero said that, by supplying scientists with state-
+of-the-art “algorithms guidance” and “software guidance,” he can help
+them maintain a laserlike focus on advancing science.
+Simons has placed a big bet on his hunch that basic science will yield
+to the same approach that made him rich. He has hired ninety-one
+fellows in the past two years, and expects to employ more than two
+hundred, making the Flatiron almost as big as the Institute for
+Advanced Study, in Princeton, New Jersey. He is not worried about
+the cost. “I originally thought seventy-five million a year, but now I’m
+thinking it’s probably going to be about eighty,” he said. Given that
+Forbes estimates Simons’s net worth to be $18.5 billion, supporting
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+6 of 30
+12/06/2025, 20:10
+the Flatiron Institute is, in financial terms, a lark. “Renaissance was a
+lot of fun,” he told me. “And this is fun, too.”
+The Flatiron Institute is part of a trend in the sciences toward privately
+funded research. In the United States, basic science has traditionally
+been paid for by universities or by the government, but private
+institutes are often faster and more focussed, and the world is awash
+in new fortunes. Since the nineties, when Silicon Valley began minting
+billionaires, private institutes have sprung up across the country. In
+1997, Larry Ellison, the co-founder of Oracle, launched the Ellison
+Medical Foundation, in the Bay Area, to study the biology of aging. Six
+years later, the Allen Institute for Brain Science, in Seattle, was
+founded by Paul Allen, the co-founder of Microsoft. In 2010, Eric
+Schmidt, Google’s executive chairman, founded the Schmidt Ocean
+Institute, in Palo Alto.
+These institutes have done much good, in part by providing
+alternatives to sclerotic systems: the Allen Institute has helped change
+how neuroscience is done, speeding it up with such tools as
+automated microscopy. But private foundations also have liabilities.
+Wealthy benefactors inevitably direct their funding toward their
+personal enthusiasms. “The fear with these billionaire donors is that
+they’ll fund junky science, wasting money and time,” David Callahan,
+the editor of the online magazine Inside Philanthropy, said.
+Foundations are not taxed, so much of the money that supports them
+is money that otherwise would have gone to the government.
+Scientific mega-donors answer to no one but themselves. Private
+institutes tend to have boards chosen by their founders, and are
+designed to further the founders’ wishes, even beyond their deaths.
+Rob Reich, a professor of political science at Stanford University and
+an expert on philanthropy, told me, “Private foundations are a
+plutocratic exercise of power that’s unaccountable, nontransparent,
+donor-directed, and generously tax-subsidized. This seems like a very
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+7 of 30
+12/06/2025, 20:10
+peculiar institutional and organizational form to champion in a
+democratic society.”
+Simons, who, according to Forbes, is the twenty-fifth-wealthiest
+person in America, could easily become the country’s largest private
+funder of basic science. He pays for the institute through what he calls
+his “domestic nonprofit office,” which has an endowment of nearly
+three billion dollars. He also maintains a much larger charitable entity
+in Bermuda, the Simons Foundation International. Simons mentioned
+this foundation to me in conversation, but it has no Web page or public
+presence. Details about the Bermuda entity were recently obtained by
+the International Consortium of Investigative Journalists, and became
+part of its Paradise Papers project. The investigation revealed that the
+Simons Foundation International has an estimated eight billion dollars
+in assets, none of it taxed. It also has a peculiar provenance: in the late
+seventies, just before Simons started Renaissance, a friend of his
+parents put a hundred thousand dollars into a trust for him. Simons
+said of the gift, with a shrug, “He liked me.”
+Simons intends to draw on the Bermuda fortune to fund his charitable
+projects as time wears on. “We’re spending four hundred and fifty
+million a year,” Simons said. “Gradually, the Simons Foundation
+International will take over much of the spending.”
+While I was meeting with him one day in November, the Paradise
+Papers story was breaking, and he was forced to respond to
+questions from two newspapers that had the scoop, the Times and
+the Guardian. He did not appreciate the papers’ implication that he
+had selfishly avoided paying taxes, and suggested to me an alternate
+headline: “brilliant mathematician makes billions and gives it all away
+to charity.” (The Guardian described offshore trusts as “ideal vehicles
+for concealing immense wealth.”)
+I asked him if he felt that he was taxed fairly. “I pay a hell of a lot of
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+8 of 30
+12/06/2025, 20:10
+taxes,” he said. “Do I think it’s my share? Yes.” He defended his
+Bermuda foundation as no different from any other asset. He said,
+“Suppose you started a company, and you went public and you never
+sold the shares, and these shares increased and increased in value.
+You would not be paying any taxes until you sold some of those
+shares. I wasn’t benefitting from it until such time as I would take the
+money. I think that’s a perfectly reasonable thing to do.” What went
+unmentioned was the size of the Bermuda asset.
+We also spoke about a recent Senate subcommittee investigation:
+Renaissance was accused of having used, in the aughts, unethical
+trading tricks that had lowered its capital-gains taxes by $6.8 billion.
+(Renaissance has maintained that it operated within the law.) Simons,
+who had been the firm’s C.E.O. during this period, told me that he
+hadn’t particularly been trying to avoid paying corporate taxes; he’d
+mostly been trying to insulate the fund’s investments from risk. He said
+of the company’s accounting tactics, “It was a way to limit loss, and it
+was terrific, and also it gave us quite a lot of leverage.” He added, “And
+when I heard it also would qualify us for long-term capital gains, I said,
+‘O.K., maybe, but that’s not what I care about.’ ” Senator Ron Wyden,
+of Oregon, the ranking Democrat on the Finance Committee, told me,
+in an e-mail, “The law is very clear in this area. Renaissance
+Technologies abused a tax shelter and pocketed billions from it.”
+The capital-gains matter is now in arbitration, and I asked Simons how
+much his net worth could be affected. “Modestly,” he said. Quickly, he
+amended his answer: “More than modestly. I mean, it would affect
+me.”
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+9 of 30
+12/06/2025, 20:10
+Edward McCaffery, a law professor and a tax-policy expert at the
+University of Southern California, said, in an e-mail, “Democrats like
+Simons, Bill Gates, and Warren Buffett might end up giving away all or
+most of their wealth to charities of their choice, but they and their
+families still lead lives of great power and privilege, with little tax. And
+their charities reflect their values, without necessarily helping ordinary
+—and taxpaying—citizens.” The taxes from an eight-billion-dollar
+fortune could fund a lot of schools.
+Simons is far more apologetic about the money he makes than about
+the taxes he avoids paying. “I believe that the division of wealth we
+have in the United States has been skewed too much, and I think it
+would be better if it were less skewed,” he said. There was, however,
+at least one positive outcome to this unfairness. “I’m a beneficiary of all
+this, but, as for philanthropy and science, I think it’s a very good thing,
+plain and simple,” he said. “We can go for things that other people
+can’t.” With only a hint of defensiveness, he added, “Originally, all
+science was supported by philanthropy. Galileo had his patrons.”
+“Well, qué más?” Simons asked genially.
+It was July, and some of the Flatiron Institute’s scientists were giving
+him progress reports on their activities. That day, it was the
+astrophysicists’ and the biologists’ turn; soon, the quantum physicists
+would come. (Their group is so new that its leader was still based in
+Paris.) The meetings took place, back to back, in a small conference
+room, with Simons praising and prodding and smoking. Three
+astronomers detailed their recent work on supernovas, gravitational
+waves, and dwarf galaxies. Simons peppered them with questions.
+“Does a black hole typically have a magnetic field?” he asked. (The
+material that surrounds a black hole generates one, he was told.) He
+was surprised to learn that astronomers cannot actually confirm the
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+10 of 30
+12/06/2025, 20:10
+accuracy of their most complex models. Two different computer
+programs solving the same labyrinthine equation often come up with
+substantially different answers. Simons objected: “Well, if it’s the same
+physics in the first place, you’d think that the code would be
+implementing the laws of physics, and it’s not going to change from
+program to program!” For all of Simons’s interest in coding, he is not a
+programmer himself. He thinks algorithmically, but on a whiteboard.
+“Ideally, yes,” one of the astronomers reassured him. “But in practice
+that is not the case.” Another scientist clarified: “The underlying
+algorithms all are making simplifications. We’re never solving the
+fundamental equations—we’re always approximating them. And
+different approximations are made by different algorithms.” Simons,
+schooled in the ideal world of mathematics, was visibly agitated.
+The astronomers filed out, and the biologists filed in. A Russian-born
+geneticist and computer scientist, Olga Troyanskaya, who is also a
+professor at Princeton, told Simons about an algorithm she was
+developing, which would predict the effects of specific mutations
+within a given cell. She hoped that the program would eventually
+suggest possibilities for medical treatments tailored to a patient’s
+DNA. Troyanskaya then went through a list of other projects, at
+whirlwind speed. She planned to mine the DNA of Neanderthals, to
+predict how their genes would have been expressed, and her group
+was also working on an algorithm that linked symptoms of autism to
+portions of the genome which do not encode proteins.
+“So this is all you’ve done?” Simons joked.
+The next to speak was Dmitri Chklovskii, a neuroscientist whom
+Simons recruited from the Howard Hughes Medical Institute, where
+he specialized in connectomes, or networks of neurons. He described
+mapping the connectome of an Italian miniwasp, a parasite that
+hatches inside the eggs of other insects. Such studies of simple
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+11 of 30
+12/06/2025, 20:10
+species can help uncover the complexities of how the human brain
+computes. Simons perked up when he heard the story of the
+miniwasps. “How long do they live?” he asked. When told only five
+days, he responded, “But five good days.”
+An applied mathematician named Alex Barnett discussed several
+programs that the group had developed to analyze neuronal
+processes. One of the most promising, MountainSort, improves the
+parsing of brain-electrode recordings, in part by automating the
+interpretation of the data. The program can tell you, before a rat
+moves, whether it is thinking of turning right or left. The algorithm used
+in the program may provide insight into how the brain controls
+behavior. The institute has made the software available, without cost,
+to other labs. Simons smiled when he heard that MountainSort was
+being adopted by important research groups. “That’s pretty good,” he
+said. (Chong Xie, a neural engineer at the University of Texas, e-
+mailed me to say that MountainSort was “by far the best spike-sorting
+tool we have tested,” and that the speed of data analysis had
+increased as much as a hundredfold.)
+Part of the Flatiron’s brief is to release coding projects such as
+MountainSort as quickly as possible. Scholarship is similarly fast-
+paced: in just a few years, Flatiron researchers have authored, or co-
+authored, more than two hundred and eighty scientific papers.
+“They’re busy boys!” Simons wrote to me, in an e-mail. (Of the ninety-
+one fellows at the institute, twenty are women; seven of the nine group
+leaders are men.)
+Marilyn Simons told me that her husband is an “information
+processor,” adding, “Whatever it is, he’ll chew it up.” Jim Simons told
+me that he’s more comfortable discussing astronomy than biology,
+because he understands the presentations better, but he seemed
+adept at following abstruse discussions in both fields. It was clear that
+he prefers application to theory, and exchanges that struck me as
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+12 of 30
+12/06/2025, 20:10
+numbingly detailed often seemed to excite him the most. He and the
+astronomers spoke at length about how one might design software
+that could chart the orbits of a billion stars using the fewest possible
+lines of code. Talk of computer-language efficiency led to a discussion
+of the Hawaiian language, which makes do with far fewer letters than
+English.
+According to Simons, his governing strategy is to hire brilliant,
+motivated people and then give them free rein. “Scientists don’t want
+to be told what to work on,” he said. But his role seemed closer to that
+of a newspaper editor or a sports coach, persuading, rousing, and
+sometimes cajoling his team to do better work. Simons has spent his
+career honing a particular algorithm: how to manage talented
+researchers in a way that feels both pleasant and creative. “I like to
+recruit,” he told me. “My management style has always been to find
+outstanding people and let them run with the ball.” At Renaissance, he
+said, he had sometimes worked on its algorithms (“There are zillions
+of them!”), and at the Flatiron Institute he occasionally made
+substantive suggestions. When Olga Troyanskaya began working on
+the connection between genes and autism symptoms, Simons
+proposed a tweak to the algorithm that she was developing, to help it
+map the information more efficiently. “It did,” he told me. Troyanskaya
+offered to list him as an author on the resulting paper, but Simons
+prefers to stay out of the spotlight. He politely declined.
+For Simons, ideas and money have always been intertwined. His
+cousin Richard Lourie, a writer, told me a story about their grandfather,
+who ran a shoe factory: on payday, he let the two boys hold piles of
+cash “as high as our heads.” Lourie recalled, “We both loved it!” But, at
+other times, Simons could be so intensely withdrawn that Lourie
+worried that he was sick. “He would just say, ‘I was thinking,’ ” Lourie
+told me. In 1955, when Simons was seventeen, he enrolled at M.I.T.
+and fell in love with mathematics. He received his Ph.D. at U.C.
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+13 of 30
+12/06/2025, 20:10
+Berkeley, when he was twenty-three. Soon, he was working at the
+federally funded Institute for Defense Analyses, in its élite
+cryptography group, which is based in Princeton. “Our job was to
+break other countries’ codes and to design our own,” Simons said. “I
+was lucky enough to do some very good mathematics while I was
+there, and I enjoyed coming up with an algorithm and seeing it tested
+on a computer. I couldn’t program to save my life, but I did solve a
+long-standing problem in the field.” (He could not discuss that work, he
+said, because it remains highly classified.) He was fired from the I.D.A.
+in 1968, after telling a Newsweek reporter that he opposed the
+Vietnam War, and that until it was over he would work only on personal
+projects.
+After his departure, Simons was named the head of the math
+department at the State University of New York at Stony Brook. His
+chairmanship coincided with the era of Nelson Rockefeller, the
+ambitious governor of New York, who wanted the school to be the
+“Berkeley of the East.” Under Simons, the department expanded and
+gained in prestige. “He already was a combination of ringleader and
+master of ceremonies and energizer,” Tony Phillips, a mathematician
+who worked with Simons, recalled. While Simons was at Stony Brook,
+he won the Veblen Prize, one of America’s top math honors, for work
+in differential geometry, the study of surfaces and their shapes in
+multiple dimensions. He also collaborated with Shiing-Shen Chern on
+the Chern-Simons theory. “Yeah, I was a good mathematician,” he
+said. “I wasn’t the greatest in the world, but I was pretty good.”
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+14 of 30
+12/06/2025, 20:10
+“Behind one of these doors is a ferocious tiger. Behind the other is a
+beautiful lady. There might also be a tiger there, too. I buy so many
+tigers it’s basically become a storage issue at this point.”
+All along, Simons was thinking about how to become rich. While at
+Berkeley, he bought soybean futures and went to the exchange in San
+Francisco to watch them being traded. (“They went up!” he said. “And
+then they went back down.”) In the late seventies, not long after he
+won the Veblen Prize, Simons founded a small investment firm in an
+office park near Stony Brook. At the time, he felt stymied by a
+mathematical problem involving simplexes—a simplex is the polygon
+with the fewest vertices in any given dimension—and he wanted a
+break. He tried his hand at currency trading, and then at commodities,
+but he didn’t enjoy the experience. It was the investing equivalent of
+wet-lab work. “It was fundamental trading, not systematic,” he said. “It
+was very gut-wrenching.” He felt that there must be a more statistical
+way to make money in the market. “I looked at the price charts and
+analyzed them, and they didn’t look random to me,” he says. “They
+looked kind of random, but not completely random. I felt there had to
+be some anomalies in this data which could be exploited.”
+He hired another mathematician, whom he’d met at the I.D.A., and
+they began to create models that predicted the direction of currency
+prices. Simons told me that he staffed his “crazy hedge fund”—the
+company that became Renaissance Technologies—not with
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+15 of 30
+12/06/2025, 20:10
+financiers but with physicists, astronomers, and mathematicians. He
+also invested heavily in computers and in the people who ran them. “If
+you’re going to analyze data, it really has to be clean,” he said.
+“Suppose it’s a series of stock prices. 31¼, 62½. Wait, stocks don’t
+double in a day—so there’s an error in the data! There’s all kinds of
+ways to get bugs out of data, and it’s important, because they can
+really screw you up.”
+He encouraged interaction and debate among the researchers.
+“Everything was collaboration at Renaissance, or a great deal of it,” he
+said. “It was a very open atmosphere.” Former colleagues agree that
+Simons was an exceptional manager. He understood what scientists
+enjoyed, and often arranged quirky bonding exercises: at one point,
+Renaissance employees competed to see who could ride a bicycle
+along a particular path at the slowest speed without falling over.
+Renaissance has had an unprecedented run. Bloomberg Markets, in
+an article last year, called the firm’s signature product, the Medallion
+Fund, “perhaps the world’s greatest moneymaking machine.” For
+nearly three decades, it has gone up by eighty per cent annually, on
+average, before fees. Renaissance’s other, bigger funds have done
+less well. Simons said that this is a consequence of their size: large
+amounts of money cannot be traded as quickly, and longer-term
+trading makes algorithms less useful. “It’s like the weather,” he says—
+the nearer in, the higher the certainty.
+Simons made his first million dollars by his early forties, his first billion
+by his sixties. “It was fun making the money,” he said. At seventy-one,
+he retired, turning the fund’s management over to two speech-
+recognition experts whom he’d brought on board in 1993, Peter
+Brown and Robert Mercer. Simons told me that “language is very
+predictive,” and he foresaw that Brown and Mercer could apply their
+skills to the markets. In an e-mail, Brown, who is now Renaissance’s
+C.E.O., said, “Jim’s genius was in seeing the possibilities for
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+16 of 30
+12/06/2025, 20:10
+quantitative trading long before others did and in setting up a company
+in which he provided outstanding scientists with the resources,
+environment, and incentives to produce.” Brown also observed, “His
+role was more in setting the general direction of the company than in
+developing the technology.”
+One thing that Simons did not predict is that Mercer would become
+one of the most divisive figures in American politics. During the 2016
+election cycle, Mercer, a far-right conservative, spent more than
+twenty million dollars, eventually throwing his weight behind the
+candidacy of Donald Trump. He is likely the single biggest donor to the
+alt-right, supplying millions of dollars to Breitbart, the incendiary Web
+site run by Steve Bannon. Simons described Mercer’s current politics
+as a transformation that has surprised him. “I’ve talked to him a few
+times, but he is just very different from me, and I can’t change him,”
+Simons said. He added, “I like him.”
+In October, Simons, who is the non-executive chairman of
+Renaissance’s board, encouraged Mercer to resign from his
+management position at the firm. Mercer did so. Simons said that the
+decision was practical, not political. Mercer’s growing notoriety was
+“not so good for morale,” he explained. “One of our very best people
+had just said he was quitting,” he noted, and “another of the very best
+people seemed to be on the verge.” Simons checked in with the firm’s
+members recently, and he believes that he got the data he wanted:
+morale has improved. “I think I was right,” he said.
+Simons himself contributed twenty-six million dollars in the 2016
+election cycle—to liberal causes. He told me that he has always been
+a Democrat, because of the Party’s commitment to the poor. He sees
+no disconnect in paying the least possible in taxes while supporting a
+party that would like him to pay more. “I’m happy to be one of the rich
+folks, but I think government ought to do as much as it can to help
+ordinary folks get on with their lives,” he said. As adept as he is in
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+17 of 30
+12/06/2025, 20:10
+math, he said that he was mystified by the way rich Americans had
+mopped up so much wealth in recent decades. “I don’t know exactly
+why such a skewing has occurred,” he said. “I’m not an economist,
+and I haven’t studied the question, but it doesn’t feel right to me to
+have that kind of balance—or imbalance.” After some reflection, he
+told me that he would support a rise in the top tax bracket. I could
+almost hear him running numbers in his head about his net worth. “A
+rise from forty per cent to fifty per cent would not be a tragedy,” he said.
+“Depending on how the government spends the money.”
+Although Simons seems determined to give an enormous part of his
+fortune away, he is not embarrassed to spend lavishly. He has a forty-
+eight-million-dollar apartment overlooking Central Park, and he owns
+a sixty-five-million-dollar jet, which he rents to others when he’s not
+using it. (Smoking is permitted on board.) He also has a two-hundred-
+and-twenty-foot yacht, called the Archimedes, which he sometimes
+uses to take his old math friends to extraordinary places. He recently
+cruised through French Polynesia with two of his Stony Brook
+colleagues, Jeff Cheeger and Tony Phillips. “Jeff had a bee in his
+bonnet about Pontryagin classes,” Phillips recalled, amused. “It
+became annoying. He kept wanting to talk about it.” Simons told me
+that he has done a lot of thinking on yacht trips himself, noting, “I once
+proved a nice theorem on the boat.”
+Jim and Marilyn Simons became major charitable donors in the
+nineteen-nineties, when they launched their foundation. They have
+funded a math center at Stony Brook, and a center for computer
+science at Berkeley. The foundation has also given grants—for autism
+research, for a giant telescope in Chile that will hunt for gravitational
+waves from the big bang—that are collectively worth two and a half
+billion dollars. But Simons’s role in these projects was relatively
+limited, and when he retired he found himself spending most of his
+time managing his charitable assets and evaluating grant
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+18 of 30
+12/06/2025, 20:10
+applications. During this period, his loved ones sensed that he was
+less happy. “He likes to work,” Marilyn said. Lourie, his cousin, told me,
+“He would say that he had lots of projects, but no one project.”
+Simons says that he was fine, thank you: he was plenty busy, and
+wasn’t looking for a new job. But he did want to heighten the
+foundation’s impact on the sciences. In 2012, he and Marilyn
+convened an informal conference at the Buttermilk Falls Hotel, in
+upstate New York. Participants were asked to identify collaborative,
+goal-driven projects that were not being funded by other sources. This
+was a technique that he had often used: tapping the opinions of well-
+informed people and then making a decision with his gut. “Taste in
+science is very important,” Simons told me. “To distinguish what’s a
+good problem and what’s a problem that no one’s going to care about
+the answer to anyway—that’s taste. And I think I have good taste.”
+Simons’s intellectual reputation insured that he would have top minds
+at the meeting. He’s not “that billionaire guy,” Cheeger said. “He’s
+someone who’s a legend in the math community.” Chairing the
+conference was David Baltimore, the Nobel Prize winner and the
+former president of Caltech. The geneticist Eric Lander was also
+present, along with a variety of physicists, mathematicians, biologists,
+and astronomers.
+For some participants, the gathering offered an opportunity to pitch
+ambitious projects to a potential patron. This represented a return to
+an old way of doing science. In the years before the Second World
+War, private institutions such as Rockefeller University, in Manhattan,
+and the Institute for Advanced Study, which was funded by the
+Bamberger’s department-store heirs, came of age. But by the fifties
+the National Institutes of Health, the National Science Foundation,
+and other governmental organizations were paying for the vast
+majority of scientific research in America. For half a century, the
+government remained the dominant funder. But in the early aughts
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+19 of 30
+12/06/2025, 20:10
+federal support began to dwindle, and philanthropy came roaring
+back, led by Silicon Valley billionaires. In 2015, for the first time since
+the Second World War, private money, including corporate
+contributions, provided most of the funding for basic-science research.
+Governmental granting organizations, such as the National Science
+Foundation, tend to give money for incremental research. People with
+sustained track records are favored; the average age of scientists with
+a Ph.D. who receive their first grant from the National Institutes of
+Health is forty-three. Speculative projects are generally avoided. At
+Simons’s gathering, the participants were encouraged to propose
+projects whose payoff might not be immediate. Baltimore proposed
+exploring immune-system engineering; an astronomer suggested
+investigating the dark-matter universe; a paleogeneticist made a case
+for mapping the human genome’s evolution through time.
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+20 of 30
+12/06/2025, 20:10
+One scholar in attendance, Ingrid Daubechies, a math professor at
+Duke, had calculated what type of project Simons might find
+especially appealing. She knew how he had made his fortune, and
+she knew that the amount of data in the science world had exploded.
+Maybe, Daubechies suggested at the meeting, the foundation should
+fund not new research but better mechanisms for interpreting existing
+data. A new research center could “prospect for interesting data sets
+where people intuit that there’s more structure than can be gotten out
+now, but that aren’t so complicated that it’s hopeless.”
+Scientists, Simons knew, were drowning in data. New technologies
+like optogenetics—using light to activate cells in living tissue—had
+generated a flood of information about the human brain. Infrared
+imaging, gravitational-wave detection devices, and radio telescopes
+relayed a constant stream of data about the cosmos. Researchers
+often acquired hundreds of terabytes of data in a single experiment.
+Yet, despite this revolutionary development, Daubechies said,
+relatively little effort had been made to refine our methods of data
+computation.
+Her proposal resonated with Simons. He returned to New York City,
+and kept mulling over the idea. “The more I thought about it, the more I
+liked it,” he told me. “And Marilyn liked it.” David Baltimore was not
+surprised when Simons chose Daubechies’s project. “I’m a life
+scientist, but Jim’s a mathematician,” he said. Daubechies had
+suggested that the center be situated at Duke, but the Simonses had
+a different idea: to establish a center near their Manhattan foundation.
+They asked each other, “Why not do it in-house?”
+Simons hopes that the Flatiron Institute will have the expansively
+creative atmosphere of Bell Labs, the storied offshoot of the telephone
+monopoly, whose heyday lasted from the mid-forties to the eighties.
+Researchers there were asked to follow their passions, and the result
+was eight Nobel Prizes and the invention of the transistor. Simons had
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+21 of 30
+12/06/2025, 20:10
+a similarly idyllic experience at the Institute for Defense Analyses,
+where he spent half his time cracking codes and the other half
+pursuing his own mathematical interests. When setting up
+Renaissance, Simons told me, he made sure that, despite the
+extraordinary pressure, his firm was a pleasant and stimulating place
+to work, with frequent lectures and outings. Peter Brown,
+Renaissance’s C.E.O., recalled, “Working for Jim, you had the feeling
+that you had better produce, because he had pretty much removed
+every excuse for not producing.”
+Sharing had been an important part of Renaissance’s culture.
+“Everyone knew what everyone else was doing,” Simons said. “They
+could pitch in and say, ‘Try that!’ ” He wants information to flow among
+groups at the Flatiron Institute, too, so there are plenty of chalkboards
+in the hallways, and communal areas—coffee nooks, tuffets arranged
+in rows—where fellows can “sit around and schmooze.” He observed,
+“An algorithm that’s good for spike sorting—some version of it might
+conceivably be good for star sorting, or for looking at other things in
+another field.” One day in June, I passed a chalkboard that was
+covered with an equation written by David Spergel, the head of the
+astronomy division. It demonstrated that the way a supernova
+explosion drives galactic winds also captures the behavior of the
+movement of waves in oceans and, by implication, the movement of
+fluids in cells.
+When I visited the institute this fall, I saw many visualizations of
+information on computer screens, and they underscored the
+commonalities among the fellows’ data sets. The visual interface of a
+biology algorithm displayed the balloon-like amino acids of a protein,
+but they could have been on an astronomer’s computer: the image
+reminded me of planets being born. An elegant pinwheel, designed to
+map the links among genetic mutations, looked like an old-fashioned
+representation of a planetary system in orbit. The program allowed
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+22 of 30
+12/06/2025, 20:10
+you to type in the name of a gene; it then ranked the diseases most
+closely associated with that gene. The project, which works through
+machine learning, draws on fifteen thousand gene samples from
+patients and from laboratory cultures. The hope is to expand the set to
+millions of gene samples.
+I sat down with Christopher Hayward, a young astronomer who has a
+Ph.D. from Harvard. He was working on a simulation of a crucial
+cosmological moment, a billion years after the creation of the
+universe, when smaller galaxies were cohering into larger ones. He
+showed me a visualization depicting that moment, which included the
+kind of spinning gaseous orbs that are familiar from any planetarium.
+Then he clicked on the algorithm behind the visuals: a torrent of
+incomprehensible digits in the simple typeface of Linux code. The
+galaxy simulation, Hayward told me, had begun two months earlier,
+and would continue for another two months, as he and other
+researchers tried to understand the feedback loop between star
+formation and black-hole formation. “The unique thing provided by the
+Flatiron is that I can start a new simulation at any time and start
+immediately,” he said. “Even at Harvard, you’re normally waiting in a
+queue.”
+Simons told me that in 2013, shortly after the Buttermilk Falls
+conference, he decided to start a small “in-house group” to explore
+“the scientific analysis of data.” He soon found someone who was
+“stunningly qualified” to lead the group: Leslie Greengard, who had
+been the head of the Courant Institute of Mathematical Sciences, at
+N.Y.U. Greengard had a medical degree, which he had never used,
+and he wanted to throw himself into problems in biology. How could he
+do that at a math institute? Simons made him a very attractive offer,
+and Greengard accepted it. He quickly assembled a group that
+included a systems biologist, a genomics expert, a neuroscientist, and
+the two coders, Carriero and Fisk.
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+23 of 30
+12/06/2025, 20:10
+The group developed a series of software programs, including
+MountainSort, the program that automates the output from
+multielectrode recordings, and CaImAn, a machine-learning algorithm
+that detects the release of calcium in neurons. Simons was so happy
+with these results that he decided to proceed with the institute. To
+insure that he got top talent, he offered fellows a fifty-per-cent salary
+increase and the option to work only three days a week, which would
+help them maintain a connection to their home institutions, where lab
+work was done. Spergel, the astronomer, who has tenure at Princeton
+(and was the runner-up in its most recent selection of a president),
+immediately began recruiting applicants for a division of twenty
+people. He told prospects, “You get to shape the direction of
+computational astrophysics. You will be driving the field if you come
+here.” Of the twelve offers he made to postdoctoral candidates, eight
+said yes. “We didn’t even have a Web page yet!” he said.
+In one of its opening gambits, the astronomy group has used high-
+powered statistical analyses to challenge existing models of the
+universe. A mapping project of stars in the Milky Way detected a
+surprising number of twin stars. This finding suggests that, contrary to
+what many astronomers believe, dark matter is not made up largely of
+black holes, because the gravitational power of the black holes would
+have forced many of the twin stars apart.
+When Simons needed to find a leader for the quantum-physics
+division, he took a similar “Ocean’s Eleven” approach. He held a
+workshop on the subject and closely observed the participants. One of
+them, a French physicist whom he had met several years earlier,
+particularly struck him. “When he opened his mouth to speak,
+everyone shut up to listen to what he had to say,” he said. “And I was
+very impressed by that.” The man was Antoine Georges, of the
+Collège de France. Simons was further excited when he learned of
+one of Georges’s projects: research into the properties of
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+24 of 30
+12/06/2025, 20:10
+superconductive materials. Scientists have long dreamed of creating
+a superconductor that works at room temperature. This might not
+sound like a computational problem, but it is. Analyzing the electronic
+properties of materials, particularly synthesized ones, “can require
+hugely complex algorithms and much computing,” Simons explained.
+If this breakthrough could be achieved, many of the constraints of
+engineering would disappear: electricity could travel without loss, and
+trains that levitate instead of running on tracks would become
+commonplace. “It would be worth trillions and trillions of dollars in
+applications,” Simons said.
+The Flatiron Institute, Simons likes to say, is “giving everything away,”
+but the claim sometimes seemed tentative, like an alcoholic pushing
+away a drink. “No, we’re not in it for the money,” he told me at one
+point. “Well, money can’t hurt. But, no, we’re not in it for the money.”
+Superconductivity, he admitted, aroused temptation. “If you
+understand enough about materials, you could possibly crack that
+problem and probably make a lot of money for the foundation,” he told
+me. Georges, for his part, seemed worried that Simons was overly
+focussed on an extremely difficult problem. “Such superconductivity is
+absolutely not something I want to promise,” Georges told me,
+explaining that he’d be happy if his computations helped scientists to
+create a better magnet. Before agreeing to move to the United States,
+he asked Simons to make a clear commitment to computational
+science. Simons had the Flatiron’s board pass a resolution
+guaranteeing to fund the institute for at least fifty years. Georges
+accepted the offer.
+Flatiron Institute researchers don’t have to teach, and they don’t have
+to apply for grants, which can consume much of an academic’s time.
+Nearly all the institute’s senior hires come from universities, and most
+of these universities are nearby, leading to some resentment. “People
+feel we have so many resources that we’re going to take over the
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+25 of 30
+12/06/2025, 20:10
+world,” Spergel said. In an e-mail, one competitor complained to
+Spergel that the Flatiron was “a 1000 pound gorilla,” adding that, of the
+people he had recently been trying to recruit, all of them had “an offer
+from you.” Another researcher pointed out that, as powerful as
+computational science has become, it still relies on the kind of
+experimental science that the institute does not fund. In an e-mail, the
+researcher noted, “The predictions from the computation can only
+ever be as good as the data that has been generated. (I think!)”
+Simons’s willingness to pay more than the most élite academic
+institutions makes many people uncomfortable. Ray Madoff, who runs
+the Boston College Law School Forum on Philanthropy and the Public
+Good, said, “It shows what a lot of people suspected, which is that the
+wealthy play by their own rules. The rich are running things, and we’re
+just visiting their world.” It wasn’t so long ago that private foundations
+could be established only by an act of Congress, in part because they
+were considered so inimical to democracy. In 1913, Congress refused
+John D. Rockefeller’s request to establish his foundation. He had to go
+to the New York State Legislature for a charter instead.
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+26 of 30
+12/06/2025, 20:10
+Uros Seljak, who directs U.C. Berkeley’s department of astronomy
+and physics, warned that private foundations can be capricious. “Yes,
+sure, they have a lot of money and they can put in a lot of money, but
+they can also take it away and put it somewhere else.” Tom Insel, who
+led the National Institute of Mental Health for more than a decade,
+expressed a different worry. “My concern is that the generosity of Jim
+Simons will let the rest of us off the hook,” he said. “Will we decide that
+science can be supported as a private endeavor, and forfeit our
+commitment to use taxpayer dollars for science? Will we forget that
+science is an investment, not a cost?”
+The Simons Foundation has channelled hundreds of millions of
+dollars into autism research—seventy-five million dollars this year
+alone. It is no coincidence that the Simonses have a family member
+who is on the spectrum. And, despite the importance of the research,
+is it not possible that these millions would be better spent on a different
+syndrome, either because it affects even more people or because it
+might be more readily solved? Simons does not think so. He trusts his
+taste. “We’ve really transformed that field,” he said. Some of the work
+he has funded, he noted, “has employed a very mathematical
+approach to finding new genes.”
+One afternoon this fall, the heads of the institute’s three divisions sat
+with Simons at a conference table near his office. All the participants
+were bald men with glasses, and the conversation was fast, lightly
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+27 of 30
+12/06/2025, 20:10
+mocking, and remarkably well informed. You felt as though you were
+in the presence of exceptional minds. Simons looked in his element:
+he might have been back at Stony Brook or Renaissance.
+The men had gathered, in part, to discuss adding a fourth division.
+Simons asked his lieutenants for suggestions. Spergel suggested
+computational epidemiology and public health. But was the field,
+Greengard asked, truly “Flatiron-ready”? Spergel countered that it
+was an area in which “some smart people could really have an
+impact.” Simons stepped in to say that, if they couldn’t find someone
+great to “honcho” a workshop on the topic, they should let it drop for
+now.
+A second prospect was computational neuroscience. A prominent
+N.Y.U. researcher was already scheduled to make a presentation at
+the institute in the winter, but Simons was doubtful. “Neuroscience is
+this huge field,” he said. “I don’t know if we can make an important
+dent in it or not. ‘How the brain works’ is arguably right up there with
+‘How is the universe formed?’ as a difficult problem.” This, too, was put
+aside.
+Next came the geosciences. Simons lit up. He liked the complexity of
+the problems that needed to be solved. The institute could field-test
+the idea with a workshop, and it could include atmospheric science
+and ocean science, so that there was a connection to climate-change
+research. “My guess is there’s room to do good work there,” he said.
+The others cautioned that thousands of researchers were already
+working on climate change. Simons pushed back: “Well, if you added
+one person who was a real atmospheric guy, eh, that wouldn’t hurt.”
+The others assented. Simons was pleased, if unsurprised, to have got
+his way. For all his affability, he casts the deciding vote.
+On November 3rd, a “bio-geoscientist” from Caltech, John Grotzinger,
+came to talk to the Simonses, two of the three division heads, the
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+28 of 30
+12/06/2025, 20:10
+computing chiefs, and a few others. He commented on the difficulty
+that academia has in getting new telescopes built. “It’s not just
+Caltech,” he said. “It’s everyone.”
+Simons mentioned the telescope that he had helped fund in Chile; it
+will cost him about forty million dollars. “We’re putting up this big
+observatory in the Atacama Desert—it’s going to be beautiful,” he
+said. “We’re going to study the cosmic microwave background.”
+“Wow,” Grotzinger said.
+Grotzinger, who was advising, not seeking a job, elegantly guided the
+group through the challenges of climate modelling. Many of the
+problems were familiar to the Flatiron staff. “Most of the data actually
+gets ignored,” Grotzinger explained. And there was a problem of
+collaboration. He was a specialist in historical climate change—
+specifically, what had caused the great Permian extinction, during
+which virtually all species died. To properly assess this cataclysm, you
+had to understand both the rock record and the ocean’s composition,
+but, Grotzinger said, “geologists don’t have a history of interacting with
+physical oceanographers.” He talked about how his best collaboration
+had resulted from having had lunch with an oceanographer, and how
+rare this was. Climate modelling, he said, was an intrinsically difficult
+problem made worse by the structural divisions of academia. “They
+will grope their way to a solution probably in the next fifty years,”
+Grotzinger said. “But, if you had it all under one umbrella, I think it
+could result in a major breakthrough.”
+Simons and his team were interested. It seemed Flatiron-ready. The
+scientists asked Grotzinger how many fellows, and how much
+computing power, such a group would need. Grotzinger estimated
+that a division would need at least fifty researchers to be effective.
+“I would include some programmers,” Simons chimed in.
+After the meeting, Simons said that he hopes to have his fourth
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+29 of 30
+12/06/2025, 20:10
+division in place by next September. I asked him: Why stop there?
+Why not eight units? Why not Simons University? He had the money,
+after all. But he insisted that four divisions was all he could handle, if
+he wanted both first-class work and a collaborative atmosphere. He
+added that he needed to manage it all, with his “light touch.”
+Simons understood that, whatever structure he set up, it ultimately
+needed to function well without his supervision. The foundation had
+signed a thirty-five-year lease on the institute’s building, with an option
+to renew for fifteen more. As long as the tax laws didn’t change
+dramatically, Simons’s fortune could keep the institute going in
+perpetuity. But humans, he realized, were not machines. “I’m hoping
+this is going to last a hundred years,” he told me. “But I won’t see it.” ♦
+Jim Simons, the Numbers King | The New Yorker
+about:reader?url=https%3A%2F%2Farchive.is%2F2025010300282...
+30 of 30
+12/06/2025, 20:10

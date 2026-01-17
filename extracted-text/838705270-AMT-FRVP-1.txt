@@ -1,0 +1,115 @@
+CHAPTER II | THE AUCTION MARKET THEORY
+xx - Internal Trader
+Imagine you’re looking to buy BTC to long it. The current market price is around
+$100K, But you think you can get it cheaper, so you place a buy order at $90K.
+Turns out, there’s a lot of demand at that price, and your order gets filled quickly.
+This shows strong demand, which likely means the price of BTC will start to rise
+from there.
+so basically market moves based on supply and demand, not just because of some
+magic indicator. The market doesn't move because of random signals it’s all about
+where buyers and sellers are willing to meet at a "fair" price.
+Auction Market Theory
+You’ve probably heard people say things like, “MACD just crossed, time to buy!” or
+“RSI is oversold, let’s go long!” These traders often don’t realize that the market
+doesn’t move just because of indicators. There’s a more fundamental concept
+driving price action : Auction Market Theory (AMT).
+CHAPTER II | THE AUCTION MARKET THEORY
+xx - Internal Trader
+The Basics of Auction Market Theory (AMT)
+AMT views the market as a two-way auction, where buyers and sellers constantly
+bid to find a fair price. There’s no fixed price forever, markets always adjust
+based on new information.
+This auction process has two main goals :
+To facilitate trading in a two way auction system.
+1.
+To search for a price that the market agrees is fair value.
+2.
+When new information comes in (news, liquidity shifts, etc.), price can break out of
+the old Value Area and search for a new equilibrium.
+CHAPTER II | THE AUCTION MARKET THEORY
+xx - Internal Trader
+How the Market Moves (Balance & Imbalance in Action)
+CHAPTER II | FIXED RANGE VOLUME PROFILE
+xx - Internal Trader
+Fixed Range Volume Profile
+now let’s bring in Fixed Range Volume Profile (FRVP) to see how it connects with
+this idea.
+FRVP is a tool that shows where trading volume is concentrated within a specific
+price range that you choose. unlike normal volume bars (which show volume per
+time), FRVP shows volume per price level.
+The Value Area (VA) represents the price range where 70% of all trading volume
+occurred within a selected period. This range indicates the levels where most
+market participants agreed on a "fair price," meaning price tends to stay within
+this zone unless strong momentum shifts it outside.
+Why 70%?
+This comes from Auction Market Theory, which says that most trading happens in
+a "fair value" zone. The 70% threshold is based on a normal distribution (bell curve
+logic), where most activity is concentrated in the middle.
+CHAPTER II | FIXED RANGE VOLUME PROFILE
+xx - Internal Trader
+Fixed Range Volume Profile
+CHAPTER II | FRVP - BREAKOUT & BREAKDOWN
+xx - Internal Trader
+Break Out & Break down
+If the price breaks above VAH / VAL with high volume, it means the market doesn’t
+see the old Value Area as fair anymore. Based on Auction Market Theory (AMT),
+this shows an imbalance, and price will keep moving up until it finds enough
+sellers to create a new balance zone
+Example :
+from this point, if you see btc losing it’s VA, whether creating New VA (if btc break
+out) or coming back to lower VA if BTC break down from current VA.
+A failed auction occurs when the price attempts to break out above / below VAH or
+VAL but gets rejected and returns inside the Value Area. 
+This happens when the market tries to explore new price levels but fails to find
+acceptance, often due to low volume, lack of follow through, or aggressive
+counter orders. 
+In terms of Auction Market Theory (AMT), this indicates that the market
+attempted to establish a new balance but couldn't attract enough participants at
+those levels. Failed auctions are strong signals for potential mean reversion
+moves.
+Example :
+CHAPTER II | FRVP - FAILED AUCTION
+xx - Internal Trader
+Failed Auction
+This is a classic example of auction failure, where the market probes outside the
+established balance but doesn't find enough acceptance or volume to continue.
+The result is often a rotation back to the Point of Control (POC) or the opposite end
+of the range (VAH/VAL)
+Mean reversion is the idea that price tends to return to the area where the most
+trading activity occurred, which is the Point of Control (POC)
+From VAH to POC to VAL
+From VAL to POC to VAH 
+Why does this happen?
+Because the market is always seeking balance. If the price moves too far above
+the Value Area High (VAH) without strong volume acceptance, it is considered too
+expensive, and sellers start stepping in, pushing the price back down toward the
+value area. On the other hand, if the price drops below the Value Area Low (VAL)
+but there’s no strong selling continuation, buyers step in and push the price back
+up toward the POC.
+In simple terms:
+Price moves outside the value area = Check if there's strong volume.
+If volume is low = Price is likely to revert back to POC.
+If volume is high  = Price may continue trending instead of reverting.
+Mean reversion works best when the market is in a sideways or ranging condition.
+If the market is strongly trending, the price might keep moving away from the POC
+without coming back.
+CHAPTER II | FRVP - MEAN REVERSION
+xx - Internal Trader
+Mean reversion
+CHAPTER II | FRVP - HOW TO PUT FRVP
+xx - Internal Trader
+How to put FRVP into your chart
+Based on Auction Market Theory, there is a Value Area. What we need to do is
+identify the volume profile within that Value Area. Typically, we draw the Fixed
+Range Volume Profile (FRVP) from the opposite candle after an impulsive move.
+This shows the value area exactly when BTC finds a new value area up to the latest price.
+CHAPTER II | FRVP - HOW TO PUT FRVP
+xx - Internal Trader
+How to put FRVP into your chart
+This is a more detailed approach than the first method, which is done by
+identifying two different ranges—I marked them with boxes. When this happens, I
+usually use the Fixed Range Volume Profile on both.
+It’s clear that there is an upper value area and a lower value area. The lower value
+area can be assumed to have strong demand because the price wicked up
+immediately. If the price revisits this area, there’s a high probability that it will
+bounce back up to the upper value area

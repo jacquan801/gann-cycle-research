@@ -1,0 +1,93 @@
+Rectifying George Bayer 
+ 
+ 
+On page 119 of Turning Four Hundred Years of Astrology to practical Use 
+and Other Matters by George Bayer, he states that the “Market Light” went out for 
+three months from July 31st to December 12th of the year 1914. This was the year that the 
+stock markets closed because of World War I. George Bayer claimed that the cause of 
+this Lights Out phenomenon was due to the “Eclipse of the Sun” that took place on 
+September 15th of 1792 the same year that the New York Stock Exchange came into 
+existence. Basically, George Bayer was trying to show the reader that the market closing 
+event in 1914 was 122 years from 1792 and that the eclipse of the sun took place 122 
+days from the birth date of the New York Stock Exchange. The Bible says to use a day 
+for a year. This means that each 360° revolution of the Earth on its axis is to be used as 
+one year for the progression of a horoscope. Now this is where the rectification comes in 
+and may be the reason George Bayer described this event. If you look at his natal 
+horoscope for the NYSE, you find that he has different beginning times for each of the 
+planets and he spends the next few pages explaining his reasons for having it this way. I 
+am not going to deal with all the planets because this is only intended to be a short article 
+on what I think Mr. Bayer wanted the reader to figure out on their own. In his horoscope, 
+he has the Sun ☼ at 26°30’F on 5/16/1792 at 2:19 PM. He has the moonÂat 20°40’ 
+E on 5/17/1792 at 11:59 AM.  
+Now if you do the work and the progressions of the ☼ and Âyou will find that 
+his horoscope is off. The eclipse of the Sun he is referring to was exact on September 
+16th, 1792 at 4:13 AM at the degree of 24°08’J. If you calculate the Speed of the Sun 
+and moon for the one-day period from September 15th to September 16, 1792, you find 
+that the Sun moved 58’ 39” and the moon moved 12°40”. Divide both by 365 (days in a 
+year) and you find that the progressed Sun moves at the rate of 9.536 seconds of arc per 
+day and the progressed moon moves 1.974 minutes of arc per day. If you use the natal 
+positions of the Sun & moon that Bayer gives, you will find that the progressed moon 
+would have hit the eclipse on December of 1913 and the progressed Sun would have hit it 
+in December of 1914. This does not match with what he is saying! He said that the 
+“Market Lights” went out on July 31st, 1914 because of the eclipse. If this statement is 
+true, then the Horoscope must be rectified. If you do the work, you should 1st come up 
+with a natal date of May 16th, 1792 at 11:27 PM. This single time works much better for 
+both the progressed sun and moon. For example, the Sun’s position on September 15th, 
+1792 at 11:27 PM is 23°56’20”J it will hit the exact eclipse location in 11’40” (11 
+minutes 40 seconds) converting the whole number to seconds of arc, we get 666.66 
+seconds. Now we just divide this by the speed of the progressed Sun, which is 9.536 
+seconds per day. This gives 69.91 or 70 days. Now just add 70 days to 5/16/1792 
+(rectified birth) and you get July 25th, for the year 1914.The year 1914 came from taking 
+the difference in days between September 15th, 1792 and May 16th, 1792, which is 122 
+days. 122 days added as years to 1792 gives the year 1914.  
+ 
+The moon’s position on September 15th, 1792 at 11:27 PM is 21°36’35”J, which 
+is 2°31’25” from the exact eclipse longitude. If you convert this all to minutes you get 
+120.5235 minutes. Now divide this by the speed of the progressed moon, which is 1.974 
+minutes per day and you get 61 days, which would be July 17th, 1914. The actual event 
+took place on July 31st, 1914 so this means that the moon progression missed by 14 days 
+and the Sun progression missed by 6 days. If you multiply the 14 days by the moon’s 
+progressed rate of 1.9744 minutes/day, you get 27.6419 minutes of arc or if you prefer 
+27’38”. Doing the same procedure for the Sun, we get 6 x 9.536 seconds/day = 57.216 
+seconds of arc or simply 57”. Both these calculations need to be subtracted from their 
+respective longitudes on 9/15/1792 at 11:27 PM to determine the correct birth moment. 
+ 
+Subtracting 27’38” from the moon’s position of 21°36’35”J gives 21°08’57”J. 
+This would have occurred at 10:35 PM on September 15th, 1792. This means that the 
+rectified birth of the NYSE must be Wednesday, May 16th, 1792 at 10:35 PM.  There are 
+important secrets to be learned here. One lesson is that aspects that have occurred after 
+the birth of the native have their effects take place in proportion to a day for a year.  
+ 
+ 
+ 
+If the eclipse made the lights go out, what made them come back on? 
+ 
+According to a computer program, the eclipse started at 6:10 and ended at 12:08 this 
+would be 5hrs 58m. Converting to decimals is 5.96, which equals181days if each hour of 
+eclipse duration is equal to one month. If you add this to July 31st, you would expect the 
+"Market Lights" to be out until January 28th. The computer program shows the central 
+time for the eclipse as starting at 7:14 and ending at 11:04. This gives 3hr50m or 3.833 or 
+117 days. If you add this to July 31st, you get November 25th. If you take the average of 
+these two times (5.96 + 3.833)/2 = 4.8965 or 149 days = December 27th.  The "Market 
+Lights" were out for 4 months 10 days or simply 134 days. Bayer says the Market Lights 
+were out for 3 months. The November projection makes the most sense in this regard. If 
+you divide the 3hr50m by the progressed rate of the moon (1.974min/day) you also get 
+116.5 days or November 25th. If you divide the 5hr58m by the progressed rate of the 
+moon (1.974min/day) you get 181 again. This is a nice confirmation from the standpoint 
+that it now seems to mathematically make sense to add the duration of the eclipse as 
+months since the progressed moon speed yields the same general result. 134 days divided 
+by the progressed moon yields an eclipse duration of 4.408 or 4hr24min. The actual 
+speed of the real moon (not progressed) was about 31'40" of arc per 60-seconds of clock 
+time on September 16th 1792. If the eclipse is exact at 24°08' J, then after 4hr24min, the 
+moon would be 2°19’34” further or 26°27’34” J. This location is 120° or trine Ì to the 
+Natal Sun if you use the above rectified date of 5/16/1792 10:35 PM. This symbolically 
+makes logical sense. So it looks like the lights went out when the progressed moon hit the 
+eclipse and they came back on when the progressed moon Â was trine Ì to the natal 
+sun ☼. You might find it interesting to note that there was a lunar eclipse on September 
+30th, 1792, which is 137 days from May 16th, 1792. If you add 137 days as years, you get 
+1929 and we all know what happened to the stock market in that year. This article was 
+just for fun. I hope that you enjoy it because it’s probably my last. 
+ 
+Sincerely,  
+ 
+Daniel Ferrera 

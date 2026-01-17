@@ -1,0 +1,688 @@
+	
+
+	
+
+
+
+
+
+	
+
+
+
+	
+
+
+
+
+
+ !
+
+"#$
+%
+&'(
+"
+!	$)*	+,
+&
+%-.
+%
+/-
+/
++)	
+
+0
+1+, 2	
+
+"
+
+03-.	4
+
+&"
+
+
+!	$(
+
+
+
+4	$.567
+&
+
+"
+"
+
+&(!	.!()*	
+&1
+
++
+/
+
+%--		
+
+	
+"0"
+7 
+r 
+Introduction 
+L 
+For the past several years many people who have read my two previous books, 
+Geometry of the Stock Market: A Guide to Professional Trading for a Living and Chart 
+Reading for Professional Traders, have written urging me to either write a course of 
+instructions, or to put on more seminars to teach my methods of trading and stock market 
+forecasting. This course of instruction is written to hlfill that need. By the time you finish 
+reading this material, I expect you to have learned how to determine the true trend of any 
+market, stock, or commodity on any world market, to forecast approximately how long a 
+trend will persist and what the ultimate price targets are, and also to be able to successfUlly 
+day trade the market. In short, this is a course of instruction on how to professionally take 
+money out of the market and make a living doing so. 
+What this course is not designed to do is to teach you the basics of what a stock is, 
+or how to open a brokerage account, or any other such rudimentary, basic endeavors. 
+There are books available in any library on those subjects. This material is for the person 
+who wishes to make a career of professionally trading the market, and has put in sufficient 
+time and effort to begin serious study. 
+My perspective in this material is that of a technician and not a fundamentalist. 
+Technical analysis is the study of the market with the underlying assumption that every- 
+thing there is to know about the market or a stock is already reflected in the price and 
+volume of the individual stock. No matter what the fundamentals are, or how they are 
+changing, it takes buying and selling to move stock prices and without that, no investment 
+will make money. Even if a company has a hidden gold mine on its property, the stock 
+won't go up until the insiders secretly start buying. The price action will inform the astute 
+technician that a purchase is suitable, and the hdamentalist will often not get wind of the 
+real news for months, or until the stock has had a tremendous rise. 
+This course, and my whole trading experience, has been developed around the 
+principles of technical analysis, which forecasts price trends and probabilities so that you 
+can anticipate the big moves long before the fundamentals really develop. Of course, in- 
+vesting this way doesn't exclude using bdamental research, but 1 only use it after the fact 
+to better understand the true dynamics of the move. The price itself is the only real truth. 
+If it goes up I want to buy; if it goes down I want to sell. 
+The art of speculation has often been likened to gambling, but there is a major 
+difference between the two. In gambling, the house sets the rules and those rules favor the 
+house. In sptbculation, like trading stocks, you set the rules. You decide when to buy or 
+sell, how much to buy or sell, how much leverage to use and what your stop out point will 
+be. You also have technical tools at your disposal, which will be covered in this course, 
+and which can increase the odds of your being right in the trade by as much as 80 - 90%. 
+This applies to both directions of the move and also the extent of the move. Speculation, 
+then, is clearly different from gambling. Unlike gambling, speculation can be a profitable 
+profession, and as with any business, you can professionally trade to make a living. 
+Fundamentalists are those who invest by looking at the economic facts and profit 
+and Ioss statements of investment issues. Ninety percent of all the players in the market are 
+hdamentalists - bank trust departments, mutual funds, pensions funds, and wealthy indi- 
+viduals. Wall Street caters exclusively to this crowd because of the huge commissions 
+involved and as a result technical analysis is often derided as not being worthwhile. "Mar- 
+ket Timers" are frequently criticized, but in fact, the bdamentalists simply don't know 
+how to forecast the market and would rather say it's impossible to do than give business 
+away. There are many wealthy individual investors who have had books written about 
+their successes in the market, and they frequently say that they bought a good stock and 
+held on without market timing. While this is true, these books do not mention the millions 
+of investors who bought and held onto the wrong stock and broke even, lost money, or 
+were wiped out. In short, it sounds good to see that Coca-Cola always went up, but I can 
+show you chart books from 10 - 20 years ago where 10% of the big winners have disap- 
+peared and are simply no longer mentioned. In 1966 the big name stocks were General 
+Motors and AT&T. If you held onto these names you did not regain 1966 levels until the 
+mid 1980's. You would have been much better off selling and going to the bank or buying 
+something else. For me, the long term buy and hold idea only works if your stock is 
+perpetually going up. It makes no sense to hold onto an asset that is in a long-term downtrend, 
+no matter how good the name is. This course will inform you, with 100% certainty, what 
+the trend is and what you should do. Whether you are disciplined enough to do what the 
+charts tell you to is another matter. Some long-term investors made out very well because 
+they held on through thick and thin, while some traders jumped out and were afraid to 
+jump back in even though the trend was up. In theory, the trader who follows the rules or 
+uses a mechanical system will always do better than the fundamental buy and hold inves- 
+tor. 
+I'm constantly asked the question as to whether someone can master day trading 
+and make a business out of it. I always answer in two ways. First, I can teach you how. 
+That's simple. The information for determining the trend and forecasting is readily avail- 
+able and not terribly difficult to learn. Second, I always say that trading is like dieting. 
+Information on diets is plentiful and is a billion dollar business. But how many people go 
+on a diet and keep the weight off! If you are disciplined enough to maintain a diet then you 
+fl 
+can easily become a successful stock trader. 
+In the final analysis there are four main driving factors in the human condition. 
+These are Money, Sex, Power, Religion, and perhaps a fifth, Art. These are what motivate 
+people. To some extent all of these motivators can be found in the U. S. Congress, but in 
+the area of money, the brightest minds in the world are either on Wall Street or Las Vegas. 
+Note however, that all these bright-minded individuals aren't all rich. Wall Street routinely 
+pays millions of dollars a year in salaries to individuals, but most of that is for sales, not 
+trading skills. You see the market is heled by the emotions of greed and fear. People who 
+are attracted to the market are attracted out of an emotional base of greed, and they use 
+their rational mind to justifL what they do. Since it's an emotional basis, however, they will 
+always respond in an emotional way at precisely the wrong time and therefore lose money. 
+This is why trading is like dieting. The principles in this course have been developed to 
+strengthen your rational mind and teach you to control your emotions. You will be taught 
+how to wait at emotional times to counter-trade the market against the emotional public 
+and how to know when the trend is reversing, even though it looks emotionally scary. 
+Technical analysis tools are objective measures that tell us without emotional involvement 
+just what is to be expected. It has nothing to do with reading the newspaper or watching 
+TV, thinking that news will make our stock go up or down. Perhaps for one day it might, 
+but most of the time it's just random noise. In the cycle business we say "the news breaks 
+with the cycle," which means it is the cycle that causes the news and not the other way 
+around. This is simple enough to prove by just looking at the three or four big cycles that 
+repeat all the time. These are 10 years, 20 years, 60 years and 100 years. The Kennedy- 
+Lincoln 100-year cycle is well known, as is the decennial pattern. The 60-year cycle how- 
+ever, is critical. When the days of the week were named for the seven visible planets, 
+astronomers discovered that they returned to these positions each 60 years. For example, 
+today we are replaying the late 1930's as to currencies, dictators, threats of world war and 
+the rise of conservative governments and dictators (in a sense Churchill and Roosevelt 
+were dictators relatively speaking). I'll discuss cycles more in detail in the following chap- 
+ters, but for now bear in mind that if cyclic influences exist, and the evidence is over- 
+whelming th~1.t they do, then fundamental cycles will return and will be reflected in the 
+prices. Technical analysis of historical patterns will be of great value to the professional 
+trader. 
+. 
+. 
+Who Was F% D. Gann? 
+Much of my perspective in this material comes from the great master W. D. Gann, 
+who died in the mid 1 9 5 0 ' ~ ~  
+but continues to be a major influence in forecasting and trad- 
+ing. Perhaps no one before or since has been able to forecast as accurately or trade as well. 
+While there are many Gann courses around, most are incomplete, as Gann wrote only a 
+few that were not deliberately encrypted. Gann was a Mason and studied numerology, the 
+planets, the Bible and other esoterica, and believed that the student must put in the time 
+and effort to prove himself worthy before he could obtain the key. His thinking was simi- 
+lar to the Pythagorean school, which made new initiates prove themselves by taking a 
+vow of absolute silence, for a period of three years. In the Gann material there are deliber- 
+ate smoke screens set up to distract the casual reader, but after years of study the more 
+advanced student will find esoteric and astrological truths hidden in his papers. I teach 
+some of his methods in this course but most are too advanced for the general public. Gann 
+basically used angles, numbers and astrology to forecast and he developed dozens of 
+number squares that were used for trading individual stocks and commodities. The Square 
+of Nine is the most famous, and is used by as much as 20% of the pit in Chicago every day, 
+so Gann still does exert a great influence. Most computer programs now routinely include 
+Gann angles and cardma1 cross numbers for the Square of Nine. I will mention these in the 
+following chapters. You should at some point study Gann independently from my works, 
+but be advised that most of the available courses and books in print tell only half the story. 
+I have been privileged to have spent nearly thirty years working in the market, with over 
+twenty years studying Gann, and I have come to know well perhaps a dozen of the world's 
+finest practitioner's of Gann's methods. I mention this only to warn you about the charla- 
+tans in the Gann business these days (and it is a real business!). The truth is subtler and is 
+not yet in print to my knowledge, although several recent books point in the right direc- 
+tion. My advice is to first master the basic principles of angles, cycles, numerology, chart- 
+ing, and then spend a good ten years on basic astrology. Then you can attempt some of the 
+Gann Bible interpretations as they relate to stock trading. Conversion of planetary longi- 
+tudes into stock prices, and Biblical stories and age longevities converted into longitudes 
+on the globe for commodity conditions are part of the key. There is much more, but none 
+of that is needed to trade effectively and to make a living doing so. It's more of a spiritual 
+discipline for later life. Suffice it to say Gann was an eccentric genius that went to the 
+grave with his secrets, but his writings offer clues as to how precise forecasting can actu- 
+ally be. Much of my perspective in this work is the same as Gann's and I will try to explain 
+it as we go along. One final interesting note is perhaps in order. Gann became famous in 
+the 1920's and 1930's when he accurately forecasted the 1929 top almost to the day and 
+the ensuing Great Depression. Looking back with what we know about his methods utiliz- 
+ing astrology, numbers and cycles, it's easy to replicate that forecast, but Gann said he did 
+it by another means. He said he read about it in the Bible. He often remarked that the Bible 
+was the greatest book ever written and he read it over and over again and urged others to 
+do the same. Perhaps this was his religion speaking, but a recent N. Y. Time's bestseller 
+The Bible Code perhaps provides an answer that shows Gann's true genius. The Bible 
+Code is based on a fanatic and ingenious idea that God encrypted all knowledge and 
+hture events in the Bibl'e. The original Hebrew version of the Old Testament that has been 
+hand copied down through the ages, with not one letter altered, has been tested in a high- 
+speed, super computer, with regards to trying to identify letter sequences that might spell 
+out words or sentences. Every letter in the Bible was strung out in a long sequence of 
+hundreds of thousands of letters and then the computer compared every 2nd. every 3rd, 
+every 4h, every 5th, etc. letter combination until it found crossword puzzle-like sequences 
+of phrases and names. Now, any big book will sooner or later come up with random 
+sequences of famous names like J. F. Kennedy or the like. However, significant, non- 
+random sequences would prove that the Bible contains an encrypted code with an infinite 
+amount of data, if these sequences were laid out in multi-directions and different dimen- 
+sions. Indeed, the Bible, when comparing every nth letter, is large enough to include the 
+names and relevant events of every person on the earth today. To crack the Bible code, 
+huge military computers were used because of the enormity of the task. It was found that 
+when 100 names and birthplaces of famous religious figures that were born after the Bible 
+was written, were entered into the computer, all 100 came out in sequences that made 
+complete reading sense as to their names and places of birth. Other names like Einstein 
+being "brainy'' or the Kennedy assassination and the names of Ruby and Oswald were also 
+discovered. The purpose of this paragraph, however, concerns the computer discovery of 
+a phrase similar to " 1929 stock market crash and Great Depression." That's a paraphrase 
+since I read the book briefly, long ago, but it stuck in my mind because of some study I was 
+doing on Gann at the time. The essence of the Bible Code book is that it is only now, in the 
+current generation, with high-speed, super computers that we can "crack" this Bible code 
+and find the key to the coming purported, final millennium conflagration before it's too 
+late. This was not available in prior ages since the technology wasn't developed. Only by 
+having preserved the original Bible for four thousand years has this project been possible. 
+Anyway, getting back to Gann, he didn't have access to a high-speed computer, but he 
+was a master numerologist and Mason. He also said he liked Isaiah the most of all the 
+Bible chapters and religious scholars have told me that Isaiah is a miniature Bible in and of 
+itself, mirroring each chapter in the Bible in its structure. My guess is that Gann found a 
+master key in Isaiah that allowed him to interpret portions of text and come up with many 
+of his prophetic forecasts. Perhaps a little Bible study could help us all. 
+Basics 
+Trading, as opposed to investing, consists of buying and selling the same stock 
+many times in an effort to capture more price fluctuations than just holding on for the long 
+term. Many stocks appreciate 20 to 50% or more each year, but these same stocks can 
+often swing through these ranges several times over the year. Just catching one or two 
+complete swings will usually double the return of the trader over the simple buy and hold 
+investor. Technical analysis tools like charts and trendlines combined with timing methods 
+are what allow us to exploit these daily and weekly fluctuations to our advantage. But 
+before we start using charts to examine price action, let's review the typical investment 
+cycle and discover the players that make the market move. 
+The big money in the market comes fiom institutional investors like pension hnds 
+and mutual funds, or bank trust departments. Some wealthy individuals affect some stock 
+prices, but it usually takes the 10-million share institutional buyers to make stocks move. 
+Without institutional support most stocks languish in long-term flats with little significant 
+price movement. In the past, economic cycle swings in the economy greatly affected com- 
+panies' earnings and the price of these issues was quite volatile. Over the past ten to 
+fifteen years however, the massive amounts of money going into institutional coffers has 
+created an environment where there are consistent buyers almost every day, regardless of 
+fundamentals. Price earnings ratios have climbed from 12 - 14 times to over 30 times. 
+Some "go-go" stocks have P. E. ratios of 70 or more. This is more a sign of popularity and 
+anticipated growth than actual economic prowess. Just before the Japanese bubble im- 
+ploded in 1990, typical stocks had P. E. ratios of 70 or as much as 125! Even today with 
+that market still down 50% for the past eight years, the P. E.'s remain near 30 times. In 
+these times of somewhat irrational fundamental valuations, techcal analysis of price 
+movement is even more important than ever before. One day these P. E.'s will start to 
+shrink for years and years and people will buy into such declines believing that they are 
+bargains. Only an objective analysis of the price action at that time will save investors and 
+traders. Because the money flows into the large institutions have been so big, the mutual 
+hnds industry has grown from some 700 funds in 1980 to over 8,000 at present. Keeping 
+in mind that the entire N.Y.S.E. has only 3,000 listed issues you can see the effect on stock 
+prices of the growth of these investing behemoths. Their strategy has simply been to buy 
+and keep buying the fastest growing companies and never sell. Because they have per- 
+petual cash hflows, they have bought dips each year as the market had corrections, and as 
+a result always showed performance figures twice that of the general market appreciation 
+during the year. If the Dow Jones went up 10% during the year, but had three dips of 5% 
+along the way, and they added on every dip, their average cost would be such that if the 
+market closed at the high of the year (and it always did) their return would usually be 20- 
+30% or more. This is not due to any great investment philosophy or method, but simply 
+the fact that if a market goes straight up and closes at the high each year and you add 
+money, you will out-perform that average. The shock will be great the first year that the 
+market closes at the low and the funds have added all year long. 
+Another "strategy" the funds have used is the diversified portfolio idea of buying 
+at least 200 individual issues that were growing at great rates and to just keep buying. That 
+way no one issue would account for more than % of a percent of the portfolio and even if 
+that stock went to zero, the hit to the fund would only be %%. The result of this strategy is 
+that when earning expectations disappoint, there is the wholesale dumping of entire in- 
+vestment positions of millions of shares and individual issues can and do drop 50% or 
+more in a single day! This is insanity from an investment point of view, since no earnings 
+fluctuation should have that kind of effect, but nevertheless that is the current strategy and 
+one must adapt a trading plan around such outcomes, like avoiding stocks about to release 
+earnings, or "piling on" once the break starts. 
+Institutional investors sell in an eye blink on bad news, but they often buy quietly at 
+limit prices over very great periods of time. To accumulate a 1 O-million share position or 
+more in a stock that trades 300,000 shares a day might take six months. The rule of thumb 
+has been that for every institutional order on the floor, that order will generate 3 times that 
+volume by others ''front running" the order and trymg to jump in first. This is illegal, but it 
+is a fact of life, and most day traders make much of their income by jumping in front of big 
+orders and making the institution pay up. The beauty of charts, however, is that these big 
+orders show up in chart patterns as higher bottom patterns, where a level is held for 
+several days and the volume increases, and then the stock moves up to another level slightly 
+higher. The fund will often wait there for a few weeks and then if not satisfied will move 
+up yet again. This is a sign of accumulation and is a sure sign of higher prices. As long as 
+the price is creeping higher week after week, and each correction only goes back to a 
+prior support level without breaking, then this indicates the big money is not finished 
+buying and is still there to catch the stock. A good strategy for day traders is to identify 
+such long-term uptrending patterns and buy into dips back to those known support levels. 
+This can only be done through the use of a chart or log of stock prices over time, to record 
+the various levels of price and volume transactions. 
+A declining phase will show a similar pattern only in reverse. The funds will start 
+selling a few thousand shares every day using a limit order, and after a few hours to days 
+of not being able to sell, they lower the price to another slightly lower limit for a few days. 
+These walk down stair steps show downtrends and are used to sell short and only cover if 
+the stock regains a prior high. Individual institutional positions can usually affect a stock's 
+price for months at a time. At the end of an economic cycle, as the economy turns down 
+into a recession, numerous institutions need money as investors pull out, and the massive 
+liquidations create a bear market that can last for two to five years at a time. Individual 
+stocks often go down for five years and can fi-equently stay out of favor for ten years 
+before coming back. Only charts will help you decide at what point in the cycle a given 
+stock finds itself and whether it should be bought or sold. So we begin our course in 
+trading stocks with the study of price patterns, as seen on charts, in order to quickly 
+identify trends to decide whether the stock in question should be bought or sold. 
+Charts 
+i 
+Chapter 1 
+There are many types of charts that traders have used over the years, such as line 
+charts which connect the dots of hourly or daily closes, bar charts which show a vertical 
+line to represent the open, high, low, and close for each time period, andpoint andjigure 
+charts, which only record reversals in trends, such as every $3 movement in a direction. 
+These point and figure charts are very good at showing long term swings and trend but 
+they do not have a time element, so they can often show potential, but it may lie dormant 
+for months or years. Japanese candlesticks are more visual and attempt to show reversals 
+and volume by visually changing the size and shape of the daily bar. Thicker bars can 
+show more volume, reversal bars have "tails" pointing in up or down directions, and col- 
+ored bars (black or white) show the current trend compared with the prior bar. These 
+visual bars are probably the best ones to use, but require much study and most chart 
+services in this country don't always support them. Logarithmic bar charts show percent- 
+age moves on the vertical price scale, while the standard bar chart shows unadjusted time 
+and price scales. Each of the various chart styles have something to say and can be used, 
+but to start in a simple manner and demonstrate the beauty of price and volume patterns, 
+we will start with the standard bar chart in this course. Later you may want to switch to 
+other charts, but the principles will always remain the same no matter what chart we use. 
+Basically, we just need a price history that easily shows us whether or not the price is 
+going up, and enables us to overlay some trendlines and time cycle counts. 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET TRADING 
+AND FORECASTING 
+COURSE 
+12 
+r 
+Charts 
+Chart #1 is a typical bar chart on a daily basis (one bar for each day) for an indi- 
+vidual stock. The price is shown on the vertical scale and along the bottom are bars repre- 
+senting volume for each day and the time axis in days. We clearly see that this is an 
+uptrend, with few breaks to the downside that lasted more than a couple of days. Volume 
+has been relatively consistent and low, so that nothing appears to be happening here to 
+change the present forces in play. If we were bullish on the outlook for the market we 
+would make up a list of such issues and buy them on pullbacks to past support levels. 
+Chart I 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET TRADING 
+AND FORECASTIKG 
+COURSE 
+13 
+Charts 
+Chart 2 
+Chart #2 is a daily chart of the S&P 500 Index showing a downtrend into the 
+October '98 low and an uptrend coming out. If you were to draw parallel channels around 
+the highs and lows you could clearly see the directions of the trends. The width of the 
+daily bars is usually fairly constant, or when it's not, it usually is a multiple of the average 
+move, so if the normal day's movement is 10 to 15 points, a big day would be twice that, 
+or three times that amount. Later we'll learn about "measured moves," which are standard 
+fluctuations that most patterns exhibit and are very useful for forecasting price targets. 
+On the following page, Chart #3 of the Dow Jones shows individual bars of about 
+the same magnitude, but also note that the highs and lows of each day don't greatly ex- 
+ceed the highs and lows of surrounding days except during times of "runaway" momen- 
+turn moves. Most bars overlap the prior day's high or low by slight amounts and then fall 
+back into the trading range. The most common error in all of trading comes from the 
+tendency to buy or sell the "breakouts" thinking a big move is underway only to see it fail 
+and later fall back into the middle ofthe range. Many day trading mechanical systems use 
+this idea to scalp trades going against the move in the first 30 minutes of each day if 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET TRADING 
+AND FORECASTING 
+COURSE 
+14 
+Charts 
+Chart 3 
+there's a small overlap without much momentum. The ideal buying strategy is to wait to 
+buy at a pullback point near the prior day's low, plus or minus a small percent and buy with 
+a stop. Ninety percent of the time if you are disciplined enough to do this you will have a 
+very good trade going for the next day. The emotional difficulty here is that usually the 
+market opens up overlapping the prior day's high slightly and gradually trades down to 
+the low of the day, which is the perfect buy point, but traders are so emotionally afiaid that 
+the trend is reversing, that they won't make the trade at the end of the day and cany it 
+overnight. When that happens the buyer of last resort is of course the specialist, and he 
+buys cheap stock and marks it up the next morning. Sometimes the best trades are ones we 
+put in to buy with stop orders, or limit orders at a set price determined the night before, in 
+the calmness of looking over the charts at the end of the trading day. If the charts truly 
+don't lie, then those objective decisions made with careful calculations and protective 
+stops, are the best ones and our emotions shouldn't override those decisions. Here again 
+it's like deting. If you're afiaid to trade because you might lose money, you're trading 
+MICHAEL 
+S. JENKIXS 
+COMPLETE 
+STOCK UKET 
+TRADING 
+AND FORECASTING 
+COURSE 
+15 
+Charts 
+with the emotion of fear and similarly you probably only buy out of greed to make money. 
+'rh~s is not the way to beat an emotionally dnven creature llke the stock market. We must 
+buy when we feel we must sell, and vice versa. We just can't be stupid and buy into a panic 
+fiee fill or avalanche of sell orders on a bad earnings report. Interpreting the b& chart can 
+help us detennine the trend and the support and resistance levels we should trade near. 
+Let's start with the simple trend. The trend is up if the low of the daily bar on our 
+chart makes a higher bottom than the previous low on the preceding bar. This trend can 
+extend for long periods of time depending on how it is defined on a longer-term chart. For 
+instance, an hourly bar that's higher than a prior hour is up for that hour, but says nothing 
+about the day or week's trend. Whereas a weekly bar on a chart composed of 5 days 
+activity compressed into a single bar, will show trends lasting a week to three weeks at a 
+minimum. When a market reverses it is similar to a series of Chinese nested boxes that fit 
+one within the other. In other words, a turn on a 15-minute chart as it extends, usually turns 
+the hourly chart, and after a few hours the hourly chart turns the daily chart and finally, 
+after a few days the daily chart can turn the weekly chart. Big moves come when all these 
+time frames cluster tightly together and all turn simultaneously. Often this is just after a 
+very narrow flat with little price movement. 
+Chart 4 
+Opening Level 
+Closing Level 
+lVZRd,,, , I 
+Five Time Periods 
+With A Rising Trend I 
+Traders love to jump aboard a flat breakout, since a big move comes very fast. 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET TRADING 
+AND FORECASTING 
+COURSE 
+16 
+Charts 
+Chart 5 
+Trends usually persist or else they wouldn't be of help in trading. The persistence 
+of trend is usually at least three bars at a minimum. This is the rule of three, or three-day 
+rule, or three-week trend, or three-month trend. If the trend lasts more than three consecu- 
+tive bars then it will usually go a Fibonacci number of bars such as 3,5,8, 13,2 1,34,55 
+etc. The Fibonacci ratio 1.61 8 is achieved by an additive series of adding each number to 
+its neighbor to get the next and is found in all aspects of nature. Here we have 1 plus 1 to 
+get 2,2 plus 1 to get 3,3 plus 2 to get 5,5 plus 3 to get 8, etc. On hourly charts a five-hour 
+advance is usually a sign of an uptrend, and we then look at 8 hours, 13 hours and 2 1 hours 
+for reversal points. 
+The bar chart exhples, charts #4 and #5, show simple trends and we need to 
+know more about the volume traded each day and some long-term perspective, but before 
+we can do that, we need to examine reversals in trend and define just what that is. Since 
+trends manifest to greater or lesser degrees, such as hourly, b l y ,  weekly, and monthly, we 
+will often get reversals of a minor nature that will not change the main trend. In the final 
+analysis, this confusion ofwhich trend is the dominant one is the key that separates good 
+traders from :veryone else. For instance, over the past decade each time the Dow Jones 
+Averages dropped a few hundred points, it looked like the long-term trend had turned 
+down. Certainly the hourly, daily and even weekly bar charts showed lower bottoms and 
+Charts 
+lower tops, but the yearly chart never broke a low from the prior bar (year) and neither did 
+the quarterly chart (3 months to a bar). In most cases the monthly bar chart only broke the 
+low of one bar and not three months, to show a persistent trend that would define a long- 
+term decline. For traders, the trade turned bearish with the hourly chart breakdown and 
+the daily chart breakdown, but when the bottom was made the hourly chart and daily 
+turned up before the monthly turned down again. Long term investors like mutual funds 
+never sold since the breaks were so short lived, but it was scary to hold positions through 
+200 to 500 point Dow Jones drops if you didn't really know what the trend was. At the 
+end of this lesson you will know. 
+The uptrend is defined as a bar chart that makes higher bottoms, or the lows on 
+each bar are higher than the prior bar's low price. Note that this definition says nothing 
+about the highs on the bars. Uptrends are caused by accumulation when big institutions 
+buy at the bid side of the market on limit orders and don't chase prices. As long as the bid 
+side holds and goes up it shows unsatisfied buyers in competition with each other, so they 
+keep raising prices to higher levels thus creating the higher bottoms pattern. Day traders 
+and the inexperienced public often chase stocks up on good news, creating the high tick on 
+the daily bar chart and are forced out at a loss as soon as the price drifts down. Usually the 
+low they sell out at is slightly higher than the last low, and the perfect place to buy, not sell. 
+This points out the emotionalism of the market. When people buy out of greed, they chase 
+stocks and buy high to later sell low. We want to buy low to sell high. That's impossible if 
+you buy when everyone else is doing so and the stock looks good. We want to make note 
+of the prior day's low, or better yet the prior week's low, and be prepared to buy at that 
+point with a trailing sell stop if we're wrong. To summarize again, the rising trend shows 
+a series of higher bottoms on bars on each of the various time periods trade. 
+The downtrend needs two criteria to validate the trend. It needs a series of lower 
+Charts 
+lows or bottoms, and a series of lower tops or highs. Each low should be lower than the 
+prior low and each high should also be lower than the preceding high. Note that this is a 
+pattern. The most important idea in all of the discussion about trend is that trends are 
+defined bypatterns. In uptrends it's simply higher bottoms. In downtrends it's both lower 
+highs and lower lows. 
+Keep in mind the process of selling or liquidation. Investors are in competition with 
+each other to sell out because of bad news, or need for funds, and if the volume doesn't 
+support the selling they must lower their prices to get out. The only buyers are usually 
+bargain hunters, who only show up at new lows for a scalp, or the buyers are shorts that 
+are covering at a profit. This creates the pattern of lower lows and lower tops, as people 
+continuously lower their expectations. Basic Uptrend: 
+Chart 6 
+Trend is up in Chart #6. Bottoms are all higher or at the same level. 
+Charts 
+Small breakdown in October during crash, but lows are quickly regained which is a classic 
+sign of another buy signal. 
+Chart 7 
+Trend is down in Chart #7. There is a series of lower tops and lower bottoms. Only 
+one small exception of 1o"wer tops in entire move and that is quickly erased. Also note that 
+this is an identical time period to previous chart, demonstrating two very different invest- 
+ments. 
+Charts #6 and #7 are two examples of trend and clearly demonstrate the impor- 
+tance of trading each stock individually and not as part of a general market theme. Usually 
+stocks will follow the main trend of the market averages, but there are many exceptions, 
+and if you just held onto this declining example you could have lost a lot of money waiting 
+for it to turn around. Trends persist, and I have seen past leaders turn sickly and go continu- 
+ously down for three to five years before attempting a comeback. You must therefore be 
+objective and trade the patterns and not use guesses. 
+MICF~AEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET 
+TRADING 
+AND FORECASTING 
+COURSE 
+20 
+Reversal of Trend 
+Chapter 2 
+We know that an uptrend is a series ofhigher bottoms and a downtrend is a series 
+of both lower tops and lower bottoms, but what indicates a reversal? In its simplest form 
+a reversal on a bar chart occurs when the extreme bar is identified as being the prior bar 
+and the opposite extreme of that bar is exceeded on the next bar. In other words, in an 
+uptrend you find the high day bar where the high was the highest price for the move and 
+you note the low of that bar, not the high. Most technicians will tell you to watch the high, 
+but that's not what happens in real time. At the high, the reversal is made when exhaustion 
+sets in, and since the big buyers are always on the bid side ofthe market, the penetration of 
+the low is the sign that the buyers are gone. Sometimes the penetration of that high bar 
+low won't occur for several days and the price will be in a narrow range, neither taking out 
+the high nor the low, but once the low is taken out, the sell signal is given. 
+The reversal of a downtrend occurs the same way. You identiQ the low bar of the 
+move and note the high of that bar. When that high is subsequently exceeded, the trend 
+turns up and you can go long with a stop at the low of the move, which would negate the 
+buy signal if it went back down to that low. Again, keep in mind that the sellers use 
+Reversal of Trend 
+REVERSAL BAR SIGNAL 
+PATTERN 
+Chart 8 
+Buy Signal 
+w fhigh bar 
+Sell signal 
+this point 
+generated at this 
+High of low bar 
+point 
+limits and are working the offer side of the bar, so that when that is exceeded the sellers 
+are gone, at least for the time being. Chart #8 illustrates examples of both signals. 
+These are simple buy and sell reversals and if taken indiscriminately will lead to 
+swift and sure bankruptcy. Good judgment can determine how long a trend has been in 
+effect and whether a normal measured move in some direction has occurred, which usu- 
+ally ends the move. Trendlines breaking, combined with time cycle counts coming to an 
+end, are usually helpful. High volume is usually indicative of reversals and price reversal 
+momentum is also often a key. In big moves like the endings of bull markets, the first few 
+weeks can often reverse the entire gains of the past year or two. But no matter what 
+happens, the first sign will be a reversal of an individual bar and that should be noted for 
+reversals on all next larger size time scales, like hourly turning to daily, weekly, etc. Charts 
+#9 and #10 show two examples of several simple buylsell signals. Not all of them are 
+shown, but as you can see, the ones that came at the end of extended moves were good for 
+several points at a minimurn and often went weeks before reversing out. 
+I've used the term "measured move" before and we'll see examples of it later on, 
+but the concept is basically that over a given time period like six months to three years, the 
+players in the market are the same. Over long time periods their composition may vary, 
+but for the intermediate term they exhibit the same buy and sell habits and their reactions 
+to extremes don't change very much. If we examine ;1 rhart over a few month to a couple 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+MARKET TRADING 
+AND FORECASTING 
+COURSE 
+Reversal of Trend 
+of years and note the extremes, we will notice that each stock or commodity has an ex- 
+treme hullish and an extreme hearish phase These can he "measiired" with a nller com- 
+pass, or even our fmgers on the chart. The idea is simply that once a trading move has 
+reached this usual extreme, a reversal in trend is expected. Looking for reversal bars can 
+be beneficial if they fall at one of these normal extremes or "measured moves." 
+SIMPLE 
+BUY AND SELL SIGNALS 
+Chart 9 
+Chart I 0  
+Reversal of Trend 
+Tests of prior buy or sell reversal bars usually come at the point the original signal 
+was gerlcr.aieu. 
+Chart I 1  
+Chart 12 
+An adjunct to the simple buy/sell reversal bar idea is that once the signal has been 
+generated and you later get a counter-trend movement back to where the signal was given, 
+that movement will usually fail exactly at the 
+Reversal of Trend 
+point of the original signal. Ninety-nine percent of all other books on technical analysis 
+erroneously tell you to expect a test of the high or low and that's what all traders watch 
+for. It hardly ever happens, however, as indicated in Charts #11 and #12. The move will 
+stop before the extreme, at the place where the buy or sell signal was given. In a long-term 
+trend this is one way to validate that the long-term trend is still operative. For example, if 
+you get a buy signal and six weeks later on a correction you go back down to the "test" 
+area and then generate another buy signal, the second signal confirms the first as being 
+long term valid. It's quite possible to see a string of such signals stretched over a 
+year just pulling back to prior signals and confirming their initial ruling. 
+MICHAEL 
+S. JEIKINS 
+COMPLETE 
+STOCK 
+~ R K E T  
+TRADIKG 
+AND FORECASTING 
+COURSE 
+r 
+Volume 
+Chapter 3 
+No basic discussion of chart patterns is complete without examining volume pat- 
+terns. Unfortunately, little is written about volume, though it is one of the most important 
+considerations to the trader. No significant move can ever take place without some heavy 
+volume being done, but in the middle of most moves, volume dries up. It is imperative 
+therefore, that in examining charts that you notice where the very heavy early accumula- 
+tion took place. Big volume starts as the move is just beginning, because the big institu- 
+tions take large positions and it may last several months to a year or more before it sub- 
+sides. After that the stock may rise another year or two before seeing big volume again, 
+this time on the sell side, as they start to get out. In general, it is said that volume is 
+positively correlated, or &at the heavy volume goes with the direction of the primary 
+move and especially in the bull move, the volume goes up as the stock goes up. This is the 
+only time that volume is really bullish - when the move is just getting started. Most of the 
+time volume is negative, in that when it shows up, buying and selling are matched and a 
+top is made. A decline then usually results until the volume dries up to the lowest reading 
+of the move and then when it increases, the buyers are back and the advance starts again. 
+Some technicians use a simple general market sell signal tied to three day or five day 
+moving averages of the volume. After a high volume reading, as soon as the moving 
+average turns down, the market tops out. 
+MICHAEL 
+S. JENKINS 
+COMPLETE 
+STOCK 
+M . ~ K E T  
+TRADISG 
+AND FORECASTING 
+COURSE 
+26 
+Volume 
+You must pay attention to the pattern of volume over a several week period. During 
+dla~ 
+p~iiu; y uu >&;i; 
+ILOLC Lc; 
+llul~llal 
+bp;jh~b uf v U;UIIAL illa~ 
+~ L C :  ~ ~ h u d i i y  
+IrUuiC: 
+~ t i i i l l  
+d tidy 
+or two of all the swing highs and lows. If an advance has been underway for three weeks, 
+and then the biggest volurne of the month is recorded, it is a certain sign of a coming 
+correction. Likewise, when you are day trading and buying into a three-day dip, you are 
+likely to see increasing volume with little price movement. That usually means the seller is 
+getting "cleaned up" and the stock is about to reverse. I learned this fiom an old profes- 
+sional, who pointed out a stock that was doing about 6 million shares that day when the 
+average volume was 1.2 million. I was bearish and the stock was down 50 cents on the day 
+on that heavy volume, but he correctly inquired of me why it wasn't down a lot more if the 
+volume was really selling and not scale buying. Of course he was right and the stock 
+reversed up on the close and quickly ran about $10 over the next three days. I now make 
+it a point to match my predicted lows and highs with exceptional volume. Cycles also 
+bring in the volume and in the general market you 
+Chart 13 
+Volume 
+Chart I4 
+Chart 15 
